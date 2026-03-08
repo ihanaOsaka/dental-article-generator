@@ -76,9 +76,22 @@ article:
     reading_level: "general"    # 一般向け
     honorific: "です・ます調"
 
+# 一般公開版設定
+public_article:
+  enabled: true  # false にすると一般公開版の生成をスキップ
+  output_directory: "output/articles_public"
+  # 公開版のLLM設定（専門版より長い出力を許容）
+  llm:
+    max_tokens: 8192
+  # 公開版の記事構成
+  structure:
+    min_words: 3000
+    max_words: 6000
+
 # 出力設定
 output:
   format: "markdown"  # markdown / html / wordpress
   directory: "output/articles"
+  public_directory: "output/articles_public"
   include_references: true
   include_evidence_level: true

@@ -8,6 +8,8 @@ import anthropic
 from ..evidence.models import EvidenceCollection
 from .prompts.article_prompt import (
     ARTICLE_PROMPT_TEMPLATE,
+    PUBLIC_VERSION_PROMPT_TEMPLATE,
+    PUBLIC_VERSION_SYSTEM_PROMPT,
     SYSTEM_PROMPT,
     format_evidence_for_prompt,
 )
@@ -103,6 +105,45 @@ class ArticleWriter:
         file_path.write_text(article_text, encoding="utf-8")
         logger.info(f"  Saved to: {file_path}")
         return file_path
+
+    def generate_public_version(
+        self,
+        original_article: str,
+        evidence: EvidenceCollection,
+    ) -> str:
+        """専門版記事から一般公開版を生成
+
+        Args:
+            original_article: 生成済みの専門版記事（Markdown）
+            evidence: 収集されたエビデンス
+
+        Returns:
+            一般公開版のMarkdown記事
+        """
+        sorted_evidence = evidence.sorted_by_priority()
+        evidence_text = format_evidence_for_prompt(sorted_evidence)
+        clinic_text = self._format_clinic_info()
+
+        prompt = PUBLIC_VERSION_PROMPT_TEMPLATE.format(
+            original_article=original_article,
+            evidence_section=evidence_text,
+            clinic_info=clinic_text,
+        )
+
+        logger.info("Generating public version...")
+
+        message = self.client.messages.create(
+            model=self.model,
+            max_tokens=self.max_tokens * 2,  # 公開版はボリューム増のためトークン拡大
+            temperature=self.temperature,
+            system=PUBLIC_VERSION_SYSTEM_PROMPT,
+            messages=[{"role": "user", "content": prompt}],
+        )
+
+        public_text = message.content[0].text
+        logger.info(f"  Public version generated: {len(public_text)} chars")
+
+        return public_text
 
     def _format_clinic_info(self) -> str:
         """クリニック情報をテキストに整形"""

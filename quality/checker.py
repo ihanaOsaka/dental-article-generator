@@ -69,16 +69,42 @@ class QualityChecker:
         "絶対に放置しないで",
     ]
 
-    def check(self, article_text: str, topic_id: str) -> QualityReport:
-        """記事の品質チェックを実行"""
+    def check(
+        self, article_text: str, topic_id: str, is_public: bool = False
+    ) -> QualityReport:
+        """記事の品質チェックを実行
+
+        Args:
+            article_text: チェック対象の記事テキスト
+            topic_id: トピックID
+            is_public: 一般公開版の場合True（文字数基準が異なる）
+        """
         report = QualityReport(topic_id=topic_id)
 
-        # 1. 文字数チェック
+        # 公開版かどうかの自動検出（topic_idに_publicが含まれる場合も公開版扱い）
+        if topic_id.endswith("_public"):
+            is_public = True
+
+        # 1. 文字数チェック（公開版は基準が異なる）
         report.word_count = len(article_text)
-        if report.word_count < 1000:
-            report.warnings.append(f"文字数が少ない ({report.word_count}文字、推奨1500以上)")
-        elif report.word_count > 5000:
-            report.warnings.append(f"文字数が多い ({report.word_count}文字、推奨3000以下)")
+        if is_public:
+            if report.word_count < 2000:
+                report.warnings.append(
+                    f"文字数が少ない ({report.word_count}文字、公開版推奨3000以上)"
+                )
+            elif report.word_count > 10000:
+                report.warnings.append(
+                    f"文字数が多い ({report.word_count}文字、公開版推奨6000以下)"
+                )
+        else:
+            if report.word_count < 1000:
+                report.warnings.append(
+                    f"文字数が少ない ({report.word_count}文字、推奨1500以上)"
+                )
+            elif report.word_count > 5000:
+                report.warnings.append(
+                    f"文字数が多い ({report.word_count}文字、推奨3000以下)"
+                )
 
         # 2. 参考文献チェック
         report.has_references = bool(

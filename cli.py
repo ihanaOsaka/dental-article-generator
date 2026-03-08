@@ -132,8 +132,9 @@ def evidence(ctx, topic_id, no_cache):
 @click.option("--output-dir", "-o", default="output/articles", help="出力ディレクトリ")
 @click.option("--no-cache", is_flag=True, help="エビデンスキャッシュを使わない")
 @click.option("--skip-quality", is_flag=True, help="品質チェックをスキップ")
+@click.option("--skip-public", is_flag=True, help="一般公開版の生成をスキップ")
 @click.pass_context
-def generate(ctx, topic_id, output_dir, no_cache, skip_quality):
+def generate(ctx, topic_id, output_dir, no_cache, skip_quality, skip_public):
     """指定トピックの記事を生成"""
     config = ctx.obj["config"]
     loader = TopicLoader()
@@ -194,11 +195,11 @@ def generate(ctx, topic_id, output_dir, no_cache, skip_quality):
         )
         progress.update(task, description="記事生成完了")
 
-    # 3. 保存
+    # 3. 保存（専門版）
     file_path = writer.save_article(article, topic_id, output_dir)
-    console.print(f"[green]記事保存: {file_path}[/green]")
+    console.print(f"[green]専門版保存: {file_path}[/green]")
 
-    # 4. 品質チェック
+    # 4. 品質チェック（専門版）
     if not skip_quality:
         checker = QualityChecker()
         report = checker.check(article, topic_id)
@@ -209,6 +210,36 @@ def generate(ctx, topic_id, output_dir, no_cache, skip_quality):
                 "[yellow]品質チェックに問題があります。記事を確認してください。[/yellow]"
             )
 
+    # 5. 一般公開版の生成
+    if not skip_public:
+        public_output_dir = output_dir.replace("/articles", "/articles_public")
+        if public_output_dir == output_dir:
+            public_output_dir = output_dir + "_public"
+
+        with Progress(
+            SpinnerColumn(),
+            TextColumn("[progress.description]{task.description}"),
+            console=console,
+        ) as progress:
+            task = progress.add_task("一般公開版を生成中...", total=None)
+            public_article = writer.generate_public_version(
+                original_article=article,
+                evidence=collection,
+            )
+            progress.update(task, description="一般公開版の生成完了")
+
+        public_path = writer.save_article(
+            public_article, topic_id, public_output_dir
+        )
+        console.print(f"[green]一般公開版保存: {public_path}[/green]")
+
+        # 品質チェック（公開版）
+        if not skip_quality:
+            public_report = checker.check(
+                public_article, f"{topic_id}_public"
+            )
+            console.print(f"\n[公開版] {public_report.summary()}")
+
     manager.close()
 
 
@@ -216,8 +247,9 @@ def generate(ctx, topic_id, output_dir, no_cache, skip_quality):
 @click.option("--output-dir", "-o", default="output/articles", help="出力ディレクトリ")
 @click.option("--no-cache", is_flag=True, help="エビデンスキャッシュを使わない")
 @click.option("--category", "-cat", default=None, help="カテゴリIDで絞り込み")
+@click.option("--skip-public", is_flag=True, help="一般公開版の生成をスキップ")
 @click.pass_context
-def generate_all(ctx, output_dir, no_cache, category):
+def generate_all(ctx, output_dir, no_cache, category, skip_public):
     """全トピック（またはカテゴリ内）の記事を一括生成"""
     config = ctx.obj["config"]
     loader = TopicLoader()
@@ -230,7 +262,10 @@ def generate_all(ctx, output_dir, no_cache, category):
         console.print("[red]対象トピックが見つかりません[/red]")
         sys.exit(1)
 
-    console.print(f"[bold]全 {len(all_topics)} トピックの記事を生成します[/bold]\n")
+    mode = "専門版 + 一般公開版" if not skip_public else "専門版のみ"
+    console.print(
+        f"[bold]全 {len(all_topics)} トピックの記事を生成します（{mode}）[/bold]\n"
+    )
 
     ev_config = config.get("evidence", {}).get("pubmed", {})
     manager = EvidenceManager(
@@ -252,6 +287,10 @@ def generate_all(ctx, output_dir, no_cache, category):
     checker = QualityChecker()
     results: list[tuple[str, bool]] = []
 
+    public_output_dir = output_dir.replace("/articles", "/articles_public")
+    if public_output_dir == output_dir:
+        public_output_dir = output_dir + "_public"
+
     for i, (cat, topic) in enumerate(all_topics, 1):
         console.print(f"\n[bold cyan]({i}/{len(all_topics)}) {topic['title']}[/bold cyan]")
 
@@ -262,7 +301,7 @@ def generate_all(ctx, output_dir, no_cache, category):
             collection = manager.collect_evidence(topic)
             console.print(f"  エビデンス: {len(collection.evidences)} 件")
 
-            # 記事生成
+            # 専門版 記事生成
             article = writer.generate_article(
                 topic=topic,
                 evidence=collection,
@@ -270,15 +309,39 @@ def generate_all(ctx, output_dir, no_cache, category):
                 age_range=cat.get("age_range", ""),
             )
 
-            # 保存
+            # 専門版 保存
             file_path = writer.save_article(article, topic["id"], output_dir)
-            console.print(f"  保存: {file_path}")
+            console.print(f"  専門版保存: {file_path}")
 
-            # 品質チェック
+            # 専門版 品質チェック
             report = checker.check(article, topic["id"])
             passed = report.passed
             status = "[green]PASS[/green]" if passed else "[red]FAIL[/red]"
-            console.print(f"  品質: {status} (Score: {report.score:.0f})")
+            console.print(f"  専門版品質: {status} (Score: {report.score:.0f})")
+
+            # 一般公開版の生成
+            if not skip_public:
+                public_article = writer.generate_public_version(
+                    original_article=article,
+                    evidence=collection,
+                )
+                public_path = writer.save_article(
+                    public_article, topic["id"], public_output_dir
+                )
+                console.print(f"  公開版保存: {public_path}")
+
+                public_report = checker.check(
+                    public_article, f"{topic['id']}_public"
+                )
+                pub_status = (
+                    "[green]PASS[/green]"
+                    if public_report.passed
+                    else "[red]FAIL[/red]"
+                )
+                console.print(
+                    f"  公開版品質: {pub_status} (Score: {public_report.score:.0f})"
+                )
+
             results.append((topic["id"], passed))
 
         except Exception as e:
