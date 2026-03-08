@@ -1,0 +1,84 @@
+# 歯科記事自動生成システム設定
+project:
+  name: "dental-article-generator"
+  description: "エビデンスベースの小児歯科記事自動生成ツール"
+  version: "0.1.0"
+
+# クリニック情報（CTA用）
+clinic:
+  name: ""  # クリニック名を設定してください
+  url: ""   # クリニックURLを設定してください
+  phone: "" # 電話番号
+  cta_message: "お子さまの歯について気になることがあれば、お気軽にご相談ください。"
+
+# エビデンス検索設定
+evidence:
+  pubmed:
+    base_url: "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
+    api_key: ""  # NCBI API key（任意、レート制限緩和）
+    max_results: 20
+    # 検索対象のフィルター
+    filters:
+      - "systematic review"
+      - "meta-analysis"
+      - "randomized controlled trial"
+      - "guideline"
+    date_range_years: 10  # 過去何年分を検索するか
+
+  cochrane:
+    base_url: "https://www.cochranelibrary.com"
+
+  # 信頼性の高い情報源（Tier 1）
+  trusted_sources:
+    - name: "WHO"
+      url: "https://www.who.int"
+      priority: 1
+    - name: "ADA"
+      url: "https://www.ada.org"
+      priority: 1
+    - name: "AAPD"
+      url: "https://www.aapd.org"
+      priority: 1
+    - name: "厚生労働省"
+      url: "https://www.mhlw.go.jp"
+      priority: 1
+    - name: "日本小児歯科学会"
+      url: "https://www.jspd.or.jp"
+      priority: 2
+    - name: "日本歯科医師会"
+      url: "https://www.jda.or.jp"
+      priority: 2
+
+# 記事生成設定
+article:
+  # Claude API設定
+  llm:
+    model: "claude-sonnet-4-20250514"
+    max_tokens: 4096
+    temperature: 0.7
+
+  # 記事構成
+  structure:
+    min_words: 1500
+    max_words: 3000
+    sections:
+      - "hook"           # 一文目のフック（読者を惹きつける）
+      - "introduction"   # 導入・問題提起
+      - "evidence"       # エビデンスセクション
+      - "practical"      # 実践的アドバイス
+      - "summary"        # まとめ
+      - "cta"            # 当院への相談誘導
+
+  # トーン設定
+  tone:
+    style: "friendly_expert"  # 専門的だけど親しみやすい
+    target_audience: "parents"  # お母さん・お父さん
+    reading_level: "general"    # 一般向け
+    honorific: "です・ます調"
+
+# 出力設定
+output:
+  format: "markdown"  # markdown / html / wordpress
+  directory: "output/articles"
+  include_references: true
+  include_evidence_level: true

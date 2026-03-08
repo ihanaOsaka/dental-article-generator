@@ -1,0 +1,380 @@
+# 小児歯科記事トピック一覧
+# 日本小児歯科学会「こどもたちの口と歯の質問箱」を参考に構成
+# https://www.jspd.or.jp/question/
+
+categories:
+  - id: pregnancy
+    name: "妊娠期"
+    age_range: "妊娠中"
+    topics:
+      - id: pregnancy_calcium
+        title: "妊娠中にカルシウムを摂ると赤ちゃんの歯が丈夫になる？"
+        keywords: ["カルシウム", "妊娠", "歯の発育", "栄養"]
+        search_terms:
+          en: ["calcium intake pregnancy tooth development", "maternal nutrition dental"]
+          ja: ["妊娠 カルシウム 歯", "胎児 歯の形成"]
+        pico:
+          population: "妊婦"
+          intervention: "カルシウム摂取"
+          comparison: "通常食事"
+          outcome: "乳児の歯質・むし歯リスク"
+
+      - id: pregnancy_xylitol
+        title: "妊娠中のキシリトールで赤ちゃんのむし歯予防ができる？"
+        keywords: ["キシリトール", "妊娠", "むし歯菌", "母子感染"]
+        search_terms:
+          en: ["xylitol pregnancy caries prevention", "maternal xylitol infant mutans streptococci"]
+          ja: ["キシリトール 妊娠 むし歯"]
+        pico:
+          population: "妊婦"
+          intervention: "キシリトール摂取"
+          comparison: "非摂取"
+          outcome: "乳幼児のミュータンス菌感染率"
+
+      - id: pregnancy_dental_treatment
+        title: "妊娠中の歯科治療は安全？いつ受けるべき？"
+        keywords: ["妊娠", "歯科治療", "安定期", "麻酔"]
+        search_terms:
+          en: ["dental treatment during pregnancy safety", "pregnancy dental anesthesia"]
+          ja: ["妊娠中 歯科治療 安全性"]
+        pico:
+          population: "妊婦"
+          intervention: "歯科治療（安定期）"
+          comparison: "治療延期"
+          outcome: "母体・胎児への安全性"
+
+      - id: pregnancy_periodontal
+        title: "妊娠中の歯周病は赤ちゃんに影響する？"
+        keywords: ["妊娠", "歯周病", "早産", "低体重児"]
+        search_terms:
+          en: ["periodontal disease pregnancy preterm birth", "maternal periodontitis adverse pregnancy outcomes"]
+          ja: ["妊娠 歯周病 早産 低体重"]
+        pico:
+          population: "妊婦"
+          intervention: "歯周病治療"
+          comparison: "未治療"
+          outcome: "早産・低体重児リスク"
+
+  - id: infant
+    name: "産まれてから2歳頃まで"
+    age_range: "0〜2歳"
+    topics:
+      - id: infant_first_dental_visit
+        title: "赤ちゃんの初めての歯医者はいつ？"
+        keywords: ["初めて", "歯科受診", "乳歯", "生え始め"]
+        search_terms:
+          en: ["first dental visit infant timing", "early childhood dental visit caries prevention"]
+          ja: ["乳幼児 初めて 歯科受診"]
+        pico:
+          population: "0〜1歳の乳児"
+          intervention: "早期歯科受診（1歳前）"
+          comparison: "3歳以降の初回受診"
+          outcome: "むし歯発生率"
+
+      - id: infant_fluoride_start
+        title: "フッ素はいつから使っていいの？"
+        keywords: ["フッ素", "フッ化物", "乳歯", "歯磨き粉"]
+        search_terms:
+          en: ["fluoride toothpaste infant age", "fluoride varnish infants caries prevention"]
+          ja: ["フッ素 乳幼児 いつから"]
+        pico:
+          population: "0〜2歳の乳幼児"
+          intervention: "フッ化物使用"
+          comparison: "フッ化物未使用"
+          outcome: "乳歯のむし歯予防効果"
+
+      - id: infant_teething
+        title: "歯が生える時の痛みや発熱にどう対応する？"
+        keywords: ["歯の生え始め", "萌出", "発熱", "不機嫌"]
+        search_terms:
+          en: ["teething symptoms infant management", "teething fever evidence"]
+          ja: ["歯の萌出 症状 乳児"]
+        pico:
+          population: "歯の萌出期の乳児"
+          intervention: "歯固め・冷却など"
+          comparison: "無処置"
+          outcome: "症状緩和"
+
+      - id: infant_bottle_caries
+        title: "哺乳びんむし歯って何？寝かしつけの授乳は危険？"
+        keywords: ["哺乳びん", "むし歯", "寝かしつけ", "母乳"]
+        search_terms:
+          en: ["baby bottle tooth decay", "nursing caries breastfeeding night", "early childhood caries bottle feeding"]
+          ja: ["哺乳びん むし歯", "寝かしつけ 授乳 むし歯"]
+        pico:
+          population: "0〜2歳の乳幼児"
+          intervention: "寝る前の授乳/哺乳びん使用"
+          comparison: "寝る前の授乳回避"
+          outcome: "むし歯発生率"
+
+      - id: infant_snack
+        title: "おやつの上手な与え方 — むし歯を作らない間食のルール"
+        keywords: ["おやつ", "間食", "砂糖", "むし歯予防"]
+        search_terms:
+          en: ["snacking frequency caries children", "sugar intake dental caries infants"]
+          ja: ["おやつ 頻度 むし歯 幼児"]
+        pico:
+          population: "1〜2歳の幼児"
+          intervention: "規則的な間食"
+          comparison: "ダラダラ食べ"
+          outcome: "むし歯リスク"
+
+      - id: infant_geographic_tongue
+        title: "舌に模様がある！地図状舌って大丈夫？"
+        keywords: ["地図状舌", "舌", "模様", "心配"]
+        search_terms:
+          en: ["geographic tongue children benign", "benign migratory glossitis pediatric"]
+          ja: ["地図状舌 小児 経過"]
+        pico:
+          population: "地図状舌のある乳幼児"
+          intervention: "経過観察"
+          comparison: "治療介入"
+          outcome: "自然経過・予後"
+
+  - id: preschool
+    name: "3歳ごろから就学前まで"
+    age_range: "3〜6歳"
+    topics:
+      - id: preschool_thumb_sucking
+        title: "指しゃぶりはいつまでなら大丈夫？歯並びへの影響は？"
+        keywords: ["指しゃぶり", "歯並び", "開咬", "習癖"]
+        search_terms:
+          en: ["thumb sucking malocclusion children", "non-nutritive sucking habit dental effects"]
+          ja: ["指しゃぶり 歯並び 影響"]
+        pico:
+          population: "3〜6歳の幼児"
+          intervention: "指しゃぶり継続"
+          comparison: "3歳までにやめる"
+          outcome: "不正咬合リスク"
+
+      - id: preschool_fluoride_application
+        title: "歯医者でのフッ素塗布、本当に効果あるの？"
+        keywords: ["フッ素塗布", "歯科", "予防", "効果"]
+        search_terms:
+          en: ["fluoride varnish caries prevention children effectiveness", "professional fluoride application pediatric"]
+          ja: ["フッ素塗布 効果 小児"]
+        pico:
+          population: "3〜6歳の幼児"
+          intervention: "定期的なフッ素塗布"
+          comparison: "フッ素塗布なし"
+          outcome: "むし歯予防効果"
+
+      - id: preschool_toothpaste
+        title: "子どもの歯磨き粉、どれを選べばいい？フッ素濃度は？"
+        keywords: ["歯磨き粉", "フッ素濃度", "ppm", "選び方"]
+        search_terms:
+          en: ["fluoride toothpaste concentration children", "fluoride dentifrice caries prevention pediatric"]
+          ja: ["子ども 歯磨き粉 フッ素濃度"]
+        pico:
+          population: "3〜6歳の幼児"
+          intervention: "フッ素配合歯磨き粉使用"
+          comparison: "フッ素なし歯磨き粉"
+          outcome: "むし歯予防効果・フッ素症リスク"
+
+      - id: preschool_silver_cap
+        title: "乳歯に銀歯を入れたけど、永久歯に影響はない？"
+        keywords: ["銀歯", "乳歯", "既製冠", "永久歯"]
+        search_terms:
+          en: ["stainless steel crown primary teeth", "preformed crown deciduous teeth outcomes"]
+          ja: ["乳歯 銀歯 既製冠 永久歯"]
+        pico:
+          population: "乳歯に既製冠を装着した幼児"
+          intervention: "乳歯既製冠装着"
+          comparison: "未装着"
+          outcome: "永久歯への影響"
+
+      - id: preschool_dental_fear
+        title: "子どもが歯医者を怖がる！上手に受診させるコツ"
+        keywords: ["歯科恐怖", "小児", "行動管理", "怖がる"]
+        search_terms:
+          en: ["dental anxiety children management", "behavior management pediatric dentistry"]
+          ja: ["子ども 歯医者 怖がる 対策"]
+        pico:
+          population: "歯科恐怖のある幼児"
+          intervention: "行動管理テクニック"
+          comparison: "通常対応"
+          outcome: "治療協力度"
+
+  - id: lower_elementary
+    name: "小学生低学年"
+    age_range: "6〜9歳"
+    topics:
+      - id: elem_sealant
+        title: "シーラントって何？6歳臼歯を守る最強の予防法"
+        keywords: ["シーラント", "6歳臼歯", "第一大臼歯", "予防"]
+        search_terms:
+          en: ["pit fissure sealant caries prevention children", "dental sealant first permanent molar effectiveness"]
+          ja: ["シーラント 効果 小児"]
+        pico:
+          population: "6〜9歳の児童"
+          intervention: "シーラント施術"
+          comparison: "シーラントなし"
+          outcome: "臼歯のむし歯予防効果"
+
+      - id: elem_xylitol
+        title: "キシリトールガムって本当にむし歯予防になるの？"
+        keywords: ["キシリトール", "ガム", "むし歯予防", "エビデンス"]
+        search_terms:
+          en: ["xylitol chewing gum caries prevention", "xylitol dental caries systematic review"]
+          ja: ["キシリトール ガム むし歯予防 効果"]
+        pico:
+          population: "小学生"
+          intervention: "キシリトールガム摂取"
+          comparison: "非摂取"
+          outcome: "むし歯予防効果"
+
+      - id: elem_first_molar
+        title: "6歳臼歯がむし歯になりやすい理由と守り方"
+        keywords: ["6歳臼歯", "第一大臼歯", "むし歯", "予防"]
+        search_terms:
+          en: ["first permanent molar caries risk factors", "six year molar caries prevention children"]
+          ja: ["6歳臼歯 むし歯 予防"]
+        pico:
+          population: "6歳前後の児童"
+          intervention: "6歳臼歯への予防処置"
+          comparison: "予防処置なし"
+          outcome: "むし歯発生率"
+
+      - id: elem_brushing_independence
+        title: "仕上げ磨きはいつまで必要？子どもに任せて大丈夫な年齢は？"
+        keywords: ["仕上げ磨き", "自立", "歯磨き", "何歳まで"]
+        search_terms:
+          en: ["parental tooth brushing supervision age", "assisted brushing children caries"]
+          ja: ["仕上げ磨き いつまで 年齢"]
+        pico:
+          population: "6〜9歳の児童"
+          intervention: "保護者による仕上げ磨き継続"
+          comparison: "子どもだけの歯磨き"
+          outcome: "口腔清掃状態・むし歯リスク"
+
+  - id: upper_elementary_teen
+    name: "小学生高学年〜高校生"
+    age_range: "10〜18歳"
+    topics:
+      - id: teen_sports_sugar
+        title: "部活の後のスポーツドリンク、歯に悪いって本当？"
+        keywords: ["スポーツドリンク", "酸蝕", "糖分", "部活"]
+        search_terms:
+          en: ["sports drinks dental erosion adolescents", "acidic beverages enamel erosion youth"]
+          ja: ["スポーツドリンク 歯 酸蝕"]
+        pico:
+          population: "部活動をする小学生高学年〜高校生"
+          intervention: "スポーツドリンク頻繁摂取"
+          comparison: "水・お茶"
+          outcome: "酸蝕・むし歯リスク"
+
+      - id: teen_second_molar
+        title: "12歳臼歯が生えてこない？いつまで待てばいい？"
+        keywords: ["12歳臼歯", "第二大臼歯", "萌出遅延"]
+        search_terms:
+          en: ["second molar eruption delay children", "delayed eruption permanent teeth"]
+          ja: ["第二大臼歯 生えてこない 萌出遅延"]
+        pico:
+          population: "12歳前後の児童"
+          intervention: "経過観察"
+          comparison: "介入（開窓術等）"
+          outcome: "自然萌出率・時期"
+
+      - id: teen_wisdom_teeth
+        title: "子どもの親知らず、抜くべき？残すべき？"
+        keywords: ["親知らず", "第三大臼歯", "抜歯", "判断"]
+        search_terms:
+          en: ["wisdom teeth extraction adolescents indication", "third molar prophylactic removal"]
+          ja: ["親知らず 抜歯 適応 思春期"]
+        pico:
+          population: "10代後半"
+          intervention: "予防的抜歯"
+          comparison: "経過観察"
+          outcome: "合併症・歯列への影響"
+
+      - id: teen_mouthguard
+        title: "スポーツをする子にマウスガードは必要？"
+        keywords: ["マウスガード", "スポーツ", "外傷", "予防"]
+        search_terms:
+          en: ["mouthguard dental injury prevention sports children", "custom mouthguard effectiveness youth sports"]
+          ja: ["マウスガード スポーツ 歯の外傷 予防"]
+        pico:
+          population: "スポーツをする児童・生徒"
+          intervention: "マウスガード装着"
+          comparison: "未装着"
+          outcome: "歯の外傷リスク"
+
+  - id: orthodontics
+    name: "歯並び・かみ合わせ"
+    age_range: "全年齢"
+    topics:
+      - id: ortho_timing
+        title: "矯正治療はいつ始めるのがベスト？早い方がいい？"
+        keywords: ["矯正", "開始時期", "タイミング", "早期治療"]
+        search_terms:
+          en: ["early orthodontic treatment timing", "phase I orthodontics effectiveness children"]
+          ja: ["矯正治療 開始時期 小児"]
+        pico:
+          population: "不正咬合のある児童"
+          intervention: "早期矯正治療（Phase I）"
+          comparison: "思春期以降の矯正"
+          outcome: "治療効果・期間"
+
+      - id: ortho_mouth_breathing
+        title: "口呼吸が歯並びを悪くする？鼻呼吸の大切さ"
+        keywords: ["口呼吸", "鼻呼吸", "歯並び", "顔貌"]
+        search_terms:
+          en: ["mouth breathing malocclusion children", "oral breathing facial development"]
+          ja: ["口呼吸 歯並び 影響 小児"]
+        pico:
+          population: "口呼吸の習慣がある児童"
+          intervention: "鼻呼吸への改善"
+          comparison: "口呼吸継続"
+          outcome: "歯列・顔面発育への影響"
+
+      - id: ortho_pacifier
+        title: "おしゃぶりは歯並びに影響する？いつやめさせるべき？"
+        keywords: ["おしゃぶり", "歯並び", "開咬", "やめる時期"]
+        search_terms:
+          en: ["pacifier use malocclusion", "pacifier duration open bite children"]
+          ja: ["おしゃぶり 歯並び 影響"]
+        pico:
+          population: "おしゃぶりを使用する乳幼児"
+          intervention: "2歳以降もおしゃぶり継続"
+          comparison: "2歳までにやめる"
+          outcome: "不正咬合リスク"
+
+  - id: general_prevention
+    name: "一般的な予防・ケア"
+    age_range: "全年齢"
+    topics:
+      - id: gen_sugar_caries
+        title: "砂糖とむし歯の関係 — 量より回数が大事って本当？"
+        keywords: ["砂糖", "むし歯", "頻度", "量"]
+        search_terms:
+          en: ["sugar frequency caries", "free sugar intake dental caries systematic review"]
+          ja: ["砂糖 頻度 むし歯 関係"]
+        pico:
+          population: "小児全般"
+          intervention: "砂糖摂取頻度の制限"
+          comparison: "制限なし"
+          outcome: "むし歯発生率"
+
+      - id: gen_electric_toothbrush
+        title: "子どもに電動歯ブラシは使っていいの？"
+        keywords: ["電動歯ブラシ", "子ども", "効果", "安全性"]
+        search_terms:
+          en: ["electric toothbrush children effectiveness", "powered toothbrush pediatric"]
+          ja: ["電動歯ブラシ 子ども 効果"]
+        pico:
+          population: "小児"
+          intervention: "電動歯ブラシ使用"
+          comparison: "手動歯ブラシ"
+          outcome: "プラーク除去効果・むし歯予防"
+
+      - id: gen_dental_trauma
+        title: "子どもが歯をぶつけた！応急処置と受診のタイミング"
+        keywords: ["歯の外傷", "ぶつけた", "応急処置", "脱臼"]
+        search_terms:
+          en: ["dental trauma children first aid", "avulsed tooth management pediatric"]
+          ja: ["歯の外傷 応急処置 小児"]
+        pico:
+          population: "歯の外傷を受けた小児"
+          intervention: "適切な応急処置・早期受診"
+          comparison: "遅延受診"
+          outcome: "歯の予後"
