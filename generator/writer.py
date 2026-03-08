@@ -5,14 +5,24 @@ from pathlib import Path
 
 import anthropic
 
-from ..evidence.models import EvidenceCollection
-from .prompts.article_prompt import (
-    ARTICLE_PROMPT_TEMPLATE,
-    PUBLIC_VERSION_PROMPT_TEMPLATE,
-    PUBLIC_VERSION_SYSTEM_PROMPT,
-    SYSTEM_PROMPT,
-    format_evidence_for_prompt,
-)
+try:
+    from ..evidence.models import EvidenceCollection
+    from .prompts.article_prompt import (
+        ARTICLE_PROMPT_TEMPLATE,
+        PUBLIC_VERSION_PROMPT_TEMPLATE,
+        PUBLIC_VERSION_SYSTEM_PROMPT,
+        SYSTEM_PROMPT,
+        format_evidence_for_prompt,
+    )
+except ImportError:
+    from evidence.models import EvidenceCollection
+    from generator.prompts.article_prompt import (
+        ARTICLE_PROMPT_TEMPLATE,
+        PUBLIC_VERSION_PROMPT_TEMPLATE,
+        PUBLIC_VERSION_SYSTEM_PROMPT,
+        SYSTEM_PROMPT,
+        format_evidence_for_prompt,
+    )
 
 logger = logging.getLogger(__name__)
 

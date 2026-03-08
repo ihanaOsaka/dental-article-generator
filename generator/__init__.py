@@ -1,5 +1,7 @@
 """記事生成モジュール"""
 
-from .writer import ArticleWriter
-
-__all__ = ["ArticleWriter"]
+try:
+    from .writer import ArticleWriter
+    __all__ = ["ArticleWriter"]
+except ImportError:
+    __all__ = []

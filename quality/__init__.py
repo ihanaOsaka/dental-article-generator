@@ -1,5 +1,7 @@
 """品質チェックモジュール"""
 
-from .checker import QualityChecker
-
-__all__ = ["QualityChecker"]
+try:
+    from .checker import QualityChecker
+    __all__ = ["QualityChecker"]
+except ImportError:
+    __all__ = []
