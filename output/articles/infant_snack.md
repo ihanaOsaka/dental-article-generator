@@ -26,15 +26,15 @@
 - 砂糖の摂取をやめると、むし歯の発生率は速やかに低下
 - **砂糖の総量よりも、摂取頻度と形態（歯面への滞留時間）が重要**
 
-> Gustafsson BE, et al. The Vipeholm dental caries study. *Acta Odontol Scand.* 1954;11(3-4):232-264.
+> [Gustafsson BE, et al. The Vipeholm dental caries study. *Acta Odontol Scand.* 1954;11(3-4):232-264.](https://pubmed.ncbi.nlm.nih.gov/13196991/)
 
 ### 現代のエビデンス
 
 - **Sheiham & James（2014, 2015）**: 砂糖摂取量とむし歯の用量反応関係を示し、WHO糖類ガイドラインの科学的根拠を提供。砂糖摂取が5%E未満の集団ではむし歯が最少
 - **Moynihan & Kelly（2014）**: システマティックレビュー。55件の研究を統合し、遊離糖類とむし歯の明確な関連を確認
 
-> Sheiham A, James WPT. *J Dent Res.* 2015;94(10):1351-1357.
-> Moynihan PJ, Kelly SAM. *J Dent Res.* 2014;93(1):8-18.
+> [Sheiham A, James WPT. *J Dent Res.* 2015;94(10):1351-1357.](https://pubmed.ncbi.nlm.nih.gov/26261186/)
+> [Moynihan PJ, Kelly SAM. *J Dent Res.* 2014;93(1):8-18.](https://pubmed.ncbi.nlm.nih.gov/24323509/)
 
 ---
 
@@ -59,7 +59,7 @@
 
 **遊離糖類（free sugars）とは**: 食品・飲料に添加された糖類と、ハチミツ・シロップ・果汁に天然に含まれる糖類。果物そのものや牛乳に含まれる糖は含みません。
 
-> WHO. Guideline: Sugars intake for adults and children. 2015.
+> [WHO. Guideline: Sugars intake for adults and children. 2015.](https://www.who.int/publications/i/item/9789241549028)
 
 ---
 
@@ -133,12 +133,12 @@
 ### 参考文献
 
 **[砂糖とむし歯の関係]**
-1. Gustafsson BE, Quensel CE, Lanke LS, et al. The Vipeholm dental caries study. *Acta Odontol Scand.* 1954;11(3-4):232-264. ※歴史的研究
-2. Sheiham A, James WPT. Diet and dental caries: the pivotal role of free sugars reemphasized. *J Dent Res.* 2015;94(10):1351-1357.
-3. Moynihan PJ, Kelly SAM. Effect on caries of restricting sugars intake: systematic review to inform WHO guidelines. *J Dent Res.* 2014;93(1):8-18.
+1. [Gustafsson BE, Quensel CE, Lanke LS, et al. The Vipeholm dental caries study. *Acta Odontol Scand.* 1954;11(3-4):232-264.](https://pubmed.ncbi.nlm.nih.gov/13196991/) ※歴史的研究
+2. [Sheiham A, James WPT. Diet and dental caries: the pivotal role of free sugars reemphasized. *J Dent Res.* 2015;94(10):1351-1357.](https://doi.org/10.1177/0022034515590377)
+3. [Moynihan PJ, Kelly SAM. Effect on caries of restricting sugars intake: systematic review to inform WHO guidelines. *J Dent Res.* 2014;93(1):8-18.](https://doi.org/10.1177/0022034513508954)
 
 **[WHOガイドライン]**
-4. WHO. Guideline: Sugars intake for adults and children. Geneva: World Health Organization; 2015.
+4. [WHO. Guideline: Sugars intake for adults and children. Geneva: World Health Organization; 2015.](https://www.who.int/publications/i/item/9789241549028)
 
 **[ステファンカーブ]**
-5. Stephan RM. Changes in hydrogen-ion concentration on tooth surfaces and in carious lesions. *J Am Dent Assoc.* 1940;27:718-723.
+5. Stephan RM. Changes in hydrogen-ion concentration on tooth surfaces and in carious lesions. *J Am Dent Assoc.* 1940;27:718-723. ※1940年の論文のためPubMed非収録

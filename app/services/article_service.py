@@ -17,8 +17,11 @@ from generator.writer import ArticleWriter
 from quality.checker import QualityChecker
 from app.state import GenerationResult
 from app.services.reference_verifier import ReferenceVerifier
+from app.services.link_validator import LinkValidator
 
 logger = logging.getLogger(__name__)
+
+MAX_LINK_FIX_RETRIES = 2  # リンク修復の最大リトライ回数
 
 
 def load_config() -> dict:
@@ -54,6 +57,7 @@ class ArticleService:
 
         self.checker = QualityChecker()
         self.verifier = ReferenceVerifier()
+        self.link_validator = LinkValidator()
 
     def generate_from_topic(
         self,
@@ -62,7 +66,11 @@ class ArticleService:
         age_range: str = "",
         progress_callback=None,
     ) -> GenerationResult:
-        """フルパイプライン: エビデンス収集 → 記事生成 → 公開版 → 検証"""
+        """フルパイプライン:
+        エビデンス収集 → 記事生成 → リンク検証・修復 → 一般公開版 → 品質チェック
+
+        リンク検証で整合性エラーがあれば、エビデンス再収集から最大2回リトライ。
+        """
 
         def progress(msg):
             if progress_callback:
@@ -70,33 +78,69 @@ class ArticleService:
 
         topic_id = topic["id"]
 
-        # 1. エビデンス収集
-        progress("エビデンスを収集中...")
-        collection = self.manager.collect_evidence(topic)
-        progress(f"エビデンス {len(collection.evidences)} 件収集完了")
+        for attempt in range(1, MAX_LINK_FIX_RETRIES + 2):
+            retry_label = f"（試行 {attempt}/{MAX_LINK_FIX_RETRIES + 1}）" if attempt > 1 else ""
 
-        # 2. 専門版記事生成
-        progress("専門版記事を生成中...")
-        professional = self.writer.generate_article(
-            topic=topic,
-            evidence=collection,
-            category_name=category_name,
-            age_range=age_range,
-        )
+            # 1. エビデンス収集
+            progress(f"エビデンスを収集中...{retry_label}")
+            if attempt > 1:
+                self.manager.clear_cache(topic_id)
+            collection = self.manager.collect_evidence(topic)
+            progress(f"エビデンス {len(collection.evidences)} 件収集完了")
 
-        # 3. 一般公開版生成
+            # 2. 専門版記事生成
+            progress(f"専門版記事を生成中...{retry_label}")
+            professional = self.writer.generate_article(
+                topic=topic,
+                evidence=collection,
+                category_name=category_name,
+                age_range=age_range,
+            )
+
+            # 3. リンク検証・修復
+            progress("参考文献リンクを検証・修復中...")
+            link_report = self.link_validator.validate_and_fix(professional)
+
+            valid = sum(1 for r in link_report.results if r.status == "valid")
+            fixed = link_report.fixed_count
+            invalid = link_report.invalid_count
+            total = len(link_report.results)
+
+            progress(
+                f"リンク検証: {total}件中 "
+                f"有効{valid} / 修復{fixed} / 問題{invalid}"
+            )
+
+            # 修復済みの記事を使用
+            professional = link_report.fixed_article
+
+            # 整合性エラーでリトライが必要か判断
+            if link_report.needs_re_research and attempt <= MAX_LINK_FIX_RETRIES:
+                progress(
+                    f"整合性エラーを検出。エビデンス再収集からリトライします "
+                    f"({attempt}/{MAX_LINK_FIX_RETRIES})"
+                )
+                continue
+            else:
+                break
+
+        # 4. 一般公開版生成（検証済みの専門版から）
         progress("一般公開版を生成中...")
         public = self.writer.generate_public_version(
             original_article=professional,
             evidence=collection,
         )
 
-        # 4. 品質チェック
+        # 5. 一般公開版のリンクも検証
+        progress("一般公開版のリンクを検証中...")
+        public_link_report = self.link_validator.validate_and_fix(public)
+        public = public_link_report.fixed_article
+
+        # 6. 品質チェック
         progress("品質チェック中...")
         report = self.checker.check(professional, topic_id)
 
-        # 5. 参考文献リンク検証
-        progress("参考文献リンクを検証中...")
+        # 7. 参考文献の詳細検証（既存の verifier も実行）
         verification = self.verifier.verify_article(professional)
 
         progress("完了")
@@ -108,6 +152,27 @@ class ArticleService:
             quality_score=report.score,
             verification_results=verification,
         )
+
+    def validate_existing_article(self, article_text: str,
+                                  progress_callback=None):
+        """既存記事のリンクを検証・修復
+
+        Returns:
+            tuple: (fixed_article, link_report)
+        """
+        def progress(msg):
+            if progress_callback:
+                progress_callback(msg)
+
+        progress("リンクを検証中...")
+        report = self.link_validator.validate_and_fix(article_text)
+
+        valid = sum(1 for r in report.results if r.status == "valid")
+        fixed = report.fixed_count
+        total = len(report.results)
+
+        progress(f"検証完了: {total}件中 有効{valid} / 修復{fixed}")
+        return report.fixed_article, report
 
     def save_result(self, result: GenerationResult,
                     articles_dir: str = "output/articles",
@@ -123,6 +188,7 @@ class ArticleService:
     def close(self):
         self.manager.close()
         self.verifier.close()
+        self.link_validator.close()
 
     def __enter__(self):
         return self
