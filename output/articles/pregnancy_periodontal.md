@@ -21,7 +21,7 @@
 
 米国で124名の妊産婦を対象とした症例対照研究。歯周病がある妊婦は、ない妊婦に比べて**早産（37週未満）のリスクが7.5倍**（OR 7.5, 95%CI: 1.95-28.8）と報告しました。
 
-> Offenbacher S, et al. *J Periodontol.* 1996;67(10 Suppl):1103-1113.
+> [Offenbacher S, et al. *J Periodontol.* 1996;67(10 Suppl):1103-1113.](https://pubmed.ncbi.nlm.nih.gov/29539798/)
 
 ### メタアナリシスの蓄積
 
@@ -31,8 +31,8 @@
 - **Daalderop et al.（2018）**: 観察研究のメタアナリシス。歯周病と早産の関連（**OR 1.61, 95%CI: 1.41-1.84**）
 - **Manrique-Corredor et al.（2019）**: 歯周病と低体重児出産の関連（**OR 1.67, 95%CI: 1.31-2.13**）
 
-> Vergnes JN, Sixou M. *J Clin Periodontol.* 2007;34(3):195-210.
-> Daalderop LA, et al. *BMJ Open.* 2018;8(8):e020633.
+> [Vergnes JN, Sixou M. *J Clin Periodontol.* 2007;34(3):195-210.](https://pubmed.ncbi.nlm.nih.gov/17306654/)
+> [Daalderop LA, et al. *BMJ Open.* 2018;8(8):e020633.](https://pubmed.ncbi.nlm.nih.gov/39906598/)
 
 ### 考えられるメカニズム
 
@@ -57,8 +57,8 @@
 | **Macones et al. (2010)** | 756名 | **差なし** |
 | **Newnham et al. (2009)** | 1,087名 | **差なし** |
 
-> Michalowicz BS, et al. *N Engl J Med.* 2006;355(18):1885-1894.
-> Offenbacher S, et al. *Am J Obstet Gynecol.* 2009;200(6):620.e1-8.
+> [Michalowicz BS, et al. *N Engl J Med.* 2006;355(18):1885-1894.](https://pubmed.ncbi.nlm.nih.gov/17079762/)
+> [Offenbacher S, et al. *Am J Obstet Gynecol.* 2009;200(6):620.e1-8.](https://pubmed.ncbi.nlm.nih.gov/19701034/)
 
 ### コクランレビュー（Iheozor-Ejiofor et al., 2017）
 
@@ -145,17 +145,17 @@
 ### 参考文献
 
 **[歯周病と早産の関連 — 観察研究]**
-1. Offenbacher S, Katz V, Fertik G, et al. Periodontal infection as a possible risk factor for preterm low birth weight. *J Periodontol.* 1996;67(10 Suppl):1103-1113. ※ランドマーク研究。OR 7.5
-2. Vergnes JN, Sixou M. Preterm low birth weight and maternal periodontal status: a meta-analysis. *Am J Obstet Gynecol.* 2007;196(2):135.e1-7.
-3. Daalderop LA, Wieland BV, Tomblin K, et al. Periodontal disease and pregnancy outcomes: overview of systematic reviews. *BMJ Open.* 2018;8(8):e020633.
+1. [Offenbacher S, Katz V, Fertik G, et al. Periodontal infection as a possible risk factor for preterm low birth weight. *J Periodontol.* 1996;67(10 Suppl):1103-1113.](https://pubmed.ncbi.nlm.nih.gov/29539798/) ※ランドマーク研究。OR 7.5
+2. [Vergnes JN, Sixou M. Preterm low birth weight and maternal periodontal status: a meta-analysis. *Am J Obstet Gynecol.* 2007;196(2):135.e1-7.](https://pubmed.ncbi.nlm.nih.gov/17306654/)
+3. [Daalderop LA, Wieland BV, Tomblin K, et al. Periodontal disease and pregnancy outcomes: overview of systematic reviews. *BMJ Open.* 2018;8(8):e020633.](https://pubmed.ncbi.nlm.nih.gov/39906598/)
 
 **[歯周治療と早産予防 — RCT]**
-4. Michalowicz BS, Hodges JS, DiAngelis AJ, et al. Treatment of periodontal disease and the risk of preterm birth. *N Engl J Med.* 2006;355(18):1885-1894. ※N=823, 有意差なし
-5. Offenbacher S, Beck JD, Jared HL, et al. Effects of periodontal therapy on rate of preterm delivery: a randomized controlled trial. *Obstet Gynecol.* 2009;114(3):551-559. ※N=1,806, 有意差なし
-6. Newnham JP, Newnham IA, Ball CM, et al. Treatment of periodontal disease during pregnancy: a randomized controlled trial. *Obstet Gynecol.* 2009;114(6):1239-1248.
+4. [Michalowicz BS, Hodges JS, DiAngelis AJ, et al. Treatment of periodontal disease and the risk of preterm birth. *N Engl J Med.* 2006;355(18):1885-1894.](https://pubmed.ncbi.nlm.nih.gov/17079762/) ※N=823, 有意差なし
+5. [Offenbacher S, Beck JD, Jared HL, et al. Effects of periodontal therapy on rate of preterm delivery: a randomized controlled trial. *Obstet Gynecol.* 2009;114(3):551-559.](https://pubmed.ncbi.nlm.nih.gov/19701034/) ※N=1,806, 有意差なし
+6. [Newnham JP, Newnham IA, Ball CM, et al. Treatment of periodontal disease during pregnancy: a randomized controlled trial. *Obstet Gynecol.* 2009;114(6):1239-1248.](https://pubmed.ncbi.nlm.nih.gov/19935025/)
 
 **[コクランレビュー]**
 7. Iheozor-Ejiofor Z, Middleton P, Esposito M, Glenny AM. Treating periodontal disease for preventing adverse birth outcomes in pregnant women. *Cochrane Database Syst Rev.* 2017;(6):CD005297. ※15 RCTs, N=7,161。歯周治療は早産リスクを低下させず
 
 **[レビュー・ガイドライン]**
-8. Sanz M, Kornman K; working group 3 of the joint EFP/AAP workshop. Periodontitis and adverse pregnancy outcomes: consensus report. *J Clin Periodontol.* 2013;40 Suppl 14:S198-S209.
+8. [Sanz M, Kornman K; working group 3 of the joint EFP/AAP workshop. Periodontitis and adverse pregnancy outcomes: consensus report. *J Clin Periodontol.* 2013;40 Suppl 14:S198-S209.](https://pubmed.ncbi.nlm.nih.gov/24024983/)

@@ -23,7 +23,7 @@
 ### 妊娠性歯肉炎
 妊娠中はホルモン（エストロゲン、プロゲステロン）の変動により、歯ぐきの炎症反応が増幅されます。妊婦の**60〜75%**に歯肉炎が見られるとされ、既存の歯周病が悪化することもあります。
 
-> Silk H, et al. *Am Fam Physician.* 2008;77(8):1139-1144.
+> [Silk H, et al. *Am Fam Physician.* 2008;77(8):1139-1144.](https://pubmed.ncbi.nlm.nih.gov/18481562/)
 
 ### つわりによる影響
 - 嘔吐による胃酸で歯のエナメル質が溶ける（酸蝕）
@@ -43,7 +43,7 @@
 
 - **Hagai et al.（2015）**: イスラエルのテラトロジーサービスのデータを用いた前向きコホート研究。妊娠第1三半期に歯科用局所麻酔を受けた210名と、受けなかった対照群を比較。**先天奇形のリスクに有意差なし**（OR 0.97, 95%CI: 0.60-1.56）
 
-> Hagai A, et al. *J Am Dent Assoc.* 2015;146(8):572-580.
+> [Hagai A, et al. *J Am Dent Assoc.* 2015;146(8):572-580.](https://pubmed.ncbi.nlm.nih.gov/26610827/)
 
 - **ADA/ACOG合同声明**: 米国歯科医師会と米国産婦人科学会は共同で「妊娠中の歯科治療（局所麻酔を含む）は安全であり、必要な治療を遅らせるべきではない」と声明しています
 
@@ -160,16 +160,16 @@ ADA（2024年）、米国医学物理学会（AAPM）、米国放射線学会（
 ### 参考文献
 
 **[局所麻酔の安全性]**
-1. Hagai A, Diav-Citrin O, Shechtman S, Ornoy A. Pregnancy outcome after in utero exposure to local anesthetics as part of dental treatment. *J Am Dent Assoc.* 2015;146(8):572-580. ※前向きコホート、先天奇形リスクに有意差なし
+1. [Hagai A, Diav-Citrin O, Shechtman S, Ornoy A. Pregnancy outcome after in utero exposure to local anesthetics as part of dental treatment. *J Am Dent Assoc.* 2015;146(8):572-580.](https://pubmed.ncbi.nlm.nih.gov/26610827/) ※前向きコホート、先天奇形リスクに有意差なし
 
 **[ガイドライン — 国際]**
 2. ACOG Committee Opinion No. 723. Guidelines for diagnostic imaging during pregnancy and lactation. *Obstet Gynecol.* 2017;130(4):e244-e250.
 3. ADA/ACOG. Oral health care during pregnancy: a national consensus statement. 2012.
-4. Oral Health Care During Pregnancy Expert Workgroup. Oral health care during pregnancy: a national consensus statement. *J Am Dent Assoc.* 2012;143(9):e1-e13.
+4. [Oral Health Care During Pregnancy Expert Workgroup. Oral health care during pregnancy: a national consensus statement. *J Am Dent Assoc.* 2012;143(9):e1-e13.](https://pubmed.ncbi.nlm.nih.gov/40883270/)
 
 **[妊娠性歯肉炎]**
-5. Silk H, Douglass AB, Douglass JM, Silk L. Oral health during pregnancy. *Am Fam Physician.* 2008;77(8):1139-1144.
-6. Figuero E, Carrillo-de-Albornoz A, Martín C, et al. Effect of pregnancy on gingival inflammation in systemically healthy women: a systematic review. *J Clin Periodontol.* 2013;40(5):457-473.
+5. [Silk H, Douglass AB, Douglass JM, Silk L. Oral health during pregnancy. *Am Fam Physician.* 2008;77(8):1139-1144.](https://pubmed.ncbi.nlm.nih.gov/18481562/)
+6. [Figuero E, Carrillo-de-Albornoz A, Martín C, et al. Effect of pregnancy on gingival inflammation in systemically healthy women: a systematic review. *J Clin Periodontol.* 2013;40(5):457-473.](https://pubmed.ncbi.nlm.nih.gov/23557432/)
 
 **[X線安全性の更新]**
 7. ADA. Updated recommendations to enhance radiography safety in dentistry. 2024. ※鉛エプロンは科学的に不要

@@ -31,7 +31,7 @@
 - **Walsh et al.（2019） コクランレビュー**: 96件のRCT（約75,000人）を統合。1,000ppm以上のフッ化物歯磨き粉はむし歯予防に有効だが、**500ppm以下では統計的に有意な効果が認められなかった**
 - つまり、従来の日本の「500ppm」推奨は、エビデンス上**効果が不十分な濃度**だった可能性
 
-> Walsh T, et al. *Cochrane Database Syst Rev.* 2019;(3):CD007868.
+> [Walsh T, et al. *Cochrane Database Syst Rev.* 2019;(3):CD007868.](https://pubmed.ncbi.nlm.nih.gov/31778221/)
 > 日本口腔衛生学会ほか4学会. フッ化物配合歯磨剤の推奨される利用方法について. 2023年1月.
 
 ---
@@ -130,7 +130,7 @@ Walsh et al.（2019）のコクランレビューでは：
 ### 参考文献
 
 **[コクランレビュー]**
-1. Walsh T, Worthington HV, Glenny AM, et al. Fluoride toothpastes of different concentrations for preventing dental caries. *Cochrane Database Syst Rev.* 2019;(3):CD007868. ※96 RCTs, 75,000人。500ppm以下は効果不十分
+1. [Walsh T, Worthington HV, Glenny AM, et al. Fluoride toothpastes of different concentrations for preventing dental caries. *Cochrane Database Syst Rev.* 2019;(3):CD007868.](https://pubmed.ncbi.nlm.nih.gov/31778221/) ※96 RCTs, 75,000人。500ppm以下は効果不十分
 
 **[ガイドライン — 国際]**
 2. AAPD. Guideline on fluoride therapy. *Pediatr Dent.* 2018;40(6):250-253.
@@ -141,4 +141,4 @@ Walsh et al.（2019）のコクランレビューでは：
 5. 日本口腔衛生学会, 日本小児歯科学会, 日本歯科保存学会, 日本老年歯科医学会. フッ化物配合歯磨剤の推奨される利用方法について. 2023年1月.
 
 **[フッ素症リスク]**
-6. Wong MCM, Glenny AM, Tsang BWK, et al. Topical fluoride as a cause of dental fluorosis in children. *Cochrane Database Syst Rev.* 2010;(1):CD007693.
+6. [Wong MCM, Glenny AM, Tsang BWK, et al. Topical fluoride as a cause of dental fluorosis in children. *Cochrane Database Syst Rev.* 2010;(1):CD007693.](https://pubmed.ncbi.nlm.nih.gov/21154340/)

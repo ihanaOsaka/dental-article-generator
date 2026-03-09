@@ -119,12 +119,12 @@
 ### 参考文献
 
 **[手指の発達と歯磨き]**
-1. Leal SC, Bezerra AC, de Toledo OA. Effectiveness of teaching methods for toothbrushing in preschool children. *Braz Dent J.* 2002;13(2):133-136.
+1. [Leal SC, Bezerra AC, de Toledo OA. Effectiveness of teaching methods for toothbrushing in preschool children. *Braz Dent J.* 2002;13(2):133-136.](https://pubmed.ncbi.nlm.nih.gov/12238805/)
 
 **[仕上げ磨きとむし歯]**
-2. Hooley M, Skouteris H, Boganin C, et al. Parental influence and the development of dental caries in children aged 0-6 years: a systematic review of the literature. *J Dent.* 2012;40(11):873-885.
+2. [Hooley M, Skouteris H, Boganin C, et al. Parental influence and the development of dental caries in children aged 0-6 years: a systematic review of the literature. *J Dent.* 2012;40(11):873-885.](https://pubmed.ncbi.nlm.nih.gov/22842202/)
 
 **[ガイドライン]**
 3. AAPD. Guideline on infant oral health care. *Pediatr Dent.* 2018.
 4. 日本小児歯科学会. 歯磨きの仕上げ磨きに関する見解.
-5. Public Health England. Delivering better oral health: an evidence-based toolkit. 4th ed. 2021.
+5. [Public Health England. Delivering better oral health: an evidence-based toolkit. 4th ed. 2021.](https://pubmed.ncbi.nlm.nih.gov/37527225/)

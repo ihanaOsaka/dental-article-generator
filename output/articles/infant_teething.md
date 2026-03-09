@@ -38,7 +38,7 @@
 - **嘔吐**
 - **食欲不振（重度の）**
 
-> Massignan C, et al. *Pediatrics.* 2016;137(3):e20153501.
+> [Massignan C, et al. *Pediatrics.* 2016;137(3):e20153501.](https://pubmed.ncbi.nlm.nih.gov/26908659/)
 
 ### 重要なメッセージ
 
@@ -119,8 +119,8 @@
 ### 参考文献
 
 **[テーシングの症状 — システマティックレビュー]**
-1. Massignan C, Cardoso M, Porporatti AL, et al. Signs and symptoms of primary tooth eruption: a meta-analysis. *Pediatrics.* 2016;137(3):e20153501.
-2. Ramos-Jorge J, Pordeus IA, Ramos-Jorge ML, Paiva SM. Prospective longitudinal study of signs and symptoms associated with primary tooth eruption. *Pediatrics.* 2011;128(3):471-476.
+1. [Massignan C, Cardoso M, Porporatti AL, et al. Signs and symptoms of primary tooth eruption: a meta-analysis. *Pediatrics.* 2016;137(3):e20153501.](https://pubmed.ncbi.nlm.nih.gov/26908659/)
+2. [Ramos-Jorge J, Pordeus IA, Ramos-Jorge ML, Paiva SM. Prospective longitudinal study of signs and symptoms associated with primary tooth eruption. *Pediatrics.* 2011;128(3):471-476.](https://pubmed.ncbi.nlm.nih.gov/21422085/)
 
 **[安全性警告]**
 3. FDA Drug Safety Communication. Risk of serious and potentially fatal blood disorder prompts FDA action on oral over-the-counter benzocaine products. 2018.

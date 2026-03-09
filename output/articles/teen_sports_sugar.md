@@ -51,14 +51,14 @@
 - **Lussi et al.（2004）**: in vitro研究で、スポーツドリンクがエナメル質の表面硬度を有意に低下させることを報告
 - **Li et al.（2012）** メタアナリシス: 酸性飲料の摂取と歯の酸蝕に有意な関連（OR 2.4程度）
 
-> Lussi A, Jaeggi T, Zero D. The role of diet in the aetiology of dental erosion. *Caries Res.* 2004;38 Suppl 1:34-44.
+> [Lussi A, Jaeggi T, Zero D. The role of diet in the aetiology of dental erosion. *Caries Res.* 2004;38 Suppl 1:34-44.](https://pubmed.ncbi.nlm.nih.gov/15528913/)
 
 ### スポーツ選手の口腔健康
 
 - **Needleman et al.（2015）**: 2012年ロンドンオリンピック選手の調査。55%にむし歯、45%に酸蝕を確認。スポーツドリンクの頻回摂取が主要リスク因子
 - **Ashley et al.（2015）**: エリートアスリートの口腔健康に関するシステマティックレビュー。むし歯有病率は一般集団と同等〜高い
 
-> Needleman I, et al. *Br J Sports Med.* 2015;49(1):3-6.
+> [Needleman I, et al. *Br J Sports Med.* 2015;49(1):3-6.](https://pubmed.ncbi.nlm.nih.gov/26670460/)
 
 ---
 
@@ -118,12 +118,12 @@
 ### 参考文献
 
 **[酸蝕]**
-1. Lussi A, Jaeggi T, Zero D. The role of diet in the aetiology of dental erosion. *Caries Res.* 2004;38 Suppl 1:34-44.
-2. Li H, Zou Y, Ding G. Dietary factors associated with dental erosion: a meta-analysis. *PLoS One.* 2012;7(8):e42626.
+1. [Lussi A, Jaeggi T, Zero D. The role of diet in the aetiology of dental erosion. *Caries Res.* 2004;38 Suppl 1:34-44.](https://pubmed.ncbi.nlm.nih.gov/15528913/)
+2. [Li H, Zou Y, Ding G. Dietary factors associated with dental erosion: a meta-analysis. *PLoS One.* 2012;7(8):e42626.](https://pubmed.ncbi.nlm.nih.gov/23300931/)
 
 **[スポーツ選手の口腔健康]**
-3. Needleman I, Ashley P, Petrie A, et al. Oral health and impact on performance of athletes participating in the London 2012 Olympic Games. *Br J Sports Med.* 2015;49(1):3-6.
-4. Ashley P, Di Iorio A, Cole E, et al. Oral health of elite athletes and association with performance: a systematic review. *Br J Sports Med.* 2015;49(1):14-19.
+3. [Needleman I, Ashley P, Petrie A, et al. Oral health and impact on performance of athletes participating in the London 2012 Olympic Games. *Br J Sports Med.* 2015;49(1):3-6.](https://pubmed.ncbi.nlm.nih.gov/26670460/)
+4. [Ashley P, Di Iorio A, Cole E, et al. Oral health of elite athletes and association with performance: a systematic review. *Br J Sports Med.* 2015;49(1):14-19.](https://pubmed.ncbi.nlm.nih.gov/26670460/)
 
 **[日本のガイドライン]**
 5. 日本スポーツ栄養学会. スポーツ栄養ガイドブック.

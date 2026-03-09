@@ -53,7 +53,7 @@
 | **上顎歯列弓の狭窄** | 上あごが狭くなる | 上昇 |
 | **交叉咬合** | 奥歯の噛み合わせがずれる | 上昇 |
 
-> Borrie FRP, Bearn DR, Innes NPT, Iheozor-Ejiofor Z. Interventions for the cessation of non-nutritive sucking habits in children. *Cochrane Database Syst Rev.* 2015;(3):CD008694.
+> [Borrie FRP, Bearn DR, Innes NPT, Iheozor-Ejiofor Z. Interventions for the cessation of non-nutritive sucking habits in children. *Cochrane Database Syst Rev.* 2015;(3):CD008694.](https://pubmed.ncbi.nlm.nih.gov/25825863/)
 
 ### 「いつまでに」やめれば影響が少ないか
 
@@ -122,11 +122,11 @@
 ### 参考文献
 
 **[コクランレビュー]**
-1. Borrie FRP, Bearn DR, Innes NPT, Iheozor-Ejiofor Z. Interventions for the cessation of non-nutritive sucking habits in children. *Cochrane Database Syst Rev.* 2015;(3):CD008694.
+1. [Borrie FRP, Bearn DR, Innes NPT, Iheozor-Ejiofor Z. Interventions for the cessation of non-nutritive sucking habits in children. *Cochrane Database Syst Rev.* 2015;(3):CD008694.](https://pubmed.ncbi.nlm.nih.gov/25825863/)
 
 **[不正咬合との関連]**
-2. Warren JJ, Bishara SE, Steinbock KL, et al. Effects of oral habits' duration on dental characteristics in the primary dentition. *J Am Dent Assoc.* 2001;132(12):1685-1693.
-3. Peres KG, Barros AJD, Peres MA, Victora CG. Effects of breastfeeding and sucking habits on malocclusion in a birth cohort study. *Rev Saude Publica.* 2007;41(3):343-350.
+2. [Warren JJ, Bishara SE, Steinbock KL, et al. Effects of oral habits' duration on dental characteristics in the primary dentition. *J Am Dent Assoc.* 2001;132(12):1685-1693.](https://pubmed.ncbi.nlm.nih.gov/11780987/)
+3. [Peres KG, Barros AJD, Peres MA, Victora CG. Effects of breastfeeding and sucking habits on malocclusion in a birth cohort study. *Rev Saude Publica.* 2007;41(3):343-350.](https://pubmed.ncbi.nlm.nih.gov/17589750/)
 
 **[日本のガイドライン]**
 4. 日本小児歯科学会. 指しゃぶりについての考え方. ※3歳までは経過観察、4歳以降は対応を検討

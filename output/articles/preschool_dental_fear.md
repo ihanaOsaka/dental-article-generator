@@ -24,7 +24,7 @@
 | 学童期（6〜12歳） | 約10〜15% |
 | 成人 | 約10〜15%（うち2〜5%が歯科恐怖症レベル） |
 
-> Klingberg G, Broberg AG. *Eur Arch Paediatr Dent.* 2007;8(1):2-12.
+> [Klingberg G, Broberg AG. *Eur Arch Paediatr Dent.* 2007;8(1):2-12.](https://pubmed.ncbi.nlm.nih.gov/17935593/)
 
 ### 主なリスク因子
 
@@ -114,7 +114,7 @@
 - **Porritt et al.（2013）**: 認知行動療法が子どもの歯科恐怖の軽減に有効であることをシステマティックレビューで報告
 - 具体的には、リラクゼーション技法、段階的暴露、認知的再構成などの技法が用いられる
 
-> Porritt J, Buchanan H, Hall M, et al. Assessing children's dental anxiety: a systematic review of current measures. *Community Dent Oral Epidemiol.* 2013;41(2):130-142.
+> [Porritt J, Buchanan H, Hall M, et al. Assessing children's dental anxiety: a systematic review of current measures. *Community Dent Oral Epidemiol.* 2013;41(2):130-142.](https://pubmed.ncbi.nlm.nih.gov/22970833/)
 
 ### 小児歯科専門医への紹介
 
@@ -139,16 +139,16 @@
 ### 参考文献
 
 **[歯科恐怖の有病率とリスク因子]**
-1. Klingberg G, Broberg AG. Dental fear/anxiety and dental behaviour management problems in children and adolescents: a review of prevalence and concomitant psychological factors and treatment. *Int J Paediatr Dent.* 2007;17(6):391-406.
+1. [Klingberg G, Broberg AG. Dental fear/anxiety and dental behaviour management problems in children and adolescents: a review of prevalence and concomitant psychological factors and treatment. *Int J Paediatr Dent.* 2007;17(6):391-406.](https://pubmed.ncbi.nlm.nih.gov/17935593/)
 
 **[行動管理ガイドライン]**
 2. AAPD. Behavior guidance for the pediatric dental patient. *Pediatr Dent.* 2020;42(6):254-267.
 
 **[Tell-Show-Do]**
-3. Roberts JF, Curzon MEJ, Koch G, Martens LC. Behaviour management techniques in paediatric dentistry. *Eur Arch Paediatr Dent.* 2010;11(4):166-174.
+3. [Roberts JF, Curzon MEJ, Koch G, Martens LC. Behaviour management techniques in paediatric dentistry. *Eur Arch Paediatr Dent.* 2010;11(4):166-174.](https://pubmed.ncbi.nlm.nih.gov/21229810/)
 
 **[認知行動療法]**
-4. Porritt J, Buchanan H, Hall M, et al. Assessing children's dental anxiety: a systematic review of current measures. *Community Dent Oral Epidemiol.* 2013;41(2):130-142.
+4. [Porritt J, Buchanan H, Hall M, et al. Assessing children's dental anxiety: a systematic review of current measures. *Community Dent Oral Epidemiol.* 2013;41(2):130-142.](https://pubmed.ncbi.nlm.nih.gov/22970833/)
 
 **[親の影響]**
-5. Themessl-Huber M, Freeman R, Humphris G, et al. Empirical evidence of the relationship between parental and child dental fear: a structured review and meta-analysis. *Int J Paediatr Dent.* 2010;20(2):83-101.
+5. [Themessl-Huber M, Freeman R, Humphris G, et al. Empirical evidence of the relationship between parental and child dental fear: a structured review and meta-analysis. *Int J Paediatr Dent.* 2010;20(2):83-101.](https://pubmed.ncbi.nlm.nih.gov/20384823/)

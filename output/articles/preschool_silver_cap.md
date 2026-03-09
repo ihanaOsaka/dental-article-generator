@@ -61,7 +61,7 @@
 - **SSCの失敗率は通常の詰め物（コンポジットレジン、アマルガム）より有意に低い**
 - 複数の研究で、SSCの**5年累積生存率は97%**、一方で詰め物は**50〜80%**
 
-> Innes NPT, Ricketts D, Chong LY, et al. Preformed crowns for decayed primary molar teeth. *Cochrane Database Syst Rev.* 2015;(12):CD005512.
+> [Innes NPT, Ricketts D, Chong LY, et al. Preformed crowns for decayed primary molar teeth. *Cochrane Database Syst Rev.* 2015;(12):CD005512.](https://pubmed.ncbi.nlm.nih.gov/26718872/)
 
 ### 通常法 vs Hall テクニック
 
@@ -79,7 +79,7 @@
 - **子どもの不快感が有意に低い**（麻酔・切削不要のため）
 - 「むし歯を削らずに被せるだけで大丈夫？」→ **冠による密封がむし歯の進行を止める**。むし歯の原因菌を封じ込めるメカニズム
 
-> Innes NP, Evans DJ, Stirrups DR. Sealing caries in primary molars: randomized control trial, 5-year results. *J Dent Res.* 2011;90(12):1405-1410.
+> [Innes NP, Evans DJ, Stirrups DR. Sealing caries in primary molars: randomized control trial, 5-year results. *J Dent Res.* 2011;90(12):1405-1410.](https://pubmed.ncbi.nlm.nih.gov/21921249/)
 
 ---
 
@@ -131,11 +131,11 @@
 ### 参考文献
 
 **[コクランレビュー]**
-1. Innes NPT, Ricketts D, Chong LY, et al. Preformed crowns for decayed primary molar teeth. *Cochrane Database Syst Rev.* 2015;(12):CD005512.
+1. [Innes NPT, Ricketts D, Chong LY, et al. Preformed crowns for decayed primary molar teeth. *Cochrane Database Syst Rev.* 2015;(12):CD005512.](https://pubmed.ncbi.nlm.nih.gov/26718872/)
 
 **[Hall テクニック]**
-2. Innes NP, Evans DJ, Stirrups DR. Sealing caries in primary molars: randomized control trial, 5-year results. *J Dent Res.* 2011;90(12):1405-1410. ※Hall 97% vs 詰め物 81%
-3. Innes NPT, Evans DJP, Bonifacio CC, et al. The Hall technique 10 years on: questions and answers. *Br Dent J.* 2017;222(6):478-483.
+2. [Innes NP, Evans DJ, Stirrups DR. Sealing caries in primary molars: randomized control trial, 5-year results. *J Dent Res.* 2011;90(12):1405-1410.](https://pubmed.ncbi.nlm.nih.gov/21921249/) ※Hall 97% vs 詰め物 81%
+3. [Innes NPT, Evans DJP, Bonifacio CC, et al. The Hall technique 10 years on: questions and answers. *Br Dent J.* 2017;222(6):478-483.](https://pubmed.ncbi.nlm.nih.gov/28798464/)
 
 **[ガイドライン]**
 4. AAPD. Guideline on restorative dentistry. *Pediatr Dent.* 2020.

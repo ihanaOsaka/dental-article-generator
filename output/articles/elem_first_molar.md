@@ -68,7 +68,7 @@
 - **症状**: 歯の表面に白濁・黄色・茶色の斑点。重度では崩れやすい
 - **原因**: 不明（胎児期〜3歳頃の全身的要因が関与と推測。発熱性疾患、抗生物質等）
 
-> Zhao D, et al. *J Evid Based Dent Pract.* 2018;18(1):1-11.
+> [Zhao D, et al. *J Evid Based Dent Pract.* 2018;18(1):1-11.](https://pubmed.ncbi.nlm.nih.gov/28732120/)
 
 ### MIHがあると
 
@@ -118,10 +118,10 @@
 1. Ahovuo-Saloranta A, et al. Pit and fissure sealants for preventing dental decay in permanent teeth. *Cochrane Database Syst Rev.* 2017;(7):CD001830.
 
 **[MIH]**
-2. Zhao D, Dong B, Yu D, et al. The prevalence of molar incisor hypomineralization: evidence from 70 studies. *Int J Paediatr Dent.* 2018;28(2):170-179. ※有病率約14%
+2. [Zhao D, Dong B, Yu D, et al. The prevalence of molar incisor hypomineralization: evidence from 70 studies. *Int J Paediatr Dent.* 2018;28(2):170-179.](https://pubmed.ncbi.nlm.nih.gov/28732120/) ※有病率約14%
 
 **[6歳臼歯のむし歯リスク]**
-3. Mejàre I, Stenlund H, Zelezny-Holmlund C. Caries incidence and lesion progression from adolescence to young adulthood: a prospective 15-year cohort study in Sweden. *Caries Res.* 2004;38(2):130-141.
+3. [Mejàre I, Stenlund H, Zelezny-Holmlund C. Caries incidence and lesion progression from adolescence to young adulthood: a prospective 15-year cohort study in Sweden. *Caries Res.* 2004;38(2):130-141.](https://pubmed.ncbi.nlm.nih.gov/14767170/)
 
 **[仕上げ磨き]**
 4. dos Santos APP, Nadanovsky P, de Oliveira BH. A systematic review and meta-analysis of the effects of fluoride toothpastes on the prevention of dental caries in the primary dentition of preschool children. *Community Dent Oral Epidemiol.* 2013;41(1):1-12.

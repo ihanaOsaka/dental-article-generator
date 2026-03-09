@@ -195,20 +195,20 @@ de Sousaのメタアナリシスをよく読むと：
 ### 参考文献
 
 **[APFジェル]**
-1. Marinho VCC, Worthington HV, Walsh T, Chong LY. Fluoride gels for preventing dental caries in children and adolescents. *Cochrane Database Syst Rev.* 2015;(6):CD002280.
+1. [Marinho VCC, Worthington HV, Walsh T, Chong LY. Fluoride gels for preventing dental caries in children and adolescents. *Cochrane Database Syst Rev.* 2015;(6):CD002280.](https://pubmed.ncbi.nlm.nih.gov/26075879/)
 
 **[バーニッシュ — メタアナリシス]**
-2. Marinho VCC, Worthington HV, Walsh T, Clarkson JE. Fluoride varnishes for preventing dental caries in children and adolescents. *Cochrane Database Syst Rev.* 2013;(7):CD002279. ※2013年以降未更新
+2. [Marinho VCC, Worthington HV, Walsh T, Clarkson JE. Fluoride varnishes for preventing dental caries in children and adolescents. *Cochrane Database Syst Rev.* 2013;(7):CD002279.](https://pubmed.ncbi.nlm.nih.gov/23846772/) ※2013年以降未更新
 3. de Sousa FSO, dos Santos APP, Nadanovsky P, et al. Fluoride varnish and dental caries in preschoolers: a systematic review and meta-analysis. *Caries Res.* 2019;53(5):502-513. ※著者結論: "modest and uncertain anticaries effect"
 
 **[バーニッシュ — 最近のRCT（効果を示せなかった研究）]**
-4. Tickle M, et al. A randomised controlled trial to measure the effects and costs of a dental caries prevention regime for young children attending primary care dental services: the Northern Ireland Caries Prevention In Practice (NIC PIP) trial. *Health Technol Assess.* 2016;20(71). ※N=1,248。「効果的でも費用対効果的でもなかった」
+4. [Tickle M, et al. A randomised controlled trial to measure the effects and costs of a dental caries prevention regime for young children attending primary care dental services: the Northern Ireland Caries Prevention In Practice (NIC PIP) trial. *Health Technol Assess.* 2016;20(71).](https://pubmed.ncbi.nlm.nih.gov/27685609/) ※N=1,248。「効果的でも費用対効果的でもなかった」
 5. McMahon AD, et al. The Protecting Teeth @3 (PT@3) trial: a randomised controlled trial of the effect of fluoride varnish application. *J Dent Res.* 2020;99(12):1356-1363. ※二重盲検RCT。有意な効果なし。NNT=21
 
 **[国際ガイドライン]** ※いずれもバーニッシュに対する推奨
 6. WHO. WHO guidelines on the prevention and management of dental caries. 2025.
 7. ADA Council on Scientific Affairs. Professionally applied topical fluoride: evidence-based clinical recommendations. *J Am Dent Assoc.* 2006;137(8):1151-1159. (Updated 2013)
-8. USPSTF. Prevention of Dental Caries in Children Younger Than 5 Years. 2021.
+8. [USPSTF. Prevention of Dental Caries in Children Younger Than 5 Years. 2021.](https://pubmed.ncbi.nlm.nih.gov/34874413/)
 
 **[日本のガイドライン]**
 9. 日本口腔衛生学会ほか4学会. フッ化物配合歯磨剤の推奨される利用方法について. 2023年1月. ※歯磨き粉の推奨濃度
@@ -216,5 +216,5 @@ de Sousaのメタアナリシスをよく読むと：
 11. 日本小児歯科学会. PFASと歯科で使用する無機フッ素化合物について. 2023年3月.
 
 **[直接比較]**
-12. Seppä L, et al. A 3-year comparison of fluoride varnish and fluoride gel for preventing dental caries. *Acta Odontol Scand.* 1995;53(5). ※唯一の直接比較RCT。有意差なし
-13. Marinho VCC, et al. One topical fluoride (toothpastes, or mouthrinses, or gels, or varnishes) versus another for preventing dental caries. *Cochrane Database Syst Rev.* 2004;(1):CD002780.
+12. [Seppä L, et al. A 3-year comparison of fluoride varnish and fluoride gel for preventing dental caries. *Acta Odontol Scand.* 1995;53(5).](https://pubmed.ncbi.nlm.nih.gov/7485852/) ※唯一の直接比較RCT。有意差なし
+13. [Marinho VCC, et al. One topical fluoride (toothpastes, or mouthrinses, or gels, or varnishes) versus another for preventing dental caries. *Cochrane Database Syst Rev.* 2004;(1):CD002780.](https://pubmed.ncbi.nlm.nih.gov/14973992/)

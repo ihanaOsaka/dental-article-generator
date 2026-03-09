@@ -48,7 +48,7 @@
 
 > "There is low quality evidence to suggest that fluoride toothpaste containing xylitol may be more effective than fluoride-only toothpaste for preventing caries in the permanent teeth of children, and very low quality evidence for other xylitol products. Manufacturers need to demonstrate cost-effectiveness."
 
-> Riley P, et al. *Cochrane Database Syst Rev.* 2015;(3):CD010743.
+> [Riley P, et al. *Cochrane Database Syst Rev.* 2015;(3):CD010743.](https://pubmed.ncbi.nlm.nih.gov/26695736/)
 
 ---
 
@@ -120,10 +120,10 @@
 ### 参考文献
 
 **[コクランレビュー]**
-1. Riley P, Moore D, Ahmed F, et al. Xylitol-containing products for preventing dental caries in children and adults. *Cochrane Database Syst Rev.* 2015;(3):CD010743. ※エビデンスの質：低〜非常に低い
+1. [Riley P, Moore D, Ahmed F, et al. Xylitol-containing products for preventing dental caries in children and adults. *Cochrane Database Syst Rev.* 2015;(3):CD010743.](https://pubmed.ncbi.nlm.nih.gov/26695736/) ※エビデンスの質：低〜非常に低い
 
 **[EFSA]**
-2. EFSA Panel on Dietetic Products, Nutrition and Allergies. Scientific opinion on the substantiation of a health claim related to sugar-free chewing gum and dental and gum health. *EFSA J.* 2011;9(4):2072.
+2. [EFSA Panel on Dietetic Products, Nutrition and Allergies. Scientific opinion on the substantiation of a health claim related to sugar-free chewing gum and dental and gum health. *EFSA J.* 2011;9(4):2072.](https://pubmed.ncbi.nlm.nih.gov/32626029/)
 
 **[批判的レビュー]**
-3. Marghalani AA, Guinto E, Phan M, et al. Effectiveness of xylitol in reducing dental caries in children. *Pediatr Dent.* 2017;39(2):103-110.
+3. [Marghalani AA, Guinto E, Phan M, et al. Effectiveness of xylitol in reducing dental caries in children. *Pediatr Dent.* 2017;39(2):103-110.](https://pubmed.ncbi.nlm.nih.gov/29070150/)

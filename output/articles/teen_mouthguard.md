@@ -43,13 +43,13 @@
 - ラグビー、バスケットボール、ハンドボールでの効果が特に顕著
 - ただし、研究の多くは観察研究であり、RCTは少ない
 
-> Fernandes LM, et al. *Dent Traumatol.* 2019;35(1):3-11.
+> [Fernandes LM, et al. *Dent Traumatol.* 2019;35(1):3-11.](https://pubmed.ncbi.nlm.nih.gov/30222244/)
 
 ### Knapik et al.（2007）メタアナリシス
 
 - マウスガード非装着者のオーラル・フェイシャル外傷リスクは**1.86倍**（95%CI: 1.33-2.59）
 
-> Knapik JJ, et al. *J Athl Train.* 2007;42(1):143-149.
+> [Knapik JJ, et al. *J Athl Train.* 2007;42(1):143-149.](https://pubmed.ncbi.nlm.nih.gov/17241103/)
 
 ---
 
@@ -116,6 +116,6 @@
 
 ### 参考文献
 
-1. Fernandes LM, Neto JCL, Lima TFR, et al. The use of mouthguards and prevalence of dento-alveolar trauma among athletes: a systematic review and meta-analysis. *Dent Traumatol.* 2019;35(1):3-11.
-2. Knapik JJ, Marshall SW, Lee RB, et al. Mouthguards in sport activities: history, physical properties and injury prevention effectiveness. *Sports Med.* 2007;37(2):117-144.
+1. [Fernandes LM, Neto JCL, Lima TFR, et al. The use of mouthguards and prevalence of dento-alveolar trauma among athletes: a systematic review and meta-analysis. *Dent Traumatol.* 2019;35(1):3-11.](https://pubmed.ncbi.nlm.nih.gov/30222244/)
+2. [Knapik JJ, Marshall SW, Lee RB, et al. Mouthguards in sport activities: history, physical properties and injury prevention effectiveness. *Sports Med.* 2007;37(2):117-144.](https://pubmed.ncbi.nlm.nih.gov/17241103/)
 3. ADA Council on Access, Prevention and Interprofessional Relations; ADA Council on Scientific Affairs. Using mouthguards to reduce the incidence and severity of sports-related oral injuries. *J Am Dent Assoc.* 2006;137(12):1712-1720.

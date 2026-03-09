@@ -127,7 +127,7 @@
 1. Ahovuo-Saloranta A, Forss H, Walsh T, et al. Pit and fissure sealants for preventing dental decay in permanent teeth. *Cochrane Database Syst Rev.* 2017;(7):CD001830. ※38 RCTs, 78%リスク低減（2年）
 
 **[ADAガイドライン]**
-2. Wright JT, Crall JJ, Fontana M, et al. Evidence-based clinical practice guideline for the use of pit-and-fissure sealants. *J Am Dent Assoc.* 2016;147(8):672-682.e12.
+2. [Wright JT, Crall JJ, Fontana M, et al. Evidence-based clinical practice guideline for the use of pit-and-fissure sealants. *J Am Dent Assoc.* 2016;147(8):672-682.e12.](https://pubmed.ncbi.nlm.nih.gov/27470525/)
 
 **[安全性]**
 3. ADA Council on Scientific Affairs. The safety of dental sealants. *J Am Dent Assoc.* 2016;147(5):352-357.

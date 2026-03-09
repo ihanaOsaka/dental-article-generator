@@ -86,5 +86,5 @@
 
 ### 参考文献
 
-1. AlQahtani SJ, Hector MP, Liversidge HM. Brief communication: The London atlas of human tooth development and eruption. *Am J Phys Anthropol.* 2010;142(3):481-490.
-2. Suri L, Gagari E, Vastardis H. Delayed tooth eruption: pathogenesis, diagnosis, and treatment. A literature review. *Am J Orthod Dentofacial Orthop.* 2004;126(4):432-445.
+1. [AlQahtani SJ, Hector MP, Liversidge HM. Brief communication: The London atlas of human tooth development and eruption. *Am J Phys Anthropol.* 2010;142(3):481-490.](https://pubmed.ncbi.nlm.nih.gov/20310064/)
+2. [Suri L, Gagari E, Vastardis H. Delayed tooth eruption: pathogenesis, diagnosis, and treatment. A literature review. *Am J Orthod Dentofacial Orthop.* 2004;126(4):432-445.](https://pubmed.ncbi.nlm.nih.gov/15470346/)

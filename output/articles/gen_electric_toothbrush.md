@@ -34,7 +34,7 @@
 - **エビデンスの質は「中程度」** — バイアスリスクの高い研究を含む
 - ほとんどの研究が**成人を対象** — 子ども単独のデータは少ない
 
-> Yaacob M, et al. *Cochrane Database Syst Rev.* 2014;(6):CD002281.
+> [Yaacob M, et al. *Cochrane Database Syst Rev.* 2014;(6):CD002281.](https://pubmed.ncbi.nlm.nih.gov/24934383/)
 
 ---
 
@@ -107,5 +107,5 @@
 
 ### 参考文献
 
-1. Yaacob M, Worthington HV, Deacon SA, et al. Powered versus manual toothbrushing for oral health. *Cochrane Database Syst Rev.* 2014;(6):CD002281. ※56 RCTs, 回転振動式が最もエビデンス豊富
-2. Against KG, Prior C, Tsakos G, Aida J, et al. Powered toothbrushes compared to manual toothbrushes for maintaining oral health. *J Clin Periodontol.* 2020;47 Suppl 22:139-147.
+1. [Yaacob M, Worthington HV, Deacon SA, et al. Powered versus manual toothbrushing for oral health. *Cochrane Database Syst Rev.* 2014;(6):CD002281.](https://pubmed.ncbi.nlm.nih.gov/24934383/) ※56 RCTs, 回転振動式が最もエビデンス豊富
+2. [Against KG, Prior C, Tsakos G, Aida J, et al. Powered toothbrushes compared to manual toothbrushes for maintaining oral health. *J Clin Periodontol.* 2020;47 Suppl 22:139-147.](https://pubmed.ncbi.nlm.nih.gov/39377078/)

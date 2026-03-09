@@ -38,7 +38,7 @@
 | 性差 | やや女性に多いとする報告あり |
 | 好発年齢 | 全年齢。小児では2〜6歳に多い |
 
-> Picciani BLS, et al. *An Bras Dermatol.* 2016;91(4):406-411.
+> [Picciani BLS, et al. *An Bras Dermatol.* 2016;91(4):406-411.](https://pubmed.ncbi.nlm.nih.gov/27579734/)
 
 ---
 
@@ -59,7 +59,7 @@
 | **ビタミンB12・鉄・亜鉛欠乏** | 不確実 — 一部の報告のみ |
 | **遺伝** | 家族内集積の報告あり |
 
-> Jainkittivong A, Langlais RP. *Oral Surg Oral Med Oral Pathol Oral Radiol Endod.* 2005;99(1):42-46.
+> [Jainkittivong A, Langlais RP. *Oral Surg Oral Med Oral Pathol Oral Radiol Endod.* 2005;99(1):42-46.](https://pubmed.ncbi.nlm.nih.gov/15719084/)
 
 ---
 
@@ -131,14 +131,14 @@
 ### 参考文献
 
 **[総説・有病率]**
-1. Picciani BLS, Souza TT, Santos VC, et al. Geographic tongue and psoriasis: clinical, histopathological, immunohistochemical and genetic correlation. *An Bras Dermatol.* 2016;91(4):406-411.
-2. Jainkittivong A, Langlais RP. Geographic tongue: clinical characteristics of 188 cases. *J Contemp Dent Pract.* 2005;6(1):123-135.
+1. [Picciani BLS, Souza TT, Santos VC, et al. Geographic tongue and psoriasis: clinical, histopathological, immunohistochemical and genetic correlation. *An Bras Dermatol.* 2016;91(4):406-411.](https://pubmed.ncbi.nlm.nih.gov/27579734/)
+2. [Jainkittivong A, Langlais RP. Geographic tongue: clinical characteristics of 188 cases. *J Contemp Dent Pract.* 2005;6(1):123-135.](https://pubmed.ncbi.nlm.nih.gov/15719084/)
 
 **[病因]**
-3. Assimakopoulos D, Patrikakos G, Fotika C, Elisaf M. Benign migratory glossitis or geographic tongue: an enigmatic oral lesion. *Am J Med.* 2002;113(9):751-755.
+3. [Assimakopoulos D, Patrikakos G, Fotika C, Elisaf M. Benign migratory glossitis or geographic tongue: an enigmatic oral lesion. *Am J Med.* 2002;113(9):751-755.](https://pubmed.ncbi.nlm.nih.gov/12517366/)
 
 **[乾癬との関連]**
-4. Gonzaga HFS, Torres EA, Alchorne MMA, Gerbase-DeLima M. Both psoriasis and benign migratory glossitis are associated with HLA-Cw6. *Br J Dermatol.* 1996;135(3):368-370.
+4. [Gonzaga HFS, Torres EA, Alchorne MMA, Gerbase-DeLima M. Both psoriasis and benign migratory glossitis are associated with HLA-Cw6. *Br J Dermatol.* 1996;135(3):368-370.](https://pubmed.ncbi.nlm.nih.gov/8949427/)
 
 **[小児口腔粘膜疾患]**
-5. Shulman JD. Prevalence of oral mucosal lesions in children and youths in the USA. *Int J Paediatr Dent.* 2005;15(2):89-97.
+5. [Shulman JD. Prevalence of oral mucosal lesions in children and youths in the USA. *Int J Paediatr Dent.* 2005;15(2):89-97.](https://pubmed.ncbi.nlm.nih.gov/15790365/)

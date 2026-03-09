@@ -90,7 +90,7 @@
 - **60分を超える**と予後が著しく悪化
 - **歯根膜が乾燥すると再植しても予後不良**
 
-> Fouad AF, et al. International Association of Dental Traumatology guidelines for the management of traumatic dental injuries. *Dent Traumatol.* 2020;36(4):331-342.
+> [Fouad AF, et al. International Association of Dental Traumatology guidelines for the management of traumatic dental injuries. *Dent Traumatol.* 2020;36(4):331-342.](https://pubmed.ncbi.nlm.nih.gov/32475015/)
 
 ---
 
@@ -141,11 +141,11 @@
 ### 参考文献
 
 **[IADTガイドライン]**
-1. Fouad AF, Abbott PV, Tsilingaridis G, et al. International Association of Dental Traumatology guidelines for the management of traumatic dental injuries: 2. Avulsion of permanent teeth. *Dent Traumatol.* 2020;36(4):331-342.
-2. Levin L, Day PF, Hicks L, et al. International Association of Dental Traumatology guidelines for the management of traumatic dental injuries: General introduction. *Dent Traumatol.* 2020;36(4):309-313.
+1. [Fouad AF, Abbott PV, Tsilingaridis G, et al. International Association of Dental Traumatology guidelines for the management of traumatic dental injuries: 2. Avulsion of permanent teeth. *Dent Traumatol.* 2020;36(4):331-342.](https://pubmed.ncbi.nlm.nih.gov/32475015/)
+2. [Levin L, Day PF, Hicks L, et al. International Association of Dental Traumatology guidelines for the management of traumatic dental injuries: General introduction. *Dent Traumatol.* 2020;36(4):309-313.](https://pubmed.ncbi.nlm.nih.gov/32959640/)
 
 **[乳歯外傷と永久歯への影響]**
-3. Holan G, Needleman HL. Premature loss of primary anterior teeth due to trauma — potential short- and long-term sequelae. *Dent Traumatol.* 2014;30(2):100-106.
+3. [Holan G, Needleman HL. Premature loss of primary anterior teeth due to trauma — potential short- and long-term sequelae. *Dent Traumatol.* 2014;30(2):100-106.](https://pubmed.ncbi.nlm.nih.gov/24138100/)
 
 **[疫学]**
-4. Petti S, Glendor U, Andersson L. World traumatic dental injury prevalence and incidence, a meta-analysis — One billion living people have had traumatic dental injuries. *Dent Traumatol.* 2018;34(2):71-86.
+4. [Petti S, Glendor U, Andersson L. World traumatic dental injury prevalence and incidence, a meta-analysis — One billion living people have had traumatic dental injuries. *Dent Traumatol.* 2018;34(2):71-86.](https://pubmed.ncbi.nlm.nih.gov/29455471/)

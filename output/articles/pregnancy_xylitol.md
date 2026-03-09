@@ -37,7 +37,7 @@
 - **6年後追跡（2001年）**: キシリトール群のむし歯菌レベルは依然として有意に低い
 - **10年後追跡**: むし歯なしの中央年齢は、キシリトール群8.2歳 vs 対照群5.8歳（p=0.005）
 
-> Söderling E, et al. *J Dent Res.* 2000;79(3):882-7. / *J Dent Res.* 2001;80(8):1885-9.
+> [Söderling E, et al. *J Dent Res.* 2000;79(3):882-7. / *J Dent Res.* 2001;80(8):1885-9.](https://pubmed.ncbi.nlm.nih.gov/11145360/)
 
 ### 日本での追試：Nakai研究（2010年, 岡山大学）
 
@@ -45,7 +45,7 @@
 - **介入**: 妊娠6ヶ月から産後13ヶ月まで、キシリトールガム（平均3.8g/日）vs 対照
 - **結果**: キシリトール群の子どもはむし歯菌の獲得が有意に遅く、対照群より**平均8.8ヶ月遅れ**でむし歯菌が定着
 
-> Nakai Y, et al. *J Dent Res.* 2010;89(1):56-60.
+> [Nakai Y, et al. *J Dent Res.* 2010;89(1):56-60.](https://pubmed.ncbi.nlm.nih.gov/19948944/)
 
 ### メタアナリシス：Lin et al.（2016）
 
@@ -56,7 +56,7 @@
 
 つまり、むし歯菌の感染リスクを**約半分に減らす可能性**がある——数字だけ見れば印象的です。
 
-> Lin TH, et al. *Int J Paediatr Dent.* 2016;26(1):35-44.
+> [Lin TH, et al. *Int J Paediatr Dent.* 2016;26(1):35-44.](https://pubmed.ncbi.nlm.nih.gov/25684114/)
 
 ---
 
@@ -66,7 +66,7 @@
 
 キシリトール含有製品のむし歯予防効果に関するコクランレビュー（Riley et al., 2015）は、全体のエビデンスを**「低〜非常に低い」**と評価しました。確実な結論を導くには不十分、としています。
 
-> Riley P, et al. *Cochrane Database Syst Rev.* 2015;(3):CD010743.
+> [Riley P, et al. *Cochrane Database Syst Rev.* 2015;(3):CD010743.](https://pubmed.ncbi.nlm.nih.gov/26695736/)
 
 ### サンプルサイズの問題
 
@@ -80,7 +80,7 @@
 
 最も懸念すべきデータがあります。フィンランドの追跡研究で、**10歳時点では実験群と対照群のむし歯に有意差がなかった**のです（Laitala et al., 2013）。つまり、幼児期に見られたむし歯菌抑制効果は、長期的なむし歯予防には結びつかなかった可能性があります。
 
-> Laitala ML, et al. *Caries Res.* 2013;47(6):482-7.
+> [Laitala ML, et al. *Caries Res.* 2013;47(6):482-7.](https://pubmed.ncbi.nlm.nih.gov/24314305/)
 
 ### AAPDの慎重な姿勢
 
@@ -150,17 +150,17 @@
 ### 参考文献
 
 **[母子感染とキシリトール — RCT]**
-1. Söderling E, Isokangas P, Pienihäkkinen K, Tenovuo J. Influence of maternal xylitol consumption on acquisition of mutans streptococci by infants. *J Dent Res.* 2000;79(3):882-887.
-2. Söderling E, Isokangas P, Pienihäkkinen K, et al. Influence of maternal xylitol consumption on mother-child transmission of mutans streptococci: 6-year follow-up. *Caries Res.* 2001;35(3):173-177.
-3. Nakai Y, Shinga-Ishihara C, Kaji M, et al. Xylitol gum and maternal transmission of mutans streptococci. *J Dent Res.* 2010;89(1):56-60. ※日本（岡山大学）での追試
+1. [Söderling E, Isokangas P, Pienihäkkinen K, Tenovuo J. Influence of maternal xylitol consumption on acquisition of mutans streptococci by infants. *J Dent Res.* 2000;79(3):882-887.](https://pubmed.ncbi.nlm.nih.gov/11145360/)
+2. [Söderling E, Isokangas P, Pienihäkkinen K, et al. Influence of maternal xylitol consumption on mother-child transmission of mutans streptococci: 6-year follow-up. *Caries Res.* 2001;35(3):173-177.](https://pubmed.ncbi.nlm.nih.gov/11385196/)
+3. [Nakai Y, Shinga-Ishihara C, Kaji M, et al. Xylitol gum and maternal transmission of mutans streptococci. *J Dent Res.* 2010;89(1):56-60.](https://pubmed.ncbi.nlm.nih.gov/19948944/) ※日本（岡山大学）での追試
 
 **[メタアナリシス・システマティックレビュー]**
-4. Lin TH, Lin CH, Pan TM. The implication of probiotics in the prevention of dental caries. *Int J Paediatr Dent.* 2016;26(1):35-44. ※11 RCTs, N=601, RR=0.54
-5. Riley P, Moore D, Ahmed F, et al. Xylitol-containing products for preventing dental caries in children and adults. *Cochrane Database Syst Rev.* 2015;(3):CD010743. ※エビデンスの質：低〜非常に低い
+4. [Lin TH, Lin CH, Pan TM. The implication of probiotics in the prevention of dental caries. *Int J Paediatr Dent.* 2016;26(1):35-44.](https://pubmed.ncbi.nlm.nih.gov/25684114/) ※11 RCTs, N=601, RR=0.54
+5. [Riley P, Moore D, Ahmed F, et al. Xylitol-containing products for preventing dental caries in children and adults. *Cochrane Database Syst Rev.* 2015;(3):CD010743.](https://pubmed.ncbi.nlm.nih.gov/26695736/) ※エビデンスの質：低〜非常に低い
 6. ALHumaid J, Bamashmous M. Meta-analysis on the effectiveness of xylitol in reducing dental caries. *BMC Oral Health.* 2022;22:147.
 
 **[長期効果の限界]**
-7. Laitala ML, Alanen P, Isokangas P, et al. Long-term effects of maternal prevention on children's dental decay and need for restorative treatment. *Caries Res.* 2013;47(6):482-487. ※10歳時点で有意差消失
+7. [Laitala ML, Alanen P, Isokangas P, et al. Long-term effects of maternal prevention on children's dental decay and need for restorative treatment. *Caries Res.* 2013;47(6):482-487.](https://pubmed.ncbi.nlm.nih.gov/24314305/) ※10歳時点で有意差消失
 
 **[ガイドライン]**
 8. AAPD. Policy on the use of xylitol. *Pediatr Dent.* 2023;45(6). ※「エビデンスは一貫していない」

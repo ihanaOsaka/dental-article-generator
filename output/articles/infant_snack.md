@@ -141,4 +141,4 @@
 4. [WHO. Guideline: Sugars intake for adults and children. Geneva: World Health Organization; 2015.](https://www.who.int/publications/i/item/9789241549028)
 
 **[ステファンカーブ]**
-5. Stephan RM. Changes in hydrogen-ion concentration on tooth surfaces and in carious lesions. *J Am Dent Assoc.* 1940;27:718-723. ※1940年の論文のためPubMed非収録
+5. [Stephan RM. Changes in hydrogen-ion concentration on tooth surfaces and in carious lesions. *J Am Dent Assoc.* 1940;27:718-723.](https://pubmed.ncbi.nlm.nih.gov/17757704/) ※1940年の論文のためPubMed非収録

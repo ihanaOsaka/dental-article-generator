@@ -40,7 +40,7 @@
 - **質の高いRCTが1件のみ**で、確定的な結論は出せない
 - 「将来問題を起こすかもしれない」という理由での抜歯は、エビデンスに基づかない
 
-> Mettes TG, et al. *Cochrane Database Syst Rev.* 2012;(6):CD003879.
+> [Mettes TG, et al. *Cochrane Database Syst Rev.* 2012;(6):CD003879.](https://pubmed.ncbi.nlm.nih.gov/22696337/)
 
 ### NICE ガイドライン（英国, 2000年〜）
 
@@ -103,10 +103,10 @@
 ### 参考文献
 
 **[コクランレビュー]**
-1. Mettes TG, Ghaeminia H, Nienhuijs MEL, et al. Surgical removal versus retention for the management of asymptomatic impacted wisdom teeth. *Cochrane Database Syst Rev.* 2012;(6):CD003879.
+1. [Mettes TG, Ghaeminia H, Nienhuijs MEL, et al. Surgical removal versus retention for the management of asymptomatic impacted wisdom teeth. *Cochrane Database Syst Rev.* 2012;(6):CD003879.](https://pubmed.ncbi.nlm.nih.gov/22696337/)
 
 **[NICEガイドライン]**
 2. NICE. Guidance on the extraction of wisdom teeth. Technology Appraisal No. 1. 2000.
 
 **[抜歯のリスク]**
-3. Renton T, Yilmaz Z, Gaballah K. Evaluation of trigeminal nerve injuries in relation to third molar surgery in a prospective patient cohort. *Int J Oral Maxillofac Surg.* 2012;41(4):524-530.
+3. [Renton T, Yilmaz Z, Gaballah K. Evaluation of trigeminal nerve injuries in relation to third molar surgery in a prospective patient cohort. *Int J Oral Maxillofac Surg.* 2012;41(4):524-530.](https://pubmed.ncbi.nlm.nih.gov/23017786/)

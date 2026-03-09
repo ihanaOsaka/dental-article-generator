@@ -118,6 +118,6 @@
 
 ### 参考文献
 
-1. Grippaudo C, Paolantonio EG, Antonini G, et al. Association between oral habits, mouth breathing and malocclusion. *Acta Otorhinolaryngol Ital.* 2016;36(5):386-394.
-2. Harvold EP, Tomer BS, Vargervik K, Chierici G. Primate experiments on oral respiration. *Am J Orthod.* 1981;79(4):359-372. ※サル実験。口呼吸の実験的誘導で不正咬合が発生
-3. Lione R, Buongiorno M, Franchi L, Cozza P. Evaluation of maxillary arch dimensions and palatal morphology in mouth-breathing children by using digital dental casts. *Int J Pediatr Otorhinolaryngol.* 2014;78(1):91-95.
+1. [Grippaudo C, Paolantonio EG, Antonini G, et al. Association between oral habits, mouth breathing and malocclusion. *Acta Otorhinolaryngol Ital.* 2016;36(5):386-394.](https://pubmed.ncbi.nlm.nih.gov/28177331/)
+2. [Harvold EP, Tomer BS, Vargervik K, Chierici G. Primate experiments on oral respiration. *Am J Orthod.* 1981;79(4):359-372.](https://pubmed.ncbi.nlm.nih.gov/6939331/) ※サル実験。口呼吸の実験的誘導で不正咬合が発生
+3. [Lione R, Buongiorno M, Franchi L, Cozza P. Evaluation of maxillary arch dimensions and palatal morphology in mouth-breathing children by using digital dental casts. *Int J Pediatr Otorhinolaryngol.* 2014;78(1):91-95.](https://pubmed.ncbi.nlm.nih.gov/24300946/)

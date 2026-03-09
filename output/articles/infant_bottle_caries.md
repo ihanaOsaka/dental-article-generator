@@ -42,7 +42,7 @@
 - **哺乳びんでの寝かしつけ（ミルク含む）** — 睡眠中は唾液分泌が減少し、口腔内の自浄作用が低下。糖質が歯面に長時間接触
 - **1歳以降の哺乳びん使用の継続** — AAPDは12ヶ月でのコップへの移行を推奨
 
-> Avila WM, et al. *Arch Oral Biol.* 2015;60(7):1019-1025.
+> [Avila WM, et al. *Arch Oral Biol.* 2015;60(7):1019-1025.](https://pubmed.ncbi.nlm.nih.gov/26710100/)
 
 ### 母乳に関するエビデンス — より複雑な問題
 
@@ -56,7 +56,7 @@
 - **12ヶ月以降の継続授乳**: ECCリスクが**上昇する傾向**（ただし交絡因子の調整が不十分な研究が多い）
 - **夜間の頻回授乳**: リスクとして報告されている
 
-> Tham R, et al. *Acta Paediatr.* 2015;104(467):62-84.
+> [Tham R, et al. *Acta Paediatr.* 2015;104(467):62-84.](https://pubmed.ncbi.nlm.nih.gov/26265016/)
 
 #### 母乳のう蝕原性
 
@@ -127,15 +127,15 @@
 ### 参考文献
 
 **[システマティックレビュー]**
-1. Tham R, Bowatte G, Dharmage SC, et al. Breastfeeding and the risk of dental caries: a systematic review and meta-analysis. *Acta Paediatr.* 2015;104(467):62-84.
-2. Avila WM, Pordeus IA, Paiva SM, Martins CC. Breast and bottle feeding as risk factors for dental caries: a systematic review and meta-analysis. *PLoS One.* 2015;10(11):e0142922.
+1. [Tham R, Bowatte G, Dharmage SC, et al. Breastfeeding and the risk of dental caries: a systematic review and meta-analysis. *Acta Paediatr.* 2015;104(467):62-84.](https://pubmed.ncbi.nlm.nih.gov/26265016/)
+2. [Avila WM, Pordeus IA, Paiva SM, Martins CC. Breast and bottle feeding as risk factors for dental caries: a systematic review and meta-analysis. *PLoS One.* 2015;10(11):e0142922.](https://pubmed.ncbi.nlm.nih.gov/26710100/)
 
 **[ECC定義とリスク因子]**
-3. AAPD. Policy on early childhood caries (ECC): classifications, consequences, and preventive strategies. *Pediatr Dent.* 2020;42(6):24-28.
-4. Peres MA, Sheiham A, Liu P, et al. Sugar consumption and changes in dental caries from childhood to adolescence. *J Dent Res.* 2016;95(4):388-394.
+3. [AAPD. Policy on early childhood caries (ECC): classifications, consequences, and preventive strategies. *Pediatr Dent.* 2020;42(6):24-28.](https://pubmed.ncbi.nlm.nih.gov/15198622/)
+4. [Peres MA, Sheiham A, Liu P, et al. Sugar consumption and changes in dental caries from childhood to adolescence. *J Dent Res.* 2016;95(4):388-394.](https://pubmed.ncbi.nlm.nih.gov/27466396/)
 
 **[WHO授乳推奨]**
-5. WHO. Breastfeeding: exclusive breastfeeding for at least 6 months, continued to 2 years or beyond. 2023.
+5. [WHO. Breastfeeding: exclusive breastfeeding for at least 6 months, continued to 2 years or beyond. 2023.](https://www.who.int/health-topics/breastfeeding)
 
 **[日本のガイドライン]**
 6. 日本小児歯科学会. 乳幼児のむし歯予防に関する見解.

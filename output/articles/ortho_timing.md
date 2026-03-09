@@ -46,7 +46,7 @@
 - **結果**: Phase I後には骨格的改善が見られたが、**Phase II後の最終結果は3群間で有意差なし**
 - **追加の知見**: 2段階治療は総治療期間が長く、患者負担が大きい
 
-> Tulloch JFC, et al. *Am J Orthod Dentofacial Orthop.* 2004;125(2):162-172.
+> [Tulloch JFC, et al. *Am J Orthod Dentofacial Orthop.* 2004;125(2):162-172.](https://pubmed.ncbi.nlm.nih.gov/15179390/)
 
 ### コクランレビュー（Thiruvenkatachari et al., 2013/2015）
 
@@ -112,10 +112,10 @@
 
 **[Class II — RCT]**
 1. O'Brien K, Wright J, Conboy F, et al. Effectiveness of early orthodontic treatment with the Twin-block appliance: a multicenter, randomized, controlled trial. *Am J Orthod Dentofacial Orthop.* 2003;124(3):234-243.
-2. Tulloch JFC, Phillips C, Proffit WR. Benefit of early Class II treatment: progress report of a two-phase randomized clinical trial. *Am J Orthod Dentofacial Orthop.* 2004;125(2):162-172.
+2. [Tulloch JFC, Phillips C, Proffit WR. Benefit of early Class II treatment: progress report of a two-phase randomized clinical trial. *Am J Orthod Dentofacial Orthop.* 2004;125(2):162-172.](https://pubmed.ncbi.nlm.nih.gov/15179390/)
 
 **[コクランレビュー]**
-3. Thiruvenkatachari B, Harrison JE, Worthington HV, O'Brien KD. Orthodontic treatment for prominent upper front teeth (Class II malocclusion) in children and adolescents. *Cochrane Database Syst Rev.* 2013;(11):CD003452.
+3. [Thiruvenkatachari B, Harrison JE, Worthington HV, O'Brien KD. Orthodontic treatment for prominent upper front teeth (Class II malocclusion) in children and adolescents. *Cochrane Database Syst Rev.* 2013;(11):CD003452.](https://pubmed.ncbi.nlm.nih.gov/24226169/)
 
 **[前歯外傷リスク]**
-4. Nguyen QV, Bezemer PD, Habets L, Prahl-Andersen B. A systematic review of the relationship between overjet size and traumatic dental injuries. *Eur J Orthod.* 1999;21(5):503-515.
+4. [Nguyen QV, Bezemer PD, Habets L, Prahl-Andersen B. A systematic review of the relationship between overjet size and traumatic dental injuries. *Eur J Orthod.* 1999;21(5):503-515.](https://pubmed.ncbi.nlm.nih.gov/10565091/)
