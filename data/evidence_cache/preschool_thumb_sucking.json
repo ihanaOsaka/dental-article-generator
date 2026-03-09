@@ -1,0 +1,67 @@
+{
+  "topic_id": "preschool_thumb_sucking",
+  "evidences": [
+    {
+      "title": "Effects of non-nutritive sucking habits on malocclusions: a systematic review.",
+      "authors": [
+        "Sadoun Cyrielle",
+        "Templier Laura",
+        "Alloul Larry",
+        "Rossi Cecilia",
+        "Renovales Inés Díaz",
+        "Sanchez Iván Nieto",
+        "Sahagún Patricia Martín-Palomino"
+      ],
+      "year": 2024,
+      "journal": "The Journal of clinical pediatric dentistry",
+      "doi": "10.22514/jocpd.2024.029",
+      "pmid": "38548628",
+      "abstract": "The development of the craniomandibular system is guided by genetic interactions and environmental factors, including specific habits such as breastfeeding, bottle feeding, thumb sucking and the use of pacifiers. These habits can have a considerable impact on the growth of the developing jaws and can lead to malocclusion in children. This review aims to investigate potential associations between non-nutritive sucking habits (NNSHs) and malocclusions compared to the presence of nutritive sucking habits (NSHs). To carry out this systematic review, we followed the PRISMA protocol and performed a bibliographic search of the existing literature until April 2023 in the following electronic databases: Medline, PubMed, The Cochrane Library and Embase. Out of a total of 153 records, we included 21 studies. We found that the chances of diagnosing a malocclusion were higher for children with bottle nutrition when compared to breast-fed children. Breastfeeding provides protection against malocclusions. In the same manner, persistent NNSH habits appeared to be associated with increased chances of having malocclusions. The longer the child was breastfed, the shorter the duration of the pacifier habit and the lower the risk of developing moderate/severe malocclusions. The duration of the habits has a positive influence on the appearance of occlusion defects.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38548628/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "The effect of pacifier sucking on orofacial structures: a systematic literature review.",
+      "authors": [
+        "Schmid Karin Michèle",
+        "Kugler Remo",
+        "Nalabothu Prasad",
+        "Bosch Carles",
+        "Verna Carlalberta"
+      ],
+      "year": 2018,
+      "journal": "Progress in orthodontics",
+      "doi": "10.1186/s40510-018-0206-4",
+      "pmid": "29532184",
+      "abstract": "BACKGROUND: Non-nutritive sucking habits may adversely affect the orofacial complex. This systematic literature review aimed to find scientific evidence on the effect of pacifier sucking on orofacial structures. METHODS: A search on MEDLINE, EMBASE, Cochrane Central Register of Controlled Trials, and Web of Science databases was conducted to find all pertinent articles published from inception until February 2018, based on the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. The quality of the studies was evaluated using the risk of bias judgements in non-randomized studies of interventions (ROBINS-I). RESULTS: Among the 2288 articles found, 17 articles met the selection criteria: seven prospective cohort studies, nine cross-sectional studies, and one randomized clinical trial. Using ROBINS-I, 12 studies were evaluated to have a serious overall risk of bias and five, a moderate one. These studies claimed a strong association between a pacifier sucking habit and the presence of an anterior open bite and posterior crossbite. Functional/orthodontic pacifiers were shown to cause significantly less open bites than the conventional ones. CONCLUSIONS: High level of evidence of the effect of sucking habits on orofacial structures is missing. The available studies show severe or moderate risk of bias; hence, the findings in the literature need to be very carefully evaluated. There is moderate evidence that the use of pacifier is associated with anterior open bite and posterior crossbite, thus affecting the harmonious development of orofacial structures. Functional/orthodontic pacifiers reduce the prevalence of open bite when compared to the conventional ones, but evidence is needed concerning the effects on posterior crossbite. Well-designed randomized controlled trials are needed to further analyze the effects of functional/orthodontic and conventional pacifiers on orofacial structures.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29532184/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Association between Non-nutritive sucking habits and Anterior open bite: A systematic review and meta-analysis.",
+      "authors": [
+        "Gao Chong",
+        "Wang Miaoran",
+        "He Hairong",
+        "Lei He",
+        "Mei Liqin"
+      ],
+      "year": 2025,
+      "journal": "BMC oral health",
+      "doi": "10.1186/s12903-025-06040-z",
+      "pmid": "40619361",
+      "abstract": "OBJECTIVE: Determine the association between nun-nutritive sucking habits and anterior open bite in children. MATERIALS AND METHODS: This systematic review and meta-analysis followed the PRISMA guidelines. A systematic searched of four databases was conducted through the end of February 2025. Study designs included observational and interventional studies. Nun-nutritive sucking habits was evaluated in three categories: (1) ever versus never; (2) longer periods versus shorter periods; (3) daily versus not daily. We considered anterior open bite as the outcome. Based on meta-analyses, the pooled adjusted odds ratio and its 95% confidence interval (95%CI) were calculated. We assessed heterogeneity with both Q-test and I-square. An assessment of publication bias was conducted using funnel plots and Egger's test. RESULT: Thirty three studies were included in this meta-analysis. We found that NNSH (eg, pacifier sucking and digit sucking) was associated with varying risks of developing anterior open bite (p < 0.01). Children with longer non-nutritive habits (for example, pacifier sucking and digit sucking) had a greater risk of developing anterior open bite than those with shorter habits. (p < 0.05) In addition, daily pacifier user has been linked to increased risk of developing anterior open bites. [N = 3, OR = 10.22 (5.36,19.49), p < 0.05]. CONCLUSION: In conclusion, prolonged and daily non-nutritive sucking habits, such as pacifier and digit sucking, are associated with a significantly increased risk of anterior open bite in children. CLINICAL RELEVANCE: Thus, this study provides clinical support on early orthodontic treatment of AOB to inform preventative and management strategies.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40619361/",
+      "key_findings": "",
+      "summary_ja": ""
+    }
+  ]
+}

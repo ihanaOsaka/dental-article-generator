@@ -1,0 +1,46 @@
+{
+  "topic_id": "teen_sports_sugar",
+  "evidences": [
+    {
+      "title": "Lessening the erosive influence of electrolyte sports drinks on teeth using L-arginine and aqueous Miswak extract.",
+      "authors": [
+        "Elgamily Hanaa",
+        "Safwat Engie",
+        "Sayed Reham",
+        "Mosbah Samah",
+        "Yossef Ahmed"
+      ],
+      "year": 2025,
+      "journal": "Head & face medicine",
+      "doi": "10.1186/s13005-025-00560-3",
+      "pmid": "41318444",
+      "abstract": "OBJECTIVE: Excessive intake of electrolyte sports drinks (ESDs) among adolescents and athletes is associated with dental erosion due to their low pH, while their sugar content increases the risk of dental caries. This study aimed to evaluate and compare the protective effects of incorporating either L-arginine or Salvadora persica (Miswak) extract into an ESD on enamel surface properties. MATERIALS AND METHODS: Extracted human premolars were randomly assigned to three groups (n = 6): (1) plain ESD, (2) ESD with 1% L-arginine (Arg-ESD), and (3) ESD with 10% Salvadora persica extract (Mis-ESD). Each specimen was immersed in its respective solution for 5 min daily over 7 days. Post-treatment assessments included enamel microhardness (VHN), surface roughness (Sa), colour change (ΔE), Ca/P ratio, and scanning electron microscopy (SEM) for surface morphology. A taste acceptability survey was conducted in adult volunteers. Statistical analysis used one-way ANOVA (α = 0.05). In addition, a small panel of adult volunteers (n = 20) evaluated the taste acceptability of the modified formulations after providing informed consent. RESULTS: Both Arg-ESD and Mis-ESD significantly increased enamel microhardness and reduced surface roughness compared to plain ESD (P < 0.01), with Mis-ESD showing the greatest improvements. Mis-ESD also enhanced colour stability (P < 0.001). SEM images confirmed preservation of enamel structure, particularly in Mis-ESD specimens. Taste testing indicated good palatability for both modified formulations. CONCLUSION: Incorporating Salvadora persica extract into ESDs significantly improved enamel resistance to erosion and enhanced aesthetic properties. Miswak-enriched ESDs could serve as a preventive option for dental erosion. CLINICAL RELEVANCE: Formulating ESDs with Salvadora persica may reduce their erosive potential while preserving taste acceptability, offering a novel, consumer-friendly strategy to protect enamel in high-risk populations.",
+      "evidence_level": "1b",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41318444/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "A randomised clinical trial to determine the abrasive effect of the tongue on human enamel loss with and without a prior erosive challenge.",
+      "authors": [
+        "Seong J",
+        "Claydon N",
+        "Macdonald E",
+        "Garner S",
+        "Newcombe R G",
+        "West N"
+      ],
+      "year": 2017,
+      "journal": "Journal of dentistry",
+      "doi": "10.1016/j.jdent.2017.01.011",
+      "pmid": "28161365",
+      "abstract": "OBJECTIVES: To investigate the abrasive effect of the tongue on human enamel loss with and without a prior dietary acid challenge in an in situ model. METHODS: A single centre, single blind, randomly allocated, split mouth, four treatment regimen, in situ study in healthy adult volunteers was undertaken. Twenty four subjects wore two lower intra-oral appliances each fitted with 4 human enamel samples 6h/day for 15 days. The samples were treated with either 50ml orange juice or water for 5min ex vivo 4x/day; prior to being licked or not licked with the subject's tongue for 60s. There were 2 samples per group per subject. Surface loss was measured by contact profilometry. RESULTS: 23 subjects completed the study with no adverse events. The mean loss of enamel at 15days was: 0.08μm for water without licking, 0.10μm with water and licking; 1.55μm with orange juice alone, 3.65μm with orange juice and licking. In the absence of erosive challenge, licking had no detectable effect on enamel loss p=0.28. Without licking, orange juice had a highly significant effect on loss compared to water, p<0.001. Erosive challenge followed by licking more than doubled the loss of enamel p<0.001. CONCLUSIONS: When enamel was exposed to orange juice prior to licking, tissue loss as a result of tongue abrasion of the eroded surface was increased, and double that of the erosive challenge alone. Licking enamel with the tongue had no perceptible effect on enamel loss in the absence of the erosive challenge. CLINICAL SIGNIFICANCE: Enamel wear resulting from tongue abrasion on tooth surfaces softened by acid challenge, can be an unavoidable consequence of oral function. This may account for the pattern of erosive toothwear on palatal and occlusal tooth surfaces, reinforcing the importance of restricting the frequency of dietary acid challenge in susceptible individuals.",
+      "evidence_level": "1b",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28161365/",
+      "key_findings": "",
+      "summary_ja": ""
+    }
+  ]
+}

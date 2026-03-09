@@ -1,0 +1,378 @@
+{
+  "topic_id": "preschool_toothpaste",
+  "evidences": [
+    {
+      "title": "WHO guideline: use of fluorides for caries prevention",
+      "authors": [
+        "World Health Organization"
+      ],
+      "year": 2023,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "authority",
+      "source_type": "WHO",
+      "url": "https://www.who.int/publications/i/item/9789240096882",
+      "key_findings": "WHO recommends fluoride toothpaste (1000-1500 ppm) for all ages. For children under 6, use a small amount (pea-sized or rice-grain).",
+      "summary_ja": "WHOは全年齢でフッ素配合歯磨き粉（1000-1500ppm）を推奨。6歳未満は少量（豆粒大または米粒大）を使用。"
+    },
+    {
+      "title": "AAPD Guideline: Fluoride Therapy",
+      "authors": [
+        "American Academy of Pediatric Dentistry"
+      ],
+      "year": 2023,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "guideline",
+      "source_type": "AAPD",
+      "url": "https://www.aapd.org/research/oral-health-policies--recommendations/fluoride-therapy/",
+      "key_findings": "AAPD recommends fluoride varnish every 3-6 months starting at tooth eruption. Fluoride toothpaste (smear for <3y, pea-size for 3-6y).",
+      "summary_ja": "歯が生えたらフッ素バーニッシュを3〜6ヶ月ごとに塗布。歯磨き粉は3歳未満は米粒大、3〜6歳は豆粒大。"
+    },
+    {
+      "title": "Fluoride toothpastes of different concentrations for preventing dental caries.",
+      "authors": [
+        "Walsh Tanya",
+        "Worthington Helen V",
+        "Glenny Anne-Marie",
+        "Marinho Valeria Cc",
+        "Jeroncic Ana"
+      ],
+      "year": 2019,
+      "journal": "The Cochrane database of systematic reviews",
+      "doi": "10.1002/14651858.CD007868.pub3",
+      "pmid": "30829399",
+      "abstract": "BACKGROUND: Caries (dental decay) is a disease of the hard tissues of the teeth caused by an imbalance, over time, in the interactions between cariogenic bacteria in dental plaque and fermentable carbohydrates (mainly sugars). Regular toothbrushing with fluoride toothpaste is the principal non-professional intervention to prevent caries, but the caries-preventive effect varies according to different concentrations of fluoride in toothpaste, with higher concentrations associated with increased caries control. Toothpastes with higher fluoride concentration increases the risk of fluorosis (enamel defects) in developing teeth. This is an update of the Cochrane Review first published in 2010. OBJECTIVES: To determine and compare the effects of toothpastes of different fluoride concentrations (parts per million (ppm)) in preventing dental caries in children, adolescents, and adults. SEARCH METHODS: Cochrane Oral Health's Information Specialist searched the following databases: Cochrane Oral Health's Trials Register (to 15 August 2018); the Cochrane Central Register of Controlled Trials (CENTRAL; 2018, Issue 7) in the Cochrane Library (searched 15 August 2018); MEDLINE Ovid (1946 to 15 August 2018); and Embase Ovid (1980 to 15 August 2018). The US National Institutes of Health Ongoing Trials Register (ClinicalTrials.gov) and the World Health Organization International Clinical Trials Registry Platform were searched for ongoing trials (15 August 2018). No restrictions were placed on the language or date of publication when searching the electronic databases. SELECTION CRITERIA: Randomised controlled trials that compared toothbrushing with fluoride toothpaste with toothbrushing with a non-fluoride toothpaste or toothpaste of a different fluoride concentration, with a follow-up period of at least 1 year. The primary outcome was caries increment measured by the change from baseline in the decayed, (missing), and filled surfaces or teeth index in all permanent or primary teeth (D(M)FS/T or d(m)fs/t). DATA COLLECTION AND ANALYSIS: Two members of the review team, independently and in duplicate, undertook the selection of studies, data extraction, and risk of bias assessment. We graded the certainty of the evidence through discussion and consensus. The primary effect measure was the mean difference (MD) or standardised mean difference (SMD) caries increment. Where it was appropriate to pool data, we used random-effects pairwise or network meta-analysis. MAIN RESULTS: We included 96 studies published between 1955 and 2014 in this updated review. Seven studies with 11,356 randomised participants (7047 evaluated) reported the effects of fluoride toothpaste up to 1500 ppm on the primary dentition; one study with 2500 randomised participants (2008 evaluated) reported the effects of 1450 ppm fluoride toothpaste on the primary and permanent dentition; 85 studies with 48,804 randomised participants (40,066 evaluated) reported the effects of toothpaste up to 2400 ppm on the immature permanent dentition; and three studies with 2675 randomised participants (2162 evaluated) reported the effects of up to 1100 ppm fluoride toothpaste on the mature permanent dentition. Follow-up in most studies was 36 months.In the primary dentition of young children, 1500 ppm fluoride toothpaste reduces caries increment when compared with non-fluoride toothpaste (MD -1.86 dfs, 95% confidence interval (CI) -2.51 to -1.21; 998 participants, one study, moderate-certainty evidence); the caries-preventive effects for the head-to-head comparison of 1055 ppm versus 550 ppm fluoride toothpaste are similar (MD -0.05, dmfs, 95% CI -0.38 to 0.28; 1958 participants, two studies, moderate-certainty evidence), but toothbrushing with 1450 ppm fluoride toothpaste slightly reduces decayed, missing, filled teeth (dmft) increment when compared with 440 ppm fluoride toothpaste (MD -0.34, dmft, 95%CI -0.59 to -0.09; 2362 participants, one study, moderate-certainty evidence). The certainty of the remaining evidence for this comparison was judged to be low.We included 81 studies in the network meta-analysis of D(M)FS increment in the permanent dentition of children and adolescents. The network included 21 different comparisons of seven fluoride concentrations. The certainty of the evidence was judged to be low with the following exceptions: there was high- and moderate-certainty evidence that 1000 to 1250 ppm or 1450 to 1500 ppm fluoride toothpaste reduces caries increments when compared with non-fluoride toothpaste (SMD -0.28, 95% CI -0.32 to -0.25, 55 studies; and SMD -0.36, 95% CI -0.43 to -0.29, four studies); there was moderate-certainty evidence that 1450 to 1500 ppm fluoride toothpaste slightly reduces caries increments when compared to 1000 to 1250 ppm (SMD -0.08, 95% CI -0.14 to -0.01, 10 studies); and moderate-certainty evidence that the caries increments are similar for 1700 to 2200 ppm and 2400 to 2800 ppm fluoride toothpaste when compared to 1450 to 1500 ppm (SMD 0.04, 95% CI -0.07 to 0.15, indirect evidence only; SMD -0.05, 95% CI -0.14 to 0.05, two studies).In the adult permanent dentition, 1000 or 1100 ppm fluoride toothpaste reduces DMFS increment when compared with non-fluoride toothpaste in adults of all ages (MD -0.53, 95% CI -1.02 to -0.04; 2162 participants, three studies, moderate-certainty evidence). The evidence for DMFT was low certainty.Only a minority of studies assessed adverse effects of toothpaste. When reported, effects such as soft tissue damage and tooth staining were minimal. AUTHORS' CONCLUSIONS: This Cochrane Review supports the benefits of using fluoride toothpaste in preventing caries when compared to non-fluoride toothpaste. Evidence for the effects of different fluoride concentrations is more limited, but a dose-response effect was observed for D(M)FS in children and adolescents. For many comparisons of different concentrations the caries-preventive effects and our confidence in these effect estimates are uncertain and could be challenged by further research. The choice of fluoride toothpaste concentration for young children should be balanced against the risk of fluorosis.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30829399/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Fluoride mouthrinses for preventing dental caries in children and adolescents.",
+      "authors": [
+        "Marinho Valeria C C",
+        "Chong Lee Yee",
+        "Worthington Helen V",
+        "Walsh Tanya"
+      ],
+      "year": 2016,
+      "journal": "The Cochrane database of systematic reviews",
+      "doi": "10.1002/14651858.CD002284.pub2",
+      "pmid": "27472005",
+      "abstract": "BACKGROUND: Fluoride mouthrinses have been used extensively as a caries-preventive intervention in school-based programmes and by individuals at home. This is an update of the Cochrane review of fluoride mouthrinses for preventing dental caries in children and adolescents that was first published in 2003. OBJECTIVES: The primary objective is to determine the effectiveness and safety of fluoride mouthrinses in preventing dental caries in the child and adolescent population.The secondary objective is to examine whether the effect of fluoride rinses is influenced by:• initial level of caries severity;• background exposure to fluoride in water (or salt), toothpastes or reported fluoride sources other than the study option(s); or• fluoride concentration (ppm F) or frequency of use (times per year). SEARCH METHODS: We searched the following electronic databases: Cochrane Oral Health's Trials Register (whole database, to 22 April 2016), the Cochrane Central Register of Controlled Trials (CENTRAL) (the Cochrane Library, 2016, Issue 3), MEDLINE Ovid (1946 to 22 April 2016), Embase Ovid (1980 to 22 April 2016), CINAHL EBSCO (the Cumulative Index to Nursing and Allied Health Literature, 1937 to 22 April 2016), LILACS BIREME (Latin American and Caribbean Health Science Information Database, 1982 to 22 April 2016), BBO BIREME (Bibliografia Brasileira de Odontologia; from 1986 to 22 April 2016), Proquest Dissertations and Theses (1861 to 22 April 2016) and Web of Science Conference Proceedings (1990 to 22 April 2016). We undertook a search for ongoing trials on the US National Institutes of Health Trials Register (http://clinicaltrials.gov) and the World Health Organization International Clinical Trials Registry Platform. We placed no restrictions on language or date of publication when searching electronic databases. We also searched reference lists of articles and contacted selected authors and manufacturers. SELECTION CRITERIA: Randomised or quasi-randomised controlled trials where blind outcome assessment was stated or indicated, comparing fluoride mouthrinse with placebo or no treatment in children up to 16 years of age. Study duration had to be at least one year. The main outcome was caries increment measured by the change in decayed, missing and filled tooth surfaces in permanent teeth (D(M)FS). DATA COLLECTION AND ANALYSIS: At least two review authors independently performed study selection, data extraction and risk of bias assessment. We contacted study authors for additional information when required. The primary measure of effect was the prevented fraction (PF), that is, the difference in mean caries increments between treatment and control groups expressed as a percentage of the mean increment in the control group. We conducted random-effects meta-analyses where data could be pooled. We examined potential sources of heterogeneity in random-effects metaregression analyses. We collected adverse effects information from the included trials. MAIN RESULTS: In this review, we included 37 trials involving 15,813 children and adolescents. All trials tested supervised use of fluoride mouthrinse in schools, with two studies also including home use. Almost all children received a fluoride rinse formulated with sodium fluoride (NaF), mostly on either a daily or weekly/fortnightly basis and at two main strengths, 230 or 900 ppm F, respectively. Most studies (28) were at high risk of bias, and nine were at unclear risk of bias.From the 35 trials (15,305 participants) that contributed data on permanent tooth surface for meta-analysis, the D(M)FS pooled PF was 27% (95% confidence interval (CI), 23% to 30%; I(2) = 42%) (moderate quality evidence). We found no significant association between estimates of D(M)FS prevented fractions and baseline caries severity, background exposure to fluorides, rinsing frequency or fluoride concentration in metaregression analyses. A funnel plot of the 35 studies in the D(M)FS PF meta-analysis indicated no relationship between prevented fraction and study precision (no evidence of reporting bias). The pooled estimate of D(M)FT PF was 23% (95% CI, 18% to 29%; I² = 54%), from the 13 trials that contributed data for the permanent teeth meta-analysis (moderate quality evidence).We found limited information concerning possible adverse effects or acceptability of the treatment regimen in the included trials. Three trials incompletely reported data on tooth staining, and one trial incompletely reported information on mucosal irritation/allergic reaction. None of the trials reported on acute adverse symptoms during treatment. AUTHORS' CONCLUSIONS: This review found that supervised regular use of fluoride mouthrinse by children and adolescents is associated with a large reduction in caries increment in permanent teeth. We are moderately certain of the size of the effect. Most of the evidence evaluated use of fluoride mouthrinse supervised in a school setting, but the findings may be applicable to children in other settings with supervised or unsupervised rinsing, although the size of the caries-preventive effect is less clear. Any future research on fluoride mouthrinses should focus on head-to-head comparisons between different fluoride rinse features or fluoride rinses against other preventive strategies, and should evaluate adverse effects and acceptability.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27472005/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "How to Intervene in the Root Caries Process? Systematic Review and Meta-Analyses.",
+      "authors": [
+        "Meyer-Lueckel Hendrik",
+        "Machiulskiene Vita",
+        "Giacaman Rodrigo A"
+      ],
+      "year": 2019,
+      "journal": "Caries research",
+      "doi": "10.1159/000501588",
+      "pmid": "31412343",
+      "abstract": "The aim of this review as part of the preparation for a workshop organized by the European Federation of Conservative Dentistry (EFCD) in conjunction with the European Organisation for Caries Research (ORCA) was to systematically analyze available evidence of non-, micro- as well as invasive interventions for root caries lesions (RCLs). For each treatment strategy, a separate systematic review was either performed (micro-invasive and choice of restorative material) or updated (non-invasive and excavation technique) each of them following PRISMA guidelines, and if possible meta-analyses were performed. Besides the general advice to improve tooth brushing with fluoride toothpaste main findings for non-invasive interventions in RCLs, the use of dentifrices containing 5,000 ppm F- as well as professionally applied chlorhexidine varnish or silver diamine fluoride seemed to be more efficacious to arrest root caries compared to conventional fluoride toothpaste or placebo respectively. However, this conclusion is based only on a few randomized clinical trials. For micro-invasive treatments, only 2 studies focusing on sealants were available without clear conclusions. A recent review on the comparison of atraumatic restorative treatment compared with conventional treatment concluded that there is insufficient data to clearly rule out if any difference with regard to restoration longevity between both techniques exists. When restoring coventionally, composites performed better than resin-modified and glass ionomer cements. However, all materials showed rather high annual failure rates in the majority of the studies and evidence is based on a low number of prospective studies with a rather high risk of bias.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31412343/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Water fluoridation for the prevention of dental caries.",
+      "authors": [
+        "Iheozor-Ejiofor Zipporah",
+        "Walsh Tanya",
+        "Lewis Sharon R",
+        "Riley Philip",
+        "Boyers Dwayne",
+        "Clarkson Janet E",
+        "Worthington Helen V",
+        "Glenny Anne-Marie",
+        "O'Malley Lucy"
+      ],
+      "year": 2024,
+      "journal": "The Cochrane database of systematic reviews",
+      "doi": "10.1002/14651858.CD010856.pub3",
+      "pmid": "39362658",
+      "abstract": "BACKGROUND: Dental caries is a major public health problem in most industrialised countries, affecting 60% to 90% of school children. Community water fluoridation (CWF) is currently practised in about 25 countries; health authorities consider it to be a key strategy for preventing dental caries. CWF is of interest to health professionals, policymakers and the public. This is an update of a Cochrane review first published in 2015, focusing on contemporary evidence about the effects of CWF on dental caries. OBJECTIVES: To evaluate the effects of initiation or cessation of CWF programmes for the prevention of dental caries. To evaluate the association of water fluoridation (artificial or natural) with dental fluorosis. SEARCH METHODS: We searched CENTRAL, MEDLINE, Embase and four other databases up to 16 August 2023. We also searched two clinical trials registers and conducted backward citation searches. SELECTION CRITERIA: We included populations of all ages. For our first objective (effects of initiation or cessation of CWF programmes on dental caries), we included prospective controlled studies comparing populations receiving fluoridated water with those receiving non-fluoridated or naturally low-fluoridated water. To evaluate change in caries status, studies measured caries both within three years of a change in fluoridation status and at the end of study follow-up. For our second objective (association of water fluoridation with dental fluorosis), we included any study design, with concurrent control, comparing populations exposed to different water fluoride concentrations. In this update, we did not search for or include new evidence for this objective. DATA COLLECTION AND ANALYSIS: We used standard methodological procedures expected by Cochrane. For our first objective, we included the following outcomes as change from baseline: decayed, missing or filled teeth ('dmft' for primary and 'DMFT' for permanent teeth); decayed, missing or filled tooth surfaces ('dmfs' for primary and 'DMFS' for permanent teeth); proportion of caries-free participants for both primary and permanent dentition; adverse events. We stratified the results of the meta-analyses according to whether data were collected before or after the widespread use of fluoride toothpaste in 1975. For our second objective, we included dental fluorosis (of aesthetic concern, or any level of fluorosis), and any other adverse events reported by the included studies. MAIN RESULTS: We included 157 studies. All used non-randomised designs. Given the inherent risks of bias in these designs, particularly related to management of confounding factors and blinding of outcome assessors, we downgraded the certainty of all evidence for these risks. We downgraded some evidence for imprecision, inconsistency or both. Evidence from older studies may not be applicable to contemporary societies, and we downgraded older evidence for indirectness. Water fluoridation initiation (21 studies) Based on contemporary evidence (after 1975), the initiation of CWF may lead to a slightly greater change in dmft over time (mean difference (MD) 0.24, 95% confidence interval (CI) -0.03 to 0.52; P = 0.09; 2 studies, 2908 children; low-certainty evidence). This equates to a difference in dmft of approximately one-quarter of a tooth in favour of CWF; this effect estimate includes the possibility of benefit and no benefit. Contemporary evidence (after 1975) was also available for change in DMFT (4 studies, 2856 children) and change in DMFS (1 study, 343 children); we were very uncertain of these findings. CWF may lead to a slightly greater change over time in the proportion of caries-free children with primary dentition (MD -0.04, 95% CI -0.09 to 0.01; P = 0.12; 2 studies, 2908 children), and permanent dentition (MD -0.03, 95% CI -0.07 to 0.01; P = 0.14; 2 studies, 2348 children). These low-certainty findings (a 4 percentage point difference and 3 percentage point difference for primary and permanent dentition, respectively) favoured CWF. These effect estimates include the possibility of benefit and no benefit. No contemporary data were available for adverse effects. Because of very low-certainty evidence, we were unsure of the size of effects of CWF when using older evidence (from 1975 or earlier) on all outcomes: change in dmft (5 studies, 5709 children), change in DMFT (3 studies, 5623 children), change in proportion of caries-free children with primary dentition (5 studies, 6278 children) or permanent dentition (4 studies, 6219 children), or adverse effects (2 studies, 7800 children). Only one study, conducted after 1975, reported disparities according to socioeconomic status, with no evidence that deprivation influenced the relationship between water exposure and caries status. Water fluoridation cessation (1 study) Because of very low-certainty evidence, we could not determine if the cessation of CWF affected DMFS (1 study conducted after 1975; 2994 children). Data were not available for other review outcomes for this comparison. Association of water fluoridation with dental fluorosis (135 studies) The previous version of this review found low-certainty evidence that fluoridated water may be associated with dental fluorosis. With a fluoride level of 0.7 parts per million (ppm), approximately 12% of participants had fluorosis of aesthetic concern (95% CI 8% to 17%; 40 studies, 59,630 participants), and approximately 40% had fluorosis of any level (95% CI 35% to 44%; 90 studies, 180,530 participants). Because of very low-certainty evidence, we were unsure of other adverse effects (including skeletal fluorosis, bone fractures and skeletal maturity; 5 studies, incomplete participant numbers). AUTHORS' CONCLUSIONS: Contemporary studies indicate that initiation of CWF may lead to a slightly greater reduction in dmft and may lead to a slightly greater increase in the proportion of caries-free children, but with smaller effect sizes than pre-1975 studies. There is insufficient evidence to determine the effect of cessation of CWF on caries and whether water fluoridation results in a change in disparities in caries according to socioeconomic status. We found no eligible studies that report caries outcomes in adults. The implementation or cessation of CWF requires careful consideration of this current evidence, in the broader context of a population's oral health, diet and consumption of tap water, movement or migration, and the availability and uptake of other caries-prevention strategies. Acceptability, cost-effectiveness and feasibility of the implementation and monitoring of a CWF programme should also be taken into account.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39362658/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Topical fluoride as a cause of dental fluorosis in children.",
+      "authors": [
+        "Wong May Chun Mei",
+        "Zhang Rui",
+        "Luo Bella Weijia",
+        "Glenny Anne-Marie",
+        "Worthington Helen V",
+        "Lo Edward Chin Man"
+      ],
+      "year": 2024,
+      "journal": "The Cochrane database of systematic reviews",
+      "doi": "10.1002/14651858.CD007693.pub3",
+      "pmid": "38899538",
+      "abstract": "BACKGROUND: This is an update of a review first published in 2010. Use of topical fluoride has become more common over time. Excessive fluoride consumption from topical fluorides in young children could potentially lead to dental fluorosis in permanent teeth. OBJECTIVES: To describe the relationship between the use of topical fluorides in young children and the risk of developing dental fluorosis in permanent teeth. SEARCH METHODS: We carried out electronic searches of the Cochrane Oral Health Trials Register, CENTRAL, MEDLINE, Embase, three other databases, and two trials registers. We searched the reference lists of relevant articles. The latest search date was 28 July 2022. SELECTION CRITERIA: We included randomized controlled trials (RCTs), quasi-RCTs, cohort studies, case-control studies, and cross-sectional surveys comparing fluoride toothpaste, mouth rinses, gels, foams, paint-on solutions, and varnishes to a different fluoride therapy, placebo, or no intervention. Upon the introduction of topical fluorides, the target population was children under six years of age. DATA COLLECTION AND ANALYSIS: We used standard methodological procedures expected by Cochrane and used GRADE to assess the certainty of the evidence. The primary outcome measure was the percentage prevalence of fluorosis in the permanent teeth. Two authors extracted data from all included studies. In cases where both adjusted and unadjusted risk ratios or odds ratios were reported, we used the adjusted value in the meta-analysis. MAIN RESULTS: We included 43 studies: three RCTs, four cohort studies, 10 case-control studies, and 26 cross-sectional surveys. We judged all three RCTs, one cohort study, one case-control study, and six cross-sectional studies to have some concerns for risk of bias. We judged all other observational studies to be at high risk of bias. We grouped the studies into five comparisons. Comparison 1. Age at which children started toothbrushing with fluoride toothpaste Two cohort studies (260 children) provided very uncertain evidence regarding the association between children starting to use fluoride toothpaste for brushing at or before 12 months versus after 12 months and the development of fluorosis (risk ratio (RR) 0.98, 95% confidence interval (CI) 0.81 to 1.18; very low-certainty evidence). Similarly, evidence from one cohort study (3939 children) and two cross-sectional studies (1484 children) provided very uncertain evidence regarding the association between children starting to use fluoride toothpaste for brushing before or after the age of 24 months (RR 0.83, 95% CI 0.61 to 1.13; very low-certainty evidence) or before or after four years (odds ratio (OR) 1.60, 95% CI 0.77 to 3.35; very low-certainty evidence), respectively. Comparison 2. Frequency of toothbrushing with fluoride toothpaste Two case-control studies (258 children) provided very uncertain evidence regarding the association between children brushing less than twice per day versus twice or more per day and the development of fluorosis (OR 1.63, 95% CI 0.81 to 3.28; very low-certainty evidence). Two cross-sectional surveys (1693 children) demonstrated that brushing less than once per day versus once or more per day may be associated with a decrease in the development of fluorosis in children (OR 0.62, 95% CI 0.53 to 0.74; low-certainty evidence). Comparison 3. Amount of fluoride toothpaste used for toothbrushing Two case-control studies (258 children) provided very uncertain evidence regarding the association between children using less than half a brush of toothpaste, versus half or more of the brush, and the development of fluorosis (OR 0.77, 95% CI 0.41 to 1.46; very low-certainty evidence). The evidence from cross-sectional surveys was also very uncertain (OR 0.92, 95% CI 0.66 to 1.28; 3 studies, 2037 children; very low-certainty evidence). Comparison 4. Fluoride concentration in toothpaste There was evidence from two RCTs (1968 children) that lower fluoride concentration in the toothpaste used by children under six years of age likely reduces the risk of developing fluorosis: 550 parts per million (ppm) fluoride versus 1000 ppm (RR 0.75, 95% CI 0.57 to 0.99; moderate-certainty evidence); 440 ppm fluoride versus 1450 ppm (RR 0.72, 95% CI 0.58 to 0.89; moderate-certainty evidence). The age at which the toothbrushing commenced was 24 months and 12 months, respectively. Two case-control studies (258 children) provided very uncertain evidence regarding the association between fluoride concentrations under 1000 ppm, versus concentrations of 1000 ppm or above, and the development of fluorosis (OR 0.89, 95% CI 0.52 to 1.52; very low-certainty evidence). Comparison 5. Age at which topical fluoride varnish was applied There was evidence from one RCT (123 children) that there may be little to no difference between a fluoride varnish application before four years, versus no application, and the development of fluorosis (RR 0.77, 95% CI 0.45 to 1.31; low-certainty evidence). There was low-certainty evidence from two cross-sectional surveys (982 children) that the application of topical fluoride varnish before four years of age may be associated with the development of fluorosis in children (OR 2.18, 95% CI 1.46 to 3.25). AUTHORS' CONCLUSIONS: Most evidence identified mild fluorosis as a potential adverse outcome of using topical fluoride at an early age. There is low- to very low-certainty and inconclusive evidence on the risk of having fluorosis in permanent teeth for: when a child starts receiving topical fluoride varnish application; toothbrushing with fluoride toothpaste; the amount of toothpaste used by the child; and the frequency of toothbrushing. Moderate-certainty evidence from RCTs showed that children who brushed with 1000 ppm or more fluoride toothpaste from one to two years of age until five to six years of age probably had an increased chance of developing dental fluorosis in permanent teeth. It is unethical to propose new RCTs to assess the development of dental fluorosis. However, future RCTs focusing on dental caries prevention could record children's exposure to topical fluoride sources in early life and evaluate the dental fluorosis in their permanent teeth as a long-term outcome. In the absence of these studies and methods, further research in this area will come from observational studies. Attention needs to be given to the choice of study design, bearing in mind that prospective controlled studies will be less susceptible to bias than retrospective and uncontrolled studies.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38899538/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "The role of hydroxyapatite-based, fluoride-free toothpastes on the prevention and the remineralization of initial caries lesions: A systematic review and meta-analysis.",
+      "authors": [
+        "Chatzidimitriou Konstantina",
+        "Theodorou Konstantina",
+        "Seremidi Kyriaki",
+        "Kloukos Dimitrios",
+        "Gizani Sotiria",
+        "Papaioannou William"
+      ],
+      "year": 2025,
+      "journal": "Journal of dentistry",
+      "doi": "10.1016/j.jdent.2025.105691",
+      "pmid": "40107597",
+      "abstract": "OBJECTIVES: Τhe aim of the present systematic review and meta-analysis was to critically appraise all evidence available on the effectiveness of biomimetic hydroxyapatite (HAP) toothpastes in promoting remineralization and inhibiting demineralization. DATA: A literature search was conducted in electronic databases to identify in situ randomized controlled trials in children, adolescents, and young adults aged <25 years evaluating the effectiveness of fluoride-free HAP compared to conventional fluoride toothpastes. SOURCES: Medline (via Pubmed), Embase, Scopus, Cochrane Central Register of Controlled Trials, Dentistry & Oral Sciences Source, LILACS database were searched. Additional search of the grey literature, abstracts of conferences and meetings as well as manual search of the reference lists of retrieved studies, was also performed. STUDY SELECTION: The search retrieved 68 studies of which 4 were considered eligible. CONCLUSIONS: Development of new and progression of existing lesions, recorded using DMFS/ICDAS indices, showed no significant differences between HAP and fluoride toothpastes. Significant differences were recorded in lesion size (p < 0.0001) and fluorescence value (p = 0.01) after 6 months. Meta-analysis showed non-significant Risk Ratio (0.98, p = 0.61; 95 % CIs 0.85, 1.12) and Odds Ratio (0.90, p = 0.68; 95 % CIs 0.57, 1.42) for HAP and fluoride toothpastes. CLINICAL SIGNIFICANCE: HAP toothpaste could be an effective alternative to fluoride-containing toothpaste in preventing caries progression and promoting enamel remineralization. The comparable performance of HAP to fluoride, coupled with its superior biocompatibility and lack of toxicity, positions it as a promising option for individuals seeking fluoride-free oral care solutions.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40107597/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Fluoride Intake Through Dental Care Products: A Systematic Review.",
+      "authors": [
+        "Saad Hanan",
+        "Escoube Raphaëlle",
+        "Babajko Sylvie",
+        "Houari Sophia"
+      ],
+      "year": 2022,
+      "journal": "Frontiers in oral health",
+      "doi": "10.3389/froh.2022.916372",
+      "pmid": "35757442",
+      "abstract": "Fluoride (F) is added to many dental care products as well as in drinking water to prevent dental decay. However, recent data associating exposure to F with some developmental defects with consequences in many organs raise concerns about its daily use for dental care. This systematic review aimed to evaluate the contribution of dental care products with regard to overall F intake through drinking water and diet with measurements of F excretion in urine used as a suitable biomarker. According to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines using keywords related to chronic exposure to F in the human population with measurements of F levels in body fluids, 1,273 papers published between 1995 and 2021 were screened, and 28 papers were finally included for data extraction concerning daily F intake. The contribution of dental care products, essentially by toothbrushing with kinds of toothpaste containing F, was 38% in the mean regardless of the F concentrations in drinking water. There was no correlation between F intake through toothpaste and age, nor with F levels in water ranging from 0.3 to 1.5 mg/L. There was no correlation between F intake and urinary F excretion levels despite an increase in its content in urine within hours following exposure to dental care products (toothpastes, varnishes, or other dental care products). The consequences of exposure to F on health are discussed in the recent context of its suspected toxicity reported in the literature. The conclusions of the review aim to provide objective messages to patients and dental professionals worried about the use of F-containing materials or products to prevent initial caries or hypomineralized enamel lesions, especially for young children.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35757442/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Toothpaste ingestion-evaluating the problem and ensuring safety: systematic review and meta-analysis.",
+      "authors": [
+        "Petrović Bojan",
+        "Kojić Sanja",
+        "Milić Lazar",
+        "Luzio Alessandro",
+        "Perić Tamara",
+        "Marković Evgenija",
+        "Stojanović Goran M"
+      ],
+      "year": 2023,
+      "journal": "Frontiers in public health",
+      "doi": "10.3389/fpubh.2023.1279915",
+      "pmid": "37927882",
+      "abstract": "This systematic review and meta-analysis aimed to evaluate the ingestion of toothpaste and its sequelae. The study adhered to the PRISMA guidelines and was registered in the PROSPERO database. A comprehensive search strategy was conducted across multiple databases, resulting in the inclusion of 18 relevant publications. Eligible studies encompassed various designs and included both children and adults as the study population. Data extraction was carried out systematically, and relevant information on study characteristics, interventions, and outcomes were collected. The assessment of bias was performed using the Joanna Briggs Institute's Critical Appraisal Tools showing variations of bias among the included studies. The overall risk of systemic toxicity was found to be low, and no severe or life-threatening events were reported in the included studies. Furthermore, some toothpaste formulations containing higher concentrations of fluoride were associated with an increased risk of dental fluorosis. These findings have several implications for practice and policy. Healthcare providers and dental professionals should emphasize the importance of promoting safe toothpaste use, especially in vulnerable populations such as young children who are more prone to accidental ingestion. Public health campaigns and educational initiatives should aim to raise awareness about appropriate toothpaste usage and the potential risks. In addition, toothpaste manufacturers and regulatory bodies should consider revising guidelines and regulations to ensure the safety of oral care products, including the appropriate concentration of active ingredients. Future research should focus on investigating the long-term effects of toothpaste ingestion, exploring potential interactions between different active ingredients, and evaluating the efficacy of current preventive measures.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37927882/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Does flavoured dentifrice increase fluoride intake compared with regular toothpaste in children? A systematic review and meta-analysis.",
+      "authors": [
+        "Vieira Thiago Isidro",
+        "Mangabeira Adrielle",
+        "Alexandria Adílis Kalina",
+        "Ferreira Daniele Masterson T P",
+        "Fidalgo Tatiana Kelly da Silva",
+        "Valença Ana Maria Gondim",
+        "Maia Lucianne Cople"
+      ],
+      "year": 2018,
+      "journal": "International journal of paediatric dentistry",
+      "doi": "10.1111/ipd.12354",
+      "pmid": "29345027",
+      "abstract": "BACKGROUND: Toothpaste manufacturers encourage through aggressive marketing strategies the overconsumption of fluoridated dentifrices. There are conflicting results regarding fluoride intake from toothpastes in children. AIM: The aim of this systematic review and meta-analysis was to determine whether dentifrice flavour increases fluoride ingestion by children. DESIGN: We included clinical trials on children that evaluated the use of flavoured dentifrice - FD vs regular dentifrice - RD to identify the fluoride intake. An electronic search was performed in PubMed, Web of Science, Scopus, The Cochrane Library, LILACS/BBO, and grey literature followed by manual search. The methodological quality of the studies was assessed using the Cochrane Collaboration common scheme for bias and ROBINS-I tool. Data were analysed in subgroups such as low (G1) and ordinary (G2) fluoride concentrations of dentifrices. We carried out heterogeneity and sensitive analyses. RESULTS: For G1, the fluoride intake from RD was significantly higher than from FD [standardised mean difference = -2.57 (-3.26, -1.89), P < 0.00001]. For G2, the fluoride ingestion from RD was significantly higher than from FD [mean difference = -0.00 (-0.00, -0.00), P = 0.02]. CONCLUSIONS: There is evidence to support the null hypothesis that flavouring from dentifrice does not increase fluoride intake in young children.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29345027/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Community interventions and strategies for caries control in Latin American and Caribbean countries.",
+      "authors": [
+        "Ricomini Filho Antônio Pedro",
+        "Chávez Bertha Angélica",
+        "Giacaman Rodrigo Andrés",
+        "Frazão Paulo",
+        "Cury Jaime Aparecido"
+      ],
+      "year": 2021,
+      "journal": "Brazilian oral research",
+      "doi": "10.1590/1807-3107bor-2021.vol35.0054",
+      "pmid": "34076078",
+      "abstract": "Dental caries remains highly prevalent in Latin American and Caribbean countries (LACC). However, this disease can be controlled through interventions that implement evidence-based strategies in an affordable manner and that target all population groups instead of the most affluent only. Therefore, the aim of this report was to summarize the main scientifically documented community interventions and strategies based on restriction of sugars consumption, use of fluoride, and the use of occlusal sealants for caries control in LACC. A critical literature review was carried out in a systematic manner that included defined search strategies, independent review of the identified publications, and compilation of results in this report. Three systematic searches were conducted using the PubMed, LILACS, and SciELO databases to identify studies related to community interventions and strategies for caries control in LACC. Of the 37 publications identified, twenty-six focused on fluoride use, eight on occlusal sealant use, and three on the restriction of sugar consumption. Documented community interventions for sugars restriction were scarce in the region and were based on food supplementation, sugar replacement, and education. Thus, local and/or national policies should prioritize investment in upstream, coherent, and integrated population-wide policies such as taxes on sugary drinks and stronger regulation of advertising and promotion of sugary foods and drinks mainly targeting children. The main fluoride-based strategies used drinking water, refined domestic salt, cow milk, toothpaste and, to a lesser extent, mouth-rinses, acidulated phosphate fluoride (APF) gels, and varnishes to deliver fluoride to the population. Evidence of fluoride use was seen in Argentina, Belize, Bolivia, Brazil, Chile, Colombia, Costa Rica, Cuba, Dominican Republic, Ecuador, El Salvador, Guatemala, Haiti, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Uruguay, and Venezuela. Studies reporting the use of occlusal sealants were mainly located in Brazil, Chile, Colombia, Costa Rica, Peru, Mexico, and Venezuela. Community interventions restricting sugar consumption should be implemented at the individual level and through public policies. The use of fluoride must be monitored at the local, regional, and national levels so as to achieve maximum anti-caries effect while also minimizing the risk of dental fluorosis. Moreover, fluoridated water and salt programs, used as a mutually exclusive community level strategy for caries control, should expand their benefits to reach non-covered areas of the LACC while also simultaneously providing adequate surveillance of the fluoride concentration delivered to the population. Regulating the concentration of soluble fluoride (for anti-caries effect) in dentifrice formulations is also necessary in order to provide the population with an effective strategy for disease control. Targeting culturally appropriate, economically sustainable caries control interventions to rural populations and native ethnic groups such as indigenous people, quilombolas (African-origin), and riverside Amazonian people remains a crucial challenge.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34076078/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Comparative effectiveness of herbal and conventional toothpaste on prevention of dental caries: systematic review and meta-analysis.",
+      "authors": [
+        "Kengadaran Shivashankar",
+        "Anusha Divvi",
+        "Baskar Kavya",
+        "Muthukrishnan Kavitha",
+        "Pooraninagalakshmi J",
+        "Prabakar Jayashri"
+      ],
+      "year": 2022,
+      "journal": "Indian journal of dental research : official publication of Indian Society for Dental Research",
+      "doi": "10.4103/ijdr.ijdr_404_21",
+      "pmid": "36656198",
+      "abstract": "Dental caries is a global oral health problem caused due to localized demineralization of the enamel. Chemical plaque control is used as an adjuvant to mechanical plaque control in removing biofilm, thereby preventing dental caries. In recent times, there has been a renewed interest in nature-based products. This systematic review aimed to analyse the existing literature to compare the effectiveness of herbal and conventional dentifrices on prevention of dental caries. A search was done in the databases of PubMed and Google Scholar in July 2020 for the related topic. A hand search was done from the references of primary studies and other clinical trial registry sites. Randomized control trials, comparative clinical trials, and in vitro studies in which the effectiveness of herbal and conventional dentifrices on prevention of dental caries were included after review by the reviewers. The systematic search revealed a total of thirty-two publications from which ten publications were included. Five studies were clinical studies and five were in vitro studies. All the studies used microbiological analysis for the determination of cariogenic microorganisms in plaque and saliva, whereas one study used pH of plaque and saliva. Among the included studies, all studies had a high risk of bias with level 2 evidence. With the evidence available, it can be concluded that herbal dentifrices and fluoride dentifrices have similar antimicrobial activity against cariogenic microorganisms.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36656198/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Calcium-Based Caries Preventive Agents: A Meta-evaluation of Systematic Reviews and Meta-analysis.",
+      "authors": [
+        "Bijle Mohammed Nadeem Ahmed",
+        "Yiu Cynthia Kar Yung",
+        "Ekambaram Manikandan"
+      ],
+      "year": 2018,
+      "journal": "The journal of evidence-based dental practice",
+      "doi": "10.1016/j.jebdp.2017.09.003",
+      "pmid": "30077374",
+      "abstract": "OBJECTIVE: This article aims to assess systematic reviews and/or meta-analyses on calcium-based caries preventive agents, evaluating reported evidence, thereby summarizing a critical appraisal on the subject. MATERIALS AND METHODS: A systematic search was done using PubMed, Cochrane Library, and Web of Science. Systematic reviews and/or meta-analyses addressing PICO: P: any age or gender; I: calcium-based caries preventive agents; C: with/without control; and O: any early caries lesion measures were included. Inter-reviewer reliability was assessed using Cohen's kappa coefficient. RESULTS: One hundred sixty-four records were identified, of which 10 (κ = 1.00) were included for quality evaluation. Seven reviews were systematic reviews (only), whereas 3 were meta-analyses. None of the articles provided with an \"a priori\" review design. Majority of the reviews (7 of 10) were of high quality as assessed by Assessing the Methodological Quality of Systematic Reviews, whereas 3 articles were scored as moderate quality of evidence. All the included meta-analyses were of high-quality evidence as assessed by meta-evaluation of meta-analysis: 10 appraisal questions for biologists. Eight reviews addressed the intervention: casein phosphopeptide-amorphous calcium phosphate (CPP-ACP)/casein phosphopeptide-amorphous calcium fluoride phosphate (CPP-ACFP). Two reviews were performed on arginine-containing formulations. Majority of the high-quality systematic reviews were inconclusive over the effects of CPP-ACP/CPP-ACFP. CONCLUSION: This meta-evaluation suggests that CPP-ACP/CPP-ACFP can be considered as an adjunct to fluorides but not as an alternative until long-term well-designed clinical trials assessed by systematic reviews and meta-analysis are available. Arginine-containing dentifrice with an insoluble calcium base and fluoride seem to be a promising agent, but more well-designed non-industry-supported clinical trials can provide better insights in future.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30077374/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Is there an acceptable surrogate for caries clinical trials? Evidence from a systematic review of primary studies.",
+      "authors": [
+        "Gimenez Thais",
+        "Estevam Luana Rodrigues",
+        "de Oliveira Ponte Yohana",
+        "Dalboni Adriana",
+        "Calvo Ana Flávia Bissoto",
+        "Tedesco Tamara Kerber",
+        "Pontes Laura Regina Antunes",
+        "Moro Bruna Lorena Pereira",
+        "Raggio Daniela Prócida",
+        "Braga Mariana Minatel",
+        "Mendes Fausto Medeiros"
+      ],
+      "year": 2023,
+      "journal": "Community dentistry and oral epidemiology",
+      "doi": "10.1111/cdoe.12861",
+      "pmid": "37246464",
+      "abstract": "BACKGROUND: There is currently a lack of evidence supporting the use of valid surrogates in caries clinical trials. This study aimed at examining the validity of two surrogate outcomes used in randomized clinical trials for caries prevention, pit and fissure sealants and fluoridated dentifrices, according to the Prentice criteria. METHODS: A systematic review was conducted in MEDLINE (PubMed), LILACS and Scopus databases up to 05 October 2022. The grey literature and the list of eligible studies' references were also screened. The search was conducted, selecting randomized clinical trials focussed on dental caries prevention using pit and fissure sealants or fluoridated dentifrices and with at least one surrogate endpoint for cavitated caries lesions. The risk of each surrogate endpoint and for the occurrence of cavitated caries lesions was calculated and compared. The association between each surrogate and the presence of cavitation was quantified, and each outcome was assessed graphically for validity according to the Prentice criteria. RESULTS: For pit and fissure sealants, from 1696 potentially eligible studies, 51 were included; while for fluoridated dentifrices, of 3887 potentially eligible studies, four were included. Possible surrogates assessed were retention of sealants, presence of white spot lesions, presence of plaque or marginal discoloration around the sealants, oral hygiene index, radiographic and fluorescence caries lesion assessments. However, only the retention of sealants and the presence of white spot lesions could be evaluated for their validity according to the Prentice criteria. CONCLUSION: Loss of retention of sealants and the presence of white spot lesions do not fulfil all of the Prentice criteria. Therefore, they cannot be considered valid surrogates for caries prevention.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37246464/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "The additional benefit of professional fluoride application for children as an adjunct to regular fluoride toothpaste: a systematic review and meta-analysis.",
+      "authors": [
+        "Yu Lintong",
+        "Yu Xueqian",
+        "Li Yueyang",
+        "Yang Fengjiao",
+        "Hong Jialan",
+        "Qin Danchen",
+        "Song Guangtai",
+        "Hua Fang"
+      ],
+      "year": 2021,
+      "journal": "Clinical oral investigations",
+      "doi": "10.1007/s00784-021-03909-5",
+      "pmid": "33782769",
+      "abstract": "OBJECTIVE: To assess whether professional fluoride application (PFA) used in addition to regular fluoride toothpaste (RFT, ≥ 1,000 ppm) is more effective than RFT alone in children. MATERIALS AND METHODS: A systematic search was conducted using the PubMed, Embase, Google Scholar and CENTRAL databases. Randomized controlled trials (RCTs) comparing the effectiveness of RFT + PFA and RFT alone were included. Meta-analyses with random-effects models were performed. The certainty of evidence was assessed using the GRADE approach. RESULTS: A total of 2,729 records were identified from electronic and manual searches, which were screened by two reviewers independently and in duplicate. Six RCTs (5,034 participants) were included, of which four had high risk of bias and two had unclear risk of bias. The PFA used in all these trials was fluoride varnish (FV). In meta-analyses, no significant difference was observed between participants receiving FV + RFT and RFT alone of d(m/e)fs increment (mean difference (MD) - 0.17, 95% confidence interval (CI) - 0.60 to 0.26, P = 0.43, I CONCLUSIONS: Low to moderate certainty evidence suggests that FV does not have significant additional caries-preventive benefit for children (under 8 years old) when provided as an adjunct to daily tooth brushing with RFT (≥ 1,000 ppm). There is insufficient evidence regarding the additional benefit of other PFA interventions. CLINICAL RELEVANCE: The decision to apply FV to children needs to be made in light of their actual usage of RFT. TRIAL REGISTRATION: PROSPERO (CRD42020165270).",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33782769/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Effectiveness of remineralizing agents in the prevention and reversal of orthodontically induced white spot lesions: a systematic review and network meta-analysis.",
+      "authors": [
+        "Hu Huimin",
+        "Feng Chong",
+        "Jiang Zhaowei",
+        "Wang Lufei",
+        "Shrestha Sonu",
+        "Yan Jiarong",
+        "Shu Yu",
+        "Ge Long",
+        "Lai Wenli",
+        "Hua Fang",
+        "Long Hu"
+      ],
+      "year": 2020,
+      "journal": "Clinical oral investigations",
+      "doi": "10.1007/s00784-020-03610-z",
+      "pmid": "33057826",
+      "abstract": "OBJECTIVES: To compare the effectiveness of remineralizing agents in the prevention and reversal of white spot lesions (WSLs), which occur during fixed orthodontic treatment, through a systematic review and network meta-analysis. MATERIALS AND METHODS: We reviewed controlled randomized clinical trial (RCT) data querying nine databases combined with a manual search (last search date: March 10, 2020). Of 2273 identified studies, 36 RCTs were finally included. After study selection and data extraction, pair-wise and network meta-analyses were performed to analyze the effectiveness of remineralizing agents in the prevention and reversal of WSLs in the short term (≤ 3 months) and long term (> 3 months). The risk of bias was assessed based on the Cochrane guidelines. Statistical heterogeneity, inconsistencies, and cumulative ranking were also evaluated. RESULTS: In terms of WSL prevention, sodium fluoride (NaF) varnish had the highest cumulative ranking for the short-term decalcification index (99.3%); acidulated phosphate fluoride (APF) foam ranked first for long-term incidence (96.9%), followed by difluorosilane (Dfs) varnish and high-concentration fluoride toothpaste (HFT) (79.4% and 77.4%, respectively). In the reversal of WSLs, no significant difference was found among different agents or their combinations for the two available outcomes (short-term integrated fluorescence loss and short-term percentage of fluorescence loss). CONCLUSIONS: In the prevention of WSLs, APF foam showed the best remineralizing effectiveness in the long term (after debonding), followed by Dfs varnish and HFT. It is unclear whether remineralizing agents can effectively reverse WSLs based on the existing evidence. CLINICAL RELEVANCE: APF foam may be recommended as a remineralizing agent for preventing orthodontically induced WSLs. PROSPERO REGISTRATION NUMBER: CRD42019116852.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33057826/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Effectiveness of self-applied topical fluorides against enamel white spot lesions from multi-bracketed fixed orthodontic treatment: a systematic review.",
+      "authors": [
+        "Sardana Divesh",
+        "Manchanda Sheetal",
+        "Ekambaram Manikandan",
+        "Yang Yanqi",
+        "McGrath Colman P",
+        "Yiu Cynthia K Y"
+      ],
+      "year": 2019,
+      "journal": "European journal of orthodontics",
+      "doi": "10.1093/ejo/cjz015",
+      "pmid": "31112229",
+      "abstract": "BACKGROUND: The regular use of fluoride dentifrices is quite practical, widespread and linked to global decline of dental caries. However, the role of self-applied topical fluorides in prevention and reversal of Enamel White Spot Lesions (EWSLs) during multi-bracketed fixed orthodontic treatment is not yet explored. OBJECTIVE: To systematically appraise the current literature on the effectiveness of self-applied topical fluorides in the prevention and reversal of EWSLs occurring during multi-bracketed fixed orthodontic treatment. SEARCH METHODS: Four electronic databases (Cochrane Library, Embase via Ovid, Medline via Ovid, and Scopus) and gray literature were searched using the broad MeSH terms and keywords. SELECTION CRITERIA: Only randomized/quasi-randomized controlled clinical trials evaluating the effectiveness of self-applied fluorides in the prevention of EWSLs during multi-bracketed fixed orthodontic treatment or reversal of post-orthodontic EWSLs were included. DATA COLLECTION AND ANALYSIS: Two reviewers independently screened for studies, extracted data and assessed the risk of bias using the Cochrane risk of bias tool 2.0. Due to substantial variations in the interventions, control groups, and the measurement of outcome among studies, quantitative synthesis could not be performed as planned. RESULTS: Only three studies could be included in the present review; two of them assessing prevention of EWSLs and one addressing reversal of post-orthodontic EWSLs. One of the studies was judged to be of low risk of overall bias, whereas 2 studies were adjudged to be of high risk of overall bias because of deviations from intended interventions. The certainty of evidence about the role of self-applied fluorides in prevention and reversal of EWSLs was found to be of low quality; hence, our confidence in the effect estimate is limited, and future well-conducted trials might alter the effect estimates. LIMITATIONS: The inclusion of only English literature and inability to perform quantitative synthesis due to a limited number of studies. CONCLUSIONS AND IMPLICATIONS: Although the review did not confirm the effectiveness of self-applied fluorides in the reversal of EWSLs, it did partially substantiate the positive role of self-applied fluorides in the prevention of EWSLs occurring during multi-bracketed fixed orthodontic treatment. The review recommends the need for well-designed randomized controlled trials evaluating the effectiveness of self-applied fluorides on the prevention and reversal of EWSLs during multi-bracketed fixed orthodontic treatment. REGISTRATION: PROSPERO database (Registration number: CRD42018108590) and is freely available at: http://www.crd.york.ac.uk/PROSPERO/display_record.php?ID=CRD42018108590. FUNDING: This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31112229/",
+      "key_findings": "",
+      "summary_ja": ""
+    }
+  ]
+}

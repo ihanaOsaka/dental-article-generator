@@ -1,0 +1,55 @@
+{
+  "topic_id": "infant_geographic_tongue",
+  "evidences": [
+    {
+      "title": "Treatment of symptomatic benign migratory glossitis: a systematic review.",
+      "authors": [
+        "de Campos Wladimir Gushiken",
+        "Esteves Camila Vieira",
+        "Fernandes Lígia Gonzaga",
+        "Domaneschi Carina",
+        "Júnior Celso Augusto Lemos"
+      ],
+      "year": 2018,
+      "journal": "Clinical oral investigations",
+      "doi": "10.1007/s00784-018-2553-4",
+      "pmid": "29982968",
+      "abstract": "OBJECTIVE: The aim of this systematic review is to summarize the results of all published studies on symptomatic benign migratory glossitis and evaluate the best available treatment. METHODS: We searched the Cochrane Library, EMBASE, LILACS, PubMed, Scopus, and Web of Science for articles published up to September 2017, with no time restriction. We considered only articles published in English that evaluated the treatment of symptomatic benign migratory glossitis in children and adults. The protocol for this systematic review was registered at the international prospective register of systematic reviews (PROSPERO) as CRD42017074096. RESULTS: Of the 840 identified studies, 11 were included in our sample. Multiple treatment modalities were described for the treatment of symptomatic benign migratory glossitis. CONCLUSIONS: There is a very low level of evidence for the treatment of symptomatic benign migratory glossitis, with substantial methodological heterogeneity among the evaluated studies. In summary, we could identify no specific treatment for symptomatic benign migratory glossitis. CLINICAL RELEVANCE: In clinical practice, at the outpatient clinic of oral medicine, we attend to many patients diagnosed with benign migratory glossitis, with varying intensity of pain ranging from mild to severe. Treating this disease is a formidable challenge for clinicians. Therefore, we performed a systematic review of benign migratory glossitis to identify the best evidence-based treatment available for this condition. We believe that this article may be useful in guiding clinicians on the choice of treatment.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29982968/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Tongue psoriasis: Clinical aspects and analysis of epidemiological associations in 313 children, with a systematic literature review.",
+      "authors": [
+        "Pourchot D",
+        "Chiaverini C",
+        "Bourrat E",
+        "Barbarot S",
+        "Vabres P",
+        "Hubiche T",
+        "Droicourt C",
+        "Piram M",
+        "Kupfer-Bessaguet I",
+        "Ferneiny M",
+        "Puzenat E",
+        "Balguérie X",
+        "Beauchet A",
+        "Bursztejn A-C",
+        "Mahé E"
+      ],
+      "year": 2018,
+      "journal": "Annales de dermatologie et de venereologie",
+      "doi": "10.1016/j.annder.2018.04.003",
+      "pmid": "29773283",
+      "abstract": "BACKGROUND: Little information is available on the prevalence and clinical aspects of tongue involvement in children with psoriasis. The aim was to evaluate the prevalence, clinical aspects and risk factors concerning tongue involvement in children with psoriasis. PATIENTS AND METHODS: This study was carried out in two stages. We performed a multicentre, cross-sectional study in 23 French dermatology centers. All children seen for psoriasis during the one-year study were systematically included. The clinical features of the tongue and of psoriasis were recorded. Association with clinical aspects of psoriasis and comorbidities was evaluated. We then carried out a literature review to evaluate the prevalence of tongue involvement in children with psoriasis and its positive predictive value for psoriasis. A search was conducted in the PUBMED database using the following keywords: \"child\" and \"psoriasis\" and (\"tongue\" or \"glossitis\" or \"migratory glossitis\" or \"benign migratory glossitis\" or \"geographic tongue\" or \"fissured tongue\"). RESULTS: 7.7% of the 313 children with psoriasis had tongue involvement. The clinical aspects were geographic tongue (4.2%), fissured tongue (2.8%) and both (0.64%). There was no association between tongue involvement and the clinical characteristics of the children. Two hundred and ninety-five articles were referenced and 3 were analysed. Psoriasis is very rare in cases of tongue abnormalities. CONCLUSION: The prevalence of tongue involvement was 7.7% in children with psoriasis. No clinical or epidemiological association was shown. Tongue involvement does not modify the management of psoriasis. In the literature review it was not possible to evaluate either the prevalence of tongue involvement in psoriasis or the positive predictive value thereof.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29773283/",
+      "key_findings": "",
+      "summary_ja": ""
+    }
+  ]
+}

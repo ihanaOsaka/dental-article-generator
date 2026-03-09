@@ -1,0 +1,199 @@
+{
+  "topic_id": "gen_electric_toothbrush",
+  "evidences": [
+    {
+      "title": "ADA Policy: Use of Pit-and-Fissure Sealants",
+      "authors": [
+        "American Dental Association"
+      ],
+      "year": 2023,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "guideline",
+      "source_type": "ADA",
+      "url": "https://www.ada.org/resources/research/science-and-research-institute/evidence-based-dental-research/dental-sealants",
+      "key_findings": "Dental sealants reduce caries by up to 80% in the first 2 years and continue to be effective for up to 9 years.",
+      "summary_ja": "シーラントは最初の2年間でむし歯を最大80%減少させ、最大9年間効果が持続。"
+    },
+    {
+      "title": "フッ化物洗口ガイドライン",
+      "authors": [
+        "厚生労働省"
+      ],
+      "year": 2003,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "authority",
+      "source_type": "厚生労働省",
+      "url": "https://www.mhlw.go.jp/topics/2003/07/tp0711-1.html",
+      "key_findings": "フッ化物洗口の安全性と有効性を示すガイドライン。4歳以上で推奨。",
+      "summary_ja": "フッ化物洗口は安全で有効。4歳以上で実施可能。"
+    },
+    {
+      "title": "Oral Health Care: A Systematic Review of Clinical Practice Guidelines.",
+      "authors": [
+        "Gallione Chiara",
+        "Bassi Erika",
+        "Cattaneo Arianna",
+        "Busca Erica",
+        "Basso Ines",
+        "Dal Molin Alberto"
+      ],
+      "year": 2025,
+      "journal": "Nursing & health sciences",
+      "doi": "10.1111/nhs.70027",
+      "pmid": "39776243",
+      "abstract": "Maintaining good oral hygiene is essential for preventing and managing oral health problems. This systematic review aimed to identify and assess clinical practice guidelines on oral hygiene, focusing on quality and key areas. A comprehensive search was conducted in PubMed, CINAHL, Scopus, Cochrane, and organizational websites. Guidelines from health organizations that focused on oral health, hygiene education, and disease prevention were included. Guidelines based on expert opinions and those focusing on specific pathologies were excluded. The AGREE II tool was used to evaluate quality, and a narrative synthesis summarized recommendations across pediatric, adult, and senior age groups. Nine studies were reviewed. Results showed that electric toothbrushes do not significantly outperform manual ones in preventing cavities, though they may reduce plaque. Fluoride toothpaste is less effective if followed by rinsing with water. For adults, mouthwashes with chlorhexidine or sodium fluoride are recommended. Checkups every six months are advised for healthy children and adults. Proper denture care is also emphasized. Regular updates to oral care guidelines are necessary, as oral health affects essential functions and social well-being.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39776243/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Oral hygiene interventions for people with intellectual disabilities.",
+      "authors": [
+        "Waldron Catherine",
+        "Nunn June",
+        "Mac Giolla Phadraig Caoimhin",
+        "Comiskey Catherine",
+        "Guerin Suzanne",
+        "van Harten Maria Theresa",
+        "Donnelly-Swift Erica",
+        "Clarke Mike J"
+      ],
+      "year": 2019,
+      "journal": "The Cochrane database of systematic reviews",
+      "doi": "10.1002/14651858.CD012628.pub2",
+      "pmid": "31149734",
+      "abstract": "BACKGROUND: Periodontal (gum) disease and dental caries (tooth decay) are the most common causes of tooth loss; dental plaque plays a major role in the development of these diseases. Effective oral hygiene involves removing dental plaque, for example, by regular toothbrushing. People with intellectual disabilities (ID) can have poor oral hygiene and oral health outcomes. OBJECTIVES: To assess the effects (benefits and harms) of oral hygiene interventions, specifically the mechanical removal of plaque, for people with intellectual disabilities (ID). SEARCH METHODS: Cochrane Oral Health's Information Specialist searched the following databases to 4 February 2019: Cochrane Oral Health's Trials Register, the Cochrane Central Register of Controlled Trials (CENTRAL; Cochrane Register of Studies), MEDLINE Ovid, Embase Ovid and PsycINFO Ovid. ClinicalTrials.gov and the World Health Organization International Clinical Trials Registry Platform were searched for ongoing trials. The Embase search was restricted by date due to the Cochrane Centralised Search Project, which makes available clinical trials indexed in Embase through CENTRAL. We handsearched specialist conference abstracts from the International Association of Disability and Oral Health (2006 to 2016). SELECTION CRITERIA: We included randomised controlled trials (RCTs) and some types of non-randomised studies (NRS) (non-RCTs, controlled before-after studies, interrupted time series studies and repeated measures studies) that evaluated oral hygiene interventions targeted at people with ID or their carers, or both. We used the definition of ID in the International Statistical Classification of Diseases and Related Health Problems, 10th revision (ICD-10). We defined oral hygiene as the mechanical removal of plaque. We excluded studies that evaluated chemical removal of plaque, or mechanical and chemical removal of plaque combined. DATA COLLECTION AND ANALYSIS: At least two review authors independently screened search records, identified relevant studies, extracted data, assessed risk of bias and judged the certainty of the evidence according to GRADE criteria. We contacted study authors for additional information if required. We reported RCTs and NRSs separately. MAIN RESULTS: We included 19 RCTs and 15 NRSs involving 1795 adults and children with ID and 354 carers. Interventions evaluated were: special manual toothbrushes, electric toothbrushes, oral hygiene training, scheduled dental visits plus supervised toothbrushing, discussion of clinical photographs showing plaque, varied frequency of toothbrushing, plaque-disclosing agents and individualised care plans. We categorised results as short (six weeks or less), medium (between six weeks and 12 months) and long term (more than 12 months).Most studies were small; all were at overall high or unclear risk of bias. None of the studies reported quality of life or dental caries. We present below the evidence available from RCTs (or NRS if the comparison had no RCTs) for gingival health (inflammation and plaque) and adverse effects, as well as knowledge and behaviour outcomes for the training studies.Very low-certainty evidence suggested a special manual toothbrush (the Superbrush) reduced gingival inflammation (GI), and possibly plaque, more than a conventional toothbrush in the medium term (GI: mean difference (MD) -12.40, 95% CI -24.31 to -0.49; plaque: MD -0.44, 95% CI -0.93 to 0.05; 1 RCT, 18 participants); brushing was carried out by the carers. In the short term, neither toothbrush showed superiority (GI: MD -0.10, 95% CI -0.77 to 0.57; plaque: MD 0.20, 95% CI -0.45 to 0.85; 1 RCT, 25 participants; low- to very low-certainty evidence).Moderate- and low-certainty evidence found no difference between electric and manual toothbrushes for reducing GI or plaque, respectively, in the medium term (GI: MD 0.02, 95% CI -0.06 to 0.09; plaque: standardised mean difference 0.29, 95% CI -0.07 to 0.65; 2 RCTs, 120 participants). Short-term findings were inconsistent (4 RCTs; low- to very low-certainty evidence).Low-certainty evidence suggested training carers in oral hygiene care had no detectable effect on levels of GI or plaque in the medium term (GI: MD -0.09, 95% CI -0.63 to 0.45; plaque: MD -0.07, 95% CI -0.26 to 0.13; 2 RCTs, 99 participants). Low-certainty evidence suggested oral hygiene knowledge of carers was better in the medium term after training (MD 0.69, 95% CI 0.31 to 1.06; 2 RCTs, 189 participants); this was not found in the short term, and results for changes in behaviour, attitude and self-efficacy were mixed.One RCT (10 participants) found that training people with ID in oral hygiene care reduced plaque but not GI in the short term (GI: MD -0.28, 95% CI -0.90 to 0.34; plaque: MD -0.47, 95% CI -0.92 to -0.02; very low-certainty evidence).One RCT (304 participants) found that scheduled dental recall visits (at 1-, 3- or 6-month intervals) plus supervised daily toothbrushing were more likely than usual care to reduce GI (pocketing but not bleeding) and plaque in the long term (low-certainty evidence).One RCT (29 participants) found that motivating people with ID about oral hygiene by discussing photographs of their teeth with plaque highlighted by a plaque-disclosing agent, did not reduce plaque in the medium term (very low-certainty evidence).One RCT (80 participants) found daily toothbrushing by dental students was more effective for reducing plaque in people with ID than once- or twice-weekly toothbrushing in the short term (low-certainty evidence).A benefit to gingival health was found by one NRS that evaluated toothpaste with a plaque-disclosing agent and one that evaluated individualised oral care plans (very low-certainty evidence).Most studies did not report adverse effects; of those that did, only one study considered them as a formal outcome. Some studies reported participant difficulties using the electric or special manual toothbrushes. AUTHORS' CONCLUSIONS: Although some oral hygiene interventions for people with ID show benefits, the clinical importance of these benefits is unclear. The evidence is mainly low or very low certainty. Moderate-certainty evidence was available for only one finding: electric and manual toothbrushes were similarly effective for reducing gingival inflammation in people with ID in the medium term. Larger, higher-quality RCTs are recommended to endorse or refute the findings of this review. In the meantime, oral hygiene care and advice should be based on professional expertise and the needs and preferences of the individual with ID and their carers.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31149734/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Plaque Removal by a Powered Toothbrush Versus a Manual Toothbrush in Children: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Davidovich Esti",
+        "Shafir Salome",
+        "Shay Boaz",
+        "Zini Avraham"
+      ],
+      "year": 2020,
+      "journal": "Pediatric dentistry",
+      "doi": "",
+      "pmid": "32847667",
+      "abstract": "",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32847667/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Bacteraemia of oral origin in children-A Systematic review and network meta-analysis.",
+      "authors": [
+        "Charlotte Höfer Karolin",
+        "Graf Isabelle",
+        "Adams Anne",
+        "Kuhr Kathrin",
+        "Plum Georg",
+        "Schwendicke Falk",
+        "Brockmeier Konrad",
+        "Johannes Noack Michael"
+      ],
+      "year": 2022,
+      "journal": "Oral diseases",
+      "doi": "10.1111/odi.13957",
+      "pmid": "34245644",
+      "abstract": "OBJECTIVES: To systematically review the prevalence of bacteraemia, triggered by dental intervention and home oral hygiene practices, in children. The network meta-analysis (NMA) quantitatively compared the risk of bacteraemia triggered by dental extractions and home and professional cleaning procedures. MATERIALS AND METHODS: Clinical trials with the outcome \"bacteraemia in children\" were searched. The NMA was performed using the frequentist weighted least-squares approach comparing the odds ratios (OR) of different interventions. RESULTS: Among 11 of 13 studies, dental treatment was performed under general anaesthesia. In 2,381 patients, bacteraemia occurred in 38.7%-56% patients following single-tooth extractions, in 22%-46% after manual toothbrushing (MTB), and in 26%-78% after power toothbrushing (PTB). When MTB was set as the reference (OR 1), rubber cup polishing showed a slightly higher risk (OR 1.26) of bacteraemia. PTB presented a higher risk (OR 1.79-2.27) than with single-tooth extractions (OR 1.55) but lower than that with multiple extractions (OR 2.55). CONCLUSION: Daily use of MTB and routine professional cleaning were associated with the lowest risk of developing bacteraemia in children with gingivitis, almost as much as with a single-tooth extractions. Improved plaque control with PTB increased the risk of bacteraemia. There is limited evidence on gingivitis-free and systemically-diseased children.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34245644/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Comparison of Oral Hygiene and Gingival Outcomes in Children With Special Care Needs Using Powered or Manual Toothbrushes: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+      "authors": [
+        "Shaikh Anam A",
+        "Jawdekar Ashwin M",
+        "Saraf Tanvi A"
+      ],
+      "year": 2025,
+      "journal": "Special care in dentistry : official publication of the American Association of Hospital Dentists, the Academy of Dentistry for the Handicapped, and the American Society for Geriatric Dentistry",
+      "doi": "10.1111/scd.70000",
+      "pmid": "39865557",
+      "abstract": "AIM: This systematic review and meta-analysis (SRMA) compares oral hygiene and gingival outcomes in children with special care needs (CSCNs) using powered or manual toothbrushes. MATERIAL AND METHODS: Two authors searched articles using PubMed and Cochrane library; the search was extended to other databases to include publications until July 2024. RCTs available in English were included. Oral hygiene and gingival outcomes in CSCNs, using powered or manual toothbrushes were: plaque index (PI), Quigley Hein plaque index (QHPI), gingival index (GI), and oral hygiene index simplified (OHI-S). ROB and publication bias was assessed using Cochrane tool and funnel plots, respectively. Meta-analyses were performed using forest plots. GRADE was used for the quality. RESULTS: Twelve studies were included in SR and 11 studies in MA. In relation to GI and in the subgroup analysis of QHPI, powered toothbrushing was superior to manual toothbrushing with SMD -0.681 [95% CI (-0.911 to -0.451)] and SMD -0.85 [95% CI (-1.166 to -0.53)], respectively using REM. Comparisons with other indices exhibited no significant differences. The ROB and publication bias were moderate, quality of evidence was low to moderate GRADE. CONCLUSION: Powered toothbrushes had favorable outcomes in a few but not all parameters. The overall quality of evidence is low. PROSPERO REGISTRATION ID: CRD42024579260.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39865557/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Oral health education and promotion in special needs children: Systematic review and meta-analysis.",
+      "authors": [
+        "Lai Yvonne Yee Lok",
+        "Zafar Sobia",
+        "Leonard Helen Margaret",
+        "Walsh Laurence James",
+        "Downs Jennepher Anne"
+      ],
+      "year": 2022,
+      "journal": "Oral diseases",
+      "doi": "10.1111/odi.13731",
+      "pmid": "33215786",
+      "abstract": "OBJECTIVE: To review the effectiveness of oral health education and oral health promotion interventions for children and adolescents with intellectual and developmental disabilities (IDD), in ensuring optimal gingival health, caries experience and oral health-related quality of life, compared to no interventions or alternative interventions. METHODS: A systematic review was conducted to identify published studies from four databases (Medline, PsycINFO, CINAHL and ERIC). Randomised or quasi-randomised controlled trials were included. Two independent reviewers performed risk of bias and qualitative analysis. Meta-analysis was performed as appropriate. RESULTS: Eight treatment comparisons were identified. There was low certainty evidence that fluoride interventions provided long-term reductions in caries in those with IDD; and there was some evidence that chlorhexidine albeit with low certainty provided short-term and long-term reductions in plaque and gingivitis. There was moderate certainty evidence for short-term reductions in dental plaque from the use of modified toothbrushes, but not compelling evidence for powered toothbrushes. CONCLUSIONS: Most studies provided a low quality of evidence, and so any adaptations made to oral health practices of individuals with IDD need to consider their individual needs. PROSPERO registration: CRD42019145784.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33215786/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "The Effectiveness of Power Versus Manual Toothbrushes on Plaque Removal and Gingival Health in Children-A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Dağdeviren Fatma",
+        "Van der Weijden G A Fridus",
+        "Zijlstra C P Laura",
+        "Slot Dagmar Else"
+      ],
+      "year": 2025,
+      "journal": "International journal of dental hygiene",
+      "doi": "10.1111/idh.12915",
+      "pmid": "40739767",
+      "abstract": "OBJECTIVE: The objective of this systematic review was to assess the efficacy of self-brushing using a single-head power toothbrush(PTB) in comparison to a single-head manual toothbrush(MTB) in terms of plaque removal and reduction of gingivitis in children. MATERIALS AND METHODS: MEDLINE-PubMed and Cochrane CENTRAL were searched up to November 2023. The inclusion criteria comprised randomised clinical trials involving healthy children up to the age of 18 years who did not have fixed orthodontic appliances. Included papers assessed the impact of self-administered toothbrushing using a rechargeable PTB compared to an MTB on plaque removal and gingivitis. Data extraction was conducted, and the risk of bias was evaluated. A descriptive analysis, a meta-analysis, and subgroup analysis, when feasible, were carried out. RESULTS: The search yielded 12 eligible publications, encompassing 30 relevant comparisons. Results showed a significant difference of means (DiffM) on plaque scores in favour of the PTB. Both the end and incremental difference scores indicated a significant difference in effect in favour of the PTB for single-use brushing (DiffM-end = -0.26 (95% CI [-0.31; -0.21]; p < 0.00001)|DiffM-difference = -0.26 (95% CI [-0.31; -0.21]; p < 0.00001)) and also for follow-up studies (DiffM-end = -0.22 (95% CI [-0.36; -0.07]; p = 0.004)|DiffM-difference = -0.34 (95% CI [-0.45; -0.23]; p < 0.00001)). The meta-analysis on gingival index scores showed no significant difference. Subgroup analysis was only possible for the follow-up studies. For the OR mode of action, a significant difference of means for plaque scores was found (DiffM-end = -0.19 (95% CI [-0.37; -0.01]; p = 0.04)|DiffM-difference = -0.22 (95% CI [-0.43; -0.01]; p = 0.04)). The subgroup analysis contained only studies with a low risk of bias. CONCLUSIONS: There is moderate evidence that in children a PTB offers a small advantage in plaque removal over an MTB. This evidence primarily pertains to PTBs with an OR mode of action. REGISTRATION: PROSPERO: #CRD42023144871; ACTA: #2023-75707.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40739767/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Efficacy of caries and gingivitis prevention strategies among children and adolescents with intellectual disabilities: a systematic review and meta-analysis.",
+      "authors": [
+        "Zhou N",
+        "Wong H M",
+        "Wen Y F",
+        "McGrath C"
+      ],
+      "year": 2019,
+      "journal": "Journal of intellectual disability research : JIDR",
+      "doi": "10.1111/jir.12576",
+      "pmid": "30575187",
+      "abstract": "BACKGROUND: Dental caries and periodontal diseases are the most common oral diseases among human beings. Individuals with intellectual disabilities (IDs) have poor oral health and limited access to dental care. The aim of this study was to investigate the efficacy of strategies in caries and gingivitis prevention among children and adolescents with ID. METHODS: Four electronic databases (PubMed, Cochrane Library, Web of Science and Scopus) were searched from their commencement date to 17 April 2017. Randomised or non-randomised controlled trials evaluating the efficacy of interventions in caries and gingivitis prevention were included if the participants were children and adolescents with ID. Gingival index and caries experiences were reported in the format of mean difference and standard error. Meta-analysis was conducted if data could be pooled from two or more studies using similar outcome measurements and intervention. RESULTS: A total of 1455 articles published in English were identified. Fourteen studies formed the basis of qualitative analysis; six studies were feasible to perform quantitative analysis. Meta-analysis favoured fluoride to placebo in caries prevention [Z = 2.02, P < 0.05, 95% CI: -0.71 (-1.40, -0.02)], while the effectiveness of chlorhexidine remained elusive. CONCLUSIONS: Both mechanical and chemical approaches had been applied to caries and gingivitis prevention among children and adolescents with ID. Insufficient evidence supported the efficacy of chlorhexidine nor powered toothbrush, while fluoride was suggested to be an effective caries preventive strategy in fluoride-deficient areas. More well-designed randomised controlled trials using integration strategies are encouraged in further studies.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30575187/",
+      "key_findings": "",
+      "summary_ja": ""
+    }
+  ]
+}

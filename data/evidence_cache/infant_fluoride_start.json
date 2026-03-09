@@ -1,0 +1,183 @@
+{
+  "topic_id": "infant_fluoride_start",
+  "evidences": [
+    {
+      "title": "WHO guideline: use of fluorides for caries prevention",
+      "authors": [
+        "World Health Organization"
+      ],
+      "year": 2023,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "authority",
+      "source_type": "WHO",
+      "url": "https://www.who.int/publications/i/item/9789240096882",
+      "key_findings": "WHO recommends fluoride toothpaste (1000-1500 ppm) for all ages. For children under 6, use a small amount (pea-sized or rice-grain).",
+      "summary_ja": "WHOは全年齢でフッ素配合歯磨き粉（1000-1500ppm）を推奨。6歳未満は少量（豆粒大または米粒大）を使用。"
+    },
+    {
+      "title": "Ending childhood dental caries: WHO implementation manual",
+      "authors": [
+        "World Health Organization"
+      ],
+      "year": 2019,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "authority",
+      "source_type": "WHO",
+      "url": "https://www.who.int/publications/i/item/ending-childhood-dental-caries-who-implementation-manual",
+      "key_findings": "Comprehensive approach to childhood caries prevention including fluoride use, sugar reduction, and regular dental visits.",
+      "summary_ja": "小児むし歯予防の包括的アプローチ：フッ素使用、糖質制限、定期歯科受診を推奨。"
+    },
+    {
+      "title": "ADA Clinical Practice Guideline: Topical Fluoride for Caries Prevention",
+      "authors": [
+        "American Dental Association"
+      ],
+      "year": 2024,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "guideline",
+      "source_type": "ADA",
+      "url": "https://www.ada.org/resources/research/science-and-research-institute/evidence-based-dental-research/fluoride-topical-and-systemic-supplements",
+      "key_findings": "Professional fluoride varnish application every 3-6 months is recommended for children at elevated caries risk.",
+      "summary_ja": "むし歯リスクの高い小児には3〜6ヶ月ごとのフッ素バーニッシュ塗布を推奨。"
+    },
+    {
+      "title": "AAPD Guideline: Fluoride Therapy",
+      "authors": [
+        "American Academy of Pediatric Dentistry"
+      ],
+      "year": 2023,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "guideline",
+      "source_type": "AAPD",
+      "url": "https://www.aapd.org/research/oral-health-policies--recommendations/fluoride-therapy/",
+      "key_findings": "AAPD recommends fluoride varnish every 3-6 months starting at tooth eruption. Fluoride toothpaste (smear for <3y, pea-size for 3-6y).",
+      "summary_ja": "歯が生えたらフッ素バーニッシュを3〜6ヶ月ごとに塗布。歯磨き粉は3歳未満は米粒大、3〜6歳は豆粒大。"
+    },
+    {
+      "title": "フッ化物洗口ガイドライン",
+      "authors": [
+        "厚生労働省"
+      ],
+      "year": 2003,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "authority",
+      "source_type": "厚生労働省",
+      "url": "https://www.mhlw.go.jp/topics/2003/07/tp0711-1.html",
+      "key_findings": "フッ化物洗口の安全性と有効性を示すガイドライン。4歳以上で推奨。",
+      "summary_ja": "フッ化物洗口は安全で有効。4歳以上で実施可能。"
+    },
+    {
+      "title": "Screening and Interventions to Prevent Dental Caries in Children Younger Than 5 Years: US Preventive Services Task Force Recommendation Statement.",
+      "authors": [
+        "Davidson Karina W",
+        "Barry Michael J",
+        "Mangione Carol M",
+        "Cabana Michael",
+        "Caughey Aaron B",
+        "Davis Esa M",
+        "Donahue Katrina E",
+        "Doubeni Chyke A",
+        "Kubik Martha",
+        "Li Li",
+        "Ogedegbe Gbenga",
+        "Pbert Lori",
+        "Silverstein Michael",
+        "Stevermer James",
+        "Tseng Chien-Wen",
+        "Wong John B"
+      ],
+      "year": 2021,
+      "journal": "JAMA",
+      "doi": "10.1001/jama.2021.20007",
+      "pmid": "34874412",
+      "abstract": "IMPORTANCE: Dental caries is the most common chronic disease in children in the US. According to the 2011-2016 National Health and Nutrition Examination Survey, approximately 23% of children aged 2 to 5 years had dental caries in their primary teeth. Prevalence is higher in Mexican American children (33%) and non-Hispanic Black children (28%) than in non-Hispanic White children (18%). Dental caries in early childhood is associated with pain, loss of teeth, impaired growth, decreased weight gain, negative effects on quality of life, poor school performance, and future dental caries. OBJECTIVE: To update its 2014 recommendation, the US Preventive Services Task Force (USPSTF) commissioned a systematic review on screening and interventions to prevent dental caries in children younger than 5 years. POPULATION: Asymptomatic children younger than 5 years. EVIDENCE ASSESSMENT: The USPSTF concludes with moderate certainty that there is a moderate net benefit of preventing future dental caries with oral fluoride supplementation at recommended doses in children 6 months or older whose water supply is deficient in fluoride. The USPSTF concludes with moderate certainty that there is a moderate net benefit of preventing future dental caries with fluoride varnish application in all children younger than 5 years. The USPSTF concludes that the evidence is insufficient on performing routine oral screening examinations for dental caries by primary care clinicians in children younger than 5 years and that the balance of benefits and harms of screening cannot be determined. RECOMMENDATION: The USPSTF recommends that primary care clinicians prescribe oral fluoride supplementation starting at age 6 months for children whose water supply is deficient in fluoride. (B recommendation) The USPSTF recommends that primary care clinicians apply fluoride varnish to the primary teeth of all infants and children starting at the age of primary tooth eruption. (B recommendation) The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of routine screening examinations for dental caries performed by primary care clinicians in children younger than 5 years. (I statement).",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34874412/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Professionally applied fluorides for preventing and arresting dental caries in low- and middle-income countries: Systematic review.",
+      "authors": [
+        "Dhanapriyanka Manori",
+        "Kosgallana Shamini",
+        "Kanthi R D F C",
+        "Jayasekara Prasanna",
+        "Dao Thi Minh An",
+        "Ha Diep Hong",
+        "Do Loc"
+      ],
+      "year": 2024,
+      "journal": "Journal of public health dentistry",
+      "doi": "10.1111/jphd.12617",
+      "pmid": "38623701",
+      "abstract": "OBJECTIVES: This systematic review aimed to review the safety and effectiveness of professionally applied fluorides for preventing and arresting dental caries in low- and middle-income countries (LMICs). METHODS: Randomized controlled trials conducted in LMICs, in which professionally applied fluorides were compared with placebo/no treatment/health education only or usual care with a minimum one-year follow-up period, were included. Any topically applied fluoride agents such as sodium fluoride (NaF), acidulated phosphate fluoride, silver diamine fluoride (SDF), and nano silver fluoride (NSF) were included. Five databases (PubMed, Embase, Scopus, Web of Science, and Cochrane Library) were searched in May 2022. Meta-analysis was conducted using a random effect model. RESULTS: This review included 33 studies for qualitative synthesis, encompassing 16,375 children aged between 1.5 and 14 years. Nevertheless, the meta-analysis focused on only 17 studies, involving 4067 children. Fourteen papers assessed potential adverse events, none of which was reported as major adverse events. SDF and NSF were identified as effective in arresting caries on primary teeth (p < 0.05) compared with a placebo or no treatment. Fluoride varnish and gel were identified as effective in reducing new caries development on primary teeth (p < 0.05) but not on permanent teeth (p > 0.05). The certainty of the generated evidence obtained is low. CONCLUSION: The review provides valuable insights into the use of professionally applied fluorides in LMICs and contributes to recommendations for their use. However, the limited rigorous evidence suggests the need for further research to strengthen these findings and draw more robust conclusions.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38623701/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Systematic Review of Evidence Pertaining to Factors That Modify Risk of Early Childhood Caries.",
+      "authors": [
+        "Moynihan P",
+        "Tanner L M",
+        "Holmes R D",
+        "Hillier-Brown F",
+        "Mashayekhi A",
+        "Kelly S A M",
+        "Craig D"
+      ],
+      "year": 2019,
+      "journal": "JDR clinical and translational research",
+      "doi": "10.1177/2380084418824262",
+      "pmid": "30931717",
+      "abstract": "INTRODUCTION: A systematic review of evidence on the impact of modifiable risk factors on early childhood caries (ECC) was conducted to inform recommendations in a World Health Organization manual on ECC prevention. OBJECTIVES: To systematically review published evidence pertaining to the effect of modifiable risk factors on ECC. METHODS: Twelve questions relating to infant feeding, diet, oral hygiene, and fluoride were addressed, as prioritized by a World Health Organization expert panel. Questions pertaining to the use of fluoride toothpaste were excluded due to its proven efficacy. The target population was children aged <72 mo. Data sources included Medline, Embase, CINAHL, and PubMed, and all human epidemiologic studies were included. The highest level of evidence was used for evidence synthesis and, where possible, meta-analysis. The review was conducted in accordance with the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-analyses) statement, with evidence assessed via the GRADE method. RESULTS: Of the 13,831 papers identified, 627 were screened in duplicate; of these, 139 were included. The highest-level evidence indicated that breastfeeding ≤24 mo does not increase ECC risk but suggested that longer-duration breastfeeding increases risk (low-quality evidence). Low-quality evidence indicated increased risk associated with consumption of sugars in bottles. Only 1 study had data on the impact of sugars in complementary foods, which increased risk. Moderate-quality evidence showed a benefit of oral health education for caregivers (odds ratio, 0.39; 95% CI, 0.19 to 0.80,  CONCLUSION: The best available evidence indicates that breastfeeding up to 2 y of age does not increase ECC risk. Providing access to fluoridated water and educating caregivers are justified approaches to ECC prevention. Limiting sugars in bottles and complementary foods should be part of this education. KNOWLEDGE TRANSFER STATEMENT: This research is being used by the World Health Organization in developing a toolkit on the prevention and management of early childhood caries. The information will guide 1) governments in developing national oral health plans and 2) clinicians when providing preventive advice, including that regarding infant feeding practices. It will help ensure that advice is in line with current World Health Organization guidelines and the best available evidence.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30931717/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Effectiveness of interventions on improving early-life dental care utilization: a systematic review and meta-analysis.",
+      "authors": [
+        "Ly-Mapes Oriana",
+        "Jang Hoonji",
+        "Al Jallad Nisreen",
+        "Rashwan Noha",
+        "Castillo Daniel A",
+        "Lu Xingyi",
+        "Fiscella Kevin",
+        "Xiao Jin"
+      ],
+      "year": 2024,
+      "journal": "Quintessence international (Berlin, Germany : 1985)",
+      "doi": "10.3290/j.qi.b5640008",
+      "pmid": "39078171",
+      "abstract": "OBJECTIVES: Although early-life dental care is crucial for preventing early childhood caries and has numerous benefits, the utilization rate of such care remains remarkably low worldwide, especially in families of low socioeconomic status. The aim of this study was to systematically review the scientific evidence relating to the effectiveness of interventions on improving early-life dental care utilization of very young children. METHOD AND MATERIALS: Scientific evidence relating to these positive changes was reviewed, with seven randomized controlled trials after qualitative evaluation. Interventions assessed included prenatal oral health promotion, motivational interviewing, intra-oral camera use alongside social work consultations to aid in decreasing barriers to care, monetary incentives for tooth brushing, fluoride varnish applications, and probiotic usage. RESULTS: The intervention was significantly effective in reducing the incidence of dental caries among children, especially in caries risk. Caries reduction was significant when oral health information was provided at frequent intervals prenatally. Caries increment was also reduced when probiotics were introduced when administered daily. Interventions that attempted to increase parental involvement in oral health care by increasing motivation and decreasing barriers had inconclusive results within the study groups. CONCLUSIONS: Considering high rates of early childhood caries, early establishment and preservation of a dental home should be a focus in public health measures. Continuous monitoring and parental involvement are key components to maintaining healthy oral conditions. Future studies could explore and test various innovative strategies that utilize technological platforms to engage with parents and promote early-life dental care utilization among the underserved population.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39078171/",
+      "key_findings": "",
+      "summary_ja": ""
+    }
+  ]
+}

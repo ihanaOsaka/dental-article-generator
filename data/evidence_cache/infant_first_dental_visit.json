@@ -1,0 +1,271 @@
+{
+  "topic_id": "infant_first_dental_visit",
+  "evidences": [
+    {
+      "title": "Ending childhood dental caries: WHO implementation manual",
+      "authors": [
+        "World Health Organization"
+      ],
+      "year": 2019,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "authority",
+      "source_type": "WHO",
+      "url": "https://www.who.int/publications/i/item/ending-childhood-dental-caries-who-implementation-manual",
+      "key_findings": "Comprehensive approach to childhood caries prevention including fluoride use, sugar reduction, and regular dental visits.",
+      "summary_ja": "小児むし歯予防の包括的アプローチ：フッ素使用、糖質制限、定期歯科受診を推奨。"
+    },
+    {
+      "title": "Methods for prevention of early childhood caries: Overview of systematic reviews.",
+      "authors": [
+        "Soares Renata Cristina",
+        "da Rosa Saulo Vinicius",
+        "Moysés Simone Tetu",
+        "Rocha Juliana Schaia",
+        "Bettega Patricia Vida Cassi",
+        "Werneck Renata Iani",
+        "Moysés Samuel Jorge"
+      ],
+      "year": 2021,
+      "journal": "International journal of paediatric dentistry",
+      "doi": "10.1111/ipd.12766",
+      "pmid": "33263186",
+      "abstract": "Early childhood caries (ECC) is a global problem, disproportionately affecting disadvantaged populations. The aim of this study was to evaluate systematically the available scientific evidence on the effectiveness of methods for ECC prevention. Six electronic databases were searched. Two independent reviewers selected the publications and analysed the quality of the included systematic reviews. Thirteen studies were included. Overall, eight reviews were classified with methodological quality critically low using the AMSTAR 2, whereas five reviews achieved a high risk of bias using the ROBIS tool. The methods identified that were positively related to the prevention of ECC were as follows: preventive dental programmes for pregnant women; advice on diet and feeding; prenatal oral health care; integration of maternal and children's oral health promotion into nursing practice; maternal oral health programmes undertaken by non-dental health professionals; dental health education in combination with the use of fluoride for children; early preventive dental visits; and the use of fluoride varnish and toothpastes with more than 1000 ppm of fluoride. The currently available evidence supporting the effectiveness of methods for prevention of ECC, although suggesting some methods of greater potential, is still lacking due to the methodological quality of the systematic reviews and the included primary studies.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33263186/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Effectiveness of a message service on child oral health practice via a social media application: A randomized controlled trial.",
+      "authors": [
+        "Choonhawarakorn K",
+        "Kasemkhun P",
+        "Leelataweewud P"
+      ],
+      "year": 2025,
+      "journal": "International journal of paediatric dentistry",
+      "doi": "10.1111/ipd.13256",
+      "pmid": "39104027",
+      "abstract": "BACKGROUND: Early establishment of healthy oral health behaviours is important to reduce early childhood caries risk. Two-way social media applications can economically assist caregivers. AIM: To evaluate the effectiveness of a LINE™ messaging service (MS) on promoting good oral health behaviors in Thai children. DESIGN: One hundred and ninety caregiver-child dyads (children aged 6-36 months) who attended a university dental hospital and two other hospitals were randomly assigned to receive age-appropriate dental health education via MS or through traditional on-site visits. Infographic posters, video clips, and supportive messages were delivered weekly to the MS group. Parental oral health knowledge and children's oral health status and practice were assessed at baseline and 6-month follow-up. RESULTS: The MS group showed significantly better scores in feeding habits (p = .034) and toothbrushing practice (p = .007). Parental knowledge increased in both groups; however, knowledge increased significantly in the control group (p = .001). Both groups exhibited improvements in the debris score but not in caries progression. The caregivers rated both methods as high to the highest satisfaction. CONCLUSIONS: The MS yielded comparable outcomes to traditional dental visits in promoting oral health behaviours.",
+      "evidence_level": "1b",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39104027/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Effectiveness of Family-Centered Oral Health Promotion on Toddler Oral Health in Hong Kong.",
+      "authors": [
+        "Yu K F",
+        "Wen W",
+        "Liu P",
+        "Gao X",
+        "Lo E C M",
+        "Wong M C M"
+      ],
+      "year": 2022,
+      "journal": "Journal of dental research",
+      "doi": "10.1177/00220345211036663",
+      "pmid": "34515552",
+      "abstract": "Early childhood caries is common in Hong Kong, and parental practices on maintaining good oral health of their young children are far from satisfactory. This article reports on the effectiveness of a randomized controlled trial on family-centered oral health promotion to new parents in establishing proper feeding habits and oral hygiene practices and in reducing caries risk among 3-y-old toddlers. At baseline, pregnant mothers and their husbands were recruited and randomly allocated into 2 groups. The test group received individualized oral health education (OHE) via a behavioral and educational counseling approach while the control group received the OHE pamphlets only. Information related to the feeding habits, oral hygiene practices, and oral health of the toddlers was collected by parent-completed questionnaires and oral examination annually via home visits. A total of 580 families were recruited at baseline, and 436 toddlers were followed up when they reached 3 y old (test, ",
+      "evidence_level": "1b",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34515552/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "An open-label, parallel-group, randomized clinical trial of different silver diamine fluoride application intervals to arrest dental caries.",
+      "authors": [
+        "Schroth Robert J",
+        "Bajwa Sukeerat",
+        "Lee Victor H K",
+        "Mittermuller Betty-Anne",
+        "Singh Sarbjeet",
+        "Cruz de Jesus Vivianne",
+        "Bertone Mary",
+        "Chelikani Prashen"
+      ],
+      "year": 2024,
+      "journal": "BMC oral health",
+      "doi": "10.1186/s12903-024-04791-9",
+      "pmid": "39227897",
+      "abstract": "BACKGROUND: Silver diamine fluoride (SDF) is an antimicrobial agent and alternative treatment option that can be used to arrest dental decay. While there is optimism with SDF with regard to caries management, there is no true consensus on the number and frequency of applications for children. The purpose of this study was to examine the effectiveness of 38% SDF to arrest early childhood caries (ECC) at three different application regimen intervals. METHODS: Children with teeth that met International Caries Detection and Assessment System codes 5 or 6 criteria were recruited from community dental clinics into an open-label, parallel-group, randomized clinical trial from October 2019 to June 2021. Participants were randomized to one of three groups using sealed envelopes that were prepared with one of three regimens inside: visits one month, four months, or six months apart. Participants received applications of 38% SDF, along with 5% sodium fluoride varnish (NaFV), at the first two visits to treat cavitated carious lesions. Lesions were followed and arrest rates were calculated. Lesions were considered arrested if they were hard on probing and black in colour. Statistics included descriptive and bivariate analyses (Kruskal one-way analysis of variance and Pearson's Chi-squared test). A p-value of ≤ 0.05 was considered significant. RESULTS: Eighty-four children participated in the study (49 males and 35 females, mean age: 44.4 ± 14.2 months). Treatment groups were well matched with 28 participants per group. A total of 374 teeth and 505 lesions were followed. Posterior lesions represented only 40.6% of affected surfaces. Almost all SDF treated lesions were arrested for the one-month (192/196, 98%) and four-month (159/166, 95.8%) interval groups at the final visit. The six-month group experienced the lowest arrest rates; only 72% (103/143) of lesions were arrested (p < 0.001). The duration of application intervals was inversely associated with improvements in arrest rates for all lesions. CONCLUSIONS: Two applications of 38% SDF and 5% NaFV in one-month and four-month intervals were comparable and very effective in arresting ECC. Applications six months apart were less effective and could be considered inferior treatment. TRIAL REGISTRATION: ClinicalTrials.gov NCT04054635 (first registered 13/08/2019).",
+      "evidence_level": "1b",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39227897/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Motivational interviewing effects on caries prevention in children differ by income: A randomized cluster trial.",
+      "authors": [
+        "Faustino-Silva Daniel Demétrio",
+        "Colvara Beatriz Carriconde",
+        "Meyer Elisabeth",
+        "Hugo Fernando Neves",
+        "Celeste Roger Keller",
+        "Hilgert Juliana Balbinot"
+      ],
+      "year": 2019,
+      "journal": "Community dentistry and oral epidemiology",
+      "doi": "10.1111/cdoe.12488",
+      "pmid": "31385333",
+      "abstract": "OBJECTIVES: This study aimed to investigate the differential preventive effect of motivational interviewing (MI) on early childhood caries (ECC) according to socioeconomic variables, using a community-based trial in a public healthcare setting. METHODS: A cluster-randomized, double-blind study with two parallel groups in healthcare clinical settings (HCCs) comparing conventional oral health education (CE) and MI aimed at mothers of children born in 2013 and 2014. The oral health team of 6 of the 12 HCCs were trained in MI. This training was intensive for active learning of the basic MI principles, conducted by a psychologist who is a PhD in psychiatry and has extensive experience in conducting MI training workshops. It was held in an experiential format divided into two 4-hour shifts, with a 1-week interval. Children who attended at least one dental visit in the first year of life at their HCC were clinically evaluated by trained examiners and parents responded to a questionnaire. The effect of MI on the caries outcome compared with CE was evaluated in different subgroups: family income, mother's education and skin colour. RESULTS: One hundred and eighty-six were included in the CE group and 228 in the MI group. The caries rate per 100 surface-year was 1.29 (95%CI: 0.92-1.80) in the CE group and 0.46 (95%CI: 0.29-0.73) in the MI group. The effect of MI was statistically significant in the lower-income category (P = .03); MI prevented 57% of carious lesions (IRR = 0.43, 95% CI 0.22-0.83) and reduced the occurrence of the disease on more than one surface per 100 followed surface-year in this same category in the equivalent income subgroup (IRD = -1.37, P = .04). CONCLUSIONS: Motivational interviewing had a greater preventive effect against caries in children whose families are of lower income.",
+      "evidence_level": "1b",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31385333/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Reducing pediatric caries and obesity risk in South Asian immigrants: randomized controlled trial of common health/risk factor approach.",
+      "authors": [
+        "Karasz Alison",
+        "Bonuck Karen"
+      ],
+      "year": 2018,
+      "journal": "BMC public health",
+      "doi": "10.1186/s12889-018-5317-9",
+      "pmid": "29855352",
+      "abstract": "BACKGROUND: This paper describes the design and methods of a multi-phase study to reduce early childhood caries and obesity in vulnerable South Asian (SA) immigrants in the United States. Early childhood caries and obesity are the most common diseases of early childhood. Risk factors for both diseases are rooted in early childhood feeding practices such as bottle feeding and intake of sweets and sweetened beverages. The Common Health/Risk Factor Approach to addressing oral health is widely promoted by the WHO and other policy makers. This approach recognizes links between oral health and other diseases of modernity. Our CHALO! (\"Child Health Action to Lower Obesity and Oral health risk\"--from a Hindi word meaning \"Let's go!\") study targets SA families at high risk for early childhood caries and obesity. CHALO! addresses common risk factors associated with these two common diseases of childhood. METHODS: This two part project includes a randomized controlled trial, and a Knowledge Translation campaign. A randomized controlled trial will enroll n =  360 families from pediatric practices serving South Asians in the New York metro area. The intervention group will receive home visits by SA community health workers at 6, 8, 10, 12, 14, and 16 months of age. Controls will receive culturally tailored educational material. Primary outcomes-- cariogenic and obesogenic feeding practices at 6, 12, and 18 months-- will be assessed with the MySmileBuddy iPad based tool. Secondary outcomes include: oral hygiene practices, anthropometrics, and caries incidence at 18 months. A public education campaign will focus on both families and health care providers. DISCUSSION: There are few Common Health/Risk Factor Approach published studies on obesity and oral health risk in children, despite health morbidity and costs associated with both conditions. CHALO! comprises a multi-level interventions designed to promote culturally competent, sustainable change. TRIAL REGISTRATION: ClinicalTrials.gov NCT03077425 .",
+      "evidence_level": "1b",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29855352/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Effects of silver diamine fluoride on oral bacteriome and mycobiome: a randomized clinical trial.",
+      "authors": [
+        "Manerkar Mayura",
+        "de Jesus Vivianne Cruz",
+        "Mittermuller Betty-Anne",
+        "Lee Victor H K",
+        "Singh Sarbjeet",
+        "Bertone Mary",
+        "Chelikani Prashen",
+        "Schroth Robert J"
+      ],
+      "year": 2025,
+      "journal": "BMC oral health",
+      "doi": "10.1186/s12903-025-06986-0",
+      "pmid": "41120980",
+      "abstract": "BACKGROUND: Silver diamine fluoride (SDF) is a simple and non-invasive agent used to arrest early childhood caries (ECC). This study aimed to investigate potential changes to the oral microbiome in children with ECC who were treated with SDF and sodium fluoride (NaF) varnish at three different frequency regimens. METHODS: Forty-five children (n = 15 per group) with ECC were recruited from community-based dental clinics in Winnipeg, Canada into an open-label, parallel-group, randomized clinical trial testing three different treatment frequency regimens of SDF. A total of 195 carious lesions were treated with two applications of 38% SDF and 5% NaF varnish (and assessed over three study visits one month, four months, or six months apart. Dental plaque samples were collected at each visit. Sequencing of the V4-16 S rRNA and ITS1 rRNA genes were used to study the supragingival plaque microbiome. RESULTS: Microbial diversity analyses showed no significant differences in the overall microbiome after SDF treatment. However, significant changes in the abundance of specific bacteria and fungi, particularly Lactobacillus spp., Bifidobacterium spp., and Candida spp., were observed after treatment. Furthermore, overabundance of Streptococcus mutans and Candida dubliniensis at baseline was observed in children who had at least one caries lesion not arrested after one SDF application, compared to those who had 100% arrest rates. The overall arrest rates for treated carious lesions were 75.9% at the second visit and 92.8% at the third visit. Arrest rates were higher for all lesions after two applications of SDF with NaF varnish, and applications one month and four months apart had higher arrest rates (95.9% and 98.5%) than six months (81.1%) apart. CONCLUSIONS: Applications of SDF with NaF varnish were an effective modality for arresting ECC, with higher arrest rates after two SDF applications. No loss of diversity but changes in the abundance of specific bacteria and fungi were observed after SDF treatment. TRIAL REGISTRATION: ClinicalTrials.gove NCT04054635 (first registered 13/08/2019).",
+      "evidence_level": "1b",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41120980/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Development and evaluation of a gamified smart phone mobile health application for oral health promotion in early childhood: a randomized controlled trial.",
+      "authors": [
+        "Zolfaghari Mitra",
+        "Shirmohammadi Mina",
+        "Shahhosseini Houra",
+        "Mokhtaran Mehrshad",
+        "Mohebbi Simin Z"
+      ],
+      "year": 2021,
+      "journal": "BMC oral health",
+      "doi": "10.1186/s12903-020-01374-2",
+      "pmid": "33413304",
+      "abstract": "BACKGROUND: This study aimed to design a gamified smartphone application (app) and assess its efficacy for education of mothers regarding oral healthcare of their children. METHODS: In this pretest-posttest controlled clinical trial, a simple app and a gamified version of it were designed to enhance the oral health knowledge and practice of mothers. The app contains information about early childhood caries, health diet, sugars, baby-oral hygiene, fluoride effect, fluoride toothpaste, tooth-brushing training video and regular dental visits. The opinion of experts and 3 mothers were obtained and both apps were revised accordingly. The intervention was implemented on mothers of preschoolers referring to the specialty dental clinic of Tehran School of Dentistry in 2019. The mothers were randomly allocated to the simple app or gamified app group. Before the intervention, all mothers filled out a questionnaire regarding oral health knowledge and practice, and their demographics were collected. The plaque index (PI) of children was also measured. The mothers filled out the same questionnaire 1 month after the intervention, and the PI of children was measured again. Paired t test and linear regression model were used for statistical analysis of the data. RESULTS: Totally, 58 mother and child pairs entered the study; 40% of children were boys. The mean age of children was 4.7 ± 1.2 years. The mean knowledge score of mothers in the pretest was 10.5 and 11.3 in simple app and gamified app group, respectively, which changed to 13.1 and 14.3, respectively in the posttest. The mean practice score of mothers was 4.4 and 4.8 in simple app and gamified app groups, respectively in the pretest, which changed to 8.5 and 8, respectively in the posttest. The mean dental plaque index of children in the pretest was 0.8 and 1 in simple app and gamified app groups, respectively, which changed to 0.5 and 0.5, respectively in the posttest. Children had better Plaque control in gamified app group (P < 0.05). CONCLUSION: After 1 month, both apps effectively improved the oral-health knowledge and practice of mothers while oral hygiene as a result of plaque control was superior in children of mothers using the gamified app. Trial registration IRCT, IRCT20131102015238N2. Registered 24 February 2019-Retrospectively registered, https://fa.irct.ir/trial/36600 .",
+      "evidence_level": "1b",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33413304/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Impact of Health Promotion Interventions on Early Childhood Caries Prevention in Children Aged 2-5 Years Receiving Dental Treatment Under General Anesthesia.",
+      "authors": [
+        "Razeghi Samaneh",
+        "Amiri Pardis",
+        "Mohebbi Simin Z",
+        "Kharazifard Mohammad J"
+      ],
+      "year": 2020,
+      "journal": "Frontiers in public health",
+      "doi": "10.3389/fpubh.2020.00006",
+      "pmid": "32175299",
+      "abstract": "",
+      "evidence_level": "1b",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32175299/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Antiretroviral treatment and its impact on oral health outcomes in 5 to 7 year old Ugandan children: A 6 year follow-up visit from the ANRS 12174 randomized trial.",
+      "authors": [
+        "Birungi Nancy",
+        "Fadnes Lars T",
+        "Engebretsen Ingunn M S",
+        "Tumwine James K",
+        "Åstrøm Anne Nordrehaug"
+      ],
+      "year": 2020,
+      "journal": "Medicine",
+      "doi": "10.1097/MD.0000000000022352",
+      "pmid": "32991450",
+      "abstract": "BACKGROUND: Antiretroviral therapy for HIV in sub-Saharan Africa has transformed the highly infectious virus to a stable chronic condition, with the advent of Highly active antiretroviral therapy (HAART). The longterm effects of HAART on the oral health of children are understudied. OBJECTIVE: To compare the effect of lopinavir-ritonavir and lamivudine on oral health indicators (dental caries, gingivitis, tooth eruption, and oral health related quality of life) in 5 to 7 year old HIV-1 exposed uninfected children from the ANRS 12174 trial. METHODS: This study used data collected in 2017 among children aged 5 to 7 years from the Ugandan site of the ANRS 12174 randomized trial (ClinicalTrials.gov no: NCT00640263) implemented between 2009 and 2012 in Mbale district, Eastern Uganda. The intervention was lopinavir-ritonavir or lamuvudine treatment to prevent vertical HIV-1 transmission. One hundred thirty-seven and 139 children were randomized to receive lopinavir-ritonavir or lamivudine treatment at day 7 postpartum to compare efficacy of prevention of vertical HIV-1 transmission. At follow up, the children underwent oral examination using the World Health Organization methods for field conditions. The oral health related quality of life was assessed using the early childhood oral health impact scale. Negative binomial and logistic regression were used for the analysis of data. MAIN OUTCOME MEASURES: Dental caries, gingivitis, tooth eruption, and oral health related quality of life) in 5 to 7 year old HIV-1 exposed uninfected children. RESULTS: The prevalence of dental caries was 48% in the study sample: 49% in the lopinavir-ritonavir arm and 48% in the lamivudine treatment group. The corresponding mean decayed missing filled teeth and standard deviation was 1.7 (2.4) and 2.3 (3.7) The mean number (standard deviation) of erupted permanent teeth was 3.8 (3.7) and 4.6 (3.9) teeth in the lopinavir- and lamivudine group, respectively. The prevalence of reported impacts on oral health was 7% in the lopinavir-ritonavir and 18% in the lamivudine group. Gingivitis had a prevalence of 7% in the lopinavir-ritonavir and 14% lamivudine treatment group. The regression analysis revealed 70% less reported impacts on oral health in lopinavir-ritonavir group than the lamivudine treatment group with an incidence rate ratio of 0.3 (95% confidence interval: 0.1-0.9). CONCLUSIONS: HIV exposed uninfected infants in the lopinavir-ritonavir group reported less impacts on oral health than the lamivudine treatment group. Dental caries, gingivitis, and tooth eruption were not significantly affected by the treatment lopinavir-ritonavir or lamivudine. TRIAL REGISTRATION CLINICALTRIALS. GOV IDENTIFIER: NCT00640263.",
+      "evidence_level": "1b",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32991450/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Effectiveness of fluoride varnish in preventing early childhood caries in rural areas without access to fluoridated drinking water: A randomized control trial.",
+      "authors": [
+        "Muñoz-Millán Patricia",
+        "Zaror Carlos",
+        "Espinoza-Espinoza Gerardo",
+        "Vergara-Gonzalez Carolina",
+        "Muñoz Sergio",
+        "Atala-Acevedo Claudia",
+        "Martínez-Zapata Maria José"
+      ],
+      "year": 2018,
+      "journal": "Community dentistry and oral epidemiology",
+      "doi": "10.1111/cdoe.12330",
+      "pmid": "28850712",
+      "abstract": "OBJECTIVES: Early childhood caries (ECC) constitutes a serious public health issue, especially in communities without water fluoridation. We assessed the effectiveness of biannual fluoride varnish applications to prevent ECC in children from nonfluoridated rural areas. METHODS: A triple-blind randomized control trial with two parallel arms was conducted with 275 two- to three-year-old children without cavitated carious lesions from 28 rural public preschools in Chile. The preschools were located in areas of low socioeconomic status without access to fluoridated water. An oral health education component was administered to children, parents and educators. A new toothbrush and toothpaste for each child was delivered to the parents at baseline and at four follow-up visits. The participants were randomly allocated to receive fluoride varnish or placebo applications every six months. Trained, calibrated dentists blind to the treatment arm performed visual dental assessments at 6, 12, 18 and 24 months. The primary endpoint was the development of cavitated carious lesions in children during the 24-month follow-up period using WHO criteria, and the secondary outcomes were an increase in caries measured as a change in the index of decayed, missing or filled teeth (dmft) since the beginning of the study and the development of adverse effects. An intention-to-treat (ITT) approach was used for the primary analysis. RESULTS: We included 131 participants in the intervention group and 144 participants in the placebo group; of these children, 89 (67.9%) in the intervention group and 100 (69.4%) in the control group completed the protocol. The comparative ITT analysis of caries incidence after 24 months of follow-up showed a between-group prevention fraction of 18.9% (-2.9%-36.2%). Caries incidence was 45.0% for the experiment group and 55.6% for the control group (P = .081), with a mean dmft of 1.6 (SD = 2.4) and 2.1 (SD = 2.5), respectively. No adverse effects were reported. CONCLUSIONS: In conclusion, biannual fluoride varnish application is not effective in preschool children from rural nonfluoridated communities at a high risk of caries.",
+      "evidence_level": "1b",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28850712/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Oral Health-Related Quality of Life of Children Following Different Treatment Regimens of Silver Diammine Fluoride.",
+      "authors": [
+        "Srivastava Mohit",
+        "Schroth Robert J",
+        "Sareen Shaan",
+        "Lee Victor H K",
+        "Cruz de Jesus Vivianne",
+        "Mittermuller Betty-Anne",
+        "Singh Sarbjeet",
+        "Bertone Mary",
+        "Chelikani Prashen"
+      ],
+      "year": 2024,
+      "journal": "Journal of dentistry for children (Chicago, Ill.)",
+      "doi": "",
+      "pmid": "39743577",
+      "abstract": "",
+      "evidence_level": "1b",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39743577/",
+      "key_findings": "",
+      "summary_ja": ""
+    }
+  ]
+}

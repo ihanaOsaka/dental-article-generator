@@ -1,0 +1,438 @@
+{
+  "topic_id": "elem_xylitol",
+  "evidences": [
+    {
+      "title": "Ending childhood dental caries: WHO implementation manual",
+      "authors": [
+        "World Health Organization"
+      ],
+      "year": 2019,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "authority",
+      "source_type": "WHO",
+      "url": "https://www.who.int/publications/i/item/ending-childhood-dental-caries-who-implementation-manual",
+      "key_findings": "Comprehensive approach to childhood caries prevention including fluoride use, sugar reduction, and regular dental visits.",
+      "summary_ja": "小児むし歯予防の包括的アプローチ：フッ素使用、糖質制限、定期歯科受診を推奨。"
+    },
+    {
+      "title": "Prenatal Oral Health Care and Early Childhood Caries Prevention: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Xiao Jin",
+        "Alkhers Naemah",
+        "Kopycka-Kedzierawski Dorota T",
+        "Billings Ronald J",
+        "Wu Tong Tong",
+        "Castillo Daniel A",
+        "Rasubala Linda",
+        "Malmstrom Hans",
+        "Ren Yanfang",
+        "Eliav Eli"
+      ],
+      "year": 2019,
+      "journal": "Caries research",
+      "doi": "10.1159/000495187",
+      "pmid": "30630167",
+      "abstract": "Despite the advancement of early childhood caries (ECC) prediction and treatment, ECC remains a significant public health burden in need of more effective preventive strategies. Pregnancy is an ideal period to promote ECC prevention given the profound influence of maternal oral health and behaviors on children's oral health. However, studies have shown debatable results with respect to the effectiveness of ECC prevention by means of prenatal intervention. Therefore, this study systematically reviewed the scientific evidence relating to the association between prenatal oral health care, ECC incidence, and Streptococcus mutans carriage in children. Five studies (3 randomized control trials, 1 prospective cohort study, and 1 nested case-control study) were included for qualitative assessment. Tested prenatal oral health care included providing fluoride supplements, oral examinations/cleanings, oral health education, dental treatment referrals, and xylitol gum chewing. Four studies that assessed ECC incidence reduction were included in meta-analysis using an unconditional generalized linear mixed effects model with random study effects and age as a covariate. The estimated odds ratio and 95% confidence intervals suggested a protective effect of prenatal oral health care against ECC onset before 4 years of age: 0.12 (0.02, 0.77) at 1 year of age, 0.18 (0.05, 0.63) at 2 years of age, 0.25 (0.09, 0.64) at 3 years of age, and 0.35 (0.12, 1.00) at 4 years of age. Children's S. mutans carriage was also significantly reduced in the intervention group. Future studies should consider testing strategies that restore an expectant mother's oral health to a disease-free state during pregnancy.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30630167/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Sugar substitutes on caries prevention in permanent teeth among children and adolescents: a systematic review and meta-analysis.",
+      "authors": [
+        "Luo Bella Weijia",
+        "Liang Nicky Linlin",
+        "Townsend Janice A",
+        "Lo Edward Chin Man",
+        "Chu Chun Hung",
+        "Duangthip Duangporn"
+      ],
+      "year": 2024,
+      "journal": "Journal of dentistry",
+      "doi": "10.1016/j.jdent.2024.105069",
+      "pmid": "38762077",
+      "abstract": "OBJECTIVES: This study aimed to systematically review the effect of sugar substitute consumption on caries prevention in permanent teeth among children and adolescents. DATA: Randomized controlled trials (RCTs) and controlled clinical trials (CCTs) comparing the clinical effect of sugar substitutes (both high- and low-intensity sweeteners) in preventing caries in permanent teeth among children and adolescents aged 6-19 were included. SOURCES: A systematic search was conducted in three databases (PubMed, Web of Science and Embase) without any restrictions on publication year. STUDY SELECTION: The initial search found 1,859 items, and finally, 15 studies (11 RCTs and 4 CCTs) with a total of 6325 participants (age: 6-18 years) were included. The Cochrane risk-of-bias assessment tools were used for quality assessment. Most (80%, 12/15) were graded as having a 'moderate' or 'high' risk of bias. All trials investigated sugar alcohol, which is a low-intensity sweetener. Xylitol was the most commonly investigated (73.3%, 11/15), followed by sorbitol (46.7%, 7/15), and erythritol (13.3%, 2/15). Results of the meta-analysis showed that both xylitol (standardized mean difference [SMD]: -0.50, 95% confidence interval [CI] -0.85 to -0.16, P = 0.005) and sorbitol (SMD: -0.10, 95% CI: -0.19 to -0.01, P = 0.03) had a significant effect in preventing dental caries compared to no treatment/placebo. No clinical trials on high-intensity sweeteners such as aspartame and saccharin were found. CONCLUSION: The consumption of xylitol or sorbitol is potentially effective in preventing caries in permanent teeth among children and adolescents. No clinical evidence is available regarding the role of high-intensity sweeteners in caries prevention. CLINICAL SIGNIFICANCE: The use of xylitol or sorbitol as sugar substitutes has a beneficial effect in preventing dental caries among children and adolescents.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38762077/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "A Systematic Review and Meta-Analysis of the Role of Sugar-Free Chewing Gum in Dental Caries.",
+      "authors": [
+        "Newton J T",
+        "Awojobi O",
+        "Nasseripour M",
+        "Warburton F",
+        "Di Giorgio S",
+        "Gallagher J E",
+        "Banerjee A"
+      ],
+      "year": 2020,
+      "journal": "JDR clinical and translational research",
+      "doi": "10.1177/2380084419887178",
+      "pmid": "31743654",
+      "abstract": "OBJECTIVE: To determine the difference in level of dental caries in adults and children who chew sugar-free gum (SFG), compared with those who do not chew SFG or use alternatives such as lozenges, candies, rinses, tablets, and other nonchewing controls. METHODS: Systematic review of published literature. RESULTS: Twelve studies of interventions of SFG for dental caries outcomes were included. SFGs were found to significantly reduce caries increment, giving a preventative fraction (PF) of 28% (95% CI, 7% to 48%). Including the 8 trials that used xylitol gum only as the basis of the intervention, the PF was 33% (95% CI, 4% to 61%). No adverse effects were recorded. There was a high level of heterogeneity among the trials included. CONCLUSION: The findings of this review provide tentative evidence that chewing SFG reduces caries increment in comparison to nonchewing controls. However, there is a considerable degree of variability in the effect and the trials included were generally of moderate quality. There is a need for future research to explore the acceptability and feasibility of the use of SFG as a public health intervention (PROSPERO 2018 CRD42018094676). KNOWLEDGE TRANSFER STATEMENT: The results of this study can be used by clinicians when deciding how best to implement dental caries prevention regimes for their patients. With consideration of cost and patient preference, this information could help to develop national policy directives on caries prevention and dictate the direction of future clinical research.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31743654/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Interventions with pregnant women, new mothers and other primary caregivers for preventing early childhood caries.",
+      "authors": [
+        "Gomersall Judith C",
+        "Slack-Smith Linda",
+        "Kilpatrick Nicky",
+        "Muthu M S",
+        "Riggs Elisha"
+      ],
+      "year": 2024,
+      "journal": "The Cochrane database of systematic reviews",
+      "doi": "10.1002/14651858.CD012155.pub3",
+      "pmid": "38753314",
+      "abstract": "BACKGROUND: Dental caries, a common chronic disease of childhood, is associated with adverse health and economic consequences for infants and their families. Socioeconomically disadvantaged children have a higher risk of early childhood caries (ECC). This review updates one published in 2019. OBJECTIVES: To assess the effects of interventions undertaken with pregnant women, new mothers or other primary caregivers of infants in the first year of life, for preventing ECC (from birth to six years). SEARCH METHODS: We searched Cochrane Oral Health's Trials Register, Cochrane Pregnancy and Childbirth's Trials Register, CENTRAL, MEDLINE (Ovid), Embase (Ovid), CINAHL EBSCO, the US National Institutes of Health Ongoing Trials Register (clinicaltrials.gov) and WHO International Clinical Trials Registry Platform (apps.who.int/trialsearch). The latest searches were run on 3 January, 2023. SELECTION CRITERIA: Randomised controlled trials (RCTs) comparing interventions with pregnant women, or new mothers and other primary caregivers of infants in the first year of life, against standard care, placebo or another intervention, reporting on a primary outcome: caries presence in primary teeth, dmfs (decayed, missing, filled primary surfaces index), or dmft (decayed, missing, filled teeth index), in children up to six years of age. Intervention types include clinical, oral health promotion/education (hygiene education, breastfeeding and other dietary advice) and policy or service. DATA COLLECTION AND ANALYSIS: Two review authors independently assessed study eligibility, extracted data, assessed risk of bias, and assessed certainty of evidence (GRADE). MAIN RESULTS: We included 23 RCTs (5 cluster-randomised), involving 25,953 caregivers (mainly mothers) and their children. Fifteen trials assessed oral health education/promotion interventions against standard care. Six trials assessed a clinical intervention for mother dentition, against placebo, or a different type of clinical intervention. Two trials assessed oral health/education promotion plus clinical intervention (for mother's dentition) against standard care. At most, five trials (maximum of 1326 children and 130 mothers) contributed data to any comparison. Enamel-only caries were included in the diagnosis of caries in some studies. For many trials, the risk of bias was unclear due to lack of methodological details reported. In thirteen trials, participants were socioeconomically disadvantaged. No trial indicated receiving funding that was likely to have influenced their results. Oral health education/promotion interventions Child diet and feeding practice advice versus standard care: We observed a probable 15 per cent reduced risk of caries presence in primary teeth with the intervention (RR 0.85, 95% CI 0.75 to 0.97; 3 trials; 782 participants; moderate-certainty evidence), and there may be a slightly lower mean dmfs (MD -0.29, 95% CI -0.58 to 0; 2 trials; 757 participants; low-certainty evidence); however, the evidence is very uncertain regarding the difference between groups in mean dmft (MD -0.90, 95% CI -1.85 to 0.05; 1 trial; 340 participants; very low-certainty evidence). Breastfeeding promotion and support versus standard care: We observed little or no difference between groups in the risk of caries presence in primary teeth (RR 0.96, 95% CI 0.89 to 1.03; 2 trials; 1148 participants; low-certainty evidence) and in mean dmft (MD -0.12, 95% CI -0.59 to 0.36; 2 trials; 652 participants; low-certainty evidence). dmfs was not reported. Child diet advice compared with standard care: We are very uncertain about the effect on the risk of caries presence in primary teeth (RR 1.08, 95% CI 0.34 to 3.37; 1 trial; 148 participants; very low-certainty evidence). dmfs and dmft were not reported. Oral hygiene, child diet and feeding practice advice versus standard care: The evidence is very uncertain about the effect on the risk of caries presence in primary teeth (RR 0.73, 95% CI 0.50 to 1.07; 5 trials; 1326 participants; very low-certainty evidence) and there maybe little to no difference in mean dmfs (MD -0.87, 95% CI -2.18 to 0.43; 2 trials; 657 participants; low-certainty evidence) and mean dmft (MD -0.30, 95% CI -0.96 to 0.36; 1 trial; 187 participants; low-certainty evidence). High-dose versus low-dose vitamin D supplementation during pregnancy: We are very uncertain about the effect on risk of caries presence in primary teeth (RR 0.99, 95% CI 0.70 to 1.41; 1 trial; 496 participants; very low-certainty evidence). dmfs and dmft were not reported. Clinical interventions (for mother dentition) Chlorhexidine (CHX, a commonly prescribed antiseptic agent) or iodine-NaF application and prophylaxis versus placebo: We are very uncertain regarding the difference in risk of caries presence in primary teeth between antimicrobial and placebo treatment for mother dentition (RR 0.97, 95% CI 0.80 to 1.19; 3 trials; 479 participants; very low-certainty evidence). No trial reported dmfs or dmft. Xylitol compared with CHX antimicrobial treatment: We are very uncertain about the effect on caries presence in primary teeth (RR 0.62, 95% CI 0.27 to 1.39; 1 trial, 96 participants; very low-certainty evidence), but we observed there may be a lower mean dmft with xylitol (MD -2.39; 95% CI -4.10 to -0.68; 1 trial, 113 participants; low-certainty evidence). No trial reported dmfs. Oral health education/promotion plus clinical interventions (for mother dentition) Diet and feeding practice advice for infants and young children plus basic dental care for mothers compared with standard care: We are very uncertain about the effect on risk of caries presence in primary teeth (RR 0.44, 95% CI 0.05 to 3.95; 2 trials, 324 participants; very low-certainty evidence) or on mean dmft (1 study, not estimable). No trial reported dmfs. No trials evaluated policy or health service interventions. AUTHORS' CONCLUSIONS: There is moderate-certainty evidence that providing advice on diet and feeding to pregnant women, mothers or other caregivers with children up to the age of one year probably leads to a slightly reduced risk of early childhood caries (ECC). The remaining evidence is low to very-low certainty and is insufficient for determining which, if any, other intervention types and features may be effective for preventing ECC, and in which settings. Large, high-quality RCTs of oral health education/promotion, clinical, and policy and service access interventions, are warranted to determine the effects and relative effects of different interventions and inform practice. We have identified 13 ongoing studies. Future studies should consider if and how effects are modified by intervention features and participant characteristics (including socioeconomic status).",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38753314/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "A systematic review and meta-analysis of the role of sugar-free chewing gum on Streptococcus mutans.",
+      "authors": [
+        "Nasseripour Melanie",
+        "Newton Jonathon Timothy",
+        "Warburton Fiona",
+        "Awojobi Oluwatunmise",
+        "Di Giorgio Sonya",
+        "Gallagher Jennifer Elizabeth",
+        "Banerjee Avijit"
+      ],
+      "year": 2021,
+      "journal": "BMC oral health",
+      "doi": "10.1186/s12903-021-01517-z",
+      "pmid": "33926448",
+      "abstract": "BACKGROUND: Preventive strategies targeting Streptococcus mutans may be effective in reducing the global burden of caries. The aim of the current systematic review of published literature was to determine the difference in level of Streptococcus mutans in adults and children who chew sugar-free gum (SFG), compared with those who did not chew gum, who chewed a control gum or received alternatives such as probiotics or fluoride varnish. METHODS: Systematic review (PROSPERO registration No. CRD42018094676) of controlled trials with adult and child participants where chewing of SFG was the main intervention. Databases searched (1 Jan 1946 to 31 August 2020): MEDLINE, EMBASE, PsycINFO, Scopus, Web of Science, Allied and Complimentary Medicine Database, Cochrane Central Register of Controlled Trials (CENTRAL), Open Grey, PROSPERO and the Cochrane library of systematic reviews. 'Search terms included Medical Subject Headings, and free text to cover the following range of constructs: chewing gum, sugar free, oral health, caries, xerostomia, periodontal disease. Data extraction and Risk of Bias assessment was undertaken by three researchers using a modified version of the Cochrane RoB tool (version 1). Data synthesis was conducted using meta-analysis in STATA. RESULTS: Thirteen studies of SFG with micro-organisms as outcomes were identified. The use of SFG significantly reduced the load of Streptococcus mutans (effect size - 0.42; 95% CI - 0.60 to - 0.25) compared to all controls. In seven of the 13 studies the confidence intervals of the effect size estimate included zero, suggesting no effect of the intervention. Twelve trials used xylitol gum only as the basis of the intervention; xylitol gum significantly reduced the load of Streptococcus mutans (effect size - 0.46; 95% CI - 0.64 to - 0.28) in comparison to all controls. There was a moderate level of heterogeneity across the included studies. No adverse effects were recorded. CONCLUSION: Chewing SFG reduces the load of Streptococcus mutans in the oral cavity in comparison to non-chewing controls. Considering the degree of variability in the effect and the moderate quality of the trials included, there is a need for future research exploring the use SFG as a preventive measure for reducing the cariogenic oral bacterial load.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33926448/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Clinical interventions with various agents to prevent early childhood caries: A systematic review with network meta-analysis.",
+      "authors": [
+        "He Shuyang",
+        "Choong Elaine Kar Man",
+        "Duangthip Duangporn",
+        "Chu Chun Hung",
+        "Lo Edward Chin Man"
+      ],
+      "year": 2023,
+      "journal": "International journal of paediatric dentistry",
+      "doi": "10.1111/ipd.13055",
+      "pmid": "36718540",
+      "abstract": "BACKGROUND: Dental caries is one of the most prevalent chronic diseases among preschool children globally. Different preventive agents and combinations have been studied. However, the rank of the effectiveness of clinical interventions is equivocal. AIM: To summarize and rank the effectiveness of clinical interventions using different agents for primary prevention of early childhood caries (ECC). DESIGN: Two reviewers independently searched PubMed, Embase, and Cochrane Library to identify randomized controlled trials with at least 12-month follow-up. The network meta-analysis (NMA) on different agents was based on a random-effects model and frequentist approach. Standardized mean differences (SMD) with 95% CI of the caries increment were calculated in terms of either dmft or dmfs and used in the NMA. Caries incidences at the child level were compared using odds ratios (ORs) with 95% CI. The effectiveness of the agents was ranked using the surface under the cumulative ranking curve (SUCRA). RESULTS: After screening 3807 publications and selection, the NMA finally included 33 trials. These trials used either a single or combination of agents such as fluorides, chlorhexidine, casein phosphopeptide-amorphous calcium phosphate, probiotics, xylitol, and triclosan. Compared with control, fluoride foam (FF; SMD -0.69, 95% CI: -1.06, -0.32) and fluoride salt (F salt; SMD -0.66, 95% CI: -1.20, -0.13) were effective in preventing caries increment. Probiotic milk plus low fluoride toothpaste (PMLFTP; OR 0.34, 95% CI: 0.15, 0.77), FF (OR 0.48, 95% CI: 0.37, 0.63), fluoride varnish (FV; OR 0.63, 95% CI: 0.48, 0.81), and fluoride varnish plus high fluoride toothpaste (FVHFTP; OR 0.73, 95% CI: 0.57, 0.93) were effectively preventing caries incidence. According to the SUCRA, FF ranked first in preventing caries increment, whereas PMLFTP ranked first in preventing caries incidence. CONCLUSION: Fluoride foam, F salt, PMLFTP, FV, and FVHFTP all effectively reduce caries increment or caries incidence in preschool children, but the evidence indicates low degree of certainty. Considering the relatively small number of studies, confidence in the findings, and limitations in the study, clinical practitioners and readers should exercise caution when interpreting the NMA results.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36718540/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Clinical Effects of Sugar Substitutes on Cariogenic Bacteria: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Liang Nicky Linlin",
+        "Luo Bella Weijia",
+        "Sun Ivy Guofang",
+        "Chu Chun Hung",
+        "Duangthip Duangporn"
+      ],
+      "year": 2024,
+      "journal": "International dental journal",
+      "doi": "10.1016/j.identj.2024.02.008",
+      "pmid": "38599933",
+      "abstract": "BACKGROUND: The use of sugar substitutes in food products has recently increased. Limited information regarding the role of various sugar substitutes in caries prevention was found. This systematic review and meta-analysis was conducted to investigate the effects of sugar substitute consumption on reducing cariogenic bacteria in dental plaque and saliva. METHODS: We systematically searched PubMed, EMBASE, and Web of Science (inception to July 2023) for prospective controlled trials published in English and investigated the effects of sugar substitute consumption on cariogenic bacteria in dental plaque and saliva. The primary outcome was the changes in cariogenic bacteria. Two independent reviewers screened the papers. Quality was assessed using the Cochrane risk-of-bias tools. RESULTS: From 977 studies identified, 32 trials were included. Almost half (14/32, 44%) of the included studies had a high risk of bias. Almost all (31/32, 96.88%) were investigations of xylitol and other sugar alcohols (low-intensity sweeteners), such as sorbitol, erythritol, and maltitol. Only one trial investigated stevia, a high-intensity sweetener, whereas no studies on other high-intensity sweeteners, such as sucralose, saccharin, or aspartame, were found. Almost all studies (30/32, 93.75%) showed the consumption of low-intensity sweeteners led to a significant reduction of different types of cariogenic bacteria. The results of the meta-analysis showed that consumption of low-intensity sweeteners led to a significant reduction of cariogenic bacteria in both dental plaque and saliva compared to no treatment. CONCLUSION: The consumption of low-intensity sweeteners helps reduce cariogenic bacteria in dental plaque and saliva. There is limited clinical evidence regarding the role of high-intensity sweeteners in reducing cariogenic bacteria.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38599933/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "A Systematic Review and Meta-Analysis of the Role of Sugar-Free Chewing Gum on Plaque Quantity in the Oral Cavity.",
+      "authors": [
+        "Nasseripour Melanie",
+        "Newton Jonathon Timothy",
+        "Warburton Fiona",
+        "Awojobi Oluwatunmise",
+        "Di Giorgio Sonya",
+        "Gallagher Jennifer Elizabeth",
+        "Banerjee Avijit"
+      ],
+      "year": 2022,
+      "journal": "Frontiers in oral health",
+      "doi": "10.3389/froh.2022.845921",
+      "pmid": "35434703",
+      "abstract": "BACKGROUND: The aim of this systematic review of published literature was to answer the research question, \"What is the difference in the level of plaque quantity, in adults and children who chew sugar-free gum (SFG), compared with those who do not chew SFG, who do not chew gum, or who use alternatives such as probiotics or fluoride varnish?\". METHODS: The systematic review [registered on PROSPERO 2018 (CRD42018094676)] included studies on adults and children with chewing of SFG as the main intervention, where \"sugar\" referred to monosaccharides and disaccharides. Included studies were in English and corresponded to primary research published between 1946 and 2020. The search conducted spanned all relevant databases using both Medical Subject Headings (MESH) and free text with combinations of \"chewing gum,\" \"sugar-free,\" \"caries,\" \"xerostomia,\" \"periodontal disease.\" RESULTS: Eight articles included plaque quantity as part of their outcomes. Meta-analysis showed that SFG significantly reduced plaque quantity (effect size-0.778; 95% CI-1.167 to-0.39). The correlation between the baseline and the end of study data was assumed to be 0.95 for the control and 0.65 for the SFG group. A sensitivity analysis was conducted with the pre- to post-test correlation, set at 0.95 for the SFG group. This gave an effect size of-1.098 (95% CI-1.539 to-0.656) with  CONCLUSION: There is some evidence that chewing sugar-free gum, in particular xylitol SFG, reduces the quantity of plaque in the oral cavity in comparison to non SFG chewing or no chewing controls. Further research with improved design, lengthier timeframes and higher number of participants should be considered. SYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/display_record.php?RecordID=94676.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35434703/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Effectiveness of Xylitol in Reducing Dental Caries in Children.",
+      "authors": [
+        "Marghalani Abdullah A",
+        "Guinto Emilie",
+        "Phan Minhthu",
+        "Dhar Vineet",
+        "Tinanoff Norman"
+      ],
+      "year": 2017,
+      "journal": "Pediatric dentistry",
+      "doi": "",
+      "pmid": "28390459",
+      "abstract": "PURPOSE: The purpose of this study was to evaluate the effectiveness of xylitol in reducing dental caries in children compared to no treatment, a placebo, or preventive strategies. METHODS: MEDLINE via PubMed, Web of Science, and Cochrane Central Register of Controlled Trials (CENTRAL) were searched from January 1, 1995 through Sept. 26, 2016 for randomized and controlled trials on children consuming xylitol for at least 12 months. The primary endpoint was caries reduction measured by mean decayed, missing, and filled primary and permanent surfaces/ teeth (dmfs/t, DMFS/T, respectively). The I2 and chi-square test for heterogeneity were used to detect trial heterogeneity. Meta-analyses were performed and quality was evaluated using GRADE profiler software. RESULTS: Analysis of five randomized controlled trials (RCTs) showed that xylitol had a small effect on reducing dental caries (standardized mean difference [SMD] equals -0.24; 95 percent confidence interval [CI] equals -0.48 to 0.01; P = 0.06) with a very low quality of evidence and considerable heterogeneity. Studies with higher xylitol doses (greater than four grams per day) demonstrated a medium caries reduction (SMD equals -0.54; 95 percent CI equals -1.14 to 0.05; P = 0.07), with these studies also having considerable heterogeneity and very low quality of evidence. CONCLUSIONS: The present systematic review examining the effectiveness of xylitol on caries incidence in children showed a small effect size in randomized controlled trials and a very low quality of evidence that makes preventive action of xylitol uncertain.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28390459/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Effectiveness of the use of xylitol chewing gum in prevention of dental caries: A systematic review.",
+      "authors": [
+        "Mota Kelly Rodrigues",
+        "da Silva João Vitor Farias",
+        "Borges Cristine D'Almeida",
+        "Leite de Marcelos Priscylla Goncalves Correia",
+        "Alvares Pamella Recco",
+        "Santos Júnior Valdeci Elias Dos"
+      ],
+      "year": 2021,
+      "journal": "Journal of the Indian Society of Pedodontics and Preventive Dentistry",
+      "doi": "10.4103/JISPPD.JISPPD_330_20",
+      "pmid": "34341229",
+      "abstract": "This systematic review of the literature assessed the effectiveness of using chewing gum containing only xylitol compared to prevention strategies or placebo in reducing the incidence of carious lesions in children using data obtained from randomized controlled trials. Electronic search was carried out in PubMed MEDLINE, Latin American and Caribbean Literature on the Health Science, Web of Science, Scopus, Science Direct, and Scientific Electronic Library Online through the period between 2000 and 2020. Included clinical studies were done in children when the xylitol was dispensed in gum and the preventive effect of xylitol on tooth decay was compared to other preventive strategies or control groups. The studies were evaluated for their quality to obtain the level of evidence. The preventive fraction of each study was extracted. Two hundred studies were found. After analyzing the inclusion and removal of duplicates, only five studies were analyzed for the quality of evidence. With the analysis through the Grading of Recommendations Assessment, Development, and Evaluation system, it was possible to verify the very low level of scientific evidence on the effectiveness of gums containing only xylitol for the prevention of caries in children. The preventive fraction obtained varied between - 0.31 and 0.57 depending on the compared prevention strategy. The conflicting results, limitations, and inconsistencies of the studies allow us to establish that there is insufficient evidence to support the use of gums containing only xylitol for the prevention of caries in children. Other properly designed clinical trials need to be carried out.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34341229/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Specific effects of xylitol chewing gum on mutans streptococci levels, plaque accumulation and caries occurrence: a systematic review.",
+      "authors": [
+        "Söderling Eva",
+        "Pienihäkkinen Kaisu"
+      ],
+      "year": 2025,
+      "journal": "BMC oral health",
+      "doi": "10.1186/s12903-025-06602-1",
+      "pmid": "40731400",
+      "abstract": "OBJECTIVE: A systematic review of published data was carried out to assess specific effects of xylitol chewing gum on levels of mutans streptococci (MS), dental plaque, or caries. MATERIALS AND METHODS: Electronic and hand searches were performed to find clinical studies on levels of MS, or plaque, or caries comparing effects of xylitol gum with a polyol control gum. Prospective randomized or controlled clinical studies published before 2025 were included in the review. RESULTS: The search identified 908 titles on MS, 879 titles on plaque, and 658 on caries to be evaluated. After applying inclusion and exclusion criteria, 16 articles on MS, ten on plaque and five on caries were reviewed. In 12/14 studies xylitol gum significantly decreased MS counts compared with sorbitol gum. Plaque accumulation decreased in 6/10 studies and caries occurrence in 3/5 trials when xylitol gum was compared with sorbitol/sorbitol-containing gum. Three studies on MS and/or plaque accumulation had a maltitol gum control, but the results of the studies were conflicting. CONCLUSIONS: The best evidence of specific beneficial effects for xylitol gum differing from those of sorbitol gum are found in the evaluated MS and plaque studies. The results of the reviewed caries trials are in line with this idea. Xylitol gum chewing is suggested to act as an adjunct to toothbrushing for reducing caries-associated MS and plaque accumulation to control and prevent caries occurrence in children and adults. Adults with other plaque-related diseases like periodontal disease should also benefit from xylitol gum.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40731400/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Topical fluoride-antibacterial agent combined therapy versus topical fluoride monotherapy in preventing dental caries: a systematic review and meta-analysis.",
+      "authors": [
+        "Gupta A",
+        "Sharda S",
+        "Nishant",
+        "Shafiq N",
+        "Kumar A",
+        "Goyal A"
+      ],
+      "year": 2020,
+      "journal": "European archives of paediatric dentistry : official journal of the European Academy of Paediatric Dentistry",
+      "doi": "10.1007/s40368-020-00561-7",
+      "pmid": "33006116",
+      "abstract": "PURPOSE: To compare the effectiveness of topical fluoride-antibacterial agent combined therapy versus topical fluoride monotherapy in preventing dental caries among 1- to 16-year-old children. METHODS: PubMed, EbscoHost, Scopus, Web of Science and the Cochrane Central Register of Controlled Trials were searched for randomised controlled trials. The trials should have assessed the caries-preventive effectiveness of topical fluoride-antibacterial agent (Povidone Iodine/Chlorhexidine/Xylitol/Triclosan/Cetylpyridinium Chloride) combined therapy versus topical fluoride monotherapy among children. Out of 3475 records that were screened, full text of 41 articles was assessed for potential inclusion. Sixteen trials that fulfilled the eligibility criteria were subjected to qualitative synthesis. The risk of bias was assessed using the Cochrane Collaboration's tool. Continuous data from nine trials were pooled using Inverse Variance test in meta-analysis function of Review Manager (version 5.4). GRADE approach was used to analyse the certainty of evidence. Statistical heterogeneity was quantified using the I RESULTS: With respect to the caries increment, combined therapy showed superior caries-preventive effectiveness than topical fluoride monotherapy [SMD - 0.12, 95% CI (- 0.2 to - 0.04), p = 0.004; (I CONCLUSION: The pooled analysis indicates towards an added benefit of topical fluoride-antibacterial agent combined therapy over topical fluoride monotherapy in preventing dental caries incidence among children. However, the results may be interpreted with caution since the evidence generated is of low certainty and is driven by two studies on Xylitol, thus it demands further good quality trials.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33006116/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Remineralization potential and caries preventive efficacy of CPP-ACP/Xylitol/Ozone/Bioactive glass and topical fluoride combined therapy versus fluoride mono-therapy - a systematic review and meta-analysis.",
+      "authors": [
+        "Sharda Shweta",
+        "Gupta Arpit",
+        "Goyal Ashima",
+        "Gauba Krishan"
+      ],
+      "year": 2021,
+      "journal": "Acta odontologica Scandinavica",
+      "doi": "10.1080/00016357.2020.1869827",
+      "pmid": "33459095",
+      "abstract": "OBJECTIVE: To compare the remineralization potential and caries preventive efficacy of CPP-ACP/bioactive glass/xylitol/ozone and topical fluoride (TF) combined therapy versus TF mono-therapy. MATERIAL AND METHODS: Embase, PubMed, Scopus, Web of Science and Cochrane databases were searched. 4457 records were screened and 26 trials were included. Data from 16 trials was pooled using Review Manager 5.4. Level of significance was  RESULTS: Pooled analysis of two trials for white spot lesions (WSLs) regression (SMD -0.6, 95% CI: [-1.07 to -0.14],  CONCLUSION: CPP-ACP-TF exhibits superiority over TF monotherapy in remineralizing existing lesions and demonstrates better antibacterial effect, whereas it is not more effective for preventing caries incidence. However, Xylitol exerts an added benefit over fluoride alone in preventing caries increment. The low-certainty evidence highlights the need for more good quality trials.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33459095/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Effects of xylitol and erythritol consumption on mutans streptococci and the oral microbiota: a systematic review.",
+      "authors": [
+        "Söderling Eva",
+        "Pienihäkkinen Kaisu"
+      ],
+      "year": 2020,
+      "journal": "Acta odontologica Scandinavica",
+      "doi": "10.1080/00016357.2020.1788721",
+      "pmid": "32633595",
+      "abstract": "OBJECTIVE: A systematic review of published data was conducted with the aim of assessing effects of xylitol and erythritol consumption on levels of mutans streptococci (MS) and the oral microbiota. MATERIALS AND METHODS: Electronic and hand searches were performed to find clinical microbiological studies concerning the consumption of xylitol and erythritol chewing gum or candies, and published between 2000 and 2019. Prospective randomized controlled clinical trials conducted in healthy subjects were included in the review. RESULTS: The initial search identified 561 xylitol and 83 erythritol studies. After applying inclusion and exclusion criteria, 21 xylitol studies and one erythritol study were reviewed. The review identified nine xylitol studies with a fair or high quality, four conducted in children and five in adults, all demonstrating a decrease in MS levels in association with habitual consumption of xylitol. The three microbiota studies employing multispecies probe approaches revealed no effects for xylitol on the microbiota. The only erythritol study fulfilling the inclusion criteria showed no consistent effects on MS levels. CONCLUSIONS: Xylitol consumption is likely to decrease MS counts but it may not change the overall microbiota. Xylitol shows thus properties of an oral prebiotic. More studies are needed to demonstrate the effects of erythritol on MS.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32633595/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Screening, Referral, Behavioral Counseling, and Preventive Interventions for Oral Health in Children and Adolescents Aged 5 to 17 Years: A Systematic Review for the US Preventive Services Task Force.",
+      "authors": [
+        "Chou Roger",
+        "Bougatsos Christina",
+        "Griffin Jessica",
+        "Selph Shelley S",
+        "Ahmed Azrah",
+        "Fu Rongwei",
+        "Nix Chad",
+        "Schwarz Eli"
+      ],
+      "year": 2023,
+      "journal": "JAMA",
+      "doi": "10.1001/jama.2023.20435",
+      "pmid": "37934216",
+      "abstract": "IMPORTANCE: Dental caries is common in children and adolescents aged 5 to 17 years and potentially amenable to primary care screening and prevention. OBJECTIVE: To systematically review the evidence on primary care screening and prevention of dental caries in children and adolescents aged 5 to 17 years to inform the US Preventive Services Task Force. DATA SOURCES: MEDLINE, Cochrane Central Register of Controlled Trials, and Cochrane Database of Systematic Reviews (to October 3, 2022); surveillance through July 21, 2023. STUDY SELECTION: Diagnostic accuracy of primary care screening instruments and oral examination; randomized and nonrandomized trials of screening and preventive interventions and systematic reviews of such studies; cohort studies on primary care oral health screening and preventive intervention harms. DATA EXTRACTION AND SYNTHESIS: One investigator abstracted data; a second checked accuracy. Two investigators independently rated study quality. Random-effects meta-analysis was performed for fluoride supplements and xylitol; for other preventive interventions, pooled estimates were used from good-quality systematic reviews. MAIN OUTCOMES AND MEASURES: Dental caries, morbidity, functional status, quality of life, harms; diagnostic test accuracy. RESULTS: Three systematic reviews (total 20 684 participants) and 19 randomized clinical trials, 3 nonrandomized trials, and 1 observational study (total 15 026 participants) were included. No study compared screening vs no screening. When administered by dental professionals or in school settings, fluoride supplements compared with placebo or no intervention were associated with decreased change from baseline in the number of decayed, missing, or filled permanent teeth (DMFT index) or decayed or filled permanent teeth (DFT index) (mean difference, -0.73 [95% CI, -1.30 to -0.19]) at 1.5 to 3 years (6 trials; n = 1395). Fluoride gels were associated with a DMFT- or DFT-prevented fraction of 0.18 (95% CI, 0.09-0.27) at outcomes closest to 3 years (4 trials; n = 1525), fluoride varnish was associated with a DMFT- or DFT-prevented fraction of 0.44 (95% CI, 0.11-0.76) at 1 to 4.5 years (5 trials; n = 3902), and resin-based sealants were associated with decreased risk of carious first molars (odds ratio, 0.21 [95% CI, 0.16-0.28]) at 48 to 54 months (4 trials; n = 440). No trial evaluated primary care counseling or dental referral. Evidence on screening accuracy, silver diamine fluoride, xylitol, and harms was very limited, although serious harms were not reported. CONCLUSIONS AND RELEVANCE: Administration of fluoride supplements, fluoride gels, varnish, and sealants in dental or school settings improved caries outcomes. Research is needed on the effectiveness of oral health preventive interventions in primary care settings and to determine the benefits and harms of screening.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37934216/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Effect of non-fluoride agents on the prevention of dental caries in primary dentition: A systematic review.",
+      "authors": [
+        "Wang Yu",
+        "Li Jialing",
+        "Sun Weibin",
+        "Li Huang",
+        "Cannon Richard D",
+        "Mei Li"
+      ],
+      "year": 2017,
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0182221",
+      "pmid": "28787448",
+      "abstract": "OBJECTIVE: To assess the effect of non-fluoride agents on the prevention of dental caries in primary dentition. MATERIALS AND METHODS: Medline, Web of Science, Embase, Cochrane Library, CBM and CNKI databases were searched to identify all the relevant articles published prior to 16 December 2016. Grey literature was also searched. Randomized controlled human clinical trials in which non-fluoride agents were delivered by any method were considered. RESULTS: Of the 1,236 studies screened, 39 full articles were scrutinized and 14 selected for inclusion in the final sample. Five chemical agents, namely arginine, casein phosphopeptide-amorphous calcium phosphate (CPP-ACP), chlorhexidine, triclosan and xylitol were investigated in these included studies. The cariostatic effects of non-fluoride agents in vivo were evaluated in comparison with fluoride or placebos in randomized controlled trials. There is evidence that the use of certain doses of xylitol may be effective in arresting dental caries in primary dentition. However, quantitative synthesis could not be carried out because of the clinical and methodological heterogeneity of the included studies. CONCLUSIONS: A study at low risk of bias indicated that daily use of xylitol wipes is a useful adjunct for caries control in young children, however, this conclusion should be interpreted with caution as this study had a very limited sample size. Chlorhexidine and CPP-ACP may be more effective than a placebo in managing caries in primary dentition, but their effectiveness is borderline when compared with fluoride. Arginine-containing mint confection and 0.3% triclosan varnish were found to reduce caries development in primary teeth but the evidence was at high risk of bias. High quality randomized controlled trials are needed in order to make a conclusive recommendation.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28787448/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Clinical Efficacy of Probiotics on Oral Health: A Systematic Review of Clinical Trials.",
+      "authors": [
+        "Navidifar Tahereh",
+        "Mahdizade Ari Marzie",
+        "Alipourkermani Asma",
+        "Afifirad Roghayeh",
+        "Asadollahi Parisa",
+        "Veisi Ali",
+        "Ghanavati Roya",
+        "Darbandi Atieh"
+      ],
+      "year": 2023,
+      "journal": "Current pharmaceutical biotechnology",
+      "doi": "10.2174/1389201024666230405135457",
+      "pmid": "37038663",
+      "abstract": "INTRODUCTION: Periodontal diseases and dental caries are the two most common dental diseases caused by the dental plaque. OBJECTIVE: The aim of the present study was to review the clinical efficacy of probiotics for oral health in randomized controlled trials. METHODS: An electronic search was conducted in December 2021 in Embase, Medline, The Cochrane Library, ProQuest, and Google Scholar using the following keywords: \"mouthwash\" and \"probiotics\". The titles and abstracts of 3,775 articles were screened and 24 publications that fulfilled the inclusion criteria were included. RESULTS: A total of 24 clinical trials were reviewed, including 1612 participants receiving either probiotics or mouth treatments. The results of this review indicated that individuals receiving probiotic products have a significant reduction (65% reduction;  CONCLUSION: Probiotics are considered a safe alternative to conventional therapies, such as chlorhexidine and fluoride. Co-administration of chlorhexidine, fluoride, and probiotics seems to be a perfect package.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37038663/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "The effect of xylitol chewing gums and candies on caries occurrence in children: a systematic review with special reference to caries level at study baseline.",
+      "authors": [
+        "Pienihäkkinen K",
+        "Hietala-Lenkkeri A",
+        "Arpalahti I",
+        "Söderling E"
+      ],
+      "year": 2024,
+      "journal": "European archives of paediatric dentistry : official journal of the European Academy of Paediatric Dentistry",
+      "doi": "10.1007/s40368-024-00875-w",
+      "pmid": "38430364",
+      "abstract": "PURPOSE: A systematic review of published data was carried out to assess the caries-preventive effects of xylitol chewing gums and candies in children. METHODS: Electronic and hand searches were performed to find clinical studies on the effects of xylitol chewing gums and candies on dental caries in children (≤ 18 years). Prospective randomised or controlled clinical trials published before 2023 were included in the review. RESULTS: The initial search identified 365 titles to be evaluated. After applying inclusion and exclusion criteria, 15 articles with either fair or low quality were reviewed. Nine articles studied chewing gums, five candies, and one both of them. In the ten evaluated xylitol chewing gum studies xylitol consumption significantly reduced caries occurrence when compared with no treatment or a placebo polyol gum. The effect was clinically significant in studies with high or moderate caries level at study baseline. The results also suggested that the caries-reducing effect of xylitol gums may differ from sorbitol/polyol gums. In five of the six heterogenous xylitol candy studies, no caries-reducing effect was found independent of caries level. In addition to caries level, also the daily xylitol dose was a confounding factor. CONCLUSION: The present findings suggest that the caries-reducing effect of adding xylitol chewing gum to the daily diet has been well demonstrated in children and adolescents with high or moderate caries level at study baseline. Xylitol gum use could benefit subjects with active incipient caries lesions on smooth tooth surfaces.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38430364/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Screening and Interventions to Prevent Dental Caries in Children Younger Than 5 Years: Updated Evidence Report and Systematic Review for the US Preventive Services Task Force.",
+      "authors": [
+        "Chou Roger",
+        "Pappas Miranda",
+        "Dana Tracy",
+        "Selph Shelley",
+        "Hart Erica",
+        "Fu Rongwei F",
+        "Schwarz Eli"
+      ],
+      "year": 2021,
+      "journal": "JAMA",
+      "doi": "10.1001/jama.2021.15658",
+      "pmid": "34874413",
+      "abstract": "IMPORTANCE: A 2014 review for the US Preventive Services Task Force (USPSTF) found that oral fluoride supplementation and topical fluoride use were associated with reduced caries incidence in children younger than 5 years. OBJECTIVE: To update the 2014 review on dental caries screening and preventive interventions to inform the USPSTF. DATA SOURCES: Ovid MEDLINE, the Cochrane Central Register of Controlled Trials, and the Cochrane Database of Systematic Reviews (to September 2020); surveillance through July 23, 2021. STUDY SELECTION: Randomized clinical trials (RCTs) on screening, preventive interventions, referral to dental care; cohort studies on screening and referral; studies on diagnostic accuracy of primary care oral examination or risk assessment; and a systematic review on risk of fluorosis included in prior USPSTF reviews. DATA EXTRACTION AND SYNTHESIS: One investigator abstracted data; a second checked accuracy. Two investigators independently rated study quality. RESULTS: Thirty-two studies (19 trials, 9 observational studies, and 4 nonrandomized clinical intervention studies [total 106 694 participants] and 1 systematic review [19 studies]) were included. No study evaluated effects of primary care screening on clinical outcomes. One study (n = 258) found primary care pediatrician examination associated with a sensitivity of 0.76 (95% CI, 0.55 to 0.91) and specificity of 0.95 (95% CI, 0.92 to 0.98) for identifying a child with cavities, and 1 study found a risk assessment tool associated with sensitivity of 0.53 and specificity of 0.77 (n = 697, CIs not reported) for a child with future caries. No new trials of dietary fluoride supplementation were identified. For prevention, topical fluoride compared with placebo or no topical fluoride was associated with decreased caries burden (13 trials, n = 5733; mean caries increment [difference in decayed, missing, and filled teeth or surfaces], -0.94 [95% CI, -1.74 to -0.34]) and likelihood of incident caries (12 trials, n = 8177; RR, 0.80 [95% CI, 0.66 to 0.95]; absolute risk difference, -7%) in higher-risk populations or settings, with no increased fluorosis risk. Evidence on other preventive interventions was limited (education, xylitol) or unavailable (silver diamine fluoride), and no study directly evaluated primary care dentistry referral vs no referral. CONCLUSIONS AND RELEVANCE: There was no direct evidence on benefits and harms of primary care oral health screening or referral to dentist. Dietary fluoride supplementation and fluoride varnish were associated with improved caries outcomes in higher-risk children and settings.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34874413/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Interventions with pregnant women, new mothers and other primary caregivers for preventing early childhood caries.",
+      "authors": [
+        "Riggs Elisha",
+        "Kilpatrick Nicky",
+        "Slack-Smith Linda",
+        "Chadwick Barbara",
+        "Yelland Jane",
+        "Muthu M S",
+        "Gomersall Judith C"
+      ],
+      "year": 2019,
+      "journal": "The Cochrane database of systematic reviews",
+      "doi": "10.1002/14651858.CD012155.pub2",
+      "pmid": "31745970",
+      "abstract": "BACKGROUND: Dental caries is one of the most common chronic diseases of childhood and is associated with adverse health and economic consequences for infants and their families. Socioeconomically disadvantaged children have a higher risk of early childhood caries (ECC). OBJECTIVES: To assess the effects of interventions with pregnant women, new mothers or other primary caregivers of infants in the first year of life, for preventing ECC (from birth to six years of age). SEARCH METHODS: Cochrane Oral Health's Information Specialist searched the following databases: Cochrane Oral Health's Trials Register (to 14 January 2019), Cochrane Pregnancy and Childbirth Group's Trials Register (to 22 January 2019), Cochrane Central Register of Controlled Trials (CENTRAL) (Cochrane Register of Studies, to 14 January 2019), MEDLINE Ovid (1946 to 14 January 2019), Embase Ovid (1980 to 14 January 2019) and CINAHL EBSCO (1937 to 14 January 2019). The US National Institutes of Health Trials Registry (ClinicalTrials.gov) and World Health Organization International Clinical Trials Registry Platform were searched for ongoing trials. No restrictions were placed on language or publication status. SELECTION CRITERIA: Randomised controlled trials (RCTs) comparing one or more interventions with pregnant women, mothers, or other caregivers of infants in the first year of life (intervention types included clinical, oral health education/promotion such as hygiene education, breastfeeding and other dietary advice, and policy or health service), versus standard care or placebo or another intervention. For inclusion, trials had to report at least one caries outcome. DATA COLLECTION AND ANALYSIS: Two review authors independently assessed trial eligibility, extracted data, assessed risk of bias, and assessed certainty of evidence using the GRADE approach. MAIN RESULTS: We included 17 RCTs (4 cluster-randomised), involving 23,732 caregivers (mainly mothers) and their children. Eleven RCTs assessed four oral health education/promotion interventions against standard care: child diet advice, child diet and feeding practice advice, breastfeeding promotion and support, and oral hygiene with child diet and feeding practice advice. Six trials assessed clinical interventions in mother's dentition, four trials chlorhexidine (CHX, a commonly prescribed antiseptic agent) or iodine-NaF application and prophylaxis versus placebo, and two trials xylitol against CHX or CHX + xylitol. At most, three trials (maximum of 1148 children and 130 mothers) contributed data to any comparison. For many trials, risk of bias was judged unclear due to lack of methodological details reported, and there was high risk of attrition bias in some trials. None of the included trials indicated receiving funding that is likely to have influenced their results. The trials were performed in high-, middle- and low-income countries. In nine trials, participants were socioeconomically disadvantaged. For child diet and feeding practice advice versus standard care, we observed a probable 15 per cent reduced risk of caries presence in primary teeth with the intervention (RR 0.85, 95% CI 0.75 to 0.97; 3 trials; 782 participants; moderate-certainty evidence), and there may be a lower mean dmfs (decayed, missing, filled primary surfaces) score (MD -0.29, 95% CI -0.58 to 0; 2 trials; 757 participants; low-certainty evidence); however, we are uncertain regarding the difference between the groups in mean dmft (decayed, missing, filled teeth) score (MD -0.90, 95% CI -1.85 to 0.05; 1 trial; 340 participants; very low-certainty evidence). For breastfeeding promotion and support versus standard care, we observed that there may be little or no a difference between groups in the risk of caries presence in primary teeth (RR 0.96, 95% CI 0.89 to 1.03; 2 trials; 1148 participants; low-certainty evidence), or mean dmft score (MD -0.12, 95% CI -0.59 to 0.36; 2 trials; 652 participants; low-certainty evidence). Dmfs was not reported for this comparison. We are uncertain whether child diet advice only compared with standard care reduces risk of caries presence in primary teeth (RR 1.08, 95% CI 0.34 to 3.37; 1 trial; 148 participants; very low-certainty evidence). Dmfs and dmft were not reported for this comparison. For oral hygiene, child diet and feeding practice advice versus standard care, we observed little or no reduced risk of caries presence in primary teeth (RR 0.91, 95% CI 0.75 to 1.10; 2 trials; 365 participants; low-certainty evidence), and are uncertain regarding difference between the groups in mean dmfs score (MD -0.99, 95% CI -2.45 to 0.47; 1 trial; 187 participants; very low-certainty evidence) and dmft score (MD -0.30, 95% CI -0.96 to 0.36; 1 trial; 187 participants; very low-certainty evidence). We observed there may be little or no difference in risk of caries presence in primary teeth between antimicrobial and placebo treatment in mother's dentition (RR 0.97, 95% CI 0.80 to 1.19; 3 trials; 479 participants; very low-certainty evidence). No trials assessing this comparison reported dmfs or dmft. For xylitol compared with CHX antimicrobial treatment, we observed there may be a lower mean dmft score with xylitol (MD -2.39; 95% CI -4.10 to -0.68; 1 trial, 113 participants; low-certainty evidence); however, we are uncertain regarding the difference between groups in caries presence in primary teeth (RR 0.62, 95% CI 0.27 to 1.39; 1 trial, 96 participants; very low-certainty evidence). Neither trial evaluating this comparison reported dmfs. No trials assessed a health policy or service intervention. AUTHORS' CONCLUSIONS: Moderate-certainty evidence suggests that providing advice on diet and feeding to pregnant women, mothers or other caregivers with children up to the age of one year probably leads to a slightly reduced risk of early childhood caries (ECC). The remaining evidence is low to very low certainty and is insufficient for determining which, if any, other interventions types and features may be effective for preventing ECC. Large, high-quality RCTs of oral health education/promotion, clinical, and policy and service access interventions, are warranted to determine effects and relative effects of different interventions and inform practice. We have identified 12 studies currently in progress. Those designing future studies should describe the intervention components, setting and participants, consider if and how effects are modified by intervention features and participant characteristics, and adopt a consistent approach to measuring and reporting ECC.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31745970/",
+      "key_findings": "",
+      "summary_ja": ""
+    }
+  ]
+}

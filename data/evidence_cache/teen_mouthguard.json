@@ -1,0 +1,59 @@
+{
+  "topic_id": "teen_mouthguard",
+  "evidences": [
+    {
+      "title": "Ending childhood dental caries: WHO implementation manual",
+      "authors": [
+        "World Health Organization"
+      ],
+      "year": 2019,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "authority",
+      "source_type": "WHO",
+      "url": "https://www.who.int/publications/i/item/ending-childhood-dental-caries-who-implementation-manual",
+      "key_findings": "Comprehensive approach to childhood caries prevention including fluoride use, sugar reduction, and regular dental visits.",
+      "summary_ja": "小児むし歯予防の包括的アプローチ：フッ素使用、糖質制限、定期歯科受診を推奨。"
+    },
+    {
+      "title": "Sports-related facial trauma in the Indian population - A systematic review.",
+      "authors": [
+        "Shreya S",
+        "Baliga Shridhar Damodar",
+        "Baliga Sulakshana Shridhar"
+      ],
+      "year": 2022,
+      "journal": "Journal of the Indian Society of Pedodontics and Preventive Dentistry",
+      "doi": "10.4103/jisppd.jisppd_505_20",
+      "pmid": "35439876",
+      "abstract": "BACKGROUND: Sports injuries are a growing concern which requires immediate attention. Dental injuries are the most common type of orofacial injuries sustained during sports activities. OBJECTIVES: This study aims to review the prevalence of sports-related facial trauma in India, to identify the most common types of oro-facial injury incurred due to sports, and to assess the level of awareness regarding preventive measures used in sports. METHODOLOGY: The present review was performed in accordance with preferred reporting items for systematic reviews and meta-analyses guidelines. All articles published from 2005 to 2019 on sports-related facial trauma were analyzed. PubMed, Google Scholar, and Cochrane reviews databases were searched using primary keywords. RESULTS: A total of 24 articles published in the period of 2005-2019 were included. The prevalence of sports-related facial trauma was found to be the highest in the study conducted by Selva et al., in 2018, at a rate of 75%, whereas it was found to be minimal in the study conducted by Bali et al. in 2013. While the awareness of mouthguards was reported the highest in a study conducted by Ramagoni et al., in 2007. CONCLUSION: This study shows that there is a definite need to improve the awareness as well as the usage of protective gear, from the level of schooling, where children are introduced to sports. Prevention of sports-related facial trauma is essential to avoid the serious and lifelong consequences which could be the aftermath of such injuries.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35439876/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "A randomized crossover study on the effects of a custom-made mouthguard on cardiopulmonary parameters and cortisol differences in a validated handball specific course.",
+      "authors": [
+        "Lässing Johannes",
+        "Schulze Antina",
+        "Falz Roberto",
+        "Kwast Stefan",
+        "Busse Martin"
+      ],
+      "year": 2021,
+      "journal": "Injury",
+      "doi": "10.1016/j.injury.2020.09.054",
+      "pmid": "33008634",
+      "abstract": "BACKGROUND: The importance of mouthguards for handball players has been proven however, most players are reluctant to use it. The impact on physical capacity is assessed heterogeneously in the literature. This study aimed to investigate the influence of custom-made mouthguards (CMGs) under handball specific stress. METHODS: This randomized crossover study used data from 15 youth professional handball players (age 17.0 ±0.5 years, weight 85.1±8.0 kg and height 191.2±6.9 cm) who performed a validated handball specific course and a lung function test. Pulmonary (spirometry), metabolic (blood lactate), and cortisol parameters were observed using a normal custom-made mouthguard without (nCMG) and with respiratory channels (CMGvent) in comparison to no mouthguard (Co). RESULTS: In resting spirometry, no differences in the parameter peak flow were observed using the CMGvent (9.57±1.59 l·s-1) and nCMG (9.17±1.03 l·s-1) in comparison to the Co (9.38±1.26 l·s-1). Under maximum stress, there were no differences in ventilation using CMGvent (151.2±15.64 L ·min-1), nCMG (148.6±12.51 l·min-1), and without mouthguard (145.8±14.32 l·min-1). Similar oxygen uptake was observed when using a CMGvent (45.51±4.14 L ·min-1·kg-1), nCMG (45.50±5.06 ml·min-1 ·kg-1), and without CMG (Co 43.90±4.02 mL ·min-1). The parameters of HR (CMGvent 185.2±11.63 bpm vs. Co 179.4±13.24 bpm p=0.46, nCMG 178.2±11.54 bpm vs. Co p=0.97; CMGvent vs. nCMG p=0.08) and in the blood lactate values (CMGvent: 9.66±2.3 mmol·l-1 vs. Co 9.07±2.1 mmol·l-1 p=0.63; nCMG 9.39±2.8 mmol·l-1 vs. Co p=0.87; CMGvent vs. nCMG p=0.91) displayed no differences. The cortisol production under stress showed no differences in the performance with the CMGvent (1.78±3.58 ng/ml), nCMG (0.74±4.52 ng/mL), and in the procedure without mouthguard (0.25. ±5.01 ng/ml). CONCLUSION: The results showed that under stress, there were no differences in the cortisol, ventilation, cardiac, and metabolic responses for all three conditions. Finally, the study shows that the use of a custom-made mouthguard does not negatively affect handball specific performance. Due to the preventive aspect of the mouthguard, the use of a custom-made mouthguard in handball is strongly recommended.",
+      "evidence_level": "1b",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33008634/",
+      "key_findings": "",
+      "summary_ja": ""
+    }
+  ]
+}

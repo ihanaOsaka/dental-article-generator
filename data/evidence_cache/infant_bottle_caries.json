@@ -1,0 +1,217 @@
+{
+  "topic_id": "infant_bottle_caries",
+  "evidences": [
+    {
+      "title": "Sugars and dental caries (WHO Technical Information Note)",
+      "authors": [
+        "World Health Organization"
+      ],
+      "year": 2017,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "authority",
+      "source_type": "WHO",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/sugars-and-dental-caries",
+      "key_findings": "Free sugars are the primary cause of dental caries. WHO recommends limiting free sugar intake to less than 10% of total energy.",
+      "summary_ja": "遊離糖類がむし歯の主要原因。WHOは遊離糖類の摂取を総エネルギーの10%未満に抑えることを推奨。"
+    },
+    {
+      "title": "Ending childhood dental caries: WHO implementation manual",
+      "authors": [
+        "World Health Organization"
+      ],
+      "year": 2019,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "authority",
+      "source_type": "WHO",
+      "url": "https://www.who.int/publications/i/item/ending-childhood-dental-caries-who-implementation-manual",
+      "key_findings": "Comprehensive approach to childhood caries prevention including fluoride use, sugar reduction, and regular dental visits.",
+      "summary_ja": "小児むし歯予防の包括的アプローチ：フッ素使用、糖質制限、定期歯科受診を推奨。"
+    },
+    {
+      "title": "ADA Clinical Practice Guideline: Topical Fluoride for Caries Prevention",
+      "authors": [
+        "American Dental Association"
+      ],
+      "year": 2024,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "guideline",
+      "source_type": "ADA",
+      "url": "https://www.ada.org/resources/research/science-and-research-institute/evidence-based-dental-research/fluoride-topical-and-systemic-supplements",
+      "key_findings": "Professional fluoride varnish application every 3-6 months is recommended for children at elevated caries risk.",
+      "summary_ja": "むし歯リスクの高い小児には3〜6ヶ月ごとのフッ素バーニッシュ塗布を推奨。"
+    },
+    {
+      "title": "ADA Policy: Use of Pit-and-Fissure Sealants",
+      "authors": [
+        "American Dental Association"
+      ],
+      "year": 2023,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "guideline",
+      "source_type": "ADA",
+      "url": "https://www.ada.org/resources/research/science-and-research-institute/evidence-based-dental-research/dental-sealants",
+      "key_findings": "Dental sealants reduce caries by up to 80% in the first 2 years and continue to be effective for up to 9 years.",
+      "summary_ja": "シーラントは最初の2年間でむし歯を最大80%減少させ、最大9年間効果が持続。"
+    },
+    {
+      "title": "Breastfeeding and early childhood caries: a meta-analysis of observational studies.",
+      "authors": [
+        "Cui Lingling",
+        "Li Xing",
+        "Tian Yalan",
+        "Bao Juntao",
+        "Wang Ling",
+        "Xu Dongmei",
+        "Zhao Bing",
+        "Li Wenjie"
+      ],
+      "year": 2017,
+      "journal": "Asia Pacific journal of clinical nutrition",
+      "doi": "10.6133/apjcn.082016.09",
+      "pmid": "28802297",
+      "abstract": "BACKGROUND AND OBJECTIVES: The associations of breastfeeding and early childhood caries (ECC) risk have been evaluated in several epidemiological studies with conflicting results. We performed an update meta-analysis to estimate the association of feeding patterns, breastfeeding durations and ECC risk. METHODS AND STUDY DESIGN: Studies were identified through searching Pubmed, Web of Science, and Embase from January 1990 to December 2015. RESULTS: Thirty-five studies involving 73,401 participants aged 0-71 months were included. The overall analysis showed children ever breastfed had a reduced risk of ECC compared with those never breastfed (OR=0.77, 95% CI: 0.61-0.97, p=0.026). Subgroup analysis revealed ever breastfeeding significantly reduced ECC risk for the studies with 3-6 years old children (OR=0.70, 95% CI: 0.54-0.90, p=0.005), with sample size >500 subjects (OR=0.63, 95% CI: 0.46-0.87, p=0.004), with Newcastle-Ottawa Scale (NOS) score >=6 (OR=0.66, 95% CI: 0.46-0.94, p=0.023), published after 2010 (OR=0.50, 95% CI: 0.30-0.82, p=0.006), with adjusted OR (OR=0.40, 95% CI: 0.18-0.88, p=0.023). Exclusive breastfeeding did not significantly decrease ECC risk compared with bottle feeding (OR=0.68, 95% CI: 0.35-1.31, p=0.248). The children breastfed >=12 months significantly increased ECC risk compared with those breastfed <12 months (OR=1.86, 95% CI: 1.37-2.52, p<0.001). Whereas, children breastfed >=6 months did not significantly increase ECC risk compared with those breastfed <6 months (OR=1.13, 95% CI: 0.83-1.53, p=0.428). CONCLUSIONS: Our analysis suggests ever breastfeeding may protect children from ECC, and breastfeeding duration >=12 months is associated with higher ECC risk. Additional large cohort studies are required to illustrate the relationship in further study.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28802297/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Prevalence of early childhood caries in India: A systematic review and meta-analysis.",
+      "authors": [
+        "Devan Induja",
+        "Ramanarayanan Venkitachalam",
+        "Janakiram Chandrashekar"
+      ],
+      "year": 2022,
+      "journal": "Indian journal of public health",
+      "doi": "10.4103/ijph.ijph_1078_22",
+      "pmid": "36412465",
+      "abstract": "This review was designed to assess the pooled prevalence of early childhood caries (ECC) in India. An electronic data search was done in PubMed/MEDLINE and Scopus databases in October 2020. Epidemiological surveys assessing the prevalence of ECC were included, and data on gender, geographic region, sampling strategy, feeding habits, and dmft values were extracted. The risk of bias was assessed, and a meta-analysis was performed for pooled prevalence and mean dmft values. The selection of articles, data extraction, and validity assessment were done independently by the two reviewers (ID and RV). A third reviewer (CJ) resolved any conflict between these two reviewers. A total of seventy-one studies were included for quantitative analysis. The pooled prevalence of ECC estimated from 71 studies with 69,330 participants is 46.9% (confidence interval [CI] 46.5-47.2). Males had a higher prevalence of ECC (47%, CI: 46.4-47.6,40 studies, 26,840 participants) than females (43.8%, CI: 43.2-44.2,40 studies, 24,389 participants). Region-wise analysis showed the highest number of studies (44) in southern India, with a sample size of 35,988 with a pooled prevalence of 44.6% (CI: 44-45.1). The pooled mean dmft (random effect) is 2.23 (1.97-2.48), with males having a higher proportion of 2.26 compared to 2.23 in females. The pooled prevalence of ECC was 46.9%, and the pooled mean was 2.23. The results from this study state that one in every two children in India is suffering from ECC, reflecting its public health relevance.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36412465/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "A systematic review of caries risk in children <6 years of age.",
+      "authors": [
+        "Khan Saima Yunus",
+        "Schroth Robert J",
+        "Cruz de Jesus Vivianne",
+        "Lee Victor H K",
+        "Rothney Janet",
+        "Dong Cecilia S",
+        "Javed Faraha",
+        "Yerex Katherine",
+        "Bertone Mary",
+        "El Azrak Mohamed",
+        "Menon Anil"
+      ],
+      "year": 2024,
+      "journal": "International journal of paediatric dentistry",
+      "doi": "10.1111/ipd.13140",
+      "pmid": "38071403",
+      "abstract": "BACKGROUND: For caries risk assessment (CRA) tools for young children to be evidence-based, it is important to systematically review the literature to identify factors associated with the onset of early childhood caries (ECC). AIM: This updated systematic review aimed to identify current evidence on caries risk in young children. DESIGN: A comprehensive and systematic literature search of relevant databases was conducted to update a previous systematic review and identify risk factors associated with ECC. Potential risk factors were identified based on strength of association using odds ratios, hazard ratios, relative risk, etc. GRADE was used for rating quality evidence through consensus. RESULTS: Twenty-two studies met inclusion criteria for the search from mid-2017 to 2021. Twenty-five publications from the prior systematic review, from 1997 to mid-2017, were also included. Several socioeconomic, behavioral, and clinical variables were identified as ECC risk factors. Factors included the following: age, socioeconomic status, frequency of and supervised toothbrushing, fluoride exposure, breast- and bottle-feeding, feeding habits, absence of a dental home, past caries experience, active non-cavitated lesions, visible plaque, enamel defects, and microbiome. CONCLUSION: This study provides updated evidence of risk factors for ECC that could be included in CRA tools.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38071403/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Systematic Review of Evidence Pertaining to Factors That Modify Risk of Early Childhood Caries.",
+      "authors": [
+        "Moynihan P",
+        "Tanner L M",
+        "Holmes R D",
+        "Hillier-Brown F",
+        "Mashayekhi A",
+        "Kelly S A M",
+        "Craig D"
+      ],
+      "year": 2019,
+      "journal": "JDR clinical and translational research",
+      "doi": "10.1177/2380084418824262",
+      "pmid": "30931717",
+      "abstract": "INTRODUCTION: A systematic review of evidence on the impact of modifiable risk factors on early childhood caries (ECC) was conducted to inform recommendations in a World Health Organization manual on ECC prevention. OBJECTIVES: To systematically review published evidence pertaining to the effect of modifiable risk factors on ECC. METHODS: Twelve questions relating to infant feeding, diet, oral hygiene, and fluoride were addressed, as prioritized by a World Health Organization expert panel. Questions pertaining to the use of fluoride toothpaste were excluded due to its proven efficacy. The target population was children aged <72 mo. Data sources included Medline, Embase, CINAHL, and PubMed, and all human epidemiologic studies were included. The highest level of evidence was used for evidence synthesis and, where possible, meta-analysis. The review was conducted in accordance with the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-analyses) statement, with evidence assessed via the GRADE method. RESULTS: Of the 13,831 papers identified, 627 were screened in duplicate; of these, 139 were included. The highest-level evidence indicated that breastfeeding ≤24 mo does not increase ECC risk but suggested that longer-duration breastfeeding increases risk (low-quality evidence). Low-quality evidence indicated increased risk associated with consumption of sugars in bottles. Only 1 study had data on the impact of sugars in complementary foods, which increased risk. Moderate-quality evidence showed a benefit of oral health education for caregivers (odds ratio, 0.39; 95% CI, 0.19 to 0.80,  CONCLUSION: The best available evidence indicates that breastfeeding up to 2 y of age does not increase ECC risk. Providing access to fluoridated water and educating caregivers are justified approaches to ECC prevention. Limiting sugars in bottles and complementary foods should be part of this education. KNOWLEDGE TRANSFER STATEMENT: This research is being used by the World Health Organization in developing a toolkit on the prevention and management of early childhood caries. The information will guide 1) governments in developing national oral health plans and 2) clinicians when providing preventive advice, including that regarding infant feeding practices. It will help ensure that advice is in line with current World Health Organization guidelines and the best available evidence.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30931717/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Iranian early childhood dental caries: a comprehensive systematic review and meta-analysis of prevalence and associated risk factors.",
+      "authors": [
+        "Jabbarian Razieh",
+        "Ranjbaran Mehdi",
+        "Mokhlesi Aida",
+        "Hosseini Samin"
+      ],
+      "year": 2025,
+      "journal": "Evidence-based dentistry",
+      "doi": "10.1038/s41432-024-01078-4",
+      "pmid": "40082650",
+      "abstract": "OBJECTIVES: Early childhood dental caries (ECC) is a prevalent dental condition affecting infants and young children, characterized by one or more carious lesions in primary teeth. ECC risk factors include malnutrition, genetic predisposition, specific dietary habits, lack of fluoride, and prolonged bottle feeding. A comprehensive prevalence estimate is crucial for understanding the extent of dental caries in the population. So, this study aimed to determine the prevalence of ECC and its associated risk factors in Iranian children. METHODS: A comprehensive literature search was conducted in Scopus, Web of Science, PubMed, Google Scholar, ACECR Scientific Information Database ( www.ACECRScientific Information Database.ir ), and Magiran research databases. Eligible English and Persian studies published between 2006 and 2024 were reviewed and analyzed. The studies on ECC prevalence were identified and included in the meta-analysis. Random effect models were utilized to calculate the pooled prevalence, and meta-regression and sensitivity analyses were conducted to assess sources of heterogeneity in the systematic review of risk factors. RESULTS: The meta-analysis encompassed thirty eligible studies, providing the prevalence of ECC in Iran, with an estimated prevalence of 61.7%. Meta-regression analysis indicated a non-statistically significant increase in ECC prevalence with age and a substantial slight decrease over time. Additionally, 68 Studies evaluated categories such as age, gender, sociodemographic factors, microbial flora, oral hygiene, breast/bottle feeding, and dietary. Significant ECC-related factors identified included parents' education and occupation, breastfeeding, and oral hygiene. CONCLUSION: The overall prevalence of ECC in Iran was estimated at 61.7%, with notable heterogeneity. Most of the studies extensively evaluated sociodemographic factors as risk factors.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40082650/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Maternal and infant risk factors and risk indicators associated with early childhood caries in South Africa: a systematic review.",
+      "authors": [
+        "Kimmie-Dhansay Faheema",
+        "Barrie Robert",
+        "Roberts Tina",
+        "Naidoo Sudeshni"
+      ],
+      "year": 2022,
+      "journal": "BMC oral health",
+      "doi": "10.1186/s12903-022-02218-x",
+      "pmid": "35585594",
+      "abstract": "OBJECTIVES: To evaluate the risk factors and risk indicators associated with early childhood caries in South Africa. DESIGN: A systematic review of aetiology was performed. From 1366 papers found, 23 studies met the eligibility criteria and were included. All study designs were included. Healthy children under six who live in South Africa were eligible for the study. The study was registered with PROSPERO, registration number CRD42020216455. DATA EXTRACTION: Eligible studies were selected, and data extracted independently by two reviewers. Published data on socio-economic status, dietary factors, oral hygiene knowledge and practices, breastfeeding and bottle-feeding practices, oral bacterial flora and other risk indicators were collected. Two authors appraised the studies independently using the Joanna Briggs Critical Appraisal tools. DATA ANALYSIS: Heterogeneity was assessed using the I RESULTS: Meta-analysis was performed using random-effects models and concluded that parents of children who had a tertiary education had a 1.77 [1.22-2.57] odds of experiencing dental caries compared to the children of parents with a secondary education. However, the unclear risk of bias of most included cross-sectional studies precluded definitive conclusions. CONCLUSIONS: More high-quality cohort studies need to be performed to evaluate actual risk factors for ECC in a South African setting. Parental/caregiver oral educational knowledge needs promoting before the emergence of their children's teeth. The social determinants of health need to be incorporated in future studies, and suitable targeted interventions need to be developed and implemented to mitigate early childhood caries in South Africa.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35585594/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Carer perspectives on overweight, obesity and dental caries in early childhood: findings from a systematic qualitative review.",
+      "authors": [
+        "Cheng Heilok",
+        "Chen Rebecca",
+        "Christian Bradley",
+        "Appleton Jessica",
+        "Arora Amit",
+        "Denney-Wilson Elizabeth"
+      ],
+      "year": 2025,
+      "journal": "Frontiers in oral health",
+      "doi": "10.3389/froh.2025.1524715",
+      "pmid": "40606216",
+      "abstract": "INTRODUCTION: Formula and bottle feeding behaviours can increase obesity and tooth decay (early childhood caries, ECC) in early childhood, through non-responsive feeding and prolonged exposure to sugar. Parents' beliefs can be barriers to behaviour change for obesity and ECC prevention. Understanding these beliefs towards children's teeth and weight can address parents' priorities and develop prevention messages. This qualitative systematic review (PROSPERO registration #CRD42022348783) aimed to identify parent or carer perspectives on obesity and ECC in children aged ≤6 years. METHODS: Database searching of CINAHL, Medline and EMBASE, with hand searching, was undertaken. Included papers were qualitative research publications, focused on parent or carer beliefs and attitudes towards overweight, obesity or ECC in infants and children. Inductive thematic analysis was undertaken to generate themes, with a strengths-based approach focused on parents' lived experience. Quality appraisal was undertaken with the CASP Qualitative Checklist. Descriptive characteristics of the study and participants, and qualitative findings, were extracted qualitatively in NVivo. RESULTS: 7,365 references were identified from database and hand searching, with 98 references included for analysis. Three research themes were generated: (1) parenting to support child wellness, including healthy teeth and weight; (2) parents' response to unwellness, including identifying symptoms, causes and protective factors for unhealthy weight and teeth; (3) information and resources needed to support healthy weight and teeth. There was high or potential risk of bias in qualitative methodology when studies did not address researcher-participant relationships or rigorous data analysis processes. DISCUSSION: Findings highlight the need for strength-based messages for children's teeth and weight, increased understanding of formula and bottle feeding as obesity and ECC risk factors, and holistic approaches to care by dental and primary care professionals. SYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/view/CRD42022348783, PROSPERO CRD42022348783.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40606216/",
+      "key_findings": "",
+      "summary_ja": ""
+    }
+  ]
+}

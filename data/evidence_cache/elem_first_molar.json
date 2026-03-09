@@ -1,0 +1,144 @@
+{
+  "topic_id": "elem_first_molar",
+  "evidences": [
+    {
+      "title": "Sugars and dental caries (WHO Technical Information Note)",
+      "authors": [
+        "World Health Organization"
+      ],
+      "year": 2017,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "authority",
+      "source_type": "WHO",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/sugars-and-dental-caries",
+      "key_findings": "Free sugars are the primary cause of dental caries. WHO recommends limiting free sugar intake to less than 10% of total energy.",
+      "summary_ja": "遊離糖類がむし歯の主要原因。WHOは遊離糖類の摂取を総エネルギーの10%未満に抑えることを推奨。"
+    },
+    {
+      "title": "Ending childhood dental caries: WHO implementation manual",
+      "authors": [
+        "World Health Organization"
+      ],
+      "year": 2019,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "authority",
+      "source_type": "WHO",
+      "url": "https://www.who.int/publications/i/item/ending-childhood-dental-caries-who-implementation-manual",
+      "key_findings": "Comprehensive approach to childhood caries prevention including fluoride use, sugar reduction, and regular dental visits.",
+      "summary_ja": "小児むし歯予防の包括的アプローチ：フッ素使用、糖質制限、定期歯科受診を推奨。"
+    },
+    {
+      "title": "ADA Clinical Practice Guideline: Topical Fluoride for Caries Prevention",
+      "authors": [
+        "American Dental Association"
+      ],
+      "year": 2024,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "guideline",
+      "source_type": "ADA",
+      "url": "https://www.ada.org/resources/research/science-and-research-institute/evidence-based-dental-research/fluoride-topical-and-systemic-supplements",
+      "key_findings": "Professional fluoride varnish application every 3-6 months is recommended for children at elevated caries risk.",
+      "summary_ja": "むし歯リスクの高い小児には3〜6ヶ月ごとのフッ素バーニッシュ塗布を推奨。"
+    },
+    {
+      "title": "ADA Policy: Use of Pit-and-Fissure Sealants",
+      "authors": [
+        "American Dental Association"
+      ],
+      "year": 2023,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "guideline",
+      "source_type": "ADA",
+      "url": "https://www.ada.org/resources/research/science-and-research-institute/evidence-based-dental-research/dental-sealants",
+      "key_findings": "Dental sealants reduce caries by up to 80% in the first 2 years and continue to be effective for up to 9 years.",
+      "summary_ja": "シーラントは最初の2年間でむし歯を最大80%減少させ、最大9年間効果が持続。"
+    },
+    {
+      "title": "Pit and fissure sealants versus fluoride varnishes for preventing dental decay in the permanent teeth of children and adolescents.",
+      "authors": [
+        "Kashbour Wafa",
+        "Gupta Puneet",
+        "Worthington Helen V",
+        "Boyers Dwayne"
+      ],
+      "year": 2020,
+      "journal": "The Cochrane database of systematic reviews",
+      "doi": "10.1002/14651858.CD003067.pub5",
+      "pmid": "33142363",
+      "abstract": "BACKGROUND: Most of the detected increment in dental caries among children above the age of six years and adolescents is confined to occlusal surfaces of posterior permanent molars. Dental sealants and fluoride varnishes are much used to prevent caries. As the effectiveness of both interventions in controlling caries as compared with no intervention has been demonstrated previously, this review aimed to evaluate their relative effectiveness. It updates a review published originally in 2006 and updated in 2010 and in 2016. OBJECTIVES: Our primary objective was to evaluate the relative effectiveness of dental sealants (i.e. fissure sealant) compared with fluoride varnishes, or fissure sealants plus fluoride varnishes compared with fluoride varnishes alone, for preventing dental caries in the occlusal surfaces of permanent teeth of children and adolescents. Our secondary objectives were to evaluate whether effectiveness is influenced by sealant material type and length of follow-up, document and report on data concerning adverse events associated with sealants and fluoride varnishes, and report the cost effectiveness of dental sealants versus fluoride varnish in caries prevention. SEARCH METHODS: Cochrane Oral Health's Information Specialist searched the following databases: Cochrane Oral Health's Trials Register (to 19 March 2020), the Cochrane Central Register of Controlled Trials (CENTRAL) (the Cochrane Library, 2020, Issue 2), MEDLINE Ovid (1946 to 19 March 2020) and Embase Ovid (1980 to 19 March 2020). We searched the US National Institutes of Health Trials Registry (ClinicalTrials.gov) and the World Health Organization International Clinical Trials Registry Platform for ongoing trials. There were no restrictions on the language or date of publication. SELECTION CRITERIA: We included randomised controlled trials with at least 12 months of follow-up comparing fissure sealants, or fissure sealants plus fluoride varnishes, versus fluoride varnishes, for preventing caries in the occlusal surfaces of permanent posterior teeth (i.e. premolar or molar teeth), in participants younger than 20 years of age at the start of the study. DATA COLLECTION AND ANALYSIS: At least two review authors independently screened search results, extracted data from included studies and assessed their risk of bias. We attempted to contact study authors to obtain missing or unclear information. We grouped and analysed studies on the basis of sealant material type: resin-based sealant or glass ionomer-based sealant (glass ionomer and resin-modified glass ionomer sealant), and different follow-up periods. We calculated the odds ratio (OR) for risk of caries on occlusal surfaces of permanent molar teeth. For trials with a split-mouth design, we used the Becker-Balagtas OR. One cluster-randomised trial provided precise estimates in terms of risk ratio (RR), which we used. For continuous outcomes and data, we used means and standard deviations to obtain mean differences (MD). For meta-analysis, we used the random-effects model when we combined data from four or more studies. We presented all measures with 95% confidence intervals (CIs). We assessed the certainty of the evidence using GRADE criteria. MAIN RESULTS: We included 11 trials with 3374 participants aged five to 10 years when trials started. Three trials are new since the 2016 update. Two trials did not contribute data to our analysis. Sealant versus fluoride varnish Resin-based fissure sealants versus fluoride varnishes Seven trials evaluated this comparison (five contributing data). We are uncertain if resin-based sealants may be better than fluoride varnish, or vice versa, for preventing caries in first permanent molars at two to three years' follow-up (OR 0.67, 95% CI 0.37 to 1.19; I AUTHORS' CONCLUSIONS: Applying fluoride varnish or resin-based fissure sealants to first permanent molars helps prevent occlusal caries, but it has not been possible in this review to reach reliable conclusions about which one is better to apply. The available studies do not suggest either intervention is superior, but we assessed this evidence as having very low certainty. We found very low-certainty evidence that placing resin-based sealant as well as applying fluoride varnish works better than applying fluoride varnish alone. Fourteen studies are currently ongoing and their findings may allow us to draw firmer conclusions about whether sealants and varnish work equally well or whether one is better than the other.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33142363/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Spontaneous space closure after extraction of permanent first molars in children and adolescents: a systematic review and meta-analysis.",
+      "authors": [
+        "Hamza Blend",
+        "Papageorgiou Spyridon N",
+        "Patcas Raphael",
+        "Schätzle Marc"
+      ],
+      "year": 2024,
+      "journal": "European journal of orthodontics",
+      "doi": "10.1093/ejo/cjae054",
+      "pmid": "39380531",
+      "abstract": "BACKGROUND: Extraction of the permanent first molars is sometimes necessitated in children and adolescents due to deep carious lesions or developmental defects. OBJECTIVE: To estimate the prevalence of spontaneous space closure after extraction of permanent first molars and identify factors associated with it. SEARCH METHODS: Unrestricted searches in five databases for human studies until February 2024. SELECTION CRITERIA: Longitudinal before-and-after (cohort) human studies assessing eruption of the permanent second molars and spontaneous space closure after extraction of the permanent first molar. DATA COLLECTION AND ANALYSIS: Study selection, data extraction, and risk of bias assessment were performed in duplicate. Random-effects meta-analyses of average spontaneous space closure prevalences and odds ratios (OR) with their 95% confidence intervals (CI) were performed, followed by meta-regression/sensitivity/reporting biases' analyses and evaluation of our confidence in effect estimates. RESULTS: Sixteen reports pertaining to 15 studies (1 prospective /14 retrospective) were included covering 1159 patients (ages 5.5-15.0 years [mean 10.0 years]; 45% male on average) and 2310 permanent second molars. The prevalence of spontaneous space closure was higher in the maxilla (nine studies; 85.3%; 95% CI = 73.7%-92.3%) than the mandible (11 studies; 48.1%; 95% CI = 34.5%-62.0%) to a significant extent (nine studies; OR = 7.77; 95% CI = 4.99-12.11; P < 0.001). For both maxillary/mandibular second molars, Demirjian category E was associated with increased space closure odds than earlier/later stages (P < 0.05). Spontaneous space closure in the mandible was seen more often for patients ages 8-10 years (compared with older patients; three studies; OR = 3.32; 95% CI = 1.73-6.36; P < 0.001) and when the mandibular permanent third molar was present (four studies; OR = 2.28; 95% CI = 1.67-3.09; P = 0.003). Additional analyses failed to find any significant modifying factors. LIMITATIONS: The quality of evidence was very low in all instances due to the inclusion of retrospective studies with methodological issues. CONCLUSIONS: Existing evidence indicates that spontaneous space closure in children and adolescents after extraction of the permanent first molar is seen more often in the maxilla than the mandible. Extraction of the permanent first molar at the Demirjian stage E of the second molar and presence of the lower permanent third molar is associated with increased odds of space closure, but uncertainty persists, due to methodological issues of existing studies. REGISTRATION: PROSPERO (CRD42023395371).",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39380531/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Association of obesity with the eruption of first and second permanent molars in children: a systematic review.",
+      "authors": [
+        "Mohamedhussein N",
+        "Busuttil-Naudi A",
+        "Mohammed H",
+        "UlHaq A"
+      ],
+      "year": 2020,
+      "journal": "European archives of paediatric dentistry : official journal of the European Academy of Paediatric Dentistry",
+      "doi": "10.1007/s40368-019-00452-6",
+      "pmid": "31144286",
+      "abstract": "BACKGROUND: Eruption timing of permanent teeth, particularly first and second molars, is of great importance due to its influence on occlusion, caries risk and timing of preventive and orthodontic intervention. AIM: To evaluate the evidence assessing the correlation between obesity and eruption time of first and second permanent molars in children under 16 years of age as compared to normal-weight children. A secondary aim was to assess the total number of erupted teeth in both groups. METHODS: A systematic search of databases including PubMed, MEDLINE, EMBASE, Scopus and Web of Science was conducted. Studies that assessed the effect of body mass index (BMI), adjusted BMI or z scores on dental eruption were included. National Institute of Health 'Quality Assessment Tool for Observational Cohort and Cross-sectional Studies' was used to assess the quality of included papers. A random-effects model with its 95% confidence intervals (CIs) was considered for meta-analysis. RESULTS: A total of 381 papers were screened following duplicate removal. Twenty-six papers were read in full text, of which 19 were excluded. Seven studies were included in this review; one was longitudinal, and six were cross-sectional in design. A positive association of dental eruption with obesity was noted in six studies. Two studies were included in the explorative meta-analysis, the results of which indicated that obese, 12-year-olds are likely to have one more erupted tooth than their counterparts with a mean difference (MD) of (0.99, 95% CI 0.628-1.352). CONCLUSION: There appears to be a positive correlation between obesity and dental eruption including the eruption timing of first and second permanent molars. Main risk of bias arises from the cross-sectional nature of included studies and lack of control of potential confounders. Further high-quality evidence is required to elucidate this association. Registration PROSPERO (CRD42017084368). REGISTRATION: PROSPERO (CRD42017084368).",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31144286/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "[The long-term results of teeth restoration with composite resin materials: a systematic literature review].",
+      "authors": [
+        "Kodzaeva Z S",
+        "Turkina A Yu",
+        "Doroshina V Yu"
+      ],
+      "year": 2019,
+      "journal": "Stomatologiia",
+      "doi": "10.17116/stomat201998031117",
+      "pmid": "31322607",
+      "abstract": "AIM: To evaluate by means of a systematic review the survival rate of composite resin restorations in the long-term period and the main factors, affecting the quality of restorations. MATERIAL AND METHODS: An electronic search was performed in eLIBRARY.RU, PubMed/MEDLINE and Scopus. Restriction period was 2007-2017 years. The eligibility criteria included randomized controlled trials, controlled clinical trials and prospective and retrospective cohort studies with at least 3 years of follow-up. RESULTS: The initial search resulted in 328 articles after an initial assessment and careful reading, 17 studies were included in this review. The overall survival rate of composite restorations was 90.7% after 3 years, 89.5% after 5 years, 89.3% after 7 years and 75.6% after 10 years. The highest loss rate was for class II restorations at molars. However there was not enough information about class III and IV restorations and direct veneers. According to majority of publications, type of composite resin material and adhesive system do not affect the survival rate of restorations. The main risk factors of failure are smoking, beverages consumption, bruxism, xerostomia and low level of caries resistance. CONCLUSION: The results of this review suggest that composite resin restorations can demonstrate clinically acceptable results in the long-term period. In case of compliance with treatment protocol the longevity of composite resin restoration is more than 15 years.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31322607/",
+      "key_findings": "",
+      "summary_ja": ""
+    }
+  ]
+}

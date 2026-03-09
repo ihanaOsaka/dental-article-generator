@@ -1,0 +1,325 @@
+{
+  "topic_id": "ortho_timing",
+  "evidences": [
+    {
+      "title": "Orthodontic treatment for prominent upper front teeth (Class II malocclusion) in children and adolescents.",
+      "authors": [
+        "Batista Klaus Bsl",
+        "Thiruvenkatachari Badri",
+        "Harrison Jayne E",
+        "O'Brien Kevin D"
+      ],
+      "year": 2018,
+      "journal": "The Cochrane database of systematic reviews",
+      "doi": "10.1002/14651858.CD003452.pub4",
+      "pmid": "29534303",
+      "abstract": "BACKGROUND: Prominent upper front teeth are a common problem affecting about a quarter of 12-year-old children in the UK. The condition develops when permanent teeth erupt. These teeth are more likely to be injured and their appearance can cause significant distress. Children are often referred to an orthodontist for treatment with dental braces to reduce the prominence of their teeth. If a child is referred at a young age, the orthodontist is faced with the dilemma of whether to treat the patient early or to wait and provide treatment in adolescence. OBJECTIVES: To assess the effects of orthodontic treatment for prominent upper front teeth initiated when children are seven to 11 years old ('early treatment' in two phases) compared to in adolescence at around 12 to 16 years old ('late treatment' in one phase); to assess the effects of late treatment compared to no treatment; and to assess the effects of different types of orthodontic braces. SEARCH METHODS: Cochrane Oral Health's Information Specialist searched the following databases: Cochrane Oral Health's Trials Register (to 27 September 2017), the Cochrane Central Register of Controlled Trials (CENTRAL) (the Cochrane Library, 2017, Issue 8), MEDLINE Ovid (1946 to 27 September 2017), and Embase Ovid (1980 to 27 September 2017). The US National Institutes of Health Ongoing Trials Registry (ClinicalTrials.gov) and the World Health Organization International Clinical Trials Registry Platform were searched for ongoing trials. No restrictions were placed on the language or date of publication when searching the electronic databases. SELECTION CRITERIA: Randomised controlled trials of orthodontic treatments to correct prominent upper front teeth (Class II malocclusion) in children and adolescents. We included trials that compared early treatment in children (two-phase) with any type of orthodontic braces (removable, fixed, functional) or head-braces versus late treatment in adolescents (one-phase) with any type of orthodontic braces or head-braces, and trials that compared any type of orthodontic braces or head-braces versus no treatment or another type of orthodontic brace or appliance (where treatment started at a similar age in the intervention groups).We excluded trials involving participants with a cleft lip or palate, or other craniofacial deformity/syndrome, and trials that recruited patients who had previously received surgical treatment for their Class II malocclusion. DATA COLLECTION AND ANALYSIS: Review authors screened the search results, extracted data and assessed risk of bias independently. We used odds ratios (ORs) and 95% confidence intervals (CIs) for dichotomous outcomes, and mean differences (MDs) and 95% CIs for continuous outcomes. We used the fixed-effect model for meta-analyses including two or three studies and the random-effects model for more than three studies. MAIN RESULTS: We included 27 RCTs based on data from 1251 participants.Three trials compared early treatment with a functional appliance versus late treatment for overjet, ANB and incisal trauma. After phase one of early treatment (i.e. before the other group had received any intervention), there was a reduction in overjet and ANB reduction favouring treatment with a functional appliance; however, when both groups had completed treatment, there was no difference between groups in final overjet (MD 0.21, 95% CI -0.10 to 0.51, P = 0.18; 343 participants) (low-quality evidence) or ANB (MD -0.02, 95% CI -0.47 to 0.43; 347 participants) (moderate-quality evidence). Early treatment with functional appliances reduced the incidence of incisal trauma compared to late treatment (OR 0.56, 95% CI 0.33 to 0.95; 332 participants) (moderate-quality evidence). The difference in the incidence of incisal trauma was clinically important with 30% (51/171) of participants reporting new trauma in the late treatment group compared to only 19% (31/161) of participants who had received early treatment.Two trials compared early treatment using headgear versus late treatment. After phase one of early treatment, headgear had reduced overjet and ANB; however, when both groups had completed treatment, there was no evidence of a difference between groups in overjet (MD -0.22, 95% CI -0.56 to 0.12; 238 participants) (low-quality evidence) or ANB (MD -0.27, 95% CI -0.80 to 0.26; 231 participants) (low-quality evidence). Early (two-phase) treatment with headgear reduced the incidence of incisal trauma (OR 0.45, 95% CI 0.25 to 0.80; 237 participants) (low-quality evidence), with almost half the incidence of new incisal trauma (24/117) compared to the late treatment group (44/120).Seven trials compared late treatment with functional appliances versus no treatment. There was a reduction in final overjet with both fixed functional appliances (MD -5.46 mm, 95% CI -6.63 to -4.28; 2 trials, 61 participants) and removable functional appliances (MD -4.62, 95% CI -5.33 to -3.92; 3 trials, 122 participants) (low-quality evidence). There was no evidence of a difference in final ANB between fixed functional appliances and no treatment (MD -0.53°, 95% CI -1.27 to -0.22; 3 trials, 89 participants) (low-quality evidence), but removable functional appliances seemed to reduce ANB compared to no treatment (MD -2.37°, 95% CI -3.01 to -1.74; 2 trials, 99 participants) (low-quality evidence).Six trials compared orthodontic treatment for adolescents with Twin Block versus other appliances and found no difference in overjet (0.08 mm, 95% CI -0.60 to 0.76; 4 trials, 259 participants) (low-quality evidence). The reduction in ANB favoured treatment with a Twin Block (-0.56°, 95% CI -0.96 to -0.16; 6 trials, 320 participants) (low-quality evidence).Three trials compared orthodontic treatment for adolescents with removable functional appliances versus fixed functional appliances and found a reduction in overjet in favour of fixed appliances (0.74, 95% CI 0.15 to 1.33; two trials, 154 participants) (low-quality evidence), and a reduction in ANB in favour of removable appliances (-1.04°, 95% CI -1.60 to -0.49; 3 trials, 185 participants) (low-quality evidence). AUTHORS' CONCLUSIONS: Evidence of low to moderate quality suggests that providing early orthodontic treatment for children with prominent upper front teeth is more effective for reducing the incidence of incisal trauma than providing one course of orthodontic treatment in adolescence. There appear to be no other advantages of providing early treatment when compared to late treatment. Low-quality evidence suggests that, compared to no treatment, late treatment in adolescence with functional appliances, is effective for reducing the prominence of upper front teeth.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29534303/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Early orthodontic treatment for Class III malocclusion: A systematic review and meta-analysis.",
+      "authors": [
+        "Woon See Choong",
+        "Thiruvenkatachari Badri"
+      ],
+      "year": 2017,
+      "journal": "American journal of orthodontics and dentofacial orthopedics : official publication of the American Association of Orthodontists, its constituent societies, and the American Board of Orthodontics",
+      "doi": "10.1016/j.ajodo.2016.07.017",
+      "pmid": "28024779",
+      "abstract": "INTRODUCTION: Class III malocclusion affects between 5% and 15% of our population. The 2 most common dilemmas surrounding Class III treatment are the timing of treatment and the type of appliance. A number of appliances have been used to correct a Class III skeletal discrepancy, but there is little evidence available on their effectiveness in the long term. Similarly, early treatment of Class III malocclusion has been practiced with increasing interest. However, there has been no solid evidence on the benefits in the long term. The aim of this systematic review was to evaluate the effectiveness of orthodontic/orthopedic methods used in the early treatment of Class III malocclusion in the short and long terms. METHODS: Several sources were used to identify all relevant studies independently of language. The Cochrane Central Register of Controlled Trials, Cochrane Database of Systematic Reviews, Embase (Ovid), and MEDLINE (Ovid) were searched to June 2016. The selection criteria included randomized controlled trials (RCTs) and prospective controlled clinical trials (CCTs) of children between the ages of 7 and 12 years on early treatment with any type of orthodontic/orthopedic appliance compared with another appliance to correct Class III malocclusion or with an untreated control group. The primary outcome measure was correction of reverse overjet, and the secondary outcomes included skeletal changes, soft tissue changes, quality of life, patient compliance, adverse effect, Peer Assessment Rating score, and treatment time. The search results were screened for inclusion, and the data extracted by 2 independent authors. The data were analyzed using software (version 5.1, Review Manager; The Nordic Cochrane Centre, The Cochrane Collaboration; Copenhagen, Denmark). The mean differences with 95% confidence intervals were expressed for the continuous data. Random effects were carried out with high levels of clinical or statistical heterogeneity and fixed affects when the heterogeneity was low. RESULTS: Fifteen studies, 9 RCTs and 6 CCTs, were included in this review. In the RCT group, only 3 of 9 studies were assessed at low risk of bias, and the others were at high or unclear risk of bias. All 6 CCT studies were classified as high risk of bias. Three RCTs involving 141 participants looked at the comparison between protraction facemask and untreated control. The results for reverse overjet (mean difference, 2.5 mm; 95% CI, 1.21-3.79; P = 0.0001) and ANB angle (mean difference, 3.90°; 95% CI, 3.54-4.25; P <0.0001) were statistically significant favoring the facemask group. All CCTs demonstrated a statistically significant benefit in favor of the use of each appliance. However, the studies had high risk of bias. CONCLUSIONS: There is a moderate amount of evidence to show that early treatment with a facemask results in positive improvement for both skeletal and dental effects in the short term. However, there was lack of evidence on long-term benefits. There is some evidence with regard to the chincup, tandem traction bow appliance, and removable mandibular retractor, but the studies had a high risk of bias. Further high-quality, long-term studies are required to evaluate the early treatment effects for Class III malocclusion patients. TRIAL REGISTRATION NUMBER: PROSPERO CRD42015024252.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28024779/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Retention procedures for stabilising tooth position after treatment with orthodontic braces.",
+      "authors": [
+        "Martin Conchita",
+        "Littlewood Simon J",
+        "Millett Declan T",
+        "Doubleday Bridget",
+        "Bearn David",
+        "Worthington Helen V",
+        "Limones Alvaro"
+      ],
+      "year": 2023,
+      "journal": "The Cochrane database of systematic reviews",
+      "doi": "10.1002/14651858.CD002283.pub5",
+      "pmid": "37219527",
+      "abstract": "BACKGROUND: Without a phase of retention after successful orthodontic treatment, teeth tend to 'relapse', that is, to return to their initial position. Retention is achieved by fitting fixed or removable retainers to provide stability to the teeth while avoiding damage to teeth and gums. Removable retainers can be worn full- or part-time. Retainers vary in shape, material, and the way they are made. Adjunctive procedures are sometimes used to try to improve retention, for example, reshaping teeth where they contact ('interproximal reduction'), or cutting fibres around teeth ('percision'). This review is an update of one originally published in 2004 and last updated in 2016. OBJECTIVES: To evaluate the effects of different retainers and retention strategies used to stabilise tooth position after orthodontic braces. SEARCH METHODS: An information specialist searched Cochrane Oral Health Trials Register, CENTRAL, MEDLINE, Embase and OpenGrey up to 27 April 2022 and used additional search methods to identify published, unpublished and ongoing studies.  SELECTION CRITERIA: Randomised controlled trials (RCTs) involving children and adults who had retainers fitted or adjunctive procedures undertaken to prevent relapse following orthodontic treatment with braces. We excluded studies with aligners. DATA COLLECTION AND ANALYSIS: Two review authors independently screened eligible studies, assessed risk of bias and extracted data. Outcomes were stability or relapse of tooth position, retainer failure (i.e. broken, detached, worn out, ill-fitting or lost), adverse effects on teeth and gums (i.e. plaque, gingival and bleeding indices), and participant satisfaction. We calculated mean differences (MD) for continuous data, risk ratios (RR) or risk differences (RD) for dichotomous data, and hazard ratios (HR) for survival data, all with 95% confidence intervals (CI). We conducted meta-analyses when similar studies reported outcomes at the same time point; otherwise results were reported as mean ranges. We prioritised reporting of Little's Irregularity Index (crookedness of anterior teeth) to measure relapse, judging the minimum important difference to be 1 mm. MAIN RESULTS: We included 47 studies, with 4377 participants. The studies evaluated: removable versus fixed retainers (8 studies); different types of fixed retainers (22 studies) or bonding materials (3 studies); and different types of removable retainers (16 studies). Four studies evaluated more than one comparison. We judged 28 studies to have high risk of bias, 11 to have low risk, and eight studies as unclear.  We focused on 12-month follow-up.  The evidence is low or very low certainty. Most comparisons and outcomes were evaluated in only one study at high risk of bias, and most studies measured outcomes after less than a year. Removable versus fixed retainers Removable (part-time) versus fixed   One study reported that participants wearing clear plastic retainers part-time in the lower arch had more relapse than participants with multistrand fixed retainers, but the amount was not clinically significant (Little's Irregularity Index (LII) MD 0.92 mm, 95% CI 0.23 to 1.61; 56 participants). Removable retainers were more likely to cause discomfort (RR 12.22; 95% CI 1.69 to 88.52; 57 participants), but were associated with less retainer failure (RR 0.44, 95% CI 0.20 to 0.98; 57 participants) and better periodontal health (Gingival Index (GI) MD -0.34, 95% CI -0.66 to -0.02; 59 participants). Removable (full-time) versus fixed   One study reported that removable clear plastic retainers worn full-time in the lower arch did not provide any clinically significant benefit for tooth stability over fixed retainers (LII MD 0.60 mm, 95% CI 0.17 to 1.03; 84 participants). Participants with clear plastic retainers had better periodontal health (gingival bleeding RR 0.53, 95% CI 0.31 to 0.88; 84 participants), but higher risk of retainer failure (RR 3.42, 95% CI 1.38 to 8.47; 77 participants). The study found no difference between retainers for caries.  Different types of fixed retainers Computer-aided design/computer-aided manufacturing (CAD/CAM) nitinol versus conventional/analogue multistrand One study reported that CAD/CAM nitinol fixed retainers were better for tooth stability, but the difference was not clinically significant (LII MD -0.46 mm, 95% CI -0.72 to -0.21; 66 participants). There was no evidence of a difference between retainers for periodontal health (GI MD 0.00, 95% CI -0.16 to 0.16; 2 studies, 107 participants), or retainer survival (RR 1.29, 95% CI 0.67 to 2.49; 1 study, 41 participants). Fibre-reinforced composite versus conventional multistrand/spiral wire  One study reported that fibre-reinforced composite fixed retainers provided better stability than multistrand retainers, but this was not of a clinically significant amount (LII MD -0.70 mm, 95% CI -1.17 to -0.23; 52 participants). The fibre-reinforced retainers had better patient satisfaction with aesthetics (MD 1.49 cm on a visual analogue scale, 95% CI 0.76 to 2.22; 1 study, 32 participants), and similar retainer survival rates (RR 1.01, 95% CI 0.84 to 1.21; 7 studies; 1337 participants) at 12 months. However, failures occurred earlier (MD -1.48 months, 95% CI -1.88 to -1.08; 2 studies, 103 participants; 24-month follow-up) and more gingival inflammation at six months, though bleeding on probing (BoP) was similar (GI MD 0.59, 95% CI 0.13 to 1.05; BoP MD 0.33, 95% CI -0.13 to 0.79; 1 study, 40 participants). Different types of removable retainers Clear plastic versus Hawley When worn in the lower arch for six months full-time and six months part-time, clear plastic provided similar stability to Hawley retainers (LII MD 0.01 mm, 95% CI -0.65 to 0.67; 1 study, 30 participants). Hawley retainers had lower risk of failure (RR 0.60, 95% CI 0.43 to 0.83; 1 study, 111 participants), but were less comfortable at six months (VAS MD -1.86 cm, 95% CI -2.19 to -1.53; 1 study, 86 participants). Part-time versus full-time wear of Hawley There was no evidence of a difference in stability between part-time and full-time use of Hawley retainers (MD 0.20 mm, 95% CI -0.28 to 0.68; 1 study, 52 participants). AUTHORS' CONCLUSIONS: The evidence is low to very low certainty, so we cannot draw firm conclusions about any one approach to retention over another. More high-quality studies are needed that measure tooth stability over at least two years, and measure how long retainers last, patient satisfaction and negative side effects from wearing retainers, such as tooth decay and gum disease.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37219527/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Non-surgical adjunctive interventions for accelerating tooth movement in patients undergoing orthodontic treatment.",
+      "authors": [
+        "El-Angbawi Ahmed",
+        "McIntyre Grant",
+        "Fleming Padhraig S",
+        "Bearn David"
+      ],
+      "year": 2023,
+      "journal": "The Cochrane database of systematic reviews",
+      "doi": "10.1002/14651858.CD010887.pub3",
+      "pmid": "37339352",
+      "abstract": "BACKGROUND: Deviation from a normal bite can be defined as malocclusion. Orthodontic treatment takes 20 months on average to correct malocclusion. Accelerating the rate of tooth movement may help to reduce the duration of orthodontic treatment and associated unwanted effects including orthodontically induced inflammatory root resorption (OIIRR), demineralisation and reduced patient motivation and compliance. Several non-surgical adjuncts have been advocated with the aim of accelerating the rate of orthodontic tooth movement (OTM).         OBJECTIVES: To assess the effect of non-surgical adjunctive interventions on the rate of orthodontic tooth movement and the overall duration of treatment. SEARCH METHODS: An information specialist searched five bibliographic databases up to 6 September 2022 and used additional search methods to identify published, unpublished and ongoing studies. SELECTION CRITERIA: We included randomised controlled trials (RCTs) of people receiving orthodontic treatment using fixed or removable appliances along with non-surgical adjunctive interventions to accelerate tooth movement. We excluded split-mouth studies and studies that involved people who were treated with orthognathic surgery, or who had cleft lip or palate, or other craniofacial syndromes or deformities. DATA COLLECTION AND ANALYSIS: Two review authors were responsible for study selection, risk of bias assessment and data extraction; they carried out these tasks independently. Disagreements were resolved by discussion amongst the review team to reach consensus.  MAIN RESULTS: We included 23 studies, none of which were rated as low risk of bias overall. We categorised the included studies as testing light vibrational forces or photobiomodulation, the latter including low level laser therapy and light emitting diode. The studies assessed non-surgical interventions added to fixed or removable orthodontic appliances compared to treatment without the adjunct. A total of 1027 participants (children and adults) were recruited with loss to follow-up ranging from 0% to 27% of the original samples.  Certainty of the evidence For all comparisons and outcomes presented below, the certainty of the evidence is low to very low. Light vibrational forces  Eleven studies assessed how applying light vibrational forces (LVF) affected orthodontic tooth movement (OTM). There was no evidence of a difference between the intervention and control groups for duration of orthodontic treatment (MD -0.61 months, 95% confidence interval (CI) -2.44 to 1.22; 2 studies, 77 participants); total number of orthodontic appliance adjustment visits (MD -0.32 visits, 95% CI -1.69 to 1.05; 2 studies, 77 participants); orthodontic tooth movement during the early alignment stage (reduction of lower incisor irregularity (LII)) at 4-6 weeks (MD 0.12 mm, 95% CI -1.77 to 2.01; 3 studies, 144 participants), or 10-16 weeks (MD -0.18 mm, 95% CI -1.20 to 0.83; 4 studies, 175 participants); rate of canine distalisation (MD -0.01 mm/month, 95% CI -0.20 to 0.18; 2 studies, 40 participants); or rate of OTM during en masse space closure (MD 0.10 mm per month, 95% CI -0.08 to 0.29; 2 studies, 81 participants). No evidence of a difference was found between LVF and control groups in rate of OTM when using removable orthodontic aligners. Nor did the studies show evidence of a difference between groups for our secondary outcomes, including patient perception of pain, patient-reported need for analgesics at different stages of treatment and harms or side effects.  Photobiomodulation Ten studies assessed the effect of applying low level laser therapy (LLLT) on rate of OTM. We found that participants in the LLLT group had a statistically significantly shorter length of time for the teeth to align in the early stages of treatment (MD -50 days, 95% CI -58 to -42; 2 studies, 62 participants) and required fewer appointments (-2.3, 95% CI -2.5 to -2.0; 2 studies, 125 participants). There was no evidence of a difference between the LLLT and control groups in OTM when assessed as percentage reduction in LII in the first month of alignment (1.63%, 95% CI -2.60 to 5.86; 2 studies, 56 participants) or in the second month (percentage reduction MD 3.75%, 95% CI -1.74 to 9.24; 2 studies, 56 participants). However, LLLT resulted in an increase in OTM during the space closure stage in the maxillary arch (MD 0.18 mm/month, 95% CI 0.05 to 0.33; 1 study; 65 participants; very low level of certainty) and the mandibular arch (right side MD 0.16 mm/month, 95% CI 0.12 to 0.19; 1 study; 65 participants). In addition, LLLT resulted in an increased  rate of OTM during maxillary canine retraction (MD 0.01 mm/month, 95% CI 0 to 0.02; 1 study, 37 participants). These  findings were not clinically significant. The studies showed no evidence of a difference between groups for our secondary outcomes, including OIIRR, periodontal health and patient perception of pain at early stages of treatment. Two studies assessed the influence of applying light-emitting diode (LED) on OTM. Participants in the LED group required a significantly shorter time to align the mandibular arch compared to the control group (MD -24.50 days, 95% CI -42.45 to -6.55, 1 study, 34 participants). There is no evidence that LED application increased the rate of OTM during maxillary canine retraction (MD 0.01 mm/month, 95% CI 0 to 0.02; P = 0.28; 1 study, 39 participants ). In terms of secondary outcomes, one study assessed patient perception of pain and found no evidence of a difference between groups.   AUTHORS' CONCLUSIONS: The evidence from randomised controlled trials concerning the effectiveness of non-surgical interventions to accelerate orthodontic treatment is of low to very low certainty. It suggests that there is no additional benefit of light vibrational forces or photobiomodulation for reducing the duration of orthodontic treatment. Although there may be a limited benefit from photobiomodulation application for accelerating discrete treatment phases, these results have to be interpreted with caution due to their questionable clinical significance. Further well-designed, rigorous RCTs with longer follow-up periods spanning from start to completion of orthodontic treatment are required to determine whether non-surgical interventions may reduce the duration of orthodontic treatment by a clinically significant amount, with minimal adverse effects.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37339352/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Adverse Effects of 'Two-by-Four Fixed Orthodontic Appliance' in Mixed Dentition Period - A Systematic Review.",
+      "authors": [
+        "Khan Mohammad Kamran",
+        "Pandiyan Ramanandvignesh",
+        "Rather Shakir Hussain"
+      ],
+      "year": 2025,
+      "journal": "Indian journal of dental research : official publication of Indian Society for Dental Research",
+      "doi": "10.4103/ijdr.ijdr_217_24",
+      "pmid": "40439212",
+      "abstract": "Malocclusion is a global public dental health problem with higher prevalence and treatment needs. However, there is a perplexing literature regarding early orthodontic intervention in the mixed dentition stage. '2 × 4 orthodontic appliances' have been highlighted in the literature as versatile appliances for the effective correction of various malocclusions in children. However, dental clinicians and researchers should also have updated knowledge about the negative aspects of '2 × 4 orthodontic appliances', which are reported in the exiting literature. Hence, this systematic review aimed to find out the evidence about the adverse effects/complications of 2 × 4 orthodontic appliance therapy in mixed dentition phase of paediatric patients by extensively exploring and critically appraising the pertinent literature. This systematic review was performed as per the Preferred Reporting Items for Systematic Reviews and Meta-analyses (PRISMA) guidelines. Its protocol was registered in International Prospective Register of Systematic Reviews. Literature was searched comprehensively in six databases and also manually. After the screening of the records (n = 1234) as per the eligibility criteria, finally, nine (n = 5) articles were included and critically analysed using different Joanna Briggs Institute critical appraisal tools. Eligible studies including Randomized Controlled Trial (RCT) (n = 1), non-RCT (n = 2), retrospective study (n = 1), case-report (n = 1) published from 1999 to 2023 in which 82 patients with mean-age of 10-year, mostly with pseudo class-III malocclusion, anterior cross-bite and crowding treated using 2 x 4 appliance were found. The literature-based evidence related to the adverse effects of 2 × 4 orthodontic appliances was found to be inadequate in quantity, but majority was of high quality (low risk of bias). However, various negative aspects/complications of this particular fixed orthodontic therapy were reported by the included primary studies.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40439212/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Early or delayed palatoplasty in complete unilateral cleft lip and palate patients? A systematic review of the effects on maxillary growth.",
+      "authors": [
+        "Salgado Karina Rodrigues",
+        "Wendt Andréa Reis",
+        "Fernandes Fagundes Nathalia Carolina",
+        "Maia Lucianne Copple",
+        "Normando David",
+        "Leão Patrícia Botelho"
+      ],
+      "year": 2019,
+      "journal": "Journal of cranio-maxillo-facial surgery : official publication of the European Association for Cranio-Maxillo-Facial Surgery",
+      "doi": "10.1016/j.jcms.2019.06.017",
+      "pmid": "31677987",
+      "abstract": "The aim of this study was to review the effects of early and late hard palate repair on maxillary growth. PubMed, Scopus, Web of Science, LILACS, Cochrane Library CENTRAL databases, OpenGrey, Google Scholar, and Clinical Trials were searched using a PICO strategy, with terms related to unilateral cleft lip and palate (UCLP) and timing of repair. Methodological quality evaluation was carried out using the Fowkes and Fulton guidelines, and quality (or certainty) of evidence and strength of recommendations were evaluated using GRADE (grading of recommendations, assessment, development and evaluation). Five retrospective and non-randomized studies were included in the study. Folkes and Fulton assessment showed a high risk of bias in all articles and very low levels of certainty (GRADE). The results showed conflicting findings for comparisons of the effects of timing of repair of hard palate in UCLP. Two studies presented better maxillary growth in a group operated on later (18 months after birth), two presented no differences between the results, and another presented better results in the group operated on earlier than 18 months of age. At this point, it cannot be proven or refuted that postponing hard palate surgery brings benefits for maxillary growth. Studies included in this review did not show similar conclusions. Randomized clinical trials present some ethical issues that make them difficult to perform.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31677987/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "The biological sex lens on early orthopaedic treatment duration and outcomes in Class III orthodontic patients: a systematic review.",
+      "authors": [
+        "Arqub Sarah Abu",
+        "Al-Zubi Khadijeh",
+        "Iverson Marissa G",
+        "Ioannidou Effie",
+        "Uribe Flavio"
+      ],
+      "year": 2022,
+      "journal": "European journal of orthodontics",
+      "doi": "10.1093/ejo/cjab058",
+      "pmid": "34498045",
+      "abstract": "BACKGROUND: Treatment outcomes for Class III orthopaedic treatment are highly unpredictable and dependent on the timing of interception, age, and biological sex. OBJECTIVE: This systematic review aimed to assess the effects of sex dimorphism on outcomes and duration of orthopaedic treatment for Class III malocclusion in young children. SEARCH METHODS: Unrestricted search in six electronic databases until May 2021 was conducted. Supplemented by search in resources for published, unpublished literature, and ongoing trials. SELECTION CRITERIA: Randomized and non-randomized controlled trials reporting the use of Class III growth modification appliances, with baseline and outcome data for both sexes, were included. DATA COLLECTION AND ANALYSIS: Study selection and data extraction were performed blindly and in duplicate by two reviewers. ROBINS-I, Cochrane Risk of Bias, and GRADE tools were used for certainty assessment. RESULTS: A total of 2429 records were screened. Four trials fulfilled the inclusion criteria, one was a randomized clinical trial (RCT) comparing facemask and facemask with mini-screw. Two clinical trials evaluated the effects of facemask appliance, one had a control group, another was prospective non-controlled. One compared the effects of the maxillary protraction bow appliance to a no treatment control. Two of the clinical trials were appraised as low and one was appraised as high risk of bias. The overall certainty of the available evidence was assessed as moderate. There was significant clinical heterogeneity in terms of methodology, type of intervention, and the measured outcomes, precluding a meta-analysis. CONCLUSIONS: Minimal variations in sagittal, vertical, and dentoalveolar post-treatment cephalometric changes were reported between sexes. The available evidence is unclear to support these variations. Long-term-powered RCTs assessing cephalometric outcomes between sexes until the end of growth spurt and without pooling are not available, therefore, much needed. REGISTRATION: PROSPERO database number CRD42020185797.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34498045/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Prevalence of temporomandibular disorders diagnosis in patients treated with Herbst appliance: a systematic review and meta-analysis.",
+      "authors": [
+        "Minervini Giuseppe",
+        "Di Blasio Marco",
+        "Franco Rocco",
+        "Marrapodi Maria Maddalena",
+        "Vaienti Benedetta",
+        "Cicciù Marco",
+        "Ronsivalle Vincenzo"
+      ],
+      "year": 2024,
+      "journal": "BMC oral health",
+      "doi": "10.1186/s12903-023-03738-w",
+      "pmid": "38281907",
+      "abstract": "BACKGROUND: The Herbst appliance is an excellent therapy for treating class II malocclusions with increased overjet. Its mechanics involve propelling the mandibular bone using two pistons the patient cannot remove. The so-called bite-jumping keeps the mandible in a more anterior position for a variable period, usually at least 6 months. This appliance does not inhibit joint functions and movements, although there are scientific papers in the literature investigating whether this appliance can lead to temporomandibular disorders. This systematic review aims to evaluate whether Herbst's device can cause temporomandibular diseases by assessing the presence of TMD in patients before and after treatment. METHODS: A literature search up to 3 May 2023 was carried out on three online databases: PubMed, Scopus and Web of Science. Only studies that evaluated patients with Helkimo scores and Manual functional analysis were considered, as studies that assessed the difference in TMD before and after Herbst therapy. Review Manager version 5.2.8 (Cochrane Collaboration) was used for the pooled analysis. We measured the odds ratio (OR) between the two groups (pre and post-Herbst). RESULTS: The included papers in this review were 60. Fifty-seven were excluded. In addition, a manual search was performed. After the search phase, four articles were considered in the study, one of which was found through a manual search. The overall effect showed that there was no difference in TMD prevalence between pre-Herbst and post-Herbst therapy (OR 0.74; 95% CI: 0.33-1.68). CONCLUSION: Herbst appliance seems not to lead to an increase in the incidence of TMD in treated patients; on the contrary, it appears to decrease it. Further studies are needed to assess the possible influence of Herbst on TMDs.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38281907/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Is the timing of implant placement and loading influencing esthetic outcomes in single-tooth implants?-A systematic review.",
+      "authors": [
+        "Francisco Helena",
+        "Marques Duarte",
+        "Pinto Catarina",
+        "Aiquel Louise",
+        "Caramês João"
+      ],
+      "year": 2021,
+      "journal": "Clinical oral implants research",
+      "doi": "10.1111/clr.13811",
+      "pmid": "34642985",
+      "abstract": "OBJECTIVES: To address the following question: \"Is the timing of implant placement and/or loading influencing the esthetic outcomes of implant-supported single crowns?\" MATERIAL AND METHODS: A literature screening was performed in four electronic databases until June 2020. Randomized controlled clinical trials with a minimum of 10 patients and 1 year of follow-up and reporting on dimensional changes of the peri-implant mucosa (midfacial recession, papilla level) and esthetic indexes were included. Cochrane Risk of Bias Tool was used, and comparable trials were subjected to meta-analyses. RESULTS: Out of 8549 articles, 72 full-text articles were assessed for eligibility and 18 were included. Nine trials evaluated the timing of implant placement, and nine trials evaluated the timing of loading. The included trials comparing immediate implant placement to delayed implant placement evaluating the midfacial recession reported heterogeneous findings. No differences were found at 1 and 2-years, when comparing midfacial recession and papilla level between immediate and early implant placement. In immediate and delayed implant placement, when comparing conventional and immediate loading, the midfacial mucosal margin change was not statistically significant at the 1-year follow-up. When evaluating the timing of implant placement and/or loading the included trials found no differences in the Pink Esthetic score, White Esthetic score, and Papilla Index between groups. CONCLUSIONS: Both immediate and early implant placement protocols presented stable treatment results in terms of esthetic outcomes at the 1-, 2-, and 10-years follow-up. Loading protocols did not seem to influence esthetic outcomes in short- and medium-term follow-ups.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34642985/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Rapid palate expansion's impact on nasal breathing: A systematic review.",
+      "authors": [
+        "Inchingolo Alessio Danilo",
+        "Laforgia Alessandra",
+        "Inchingolo Angelo Michele",
+        "Latini Giulia",
+        "Pezzolla Carmen",
+        "Nardelli Paola",
+        "Palermo Andrea",
+        "Inchingolo Francesco",
+        "Malcangi Giuseppina",
+        "Dipalma Gianna"
+      ],
+      "year": 2025,
+      "journal": "International journal of pediatric otorhinolaryngology",
+      "doi": "10.1016/j.ijporl.2025.112248",
+      "pmid": "39954405",
+      "abstract": "Proper nasal breathing is essential for the craniofacial development of children. Maxillary constriction, often associated with impaired nasal breathing, results in a narrow upper jaw, posterior crossbite, and a high palatal vault, which elevates the nasal floor and increases nasal resistance. Rapid maxillary expansion (RME) is a common orthodontic procedure that expands the maxillary dental arch, thereby widening the nasal cavity (NC). The aim of this systematic review is to evaluate the effectiveness of RME on nasal breathing in pediatric patients. We searched databases including PubMed, Web of Science, and Scopus using the keywords: 'maxillary,' 'expansion,' 'palatal,' 'RME,' 'disjunction,' and 'nasal.' The screening phase concluded with the selection of 13 publications for this review, encompassing randomized controlled trials, cohort studies, and case-control studies. The quality of the studies was assessed using established criteria, and data were extracted and analyzed. RME significantly increases the transverse dimensions of the maxilla and NC, contributing to an increase in NC volume. While structural improvements are consistent across studies, functional benefits, such as reduced nasal resistance, exhibit variability. Factors including age, pre-treatment skeletal conditions, and adenotonsillar hypertrophy influence the efficacy of RME. Certain devices, such as the Hybrid-Hyrax expander (HHE), have shown promising results in enhancing nasal ventilation. Overall, RME is an effective intervention for improving nasal breathing in children with maxillary constriction. However, further research is necessary to fully elucidate the variability in functional outcomes. Future studies should refine measurement techniques and compare different devices and protocols to optimize RME application.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39954405/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Does Early Orthodontic Treatment in Mixed Dentition Improve Long-Term Outcomes? A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Almugla Yousef Majed",
+        "Shekhar Madiraju Guna"
+      ],
+      "year": 2025,
+      "journal": "Medicina (Kaunas, Lithuania)",
+      "doi": "10.3390/medicina61101854",
+      "pmid": "41155841",
+      "abstract": "",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41155841/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Class II division 1 malocclusions: comparisons between one- and two-step treatment.",
+      "authors": [
+        "Maspero C",
+        "Galbiati G",
+        "Giannini L",
+        "Guenza G",
+        "Farronato M"
+      ],
+      "year": 2018,
+      "journal": "European journal of paediatric dentistry",
+      "doi": "10.23804/ejpd.2018.19.04.8",
+      "pmid": "30567446",
+      "abstract": "AIM: The aim of this study consists in comparing the two-step treatment with that performed in a single-step in adolescent patients. MATERIALS AND METHODS: Study design: This paper is a critical review of the literature with a systematic approach. The search for scientific articles was performed on the US National Library of Medicine database using the PubMed service. Keywords set: \"Early treatment Class II OR 1-phase orthodontics OR orthodontic timing Class II\". From the initial screening 20 articles were selected of which the full text has been researched and evaluated. RESULTS: The selected articles were reviewed and evaluated by two independent operators, who both excluded two papers. Ultimately 13 articles were selected that refer to four major working groups, respectively from Manchester, North Carolina, Florida and Queen Mary University of London. CONCLUSION: We can assume that both the one- and two-step treatment are effective in correcting Class II malocclusion, with no significant difference of outcome, except for the incidence of incisor trauma, which was significantly lower for the early treatment group.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30567446/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Long-term outcomes of maxillary single-tooth implants in relation to timing protocols of implant placement and loading: Systematic review and meta-analysis.",
+      "authors": [
+        "Pommer Bernhard",
+        "Danzinger Martina",
+        "Leite Aiquel Loise",
+        "Pitta João",
+        "Haas Robert"
+      ],
+      "year": 2021,
+      "journal": "Clinical oral implants research",
+      "doi": "10.1111/clr.13838",
+      "pmid": "34642986",
+      "abstract": "OBJECTIVES: The aim of the present systematic literature review was to determine whether long-term treatment results with single-tooth implants may differ depending on the timing of implant placement in relation to tooth extraction (immediate IP/early EP/delayed DP) and the timing of prosthetic loading (immediate IL/early EL/delayed DL). MATERIAL AND METHODS: Electronic and manual searches were performed to identify studies reporting on long-term results (survival rate and/or marginal bone resorption after ≥3 years) of maxillary single-tooth implants in the aesthetic zone using defined placement and loading protocols. Comparative trials were subjected to meta-analyses whilst data from single-arm studies were pooled to evaluate differences between timing protocols. RESULTS: A total of 7 controlled trials were considered for meta-analyses: immediate loading was compared to delayed loading in 3 studies on immediate placement (IPIL vs. IPDL, p = .306) and in 2 studies on delayed placement (DPIL vs. DPDL, p = 1.000) whilst 2 studies compared early versus delayed placement with delayed loading (EPDL vs. DPDL, p = .600), however, without significant differences. Pooled data analysis of 29 studies (965 implants) did not show differences between timing of placement or loading as well as marginal bone remodelling. No impact of the one abutment - one time concept, flap design and simultaneous bone or soft tissue augmentation could be established. CONCLUSIONS: Insufficient data are available for meta-analytic comparison of all combinations of implant placement and loading protocols.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34642986/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Comparison of early and conventional autogenous secondary alveolar bone graft in children with cleft lip and palate: A systematic review.",
+      "authors": [
+        "Pinheiro Fabio Henrique de Sa Leitao",
+        "Drummond Robert John",
+        "Frota Carolina Martins",
+        "Bartzela Theodosia N",
+        "Dos Santos Patricia Bittencourt"
+      ],
+      "year": 2020,
+      "journal": "Orthodontics & craniofacial research",
+      "doi": "10.1111/ocr.12394",
+      "pmid": "32446283",
+      "abstract": "PURPOSE: The literature is scarce on studies comparing secondary alveolar bone graft (SABG) performed early at approximately 5-6 years and at the conventional time at 9-11 years. This systematic literature review(SLR) aimed to compare clinical outcomes after two different timings of SABG in children with unilateral and bilateral cleft lip and palate. METHODS: The inclusion criteria were autogenous iliac grafts and the following study designs: case control, cohort, clinical controlled trial (CCT), randomized CCT (RCCT), and previous SLRs. Ovid MEDLINE, Ovid EMBASE, Web of Science, Scopus, Cochrane, ProQuest and Google Scholar were the primary databases. Two calibrated examiners worked independently to select the articles. The MINORS evaluation method for surgical non-RCTs was used to assess for quality. RESULTS: 1,111 articles were retrieved and 19 qualified. Different clinical and radiographic outcomes such as bone level, periodontal status, canine eruption and cleft-side tooth survival were evaluated by different assessment methods such as CBCT volume, computed tomography, periodontal evaluation, panoramic, intraoral radiographs, and Bergland scale. No RCCT or meta-analysis was found. None of the studies received the ideal score, which is 16 for non-comparison studies and 24 for comparison studies. CONCLUSION: Methodological variation, lack of standardization for initial cleft dimension and low-quality level rendered a fair comparison unfeasible. Although further studies are necessary, it can be assumed that early SABG also can be an acceptable option, but this was based on a single study with a reasonable level of evidence.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32446283/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Effects of orthodontic appliances on the diagnostic capability of magnetic resonance imaging in the head and neck region: A systematic review.",
+      "authors": [
+        "Hasanin Majd",
+        "Kaplan Sarah E F",
+        "Hohlen Brian",
+        "Lai Connie",
+        "Nagshabandi Rawan",
+        "Zhu Xing",
+        "Al-Jewair Thikriat"
+      ],
+      "year": 2019,
+      "journal": "International orthodontics",
+      "doi": "10.1016/j.ortho.2019.06.001",
+      "pmid": "31285157",
+      "abstract": "OBJECTIVES: Patients in active fixed orthodontic treatment or fixed retention phase may require magnetic resonance (MR) scans of the head and neck region. Orthodontists are challenged to decide whether to keep or remove orthodontic appliances prior to the scans. The aim of this study was to determine the effect of orthodontic appliances on the diagnostic capability of MR images. METHODS: Four electronic databases were searched, with no language restrictions, from database inception to October 2016: PubMed, EMBASE, CINAHL, EBMR. A search in Google Scholar and ProQuest, as well as a manual search, were also conducted. Two independent reviewers assessed articles for inclusion. Original studies including any orthodontic appliance on human subjects were considered. Outcomes measured were development of artefacts, diagnostic quality, accuracy, and treatment outcomes. Risk of bias was assessed with the Cochrane Risk of Bias Assessment and QUADAS-2 tools. RESULTS: Five of 1052 studies identified were included in the final qualitative synthesis. A total of 90 adult human subjects were included. Orthodontic appliances evaluated were brackets, bands, archwires, and fixed retainers. The outcomes assessed were production of artefacts, diagnostic quality and diagnostic accuracy. Detrimental effects on diagnostic quality, and subsequently diagnostic accuracy, rose with increased stainless steel (SS) and proximity to anatomic area of interest. Orthodontic appliances may render images uninterpretable and non-diagnostic. CONCLUSIONS: There is fair evidence to suggest orthodontic appliances, mainly those with SS, cause MR artefacts. Removal of metal orthodontic appliances prior to MR scans is recommended, especially if the area of interest is near the orthodontic appliance. Additional evidence is needed to provide guidelines to clinicians.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31285157/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Effects of laser therapy on patients who underwent rapid maxillary expansion; a systematic review.",
+      "authors": [
+        "Davoudi Amin",
+        "Amrolahi Maryam",
+        "Khaki Hossein"
+      ],
+      "year": 2018,
+      "journal": "Lasers in medical science",
+      "doi": "10.1007/s10103-018-2545-2",
+      "pmid": "29948453",
+      "abstract": "Rapid maxillary expansion (RME) is one of the common treatments of transverse maxillary deficiency, and low-level laser therapy (LLLT) is one of the recommended solutions to enhance biological wound or bone healing. This review article aims to answer the following question: \"What are the effects of LLLT, on patients who underwent surgical or non-surgical RME, in improving clinical success, wound healing, and bone regeneration?\" A search in PubMed, Scopus, Web of Science, and ProQuest databases was performed, with a focus on the appropriate key words. Related articles, up to May 2017, were screened, and the full text of the randomized controlled trials (RCT) were comprehensively read and subjected to quality assessments. A total of 1804 articles were included after the initial search. Four RCTs were eligible in randomization and methodology. The applied wavelength varied from 660 to 830 nm with an output range of 40-100 mW. Also, the highest exposed energy was 420 J/cm",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29948453/",
+      "key_findings": "",
+      "summary_ja": ""
+    }
+  ]
+}

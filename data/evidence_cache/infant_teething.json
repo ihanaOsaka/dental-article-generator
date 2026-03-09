@@ -1,0 +1,47 @@
+{
+  "topic_id": "infant_teething",
+  "evidences": [
+    {
+      "title": "Global prevalence of teething problems in infants and children-A systematic review and meta-analysis.",
+      "authors": [
+        "Garima Jhunjhunwala",
+        "Mathur Vijay Prakash",
+        "Tewari Nitesh",
+        "Rahul Morankar",
+        "Sultan Farheen",
+        "Haldar Partha",
+        "Bansal Kalpana",
+        "Upadhyay Ashish Datt"
+      ],
+      "year": 2025,
+      "journal": "International journal of paediatric dentistry",
+      "doi": "10.1111/ipd.13272",
+      "pmid": "39344021",
+      "abstract": "BACKGROUND: Eruption of primary teeth is associated with local and systemic manifestations. Understanding the global prevalence is necessary to formulate the standard guidelines for management. AIM: To evaluate the global prevalence of problems associated with teething in infants and children aged 0-36 months. DESIGN: PubMed, LILACS, Web of Science, Scopus, and EMBASE were searched on May 31, 2023, and it was updated on January 31, 2024. Gray literature and reference search were performed. Cross-sectional, case-control, and cohort studies done in hospital or community settings, reporting the prevalence of signs and symptoms during the eruption of primary teeth in infants aged 0-36 months, were included. Two reviewers extracted data using a pre-piloted sheet. Data were analyzed and pooled by using random-effects meta-analyses. RESULTS: Twenty-five studies were included. The global prevalence of teething problems was 80.0% (95% confidence interval [CI]: 67.8-89.9). The most common local symptom was increased biting (65.9%, 95% CI 37.5-89.3), and irritability (60.7%, 95% CI 50.6-70.3) was the most common general symptom. CONCLUSION: The pooled prevalence of teething problems was estimated to be 80%. There was a variability in the prevalence of teething problems based on geographic location.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39344021/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "New medical device coating mouth gel for temporary relief of teething symptoms: a pilot randomized, open-label, controlled study.",
+      "authors": [
+        "Rosu Serban",
+        "Barattini Dionisio F",
+        "Murina Filippo",
+        "Gafencu Mihai"
+      ],
+      "year": 2023,
+      "journal": "Minerva pediatrics",
+      "doi": "10.23736/S2724-5276.18.05360-4",
+      "pmid": "30299028",
+      "abstract": "BACKGROUND: This study verified the feasibility of the monthly recruitment rate, tested the Face, Legs, Activity, Cry and Consolability Pain Assessment Tool (FLACC) for pain in infants and collected preliminary efficacy and safety data of a new proprietary oral gel formulation of high-molecular-weight hyaluronan (HMWHA) for the relief of teething. Results will support the design a future main trial vs. local anesthetic, that is currently the only clinically proven pain reliever. METHODS: This was a pilot, randomized, controlled, multicenter, open-label, and parallel-group trial. It was performed in two Romanian clinics recruiting infants from 3 to 36 months. Teething diagnosis was based on a minimum of three symptoms such as: local pain, swelling, erythema, hyper-salivation, and depth characteristics of unerupted tooth. Absence of subcutaneous mucosal laceration was also required. The children were assigned either to HMWHA (HABPX V 3.3, Bioplax Ltd, Wallington, UK), or to standard drug (Dentinox RESULTS: Twenty-seven Infants were allocated in HMWHA, and 30 in standard drug. Enrolment rate was 9 patients/month/site. A significant reduction for HMWHA group was evidenced in pain, swelling (from day 0 to 7, P=0.034 between groups), redness (from day 0 to 3, P=0.045 and from day 0 to 7, P<0.001 between groups) and confirmed by the parents' diary records. Pain measurements obtained by FLACC method are consistent with the data belonging to other parameters. Investigator's global assessment of performance was in favor of the HMWHA (P<0.005). Only two patients, both belonging to standard drug group, experienced adverse events (fever, not related to treatment) and dropped out of the study. CONCLUSIONS: The results solve the feasibility questions and clearly evidence the performance of HABPX V 3.3 in teething symptoms, exceeding the objectives of a simple pilot trial to some extent. Coating oral gels containing HMWHA could be a therapeutic solution for both parents and physicians in managing the irritation and pain resulting from tooth eruption in children.",
+      "evidence_level": "1b",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30299028/",
+      "key_findings": "",
+      "summary_ja": ""
+    }
+  ]
+}

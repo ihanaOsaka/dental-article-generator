@@ -1,0 +1,440 @@
+{
+  "topic_id": "pregnancy_periodontal",
+  "evidences": [
+    {
+      "title": "日本人の食事摂取基準（2020年版）- カルシウム",
+      "authors": [
+        "厚生労働省"
+      ],
+      "year": 2020,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "authority",
+      "source_type": "厚生労働省",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/eiyou/syokuji_kijyun.html",
+      "key_findings": "妊婦のカルシウム推奨量は成人女性と同じ（650mg/日）。妊娠中はカルシウム吸収率が上昇するため付加量なし。",
+      "summary_ja": "妊婦のカルシウム推奨量は650mg/日。妊娠中は吸収率が上がるため追加量は不要。"
+    },
+    {
+      "title": "Oral microflora and pregnancy: a systematic review and meta-analysis.",
+      "authors": [
+        "Jang Hoonji",
+        "Patoine Alexa",
+        "Wu Tong Tong",
+        "Castillo Daniel A",
+        "Xiao Jin"
+      ],
+      "year": 2021,
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-021-96495-1",
+      "pmid": "34413437",
+      "abstract": "Understanding changes in oral flora during pregnancy, its association to maternal health, and its implications to birth outcomes is essential. We searched PubMed, Embase, Web of Science, and Cochrane Library in May 2020 (updated search in April and June 2021), and conducted a systematic review and meta-analyses to assess the followings: (1) oral microflora changes throughout pregnancy, (2) association between oral microorganisms during pregnancy and maternal oral/systemic conditions, and (3) implications of oral microorganisms during pregnancy on birth outcomes. From 3983 records, 78 studies were included for qualitative assessment, and 13 studies were included in meta-analysis. The oral microflora remains relatively stable during pregnancy; however, pregnancy was associated with distinct composition/abundance of oral microorganisms when compared to postpartum/non-pregnant status. Oral microflora during pregnancy appears to be influenced by oral and systemic conditions (e.g. gestational diabetes mellitus, pre-eclampsia, etc.). Prenatal dental care reduced the carriage of oral pathogens (e.g. Streptococcus mutans). The Porphyromonas gingivalis in subgingival plaque was more abundant in women with preterm birth. Given the results from meta-analyses were inconclusive since limited studies reported outcomes on the same measuring scale, more future studies are needed to elucidate the association between pregnancy oral microbiota and maternal oral/systemic health and birth outcomes.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34413437/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Unfavourable beliefs about oral health and safety of dental care during pregnancy: a systematic review.",
+      "authors": [
+        "Kamalabadi Yasaman Mohammadi",
+        "Campbell M Karen",
+        "Zitoun Natalie M",
+        "Jessani Abbas"
+      ],
+      "year": 2023,
+      "journal": "BMC oral health",
+      "doi": "10.1186/s12903-023-03439-4",
+      "pmid": "37840149",
+      "abstract": "BACKGROUND: Oral conditions such as gingivitis and periodontitis are correlated with adverse pregnancy outcomes such as preeclampsia, preterm birth and low birth weight. Oral health-related unfavourable beliefs can have negative influences on oral health behaviours including hesitation in accessing preventative dental treatments and dental service utilization. The objective of this systematic review was to examine unfavourable beliefs that expectant or new mothers frequently hold about oral health and the safety of dental care during pregnancy. METHODS: An electronic database search on PubMed, Scopus, CINAHL, and MEDLINE (Ovid) followed by forward and backward citation tracing of the included studies was conducted. All English primary studies regardless of the year of publication were independently screened by two reviewers to identify studies addressing unfavourable beliefs about oral health and dental care during pregnancy. The CLARITY tool was applied to assess the risk of bias in the included studies. RESULTS: Out of a total of 5766 records, 39 quantitative and six qualitative studies met the inclusion criteria. The commonly held unfavourable beliefs were regarding the safety of dental services utilization and dental treatment procedures, the adverse impacts of pregnancy on oral health, and oral hygiene necessity during pregnancy. The most discussed unfavourable beliefs included \"pregnant women lose their teeth because of pregnancy\" (n = 18), \"dental treatments are not safe and harm the fetus\" (n = 17), and \"the developing baby absorbs calcium from the mother's teeth\" (n = 14). CONCLUSIONS: Unfavourable beliefs about oral health and dental care utilization are common among pregnant women and new mothers. The literature suggests that a low level of oral health knowledge and seeking information from social networks can contribute to such beliefs. This has implications for health promotion.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37840149/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Periodontitis and Preeclampsia in Pregnancy: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Le Quynh-Anh",
+        "Akhter Rahena",
+        "Coulton Kimberly Mathieu",
+        "Vo Ngoc Truong Nhu",
+        "Duong Le Thi Yen",
+        "Nong Hoang Viet",
+        "Yaacoub Albert",
+        "Condous George",
+        "Eberhard Joerg",
+        "Nanan Ralph"
+      ],
+      "year": 2022,
+      "journal": "Maternal and child health journal",
+      "doi": "10.1007/s10995-022-03556-6",
+      "pmid": "36209308",
+      "abstract": "OBJECTIVES: A conflicting body of evidence suggests localized periodontal inflammation spreads systemically during pregnancy inducing adverse pregnancy outcomes. This systematic review and meta-analysis aim to specifically evaluate the relationship between periodontitis and preeclampsia. METHODS: Electronic searches were carried out in Medline, Pubmed, Embase, Lilacs, Cochrane Controlled Clinical Trial Register, CINAHL, ClinicalTrials.gov, and Google Scholar with no restrictions on the year of publication. We identified and selected observational case-control and cohort studies that analyzed the association between periodontal disease and preeclampsia. This meta-analysis was conducted following the PRISMA checklist and MOOSE checklist. Pooled odds ratios, mean difference, and 95% confidence intervals were calculated using the random effect model. Heterogeneity was tested with Cochran's Q statistic. RESULTS: Thirty studies including six cohort- and twenty-four case-control studies were selected. Periodontitis was significantly associated with increased risk for preeclampsia (OR 3.18, 95% CI 2.26 - 4.48, p < 0.00001), especially in a subgroup analysis including cohort studies (OR 4.19, 95% CI 2.23 - 7.87, p < 0.00001). The association was even stronger in a subgroup analysis with lower-middle-income countries (OR 6.70, 95% CI 2.61 - 17.19, p < 0.0001). CONCLUSIONS: Periodontitis appears as a significant risk factor for preeclampsia, which might be even more pronounced in lower-middle-income countries. Future studies to investigate if maternal amelioration of periodontitis prevents preeclampsia might be warranted.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36209308/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Relationship between periodontal disease and preterm birth. A systematic review and meta-analysis.",
+      "authors": [
+        "Montoya-Carralero J-M",
+        "Ávila-Villasmil R",
+        "Sánchez-Pérez A",
+        "Jornet-García A",
+        "Terrer-Alonso E",
+        "Moya-Villaescusa M-J"
+      ],
+      "year": 2024,
+      "journal": "Medicina oral, patologia oral y cirugia bucal",
+      "doi": "10.4317/medoral.26830",
+      "pmid": "39396142",
+      "abstract": "BACKGROUND: Periodontal disease (PD) is a chronic inflammatory disease of multifactorial origin that affects the supporting tissues of the tooth. According to WHO in 2022, it affects around 19% of the adult population worldwide. Its risk factors include the presence of periodontopathogenic bacteria in biofilm and the susceptibility of the host's immune system, among others. Preterm birth is defined as birth occurring before 37 weeks of gestational age. It also has a multifactorial origin and it's associated with risk factors such as intrauterine and extrauterine infections. There is a possibility that periodontal disease in pregnant women increases the risk of preterm birth through hematogenous pathways or the presence and intervention of inflammatory mediators. MATERIAL AND METHODS: Through a systematic review of existing scientific articles from 2014 to 2024, five randomized clinical trials were selected, including a total of 1984 pregnant patients diagnosed with periodontal disease. Half of these patients received non-surgical treatment, while the other half did not, aiming to evaluate a possible association between periodontal disease and/or its treatment and the occurrence of preterm birth. The risk of bias was assessed using the Cochrane \"RoB 2\" tool, and finally, a meta-analysis was conducted to compare the results obtained in the selected studies. RESULTS: Four articles showed a trend favoring non-surgical periodontal treatment as a preventive measure for preterm birth. These articles accounted for 92.2% of the total weight, while the remaining 7.85% corresponded to the single article that did not favor the treatment. However, none of the articles showed statistically significant results. CONCLUSIONS: There is no demonstrated association between periodontal disease in pregnant women and the incidence of preterm birth. On the other hand, there is a slightly favorable trend towards non-surgical periodontal treatment during pregnancy as a measure to reduce the incidence of preterm birth, but it's not statistically significant. To obtain a definitive answer, more randomized clinical trials following similar study and design parameters are needed.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39396142/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "The association between apical periodontitis and adverse pregnancy outcomes: a systematic review.",
+      "authors": [
+        "Jakovljevic A",
+        "Sljivancanin Jakovljevic T",
+        "Duncan H F",
+        "Nagendrababu V",
+        "Jacimovic J",
+        "Aminoshariae A",
+        "Milasin J",
+        "Dummer P M H"
+      ],
+      "year": 2021,
+      "journal": "International endodontic journal",
+      "doi": "10.1111/iej.13538",
+      "pmid": "33908039",
+      "abstract": "BACKGROUND: The association between adverse pregnancy outcomes (APOs) and maternal apical periodontitis remains unclear as it has not been examined rigorously or reviewed systematically. OBJECTIVE: To systematically review and critically evaluate the available evidence on the association of maternal apical periodontitis with several APOs. METHODS: A literature search was conducted using the following electronic databases: Clarivate Analytics' Web of Science, Scopus, PubMed, and Cochrane Central Register of Controlled Trials (CENTRAL), from inception to 25 February 2021, with no language restrictions. Observational studies including longitudinal clinical trials, cohort, case-control and cross-sectional studies of prospective and retrospective design were included. Articles with duplicate or overlapping results, abstract-only papers, case reports, case series, animal studies and reviews were excluded. Two independent reviewers were involved in study selection, data extraction and appraising the included studies; disagreements were resolved by a third reviewer. The Newcastle-Ottawa Scale (NOS) and the adapted form of the NOS were used to assess the quality for case-control and cross-sectional studies, respectively. RESULTS: Two case-control and one cross-sectional study were included in the current review. The included studies were published between 2015 and 2017, with a total of 1187 participating individuals with an approximate age range of 15 to 40 years. As the included studies reported different outcomes, the heterogeneity of data prevented a meta-analysis being undertaken. The overall quality of the evidence was 'Fair' for two out of three included studies, while one study was categorized as 'Good'. DISCUSSION: Two out of three included primary studies had a substantial number of methodological inconsistencies and flaws, and therefore caution should be exercised in interpreting the results of this systematic review because several important covariates were not considered in the original investigations. CONCLUSION: Based on a limited volume and 'Fair' and 'Good' quality of evidence, a positive association between maternal apical periodontitis and APOs was observed. However, more 'Good' quality clinical studies are needed to confirm the results of the current review. FUNDING: None REGISTRATION: PROSPERO database (CRD42-2191987).",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33908039/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Maternal periodontitis and preterm birth: Systematic review and meta-analysis.",
+      "authors": [
+        "Manrique-Corredor Edwar J",
+        "Orozco-Beltran Domingo",
+        "Lopez-Pineda Adriana",
+        "Quesada Jose A",
+        "Gil-Guillen Vicente F",
+        "Carratala-Munuera Concepcion"
+      ],
+      "year": 2019,
+      "journal": "Community dentistry and oral epidemiology",
+      "doi": "10.1111/cdoe.12450",
+      "pmid": "30812054",
+      "abstract": "AIM: To assess the association between periodontitis and preterm birth in women of childbearing age. MATERIALS AND METHODS: This review included analytical case-control studies and prospective cohort studies evaluating the association between maternal periodontitis and preterm birth. Of the 3104 screened articles, 31 met the inclusion criteria for the review, and 20 met the quality criteria. The selected studies included a total of 10 215 women. RESULTS: Twenty articles contributed to the meta-analysis; 16 used a case-control design, and 4 were prospective cohort studies. The study heterogeneity was low (Q = 24.2464; P = 0.1869; I CONCLUSION: Pregnant mothers with periodontitis double the risk of preterm birth. There is a lack of international consensus for diagnosing maternal periodontitis.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30812054/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Periodontal Disease and Adverse Neonatal Outcomes: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Zhang Youzhen",
+        "Feng Wanbing",
+        "Li Jingyu",
+        "Cui Linlin",
+        "Chen Zi-Jiang"
+      ],
+      "year": 2022,
+      "journal": "Frontiers in pediatrics",
+      "doi": "10.3389/fped.2022.799740",
+      "pmid": "35601423",
+      "abstract": "OBJECTIVE: The aim of this study was to evaluate the association between maternal periodontal disease (PD) and three main adverse neonatal outcomes, namely, preterm birth (PTB), low birth weight (LBW), and small for gestational age (SGA). METHODS: The Ovid Medline, Web of Science, Embase, and Cochrane Library were searched up to 6 December 2020 for relevant observational studies on an association between PD and risk of PTB, LBW, and SGA. Eligibility criteria included observational studies which compared the prevalence of PTB and/or LBW and/or SGA between PD women and periodontal health controls. The exclusion criteria included incomplete data, animal research, and mixing up various pregnancy outcomes, such as \"preterm low birth weight\" and languages other than Chinese and English. Data were extracted and analyzed independently by two authors. The meta-analysis was performed using Stata Statistical Software, Release 12 (StataCorp LP, College Station, TX, USA). Odds ratio (OR), confidence intervals (CIs), and heterogeneity ( RESULTS: Fourteen case-control studies and 10 prospective cohort studies, involving 15,278 participants, were identified. Based on fixed effect meta-analysis, PTB showed a significant association with PD (OR = 1.57, 95% CI: 1.39-1.77,  CONCLUSION: Our findings indicate that pregnant women with PD have a significantly higher risk of PTB and LBW. However, large prospective, blinded cohort studies with standardized diagnostic criteria of PD and adequate control of confounding factors are still required to confirm the relationship between PD and adverse neonatal outcomes.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35601423/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Effects of different periodontal interventions on the risk of adverse pregnancy outcomes in pregnant women: a systematic review and network meta-analysis of randomized controlled trials.",
+      "authors": [
+        "Wu Jianru",
+        "Wu Jingying",
+        "Tang Biyu",
+        "Zhang Ze",
+        "Wei Fenfang",
+        "Yu Dingbiao",
+        "Li Limin",
+        "Zhao Yue",
+        "Wang Bei",
+        "Wu Wenyu",
+        "Hong Xiang"
+      ],
+      "year": 2024,
+      "journal": "Frontiers in public health",
+      "doi": "10.3389/fpubh.2024.1373691",
+      "pmid": "39371200",
+      "abstract": "BACKGROUND: Periodontal disease is widespread among pregnant women, and it is possible that taking action to improve oral health conditions can make improvements in adverse pregnancy outcomes. Herein, we summarize the recent evidence using a network meta-analysis to assess the effects of different periodontal treatment intervention strategies on the risk of adverse pregnancy outcomes in pregnant women. MATERIALS AND METHODS: Randomized controlled trials were retrieved from PubMed, Web of Science, Embase, and Cochrane Library databases. After literature screening, data extraction, and quality evaluation of the included literature were performed, the R studio 4.2.2 \"netmeta\" package was used for the network meta-analysis. RESULTS: A total of 20 studies were included, and 5 adverse pregnancy outcomes (preterm birth, low birth weight, preterm birth and/or low birth weight infants, small for gestational age, and pre-eclampsia) were considered to examine the effects of different periodontal treatment interventions strategies on the risk of the abovementioned outcome indicators. The results of the network meta-analysis demonstrated that the three periodontal treatment intervention strategies of sub- and/or supra-gingival scaling and root planing + chlorhexidine rinsing (SRP + CR), sub- and/or supra-gingival scaling and root planing+chlorhexidine rinsing + tooth polishing and plaque control (SRP + CR + TP), and sub- and/or supra-gingival scaling and root planing +sonic toothbrush + tooth polishing and plaque control (SRP + ST + TP) reduced the risk of preterm birth [odds ratio (OR) = 0.29, 95% confidence interval (CI) (0.10-0.88), OR = 0.25, 95CI% (0.10-0.63), OR = 0.28, 95CI% (0.11-0.69), respectively]. In addition, two periodontal treatment intervention strategies, SRP + CR and SRP + CR + TP, were effective methods in terms of the risk of preterm birth and/or low birth weight [OR = 0.18, 95CI% (0.06-0.52), OR = 0.31, 95CI% (0.12-0.79)]. CONCLUSION: The available evidence suggests that the risk of preterm birth and preterm birth and/or low birth weight can be reduced with certain periodontal treatment intervention strategies. Future studies should focus on optimizing intervention strategies and the optimal timing for different periods of pregnancy, in order to provide a reference for pregnant women's healthcare. SYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/display_record.php?RecordID=407901, CRD42023407901.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39371200/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Role of periodontal treatment in pregnancy gingivitis and adverse outcomes: a systematic review and meta-analysis.",
+      "authors": [
+        "Xu HaiHong",
+        "Cai Minqiu",
+        "Xu Hongmiao",
+        "Shen Xuan-Jiang",
+        "Liu Jia"
+      ],
+      "year": 2025,
+      "journal": "The journal of maternal-fetal & neonatal medicine : the official journal of the European Association of Perinatal Medicine, the Federation of Asia and Oceania Perinatal Societies, the International Society of Perinatal Obstetricians",
+      "doi": "10.1080/14767058.2024.2416595",
+      "pmid": "39721768",
+      "abstract": "BACKGROUND: Pregnancy gingivitis is a common oral health issue that affects both maternal and fetal health. This study aims to evaluate the effectiveness of periodontal treatment in preventing pregnancy gingivitis, preterm birth, and low birth weight through a systematic review and meta-analysis of randomized controlled trials (RCTs). METHODS: A systematic review and meta-analysis were conducted following PRISMA guidelines. A comprehensive literature search was performed across CINAHL, Scopus, Cochrane, and PubMed/Medline databases from 2000 to the present. Study selection and data extraction were independently carried out by two reviewers. Statistical analyses, including heterogeneity tests, sensitivity analysis, and publication bias assessment, were conducted using RevMan 5.4 and R software. RESULTS: A total of 13 studies were included. The meta-analysis indicated that periodontal treatment might have a potential effect on preventing pregnancy gingivitis, but this was not statistically significant (OR = 0.85, 95% CI [0.68, 1.06], I CONCLUSION: While lower-quality studies suggest that periodontal treatment may positively impact pregnancy gingivitis, preterm birth, and low birth weight, these effects were not supported by higher-quality evidence. Further well-designed RCTs are needed to confirm these findings and ensure their reliability. Periodontal treatment could potentially be considered as part of prenatal care to improve maternal oral health and pregnancy outcomes.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39721768/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Effect of dental treatments on reduction of preterm birth: a systematic review and meta-analysis.",
+      "authors": [
+        "Thomas Camille",
+        "Ahmed Shakil",
+        "Berghella Vincenzo",
+        "Brignardello-Petersen Romina",
+        "El-Rabbany Mohamed",
+        "Devion Catherine",
+        "Ronzoni Stefania"
+      ],
+      "year": 2026,
+      "journal": "American journal of obstetrics & gynecology MFM",
+      "doi": "10.1016/j.ajogmf.2025.101884",
+      "pmid": "41421601",
+      "abstract": "OBJECTIVE: Periodontal disease is associated with increased risk of preterm birth. Effective management during pregnancy may reduce preterm birth, though clinical trial evidence has been inconsistent. This study aimed to assess whether treating dental disease during pregnancy reduces preterm birth. DATA SOURCES: A systematic search was performed of EMBASE, MEDLINE, PubMed, Cochrane Library, and trial registries up to December 2023 and re-run in January 2025. STUDY ELIGIBILITY CRITERIA: Randomized controlled trials (RCTs) enrolling pregnant persons with any dental disease randomized to receive dental treatment vs no treatment were included. No language restriction was applied. STUDY APPRAISAL AND SYNTHESIS METHODS: Data were independently extracted by two researchers and assessed for risk of bias using the Cochrane Risk of Bias tool, RoB 2. A random effect meta-analysis was performed with the Mantel-Haenszel variance estimate. Certainty of evidence (COE) was assessed using GRADE. The main outcome was preterm birth (<37 weeks' gestation). Data on low birth weight were also collected. RESULTS: Fourteen RCTs (8316 participants) were included. Interventions included scaling and root planing (SRP) alone (8 RCTs), SRP with chlorhexidine mouthwash (4 RCTs), and cetylpyridinium chloride mouthwash (2 RCTs). Meta-analysis and GRADE assessment found moderate-certainty evidence suggesting that periodontal treatment results in a 15% relative risk reduction of preterm birth (risk ratio [RR] 0.85; 95% CI 0.71-1.02) compared to minimal periodontal treatment or no treatment (absolute difference 20 fewer preterm births per 1000 individuals; 95% CI from 39 fewer to 3 more). It is uncertain whether the addition of chlorhexidine mouthwash to SRP reduces preterm birth rates (RR 0.49, 95% CI 0.23-1.04, very low COE). CONCLUSION: This meta-analysis, the largest and most up-to-date on this topic, suggests that treating periodontal disease during pregnancy may reduce the risk of preterm birth. However, limitations, such as the risk of bias and variations in populations and treatment, highlight the need for well-powered RCTs with low risk of bias to evaluate the most effective dental treatment strategies. Future studies should focus on established dental disease severity and explore different dental treatment strategies, including antimicrobial mouthwash. El resumen está disponible en Español al final del artículo.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41421601/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Dental caries and preterm birth: a systematic review and meta-analysis.",
+      "authors": [
+        "Wagle Madhu",
+        "D'Antonio Francesco",
+        "Reierth Eirik",
+        "Basnet Purusotam",
+        "Trovik Tordis A",
+        "Orsini Giovanna",
+        "Manzoli Lamberto",
+        "Acharya Ganesh"
+      ],
+      "year": 2018,
+      "journal": "BMJ open",
+      "doi": "10.1136/bmjopen-2017-018556",
+      "pmid": "29500202",
+      "abstract": "OBJECTIVES: The primary objective of this systematic review was to evaluate the association between dental caries and preterm birth (PTB). The secondary objective was ascertaining the difference between women with dental caries who experienced PTB and those who did not with regard to decayed, missing and filled teeth (DMFT), and decayed, missing and filled surfaces (DMFS) indices. METHODS: MEDLINE, Embase, CINAHL and Cochrane databases were searched initially in November 2015 and repeated in December 2016. We included observational cohort and case-control studies. Only studies reporting the risk of PTB in women affected compared with those not affected by dental caries in pregnancy were included. Random-effect meta-analyses were used to compute the summary OR of PTB among women with caries versus women without caries, and the mean difference in either DMFT or DMFS indices between women experiencing PTB and those without PTB. RESULTS: Nine observational studies (4826 pregnancies) were included. Women affected by dental caries during pregnancy did not show a significantly higher risk of PTB (OR: 1.16, 95% CI 0.90 to 1.49, P=0.25, I CONCLUSION: Dental caries does not appear to be a substantial risk factor for PTB. TRIAL REGISTRATION NUMBER: NCT01675180; Pre-results.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29500202/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "The association between periodontal disease and adverse pregnancy outcomes: a bibliometric analysis from 2000 to 2023.",
+      "authors": [
+        "Zhao Miaomiao",
+        "Chang Haoxiang",
+        "Yue Yuxu",
+        "Zeng Xinyue",
+        "Wu Shaobang",
+        "Ren Xiuyun"
+      ],
+      "year": 2025,
+      "journal": "Frontiers in medicine",
+      "doi": "10.3389/fmed.2025.1526406",
+      "pmid": "39906598",
+      "abstract": "BACKGROUND: Periodontal disease (PD) refers to a chronic inflammatory disorder affecting the supporting tissues of the teeth triggered by bacterial infection and is recognized to promote systemic inflammation, leading to dysfunction in specific organs. Adverse pregnancy outcomes (APOs), including preterm birth, small for gestational age infants, gestational diabetes and preeclampsia, are linked to pregnancy complications. Recently, the correlation between periodontal disease and adverse pregnancy outcomes has garnered global attention. However, bibliometric studies in this area remain limited. This study aimed to visualize knowledge framework and research trends concerning the relationship between periodontal disease and adverse pregnancy outcomes from 2000 to 2023 through bibliometric approaches. METHODS: On September 22, 2024, articles and reviews on the connection between periodontal disease and adverse pregnancy outcomes were retrieved from the Web of Science Core Collection (WOSCC). CiteSpace [6.3.R1 (64-bit) Advanced] was used to perform knowledge mapping and bibliometric studies. RESULTS: Over the past 23 years, 932 articles from 73 countries were collected, with the U.S. contributing over one-third (355), followed by Brazil (85) and India (59). The literature in this field has experienced multiple growth phases since 2000, with particularly rapid growth observed after 2019. The University of North Carolina ( CONCLUSIONS: This first bibliometric and visual analysis of periodontal disease and adverse pregnancy outcomes offers a concise overview of the field and suggests future research should focus on risk factors, high-risk populations, oral microbiota, mechanisms, interventions, and international collaboration.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39906598/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Relationship between periodontal disease and preterm low birth weight: systematic review.",
+      "authors": [
+        "Teshome Amare",
+        "Yitayeh Asmare"
+      ],
+      "year": 2016,
+      "journal": "The Pan African medical journal",
+      "doi": "10.11604/pamj.2016.24.215.8727",
+      "pmid": "27800070",
+      "abstract": "INTRODUCTION: Periodontal disease is a neglected bacterial infection that causes destruction of the periodontium in pregnant women. Yet its impact on the occurrence of adverse pregnancy outcomes has not systematically evaluated and there is no clear statement on the relationship between periodontal disease and preterm low birth weight. The objective of this study was to summarize the evidence on the impact of periodontal disease on preterm low birth weight. METHODS: We searched the following data bases from January 2005 to December 2015: CINAHL (cumulative index to nursing and allied health literature), MEDLINE, AMED, EMBASE (excerpta medica database), Cochrane library and Google scholar. Only case-control studies with full text in English were eligible. Critical appraisal of the identified articles was done by two authors independently to provide the possible relevance of the papers for inclusion in the review process. The selected Case control studies were critically appraised with 12 items structured checklist adapted from national institute of health (NIH). Odds ratio (OR) or risk ratios (RR) were extracted from the selected studies. The two reviewers who selected the appropriate studies also extracted the data and evaluated the risk of bias. RESULTS: Of 229 articles, ten studies with a total of 2423 participants with a mean age ranged from 13 to 49 years were met the inclusion criteria. The studies focused on preterm birth, low birth weight and /or preterm low birth weight and periodontitis. Of the selected studies, 9 implied an association between periodontal disease and increased risk of preterm birth, low birth weight and /or preterm low birth weight outcome (ORs ranging from 2.04 to 4.19) and only one study found no evidence of association. CONCLUSION: Periodontal disease may be one of the possible risk factor for preterm low birth weight infant. However, more precise studies with randomized clinical trial with sufficient follow-up period must be done to confirm the association.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27800070/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "The impact of scaling and root planning combined with mouthwash during pregnancy on preterm birth and low birth weight: a systematic review and meta-analysis.",
+      "authors": [
+        "Salama May",
+        "Al-Taiar Abdullah",
+        "McKinney Denise C",
+        "Rahman Estiar",
+        "Merchant Anwar T"
+      ],
+      "year": 2024,
+      "journal": "BMC pregnancy and childbirth",
+      "doi": "10.1186/s12884-024-06905-1",
+      "pmid": "39506741",
+      "abstract": "BACKGROUND: The effect of treating periodontal disease (PD) during pregnancy on adverse birth outcomes, such as preterm birth (PTB) and/or low birth weight (LBW), remains unclear. This is partially due to the fact that Randomized Controlled Trials (RCTs) have used different combinations of treatment approaches to test this hypothesis. In this meta-analysis of RCTs, we assessed the impact of treating PD during pregnancy with scaling and root planning (SRP) and mouthwash use on PTB and LBW. METHODS: A systematic review with meta-analysis was conducted following PRISMA guidelines. A comprehensive search strategy was employed across electronic databases, including PubMed/Medline, Embase, and Google Scholar. Quality assessment was performed using the Cochrane Risk of Bias 2 Tool. Pooled risk ratios (RRs) with 95% confidence intervals (CIs) were calculated using random-effect models. RESULTS: Out of 133 initially identified reports, 9 RCTs involving 3,985 pregnant women met the inclusion criteria. Periodontal treatment with SRP and mouthwash use in pregnancy was associated with a lower risk of PTB and LBW in meta-analysis with random effects models (pooled RR for PTB = 0.44, 95% CI: 0.22-0.88) and (pooled RR for LBW = 0.33, 95% CI: 0.13-0.84). Substantial heterogeneity was observed among studies (I CONCLUSION: SRP with mouthwash use during pregnancy were associated with significantly lower risks of PTB and LBW. Larger, well-conducted RCTs are warranted to address this issue, as existing trials are small and exhibit methodological and statistical heterogeneity.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39506741/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Effect of intra-pregnancy nonsurgical periodontal therapy on inflammatory biomarkers and adverse pregnancy outcomes: a systematic review with meta-analysis.",
+      "authors": [
+        "da Silva Helbert Eustáquio Cardoso",
+        "Stefani Cristine Miron",
+        "de Santos Melo Nilce",
+        "de Almeida de Lima Adriano",
+        "Rösing Cassiano Kuchenbecker",
+        "Porporatti André Luís",
+        "Canto Graziela De Luca"
+      ],
+      "year": 2017,
+      "journal": "Systematic reviews",
+      "doi": "10.1186/s13643-017-0587-3",
+      "pmid": "29017560",
+      "abstract": "BACKGROUND: The aim of this systematic review with meta-analysis was to analyze the effects of intra-pregnancy nonsurgical periodontal therapy on periodontal inflammatory biomarkers and adverse pregnancy outcomes. METHODS: On June 5, 2017, we searched PubMed, Cochrane, SCOPUS, Web of Science, LILACS, ProQuest, Open Grey, and Google Scholar databases. Randomized clinical trials in which pregnant women with chronic periodontitis underwent nonsurgical periodontal therapy, compared with an untreated group, tested for inflammatory biomarkers, and followed till delivery were included. Primary outcomes were preterm birth, low birth weight, and preeclampsia. Meta-analysis was performed with 5.3.5 version of Review Manager software. RESULTS: We found 565 references in the databases, 326 after duplicates removal, 28 met criteria for full text reading, and 4 met eligibility criteria for quantitative and qualitative synthesis. Intra-pregnancy nonsurgical periodontal therapy improved periodontal clinical parameters (periodontal pocket depth, clinical attachment level, and bleeding on probing) and reduced biomarker level from gingival crevicular fluid (GCF), and some from blood serum; however, it did not influence biomarker level from umbilical cord blood. Meta-analysis showed tendency for reduction of the risk of preterm birth before 37 weeks for treated group (risk ratio (RR) = 0.54, 95% CI 0.38-0.77; p = 0.0007; inconsistency indexes (I2) 32%) but did not show any difference for low birth weight occurrence (RR = 0.78, 95%CI 0.50-1.21; p = 0.27; I2 41%). No included study considered preeclampsia as a gestational outcome. CONCLUSIONS: These results demonstrated that the intra-pregnancy nonsurgical periodontal therapy decreased periodontal inflammatory biomarker levels from gingival crevicular fluid and some from serum blood, with no influence on inflammatory biomarker level from cord blood, and it did not consistently reduce adverse gestational adverse outcome occurrence. SYSTEMATIC REVIEW REGISTRATION: PROSPERO CRD42015027750.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29017560/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Treating periodontal disease for preventing adverse birth outcomes in pregnant women.",
+      "authors": [
+        "Iheozor-Ejiofor Zipporah",
+        "Middleton Philippa",
+        "Esposito Marco",
+        "Glenny Anne-Marie"
+      ],
+      "year": 2017,
+      "journal": "The Cochrane database of systematic reviews",
+      "doi": "10.1002/14651858.CD005297.pub3",
+      "pmid": "28605006",
+      "abstract": "BACKGROUND: Periodontal disease has been linked with a number of conditions, such as cardiovascular disease, stroke, diabetes and adverse pregnancy outcomes, all likely through systemic inflammatory pathways. It is common in women of reproductive age and gum conditions tend to worsen during pregnancy. Some evidence from observational studies suggests that periodontal intervention may reduce adverse pregnancy outcomes. There is need for a comprehensive Cochrane review of randomised trials to assess the effect of periodontal treatment on perinatal and maternal health. OBJECTIVES: To assess the effects of treating periodontal disease in pregnant women in order to prevent or reduce perinatal and maternal morbidity and mortality. SEARCH METHODS: Cochrane Oral Health's Information Specialist searched the following databases: Cochrane Oral Health's Trials Register (to 6 October 2016), Cochrane Pregnancy and Childbirth's Trials Register (to 7 October 2016), the Cochrane Central Register of Controlled Trials (CENTRAL; 2016, Issue 9) in the Cochrane Library, MEDLINE Ovid (1946 to 6 October 2016), Embase Ovid (1980 to 6 October 2016), and LILACS BIREME Virtual Health Library (Latin American and Caribbean Health Science Information database; 1982 to 6 October 2016). ClinicalTrials.gov and the World Health Organization International Clinical Trials Registry Platform were searched for ongoing trials on 6 October 2016. We placed no restrictions on the language or date of publication when searching the electronic databases. SELECTION CRITERIA: We included all randomised controlled trials (RCTs) investigating the effects of periodontal treatment in preventing or reducing perinatal and maternal morbidity and mortality. We excluded studies where obstetric outcomes were not reported. DATA COLLECTION AND ANALYSIS: Two review authors independently screened titles and abstracts and extracted data using a prepiloted data extraction form. Missing data were obtained by contacting authors and risk of bias was assessed using Cochrane's 'Risk of bias' tool. Where appropriate, results of comparable trials were pooled and expressed as risk ratios (RR) or mean differences (MD) with 95% confidence intervals (CI) . The random-effects model was used for pooling except where there was an insufficient number of studies. We assessed the quality of the evidence using GRADE. MAIN RESULTS: There were 15 RCTs (n = 7161 participants) meeting our inclusion criteria. All the included studies were at high risk of bias mostly due to lack of blinding and imbalance in baseline characteristics of participants. The studies recruited pregnant women from prenatal care facilities who had periodontitis (14 studies) or gingivitis (1 study).The two main comparisons were: periodontal treatment versus no treatment during pregnancy and periodontal treatment versus alternative periodontal treatment. The head-to-head comparison between periodontal treatments assessed a more intensive treatment versus a less intensive one.Eleven studies compared periodontal treatment with no treatment during pregnancy. The meta-analysis shows no clear difference in preterm birth < 37 weeks (RR 0.87, 95% CI 0.70 to 1.10; 5671 participants; 11 studies; low-quality evidence) between periodontal treatment and no treatment. There is low-quality evidence that periodontal treatment may reduce low birth weight < 2500 g (9.70% with periodontal treatment versus 12.60% without treatment; RR 0.67, 95% CI 0.48 to 0.95; 3470 participants; 7 studies).It is unclear whether periodontal treatment leads to a difference in preterm birth < 35 weeks (RR 1.19, 95% CI 0.81 to 1.76; 2557 participants; 2 studies; ) and < 32 weeks (RR 1.35, 95% CI 0.78 to 2.32; 2755 participants; 3 studies), low birth weight < 1500 g (RR 0.80, 95% CI 0.38 to 1.70; 2550 participants; 2 studies), perinatal mortality (including fetal and neonatal deaths up to the first 28 days after birth) (RR 0.85, 95% CI 0.51 to 1.43; 5320 participants; 7 studies; very low-quality evidence), and pre-eclampsia (RR 1.10, 95% CI 0.74 to 1.62; 2946 participants; 3 studies; very low-quality evidence). There is no evidence of a difference in small for gestational age (RR 0.97, 95% CI 0.81 to 1.16; 3610 participants; 3 studies; low-quality evidence) when periodontal treatment is compared with no treatment.Four studies compared periodontal treatment with alternative periodontal treatment. Data pooling was not possible due to clinical heterogeneity. The outcomes reported were preterm birth < 37 weeks, preterm birth < 35 weeks, birth weight < 2500 g, birth weight < 1500 g and perinatal mortality (very low-quality evidence). It is unclear whether there is a difference in < 37 weeks, preterm birth < 35 weeks, birth weight < 2500 g, birth weight < 1500 g and perinatal mortality when different periodontal treatments are compared because the quality of evidence is very low.Maternal mortality and adverse effects of the intervention did not occur in any of the studies that reported on either of the outcomes. AUTHORS' CONCLUSIONS: It is not clear if periodontal treatment during pregnancy has an impact on preterm birth (low-quality evidence). There is low-quality evidence that periodontal treatment may reduce low birth weight (< 2500 g), however, our confidence in the effect estimate is limited. There is insufficient evidence to determine which periodontal treatment is better in preventing adverse obstetric outcomes. Future research should aim to report periodontal outcomes alongside obstetric outcomes.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28605006/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "The Risk of Preterm Birth in Women With Periodontitis: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Sokos Dimitris",
+        "Slot Dagmar Else",
+        "Dogan Berna",
+        "Bizzarro Sergio"
+      ],
+      "year": 2026,
+      "journal": "International journal of dental hygiene",
+      "doi": "10.1111/idh.70001",
+      "pmid": "41039851",
+      "abstract": "AIM: Previous studies have explored the association between periodontitis and preterm birth (PTB), with conflicting results primarily due to variability in methodology, statistical analyses and the case definitions of both conditions. This study aimed to synthesise critically the available scientific evidence of observational studies that evaluate the risk of PTB in pregnant women with or without periodontitis. MATERIAL AND METHODS: MEDLINE-PubMed and Cochrane databases were searched from their inception through June 2025 to identify eligible studies evaluating the incidence of PTB in women with periodontitis compared to those without. Inclusion required that periodontitis be defined through full-mouth clinical examination, assessing probing pocket depth in combination with clinical attachment loss and/or radiographic alveolar bone loss. The risk of bias was assessed. Descriptive analysis, and when feasible, meta-analysis (MA) and trial sequential analysis (TSA) were performed. Sub-analyses were conducted based on the risk of bias analysis, study design, geographical area, periodontitis case definition, smoking, health or country social economic status, history of urinary tract infections and the number of evaluated teeth. The total body of evidence was graded. RESULTS: A total of 723 unique papers were identified, and 11 eligible studies were included. The descriptive analysis showed that seven of the eleven studies present a significant association between PTB and periodontitis. Confounding variables on personal, medical and environmental aspects lowered the risk. The crude overall MA based on 11 studies resulted in a small effect, odds ratio (OR: 2.38 [95% CI: 1.78; 3.18], p < 0.00001). The TSA showed that the required number of events was reached, and the type I error is ruled out. CONCLUSION: There is moderate certainty that pregnant women with periodontitis compared to pregnant women without periodontitis have a small risk of PTB. TRIAL REGISTRATION: PROSPERO number: CRD42022327501.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41039851/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Effect of per Capita Income on the Relationship between Periodontal Disease during Pregnancy and the Risk of Preterm Birth and Low Birth Weight Newborn. Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Moliner-Sánchez Carmen Alba",
+        "Iranzo-Cortés José Enrique",
+        "Almerich-Silla José Manuel",
+        "Bellot-Arcís Carlos",
+        "Ortolá-Siscar José Carmelo",
+        "Montiel-Company José María",
+        "Almerich-Torres Teresa"
+      ],
+      "year": 2020,
+      "journal": "International journal of environmental research and public health",
+      "doi": "10.3390/ijerph17218015",
+      "pmid": "33143275",
+      "abstract": "This work analyzed the available evidence in the scientific literature about the risk of preterm birth and/or giving birth to low birth weight newborns in pregnant women with periodontal disease. A systematic search was carried out in three databases for observational cohort studies that related periodontal disease in pregnant women with the risk of preterm delivery and/or low birth weight, and that gave their results in relative risk (RR) values. Eleven articles were found, meeting the inclusion criteria. Statistically significant values were obtained regarding the risk of preterm birth in pregnant women with periodontitis (RR = 1.67 (1.17-2.38), 95% confidence interval (CI)), and low birth weight (RR = 2.53 (1.61-3.98) 95% CI). When a meta-regression was carried out to relate these results to the income level of each country, statistically significant results were also obtained; on the one hand, for preterm birth, a RR = 1.8 (1.43-2.27) 95% CI was obtained and, on the other hand, for low birth weight, RR = 2.9 (1.98-4.26) 95% CI. A statistically significant association of periodontitis, and the two childbirth complications studied was found, when studying the association between these results and the country's per capita income level. However, more studies and clinical trials are needed in this regard to confirm the conclusions obtained.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33143275/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Effect of periodontal treatment in pregnancy on perinatal outcomes: a systematic review and meta-analysis.",
+      "authors": [
+        "Bi Wei Guang",
+        "Emami Elham",
+        "Luo Zhong-Cheng",
+        "Santamaria Christina",
+        "Wei Shu Qin"
+      ],
+      "year": 2021,
+      "journal": "The journal of maternal-fetal & neonatal medicine : the official journal of the European Association of Perinatal Medicine, the Federation of Asia and Oceania Perinatal Societies, the International Society of Perinatal Obstetricians",
+      "doi": "10.1080/14767058.2019.1678142",
+      "pmid": "31630597",
+      "abstract": "OBJECTIVE: To assess the effect of periodontal treatment during pregnancy on maternal, fetal and neonatal outcomes. METHODS: This is a systematic review and meta-analysis of randomized controlled trials that evaluated the effect of treatment of periodontal diseases on pregnancy outcomes. Primary outcome was perinatal mortality. Secondary outcomes were maternal and neonatal morbidity. Outcomes were pooled using fix-effect or random effects models and presented as risk ratio (RR), or mean difference (MD), and 95% confidence interval (CI). RESULTS: Twenty randomized controlled trials involving 8171 participants were included in this study. Periodontal treatment during pregnancy was associated with significantly decreased risk of perinatal mortality [ CONCLUSION: Periodontal treatment during pregnancy reduces the risks of perinatal mortality and preterm birth, and improves birth weight.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31630597/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Interventions to Prevent and Manage Infections in Pregnancy.",
+      "authors": [
+        "Yasin Rahima",
+        "Jiang Li",
+        "Das Jai K",
+        "Bhutta Zulfiqar A"
+      ],
+      "year": 2025,
+      "journal": "Neonatology",
+      "doi": "10.1159/000543690",
+      "pmid": "39874953",
+      "abstract": "BACKGROUND: Care interventions aimed at preventing and treating maternal infections during the gestational period are of paramount importance. Timely immunizations, screening strategies, and management of maternal infections reduce the risk of complications for the developing fetus and play a pivotal role in improving neonatal outcomes. SUMMARY: We aim to summarize evidence for a total of thirteen interventions, pertaining to the prevention and treatment of maternal infections during the antenatal period, from Every Newborn Series published in The Lancet 2014. We identified the most recent systematic reviews, extracted data from each review, and conducted a sub-group meta-analysis for low-income countries and lower-middle-income countries (LMICs) for outcomes relevant to neonatal health. Findings from our papers indicate limited evidence from LMICs, highlighting the pressing need for coordinated efforts to close this gap and strengthen the body of inclusive evidence on prevention and treatment of maternal infections during pregnancy. KEY MESSAGES: Evidence from LMICs suggests that influenza virus vaccination had no effect on stillbirth, preterm birth, small for gestational age, or low birthweight (LBW). Insecticide-treated bed nets in pregnancy reduced the risk of fetal loss and improved the babies' birthweight. Changing a two-dose intermittent preventive treatment (IPTp) regimen to more frequent IPTp dosing decreased the risk of LBW and significantly improved babies' birthweight. Addition of antibacterial antibiotic to the IPTp regimen significantly reduced the risk of LBW. Antibiotic treatments for syphilis and chlamydia had a significant effect on LBW. Treatment of documented periodontal disease during pregnancy reduced the risk of LBW. BACKGROUND: Care interventions aimed at preventing and treating maternal infections during the gestational period are of paramount importance. Timely immunizations, screening strategies, and management of maternal infections reduce the risk of complications for the developing fetus and play a pivotal role in improving neonatal outcomes. SUMMARY: We aim to summarize evidence for a total of thirteen interventions, pertaining to the prevention and treatment of maternal infections during the antenatal period, from Every Newborn Series published in The Lancet 2014. We identified the most recent systematic reviews, extracted data from each review, and conducted a sub-group meta-analysis for low-income countries and lower-middle-income countries (LMICs) for outcomes relevant to neonatal health. Findings from our papers indicate limited evidence from LMICs, highlighting the pressing need for coordinated efforts to close this gap and strengthen the body of inclusive evidence on prevention and treatment of maternal infections during pregnancy. KEY MESSAGES: Evidence from LMICs suggests that influenza virus vaccination had no effect on stillbirth, preterm birth, small for gestational age, or low birthweight (LBW). Insecticide-treated bed nets in pregnancy reduced the risk of fetal loss and improved the babies' birthweight. Changing a two-dose intermittent preventive treatment (IPTp) regimen to more frequent IPTp dosing decreased the risk of LBW and significantly improved babies' birthweight. Addition of antibacterial antibiotic to the IPTp regimen significantly reduced the risk of LBW. Antibiotic treatments for syphilis and chlamydia had a significant effect on LBW. Treatment of documented periodontal disease during pregnancy reduced the risk of LBW.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39874953/",
+      "key_findings": "",
+      "summary_ja": ""
+    }
+  ]
+}

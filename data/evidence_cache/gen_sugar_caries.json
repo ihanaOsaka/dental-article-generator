@@ -1,0 +1,543 @@
+{
+  "topic_id": "gen_sugar_caries",
+  "evidences": [
+    {
+      "title": "WHO guideline: use of fluorides for caries prevention",
+      "authors": [
+        "World Health Organization"
+      ],
+      "year": 2023,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "authority",
+      "source_type": "WHO",
+      "url": "https://www.who.int/publications/i/item/9789240096882",
+      "key_findings": "WHO recommends fluoride toothpaste (1000-1500 ppm) for all ages. For children under 6, use a small amount (pea-sized or rice-grain).",
+      "summary_ja": "WHOは全年齢でフッ素配合歯磨き粉（1000-1500ppm）を推奨。6歳未満は少量（豆粒大または米粒大）を使用。"
+    },
+    {
+      "title": "Sugars and dental caries (WHO Technical Information Note)",
+      "authors": [
+        "World Health Organization"
+      ],
+      "year": 2017,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "authority",
+      "source_type": "WHO",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/sugars-and-dental-caries",
+      "key_findings": "Free sugars are the primary cause of dental caries. WHO recommends limiting free sugar intake to less than 10% of total energy.",
+      "summary_ja": "遊離糖類がむし歯の主要原因。WHOは遊離糖類の摂取を総エネルギーの10%未満に抑えることを推奨。"
+    },
+    {
+      "title": "Ending childhood dental caries: WHO implementation manual",
+      "authors": [
+        "World Health Organization"
+      ],
+      "year": 2019,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "authority",
+      "source_type": "WHO",
+      "url": "https://www.who.int/publications/i/item/ending-childhood-dental-caries-who-implementation-manual",
+      "key_findings": "Comprehensive approach to childhood caries prevention including fluoride use, sugar reduction, and regular dental visits.",
+      "summary_ja": "小児むし歯予防の包括的アプローチ：フッ素使用、糖質制限、定期歯科受診を推奨。"
+    },
+    {
+      "title": "ADA Clinical Practice Guideline: Topical Fluoride for Caries Prevention",
+      "authors": [
+        "American Dental Association"
+      ],
+      "year": 2024,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "guideline",
+      "source_type": "ADA",
+      "url": "https://www.ada.org/resources/research/science-and-research-institute/evidence-based-dental-research/fluoride-topical-and-systemic-supplements",
+      "key_findings": "Professional fluoride varnish application every 3-6 months is recommended for children at elevated caries risk.",
+      "summary_ja": "むし歯リスクの高い小児には3〜6ヶ月ごとのフッ素バーニッシュ塗布を推奨。"
+    },
+    {
+      "title": "ADA Policy: Use of Pit-and-Fissure Sealants",
+      "authors": [
+        "American Dental Association"
+      ],
+      "year": 2023,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "guideline",
+      "source_type": "ADA",
+      "url": "https://www.ada.org/resources/research/science-and-research-institute/evidence-based-dental-research/dental-sealants",
+      "key_findings": "Dental sealants reduce caries by up to 80% in the first 2 years and continue to be effective for up to 9 years.",
+      "summary_ja": "シーラントは最初の2年間でむし歯を最大80%減少させ、最大9年間効果が持続。"
+    },
+    {
+      "title": "日本人の食事摂取基準（2020年版）- カルシウム",
+      "authors": [
+        "厚生労働省"
+      ],
+      "year": 2020,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "authority",
+      "source_type": "厚生労働省",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/eiyou/syokuji_kijyun.html",
+      "key_findings": "妊婦のカルシウム推奨量は成人女性と同じ（650mg/日）。妊娠中はカルシウム吸収率が上昇するため付加量なし。",
+      "summary_ja": "妊婦のカルシウム推奨量は650mg/日。妊娠中は吸収率が上がるため追加量は不要。"
+    },
+    {
+      "title": "Effect of sugar-sweetened beverages on oral health: a systematic review and meta-analysis.",
+      "authors": [
+        "Valenzuela Maria Josefina",
+        "Waterhouse Beverley",
+        "Aggarwal Vishal R",
+        "Bloor Karen",
+        "Doran Tim"
+      ],
+      "year": 2021,
+      "journal": "European journal of public health",
+      "doi": "10.1093/eurpub/ckaa147",
+      "pmid": "32830237",
+      "abstract": "BACKGROUND: The impact of consumption of sugar-sweetened beverages (SSB) on health outcomes such as obesity have been studied extensively, but oral health has been relatively neglected. This study aims to assess the association between SSB consumption and dental caries and erosion. METHODS: Systematic review of observational studies. Search strategy applied to Medline, Embase, Cochrane Library, SciELO, LILACS, OpenGrey and HMIC. The risk of bias was assessed using the NIH Quality Assessment Tool for Observational Cross-Sectional Studies and evidence certainty using Grading of Recommendation Assessment Development and Evaluation. Relationships between SSB consumption and caries and erosion were estimated using random-effects model meta- and dose-response analyses. RESULTS: A total of 38 cross-sectional studies were included, of which 26 were rated as high quality. Comparing moderate-to-low consumption, there was significantly increased risk of both caries [OR = 1.57, 95% CI: 1.28-1.92; decayed, missing and filled teeth weighted mean differences (DMFT WMD) = 0.82, 95% CI: 0.38-1.26] and erosion (OR = 1.43, 95% CI: 1.01-2.03). Comparing high-to-moderate consumption, there was further increased risk of caries (OR = 1.53, 95% CI: 1.17-1.99; DMFT WMD = 1.16, 95% CI: -0.59-2.91) and erosion (OR = 3.09, 95% CI: 1.37-6.97). A dose-response gradient and high certainty of evidence was observed for caries. CONCLUSIONS: Increasing SSB consumption is associated with increased risk of dental caries and erosion. Studies were cross-sectional, hence temporality could not be established, but the positive dose-response suggests this relationship is likely to be causal. These findings illustrate the potential benefits to oral health of policies that reduce SSB consumption, including sugar taxation.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32830237/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Individual, Family, and Socioeconomic Contributors to Dental Caries in Children from Low- and Middle-Income Countries.",
+      "authors": [
+        "Yousaf Madiha",
+        "Aslam Tahir",
+        "Saeed Sidra",
+        "Sarfraz Azza",
+        "Sarfraz Zouina",
+        "Cherrez-Ojeda Ivan"
+      ],
+      "year": 2022,
+      "journal": "International journal of environmental research and public health",
+      "doi": "10.3390/ijerph19127114",
+      "pmid": "35742362",
+      "abstract": "Introduction: Collective evidence on risk factors for dental caries remains elusive in low- and middle-income countries (LMICs). The objective was to conduct a systematic review and meta-analysis on risk factors for dental caries in deciduous or permanent teeth in LMICs. Methods: Studies were identified electronically through databases, including Cochrane Oral Health Group Trials Register, Cochrane Central Register of Controlled Trials, PubMed/MEDLINE, and CINAHL, using “prevalence, dental caries, child, family, socioeconomic, and LMIC” as the keywords. A total of 11 studies fit the inclusion criteria. Quality assessment of the included studies was performed using the Newcastle-Ottawa Scale (NOS). The MedCalc software and Review Manager 5.4.1 were used. Results: From 11,115 participants, 38.7% (95% CI: 28.4−49.5%) had caries and 49.68% were female. Among those with caries, 69.74% consumed sugary drinks/sweets (95% CI: 47.84−87.73%) and 56.87% (95% CI: 35.39−77.08%) had good brushing habits. Sugary drinks had a two times higher likelihood of leading to caries (OR: 2.04, p < 0.001). Good oral hygiene reduced the risk of caries by 35% (OR: 0.65, p < 0.001). Concerning maternal education, only secondary education reduced the likelihood of caries (OR: 0.96), but primary education incurred 25% higher risks (OR: 1.25, p = 0.03). A 65% reduction was computed when caregivers helped children with tooth brushing (OR: 0.35, p = 0.04). Most families had a low socioeconomic status (SES) (35.9%, 95% CI: 16.73−57.79), which increased the odds of caries by 52% (OR: 1.52, p < 0.001); a high SES had a 3% higher chance of caries. In the entire sample, 44.44% (95% CI: 27.73−61.82%) of individuals had access to dental services or had visited a dental service provider. Conclusion: Our findings demonstrate that high sugar consumption, low maternal education, and low and high socioeconomic status (SES) increased the risk of dental caries in LMICs. Good brushing habits, higher maternal education, help with tooth brushing, and middle SES provided protection against caries across LMIC children. Limiting sugars, improving oral health education, incorporating national fluoride exposure programs, and accounting for sociodemographic limitations are essential for reducing the prevalence of dental caries in these settings.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35742362/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Sugar-Sweetened Beverages and Adverse Human Health Outcomes: An Umbrella Review of Meta-Analyses of Observational Studies.",
+      "authors": [
+        "Lane Melissa M",
+        "Travica Nikolaj",
+        "Gamage Elizabeth",
+        "Marshall Skye",
+        "Trakman Gina L",
+        "Young Claire",
+        "Teasdale Scott B",
+        "Dissanayaka Thusharika",
+        "Dawson Samantha L",
+        "Orr Rebecca",
+        "Jacka Felice N",
+        "O'Neil Adrienne",
+        "Lawrence Mark",
+        "Baker Phillip",
+        "Rebholz Casey M",
+        "Du Shutong",
+        "Marx Wolfgang"
+      ],
+      "year": 2024,
+      "journal": "Annual review of nutrition",
+      "doi": "10.1146/annurev-nutr-062322-020650",
+      "pmid": "39207876",
+      "abstract": "Our aim was to conduct an umbrella review of evidence from meta-analyses of observational studies investigating the link between sugar-sweetened beverage consumption and human health outcomes. Using predefined evidence classification criteria, we evaluated evidence from 47 meta-analyses encompassing 22,055,269 individuals. Overall, 79% of these analyses indicated direct associations between greater sugar-sweetened beverage consumption and higher risks of adverse health outcomes. Convincing evidence (class I) supported direct associations between sugar-sweetened beverage consumption and risks of depression, cardiovascular disease, nephrolithiasis, type 2 diabetes mellitus, and higher uric acid concentrations. Highly suggestive evidence (class II) supported associations with risks of nonalcoholic fatty liver disease and dental caries. Out of the remaining 40 meta-analyses, 29 were graded as suggestive or weak in the strength of evidence (classes III and IV), and 11 showed no evidence (class V). These findings inform and provide support for population-based and public health strategies aimed at reducing sugary drink consumption for improved health.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39207876/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Impact of unhealthy food and beverage consumption on children's risk of dental caries: a systematic review.",
+      "authors": [
+        "Large Jessica F",
+        "Madigan Claire",
+        "Pradeilles Rebecca",
+        "Markey Oonagh",
+        "Boxer Benjamin",
+        "Rousham Emily K"
+      ],
+      "year": 2024,
+      "journal": "Nutrition reviews",
+      "doi": "10.1093/nutrit/nuad147",
+      "pmid": "38086176",
+      "abstract": "CONTEXT: The impact of unhealthy foods and beverages, namely those high in sugar, salt, and saturated or trans fats, has been studied extensively in relation to weight, body composition, and noncommunicable diseases, but less so in relation to the risk of dental caries. Few previous reviews have examined the evidence from all countries globally. OBJECTIVE: A systematic review was conducted to assess the impact of unhealthy food and beverage consumption on the risk of dental caries in children aged ≤10 years, commissioned by the World Health Organization to inform updated complementary feeding recommendations. DATA SOURCES: Systematic searches were conducted in the PubMed, Cochrane, and Embase databases for articles meeting the inclusion criteria dating from January 1971 to March 2022; supplementary searches were undertaken for articles from that period to June 2022. DATA EXTRACTION: Unhealthy foods and beverages were identified using nutrient- and food-based approaches. Risk of bias was assessed using the Risk Of Bias In Non-randomized Studies of Interventions (ROBINS-I). DATA ANALYSIS: A total of 30 023 unique citations were screened, yielding 37 studies for inclusion. Studies were conducted in high-income (n = 23 [62.2%]) or middle-income countries (n = 14 [37.8%]). Evidence synthesis was performed narratively, stratified by age (0 years to <2 years, 2 years to <5 years, and 5 years to ≤10 years) and exposure (unhealthy foods and unhealthy beverages). The heterogeneity of the exposures and comparators across studies was high. Almost all studies (n = 34) reported positive associations between the consumption of sugar-sweetened beverages or foods high in free sugars and dental caries. However, 67.6% of studies were assessed as having serious risk of bias. CONCLUSION: The evidence indicates that the consumption of unhealthy food and beverages in children ≤10 years appears to increase the risk of dental caries. Further longitudinal studies with high-quality dietary assessments, including studies in low-income countries and children aged >5 years at baseline, are recommended in order to build a more robust evidence base for use in the development of policy recommendations. SYSTEMATIC REVIEW REGISTRATION: PROSPERO registration no. CRD42020218109.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38086176/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Interaction of lifestyle, behaviour or systemic diseases with dental caries and periodontal diseases: consensus report of group 2 of the joint EFP/ORCA workshop on the boundaries between caries and periodontal diseases.",
+      "authors": [
+        "Chapple Iain L C",
+        "Bouchard Philippe",
+        "Cagetti Maria Grazia",
+        "Campus Guglielmo",
+        "Carra Maria-Clotilde",
+        "Cocco Fabio",
+        "Nibali Luigi",
+        "Hujoel Philippe",
+        "Laine Marja L",
+        "Lingstrom Peter",
+        "Manton David J",
+        "Montero Eduardo",
+        "Pitts Nigel",
+        "Rangé Hélène",
+        "Schlueter Nadine",
+        "Teughels Wim",
+        "Twetman Svante",
+        "Van Loveren Cor",
+        "Van der Weijden Fridus",
+        "Vieira Alexandre R",
+        "Schulte Andreas G"
+      ],
+      "year": 2017,
+      "journal": "Journal of clinical periodontology",
+      "doi": "10.1111/jcpe.12685",
+      "pmid": "28266114",
+      "abstract": "UNLABELLED: Periodontal diseases and dental caries are the most common diseases of humans and the main cause of tooth loss. Both diseases can lead to nutritional compromise and negative impacts upon self-esteem and quality of life. As complex chronic diseases, they share common risk factors, such as a requirement for a pathogenic plaque biofilm, yet they exhibit distinct pathophysiologies. Multiple exposures contribute to their causal pathways, and susceptibility involves risk factors that are inherited (e.g. genetic variants), and those that are acquired (e.g. socio-economic factors, biofilm load or composition, smoking, carbohydrate intake). Identification of these factors is crucial in the prevention of both diseases as well as in their management. AIM: To systematically appraise the scientific literature to identify potential risk factors for caries and periodontal diseases. METHODS: One systematic review (genetic risk factors), one narrative review (role of diet and nutrition) and reference documentation for modifiable acquired risk factors common to both disease groups, formed the basis of the report. RESULTS & CONCLUSIONS: There is moderately strong evidence for a genetic contribution to periodontal diseases and caries susceptibility, with an attributable risk estimated to be up to 50%. The genetics literature for periodontal disease is more substantial than for caries and genes associated with chronic periodontitis are the vitamin D receptor (VDR), Fc gamma receptor IIA (Fc-γRIIA) and Interleukin 10 (IL10) genes. For caries, genes involved in enamel formation (AMELX, AMBN, ENAM, TUFT, MMP20, and KLK4), salivary characteristics (AQP5), immune regulation and dietary preferences had the largest impact. No common genetic variants were found. Fermentable carbohydrates (sugars and starches) were the most relevant common dietary risk factor for both diseases, but associated mechanisms differed. In caries, the fermentation process leads to acid production and the generation of biofilm components such as Glucans. In periodontitis, glycaemia drives oxidative stress and advanced glycation end-products may also trigger a hyper inflammatory state. Micronutrient deficiencies, such as for vitamin C, vitamin D or vitamin B12, may be related to the onset and progression of both diseases. Functional foods or probiotics could be helpful in caries prevention and periodontal disease management, although evidence is limited and biological mechanisms not fully elucidated. Hyposalivation, rheumatoid arthritis, smoking/tobacco use, undiagnosed or sub-optimally controlled diabetes and obesity are common acquired risk factors for both caries and periodontal diseases.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28266114/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Environmental interventions to reduce the consumption of sugar-sweetened beverages and their effects on health.",
+      "authors": [
+        "von Philipsborn Peter",
+        "Stratil Jan M",
+        "Burns Jacob",
+        "Busert Laura K",
+        "Pfadenhauer Lisa M",
+        "Polus Stephanie",
+        "Holzapfel Christina",
+        "Hauner Hans",
+        "Rehfuess Eva"
+      ],
+      "year": 2019,
+      "journal": "The Cochrane database of systematic reviews",
+      "doi": "10.1002/14651858.CD012292.pub2",
+      "pmid": "31194900",
+      "abstract": "BACKGROUND: Frequent consumption of excess amounts of sugar-sweetened beverages (SSB) is a risk factor for obesity, type 2 diabetes, cardiovascular disease and dental caries. Environmental interventions, i.e. interventions that alter the physical or social environment in which individuals make beverage choices, have been advocated as a means to reduce the consumption of SSB. OBJECTIVES: To assess the effects of environmental interventions (excluding taxation) on the consumption of sugar-sweetened beverages and sugar-sweetened milk, diet-related anthropometric measures and health outcomes, and on any reported unintended consequences or adverse outcomes. SEARCH METHODS: We searched 11 general, specialist and regional databases from inception to 24 January 2018. We also searched trial registers, reference lists and citations, scanned websites of relevant organisations, and contacted study authors. SELECTION CRITERIA: We included studies on interventions implemented at an environmental level, reporting effects on direct or indirect measures of SSB intake, diet-related anthropometric measures and health outcomes, or any reported adverse outcome. We included randomised controlled trials (RCTs), non-randomised controlled trials (NRCTs), controlled before-after (CBA) and interrupted-time-series (ITS) studies, implemented in real-world settings with a combined length of intervention and follow-up of at least 12 weeks and at least 20 individuals in each of the intervention and control groups. We excluded studies in which participants were administered SSB as part of clinical trials, and multicomponent interventions which did not report SSB-specific outcome data. We excluded studies on the taxation of SSB, as these are the subject of a separate Cochrane Review. DATA COLLECTION AND ANALYSIS: Two review authors independently screened studies for inclusion, extracted data and assessed the risks of bias of included studies. We classified interventions according to the NOURISHING framework, and synthesised results narratively and conducted meta-analyses for two outcomes relating to two intervention types. We assessed our confidence in the certainty of effect estimates with the GRADE framework as very low, low, moderate or high, and presented 'Summary of findings' tables. MAIN RESULTS: We identified 14,488 unique records, and assessed 1030 in full text for eligibility. We found 58 studies meeting our inclusion criteria, including 22 RCTs, 3 NRCTs, 14 CBA studies, and 19 ITS studies, with a total of 1,180,096 participants. The median length of follow-up was 10 months. The studies included children, teenagers and adults, and were implemented in a variety of settings, including schools, retailing and food service establishments. We judged most studies to be at high or unclear risk of bias in at least one domain, and most studies used non-randomised designs. The studies examine a broad range of interventions, and we present results for these separately.Labelling interventions (8 studies): We found moderate-certainty evidence that traffic-light labelling is associated with decreasing sales of SSBs, and low-certainty evidence that nutritional rating score labelling is associated with decreasing sales of SSBs. For menu-board calorie labelling reported effects on SSB sales varied.Nutrition standards in public institutions (16 studies): We found low-certainty evidence that reduced availability of SSBs in schools is associated with decreased SSB consumption. We found very low-certainty evidence that improved availability of drinking water in schools and school fruit programmes are associated with decreased SSB consumption. Reported associations between improved availability of drinking water in schools and student body weight varied.Economic tools (7 studies): We found moderate-certainty evidence that price increases on SSBs are associated with decreasing SSB sales. For price discounts on low-calorie beverages reported effects on SSB sales varied.Whole food supply interventions (3 studies): Reported associations between voluntary industry initiatives to improve the whole food supply and SSB sales varied.Retail and food service interventions (7 studies): We found low-certainty evidence that healthier default beverages in children's menus in chain restaurants are associated with decreasing SSB sales, and moderate-certainty evidence that in-store promotion of healthier beverages in supermarkets is associated with decreasing SSB sales. We found very low-certainty evidence that urban planning restrictions on new fast-food restaurants and restrictions on the number of stores selling SSBs in remote communities are associated with decreasing SSB sales. Reported associations between promotion of healthier beverages in vending machines and SSB intake or sales varied.Intersectoral approaches (8 studies): We found moderate-certainty evidence that government food benefit programmes with restrictions on purchasing SSBs are associated with decreased SSB intake. For unrestricted food benefit programmes reported effects varied. We found moderate-certainty evidence that multicomponent community campaigns focused on SSBs are associated with decreasing SSB sales. Reported associations between trade and investment liberalisation and SSB sales varied.Home-based interventions (7 studies): We found moderate-certainty evidence that improved availability of low-calorie beverages in the home environment is associated with decreased SSB intake, and high-certainty evidence that it is associated with decreased body weight among adolescents with overweight or obesity and a high baseline consumption of SSBs.Adverse outcomes reported by studies, which may occur in some circumstances, included negative effects on revenue, compensatory SSB consumption outside school when the availability of SSBs in schools is reduced, reduced milk intake, stakeholder discontent, and increased total energy content of grocery purchases with price discounts on low-calorie beverages, among others. The certainty of evidence on adverse outcomes was low to very low for most outcomes.We analysed interventions targeting sugar-sweetened milk separately, and found low- to moderate-certainty evidence that emoticon labelling and small prizes for the selection of healthier beverages in elementary school cafeterias are associated with decreased consumption of sugar-sweetened milk. We found low-certainty evidence that improved placement of plain milk in school cafeterias is not associated with decreasing sugar-sweetened milk consumption. AUTHORS' CONCLUSIONS: The evidence included in this review indicates that effective, scalable interventions addressing SSB consumption at a population level exist. Implementation should be accompanied by high-quality evaluations using appropriate study designs, with a particular focus on the long-term effects of approaches suitable for large-scale implementation.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31194900/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Atraumatic restorative treatment versus conventional restorative treatment for managing dental caries.",
+      "authors": [
+        "Dorri Mojtaba",
+        "Martinez-Zapata Maria José",
+        "Walsh Tanya",
+        "Marinho Valeria Cc",
+        "Sheiham Deceased Aubrey",
+        "Zaror Carlos"
+      ],
+      "year": 2017,
+      "journal": "The Cochrane database of systematic reviews",
+      "doi": "10.1002/14651858.CD008072.pub2",
+      "pmid": "29284075",
+      "abstract": "BACKGROUND: Dental caries is a sugar-dependent disease that damages tooth structure and, due to loss of mineral components, may eventually lead to cavitation. Dental caries is the most prevalent disease worldwide and is considered the most important burden of oral health. Conventional treatment methods (drill and fill) involve the use of rotary burs under local anaesthesia. The need for an electricity supply, expensive handpieces and highly trained dental health personnel may limit access to dental treatment, especially in underdeveloped regions.To overcome the limitations of conventional restorative treatment, the Atraumatic Restorative Treatment (ART) was developed, mainly for treating caries in children living in under-served areas of the world where resources and facilities such as electricity and trained manpower are limited. ART is a minimally invasive approach which involves removal of decayed tissue using hand instruments alone, usually without use of anaesthesia and electrically driven equipment, and restoration of the dental cavity with an adhesive material (glass ionomer cement (GIC), composite resins, resin-modified glass-ionomer cement (RM-GICs) and compomers). OBJECTIVES: To assess the effects of Atraumatic Restorative Treatment (ART) compared with conventional treatment for managing dental caries lesions in the primary and permanent teeth of children and adults. SEARCH METHODS: Cochrane Oral Health's Information Specialist searched the following databases: Cochrane Oral Health's Trials Register (to 22 February 2017), the Cochrane Central Register of Controlled Trials (CENTRAL) (the Cochrane Library, 2017, Issue 1), MEDLINE Ovid (1946 to 22 February 2017), Embase Ovid (1980 to 22 February 2017), LILACS BIREME Virtual Health Library (Latin American and Caribbean Health Science Information database; 1982 to 22 February 2017) and BBO BIREME Virtual Health Library (Bibliografia Brasileira de Odontologia; 1986 to 22 February 2017). The US National Institutes of Health Trials Registry (ClinicalTrials.gov) and the World Health Organization International Clinical Trials Registry Platform were searched for ongoing trials. No restrictions were placed on the language or date of publication when searching the electronic databases. SELECTION CRITERIA: We included randomised controlled trials (RCTs) with at least six months' follow-up that compared the effects of ART with a conventional restorative approach using the same or different restorative dental materials to treat caries lesions. DATA COLLECTION AND ANALYSIS: Two review authors independently screened search results, extracted data from included studies and assessed the risk of bias in those studies. We used standard methodological procedures expected by Cochrane to evaluate risk of bias and synthesise data. Where pooling was appropriate we conducted meta-analyses using the random-effects model. We assessed the quality of the evidence using GRADE criteria. MAIN RESULTS: We included a total of 15 eligible studies randomising 3760 participants in this review. The age of participants across the studies ranged from 3 to 101 years, with a mean of 25.42 years. 48% of participants were male. All included studies were published between 2002 and 2016. Two of the 15 studies declared that the financial support was from companies that manufacture restorative material. Five studies were individually randomised parallel-group studies; six were cluster-randomised parallel-group studies; and four were randomised studies that used a split-mouth design. Eleven studies evaluated the effects of ART on primary teeth only, and four on permanent teeth. The follow-up period of the included studies ranged from 6 months to 36 months. We judged all studies to be at high risk of bias.For the main comparison of ART compared to conventional treatment using the same material: all but two studies used high-viscosity glass ionomer (H-GIC) as the restorative material; one study used a composite material; and one study used resin-modified glass ionomer cement (RM-GIC)).Compared to conventional treatment using H-GIC, ART may increase the risk of restoration failure in the primary dentition, over a follow-up period from 12 to 24 months (OR 1.60, 95% CI 1.13 to 2.27, five studies; 643 participants analysed; low-quality evidence). Our confidence in this effect estimate is limited due to serious concerns over risk of performance and attrition bias. For this comparison, ART may reduce pain during procedure compared with conventional treatment (MD -0.65, 95% CI -1.38 to 0.07; 40 participants analysed; low-quality evidence)Comparisons of ART to conventional treatment using composite or RM-GIC were downgraded to very low quality due to indirectness, imprecision and high risk of performance and attrition bias. Given the very low quality of the evidence from single studies, we are uncertain about the restoration failure of ART compared with conventional treatment using composite over a 24-month follow-up period (OR 1.11, 95% CI 0.54 to 2.29; one study; 57 participants) and ART using RM-GIC in the permanent teeth of older adults with root caries lesions over a six-month follow-up period (OR 2.71, 95% CI 0.94 to 7.81; one study; 64 participants).No studies reported on adverse events or costs. AUTHORS' CONCLUSIONS: Low-quality evidence suggests that ART using H-GIC may have a higher risk of restoration failure than conventional treatment for caries lesions in primary teeth. The effects of ART using composite and RM-GIC are uncertain due to the very low quality of the evidence and we cannot rely on the findings. Most studies evaluated the effects of ART on the primary dentition.Well-designed RCTs are required that report on restoration failure at clinically meaningful time points, as well as participant-reported outcomes such as pain and discomfort. Due to the potential confounding effects from the use of different dental materials, a robust body of evidence on the effects of ART compared with conventional treatment using the same restoration material is necessary. We identified four ongoing trials that could provide further insights into this area.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29284075/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "A systematic review and meta-analysis of the association between sugar intake and dental caries in Nigeria.",
+      "authors": [
+        "Akinsolu Folahanmi Tomiwa",
+        "Gbaja-Biamila Titilola Abike",
+        "Salako Abideen Olurotimi",
+        "Adewole Ifeoluwa Eunice",
+        "Olagunju Mobolaji Timothy",
+        "Abodunrin Olunike Rebecca",
+        "Ola Oluwabukola Mary",
+        "Abel Chukwuemeka",
+        "Eleje George Uchenna",
+        "Ezechi Oliver Chukwujekwu",
+        "Tantawi Maha El",
+        "Lusher Joanne",
+        "Foláyan Morẹ́nikẹ́ Oluwátóyìn"
+      ],
+      "year": 2024,
+      "journal": "BMC oral health",
+      "doi": "10.1186/s12903-024-05309-z",
+      "pmid": "39709412",
+      "abstract": "BACKGROUND: There is no national data on the association between sugar intake and caries experience in Nigeria. This systematic review and meta-analysis aimed to assess the association between sugar intake and caries experience in Nigeria. METHODS: A search was conducted across the PubMed, Web of Science, Scopus, and Embase databases for articles published between January 2001 and March 2023 on the associations between sugar consumption and caries experience. This systematic review and meta-analysis were registered with PROSPERO (CRD42022372689). Data extracted included details of the study design, sample size, age and gender of study participants, and regions/states in Nigeria where the study was conducted. In addition, the types of sugary foods/beverages consumed, frequency and quantity of sugar intake, and periods of high sugar consumption were extracted. The studies' bias risks were also assessed. RESULTS: The review included 14 cross-sectional studies conducted between 2007 and 2023. Twelve (85.7%) studies were conducted in Southwest Nigeria. Seven (50.0%) had study participants with primary dentition, while eight (57.1%) had study participants with permanent dentition. The odds of caries are 18% higher in the group that consumes sugar compared to the group with low sugar intake (OR = 1.18, 95% CI: 0.87, 1.59). The odds of caries in primary (OR = 1.13, 95% CI: 0.23, 5.44) and permanent (OR = 1.15, 95% CI: 0.88, 1.52) dentition were higher in the group that consumes sugar compared to the group with low sugar intake. There were no statistical associations between sugar consumption and caries experience. Of the 14 included studies, thirteen (92.8%) were classified as \"low risk.\" CONCLUSION: Although a high frequency of sugar intake increased the risk of dental caries, this association did not reach statistical significance in Nigeria's primary and permanent dentitions. Future studies should include longitudinal studies and studies that assess differences in the measures for sugar consumption and its association with the risk of caries.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39709412/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Effect of sugar-sweetened beverage taxation on sugars intake and dental caries: an umbrella review of a global perspective.",
+      "authors": [
+        "Hajishafiee Maryam",
+        "Kapellas Kostas",
+        "Listl Stefan",
+        "Pattamatta Madhuri",
+        "Gkekas Athanasios",
+        "Moynihan Paula"
+      ],
+      "year": 2023,
+      "journal": "BMC public health",
+      "doi": "10.1186/s12889-023-15884-5",
+      "pmid": "37237341",
+      "abstract": "BACKGROUND: As part of the Global Strategy on Oral health, the World Health Organization (WHO) is exploring cost-effective interventions for oral health, including taxation on sugar-sweetened beverages (SSBs). To inform this process, this umbrella review aimed to identify the best available estimates pertaining to the impact of SSB taxation on the reduction of sugars intake, and the sugars-caries dose-response, such that estimates of the impact of SSB taxation on averting dental caries in both high (HIC) and low and middle (LMIC) countries be available. METHODS: The questions addressed were: (1) what are the effects of SSB taxation on consumption of SSBs and (2) sugars? (3) What is the effect on caries of decreasing sugars? and (4) what is the likely impact of a 20% volumetric SSB tax on the number of active caries prevented over 10 years? Data sources included PubMed, Embase, Web of Science, Scopus, CINAHL, Dentistry and Oral Sciences Source, Cochrane Library, Joanna Briggs Institute (JBI) Systematic Review Register, and PROSPERO. The review was conducted with reference to JBI guidelines. The quality of included systematic reviews was assessed using AMSTAR to identify best evidence. RESULTS: From 419 systematic reviews identified for questions 1 & 2, and 103 for question 3, 48 (Questions 1 & 2) and 21 (Question 3) underwent full text screening, yielding 14 and five included reviews respectively. Best available data indicated a 10% tax would reduce SSB intake by 10.0% (95% CI: -5.0, 14.7%) in HIC and by 9% (range -6.0 to 12.0%) in LMIC, and that a 20% tax would reduce free sugars intake on average by 4.0 g/d in LMIC and 4.4 g/d in HIC. Based on best available dose response data, this could reduce the number of teeth with caries per adults (HIC and LMIC) by 0.03 and caries occurrence in children by 2.7% (LMIC) and 2.9% (HIC), over a 10-year period. CONCLUSION: Best available data suggest a 20% volumetric SSB tax would have a modest impact on prevalence and severity of dental caries in both HIC and LMIC.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37237341/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Sugar consumption and early childhood caries: a systematic review and meta-analysis of cohort studies.",
+      "authors": [
+        "Echeverria Mariana Silveira",
+        "Mathias Fernanda Burkert",
+        "Schuch Helena Silveira",
+        "Cenci Maximiliano Sérgio",
+        "Correa Marcos Britto",
+        "Huysmans Marie-Charlotte",
+        "Demarco Flávio Fernando"
+      ],
+      "year": 2025,
+      "journal": "Brazilian oral research",
+      "doi": "10.1590/1807-3107bor-2025.vol39.122",
+      "pmid": "41259577",
+      "abstract": "The aim of this systematic literature review and meta-analysis was to answer the following research question: \"Is sugar consumption associated with early childhood caries among children under 6 years of age in cohort studies?\". The following electronic databases were accessed from December 2020 to May 2025 to identify the existing literature: Bireme, Pubmed/Medline, Scielo, Scopus, and Web of Science. Studies considered eligible for this systematic review were those that investigated sugar consumption as the main exposure and early childhood caries (ECC) as the outcome. Study selection and data extraction were performed independently by two reviewers. Study quality was assessed using the Joanna Briggs Institute (JBI) checklist for cohort studies scale. The search strategy retrieved 718 studies. After title and abstract screening, 59 were selected for full-text review, leading to the inclusion of 17 original studies in this systematic review. Finally, nine studies provided sufficient data for a meta-analysis. The association between sugar consumption and ECC was consistent across most of the cohort studies included in this review, which reported that higher sugar consumption was associated with higher prevalence of dental caries. The pooled effect estimate from the meta-analysis yielded an OR of 1.59 and a 95% CI (1.50-1.68), indicating that children who consumed sugar in early childhood were 59% more likely to develop caries compared to those who did not consume sugar. The included studies had a low risk of bias. Our systematic review and meta-analysis confirmed the association between sugar consumption and ECC in longitudinal cohort studies.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41259577/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Systematic Review of the Effect on Caries of Sugars Intake: Ten-Year Update.",
+      "authors": [
+        "Moores C J",
+        "Kelly S A M",
+        "Moynihan P J"
+      ],
+      "year": 2022,
+      "journal": "Journal of dental research",
+      "doi": "10.1177/00220345221082918",
+      "pmid": "35302414",
+      "abstract": "An update of the systematic review of evidence on the association between amount of sugars intake and dental caries, as well as on the effect of restricting sugars intake to <10% and <5% energy (E) on caries, was conducted, almost 10 y since the review that informed the World Health Organization (WHO) Guideline on Sugars. The aim was to systematically review epidemiological data published from 2011 to 2020 on the amount of sugars consumption and levels of caries and to report the findings for adults and children. Data sources included MEDLINE, EMBASE, Cochrane Database, Cochrane Central Register of Controlled Trials, Latin American and Caribbean Health Sciences, China National Knowledge Infrastructure, Scopus, and Google Scholar. Eligible studies reported the amount of sugars and caries, measured as prevalence, incidence, or severity. The review was conducted in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses statement. Risk of bias was assessed using the Office of Health Assessment and Translation tool. Vote counting and harvest plots provided the basis for evidence synthesis. From 488 new papers identified, 23 studies were eligible: 4 cohort, 1 case-controlled, 12 cross-sectional, and 6 ecological. Eleven of 15 studies in children and 6 of 8 studies in adults reported at least 1 positive association between sugars and caries. Six of 7 studies in children and 4 of 4 studies in adults, with data enabling comparison of caries levels with sugars intakes >10%E and <10%E, showed lower caries when sugars intake was <10%E. Amalgamating with original studies yielded 64 of 78 studies showing at least 1 positive association, 20 of 78 a null association, and 3 of 78 a negative association between sugars and caries. GRADE profiles of new and original cohort data confirmed \"moderate-quality\" evidence that caries is lower when sugars intake is <10%E. Furthermore, new cohort data upgraded the quality of evidence (from \"very low\" to \"low\") for lower caries when free sugars are <5%E. The findings support and strengthen original evidence underpinning the WHO recommendations for sugars.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35302414/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Psychometric Properties of Food Frequency Questionnaires Used in Dentistry: A Systematic Review.",
+      "authors": [
+        "Dos Santos Caroline Souza",
+        "da Rosa Saulo Vinicius",
+        "Moysés Samuel Jorge",
+        "Rached Rodrigo Nunes",
+        "Baldani Marcia Helena",
+        "Werneck Renata Iani",
+        "Gasparello Gil Guilherme",
+        "Rocha Juliana Schaia"
+      ],
+      "year": 2023,
+      "journal": "Caries research",
+      "doi": "10.1159/000529886",
+      "pmid": "36858032",
+      "abstract": "The objective of this systematic review was to analyze the quality of the food frequency instruments/scales used in dentistry while considering their psychometric properties. The databases consulted were PubMed (August 7, 2020), Scopus (August 27, 2020), Web of Science (August 27, 2020), Cumulative Index to Nursing and Allied Health Literature (CINAHL) and Dentistry and Oral Sciences Source (via EBSCO) (August 28, 2020), LILACS and BBO (August 25, 2020), gray literature: Proquest (October 1, 2020), Capes Theses Bank (October 1, 2020), Brazilian Digital Library of Theses and Dissertations (October 1, 2020), Google Scholar (October 2, 2020), and proceedings of the International Association for Dental Research (IADR) (October 10, 2020). All databases were updated on December 12, 2022. Articles were initially selected by reading the 6,421 titles and 13 abstracts selected, followed by reading the 8 articles included for full text reading to confirm the eligibility criteria, with the aid of Rayyan software. Databases of the construction and/or validation of instruments/scales for assessing food consumption for use in dentistry (in clinical contexts and/or epidemiological studies), with or without assessment of their psychometric properties, were included. Review studies, letters to editors, and research protocols were excluded. Risk of bias assessment was performed according to the Consensus-Based Standards for the Selection of Health Measurement Instruments (COSMIN) checklist. The extracted data were author, country, instrument language, sample, assessment instrument, instrument structure, type of food, instruments compared with the clinical condition, adaptation of an existing instrument, and psychometric properties evaluated. The selection, risk of bias analysis, and data extraction processes were performed by two independent evaluators. Seven studies were identified. The instruments available in the literature were in English, Japanese, Creole, and Malay. Only one study performed translation and cross-cultural validation of an instrument, whereas the others were construction studies. One study did not assess psychometric properties. Regarding the quality assessment and general classification of the studies by the COSMIN checklist, all were considered \"inadequate,\" with reliability (test-retest) being the most validated psychometric property; only one study carried out the validation of all psychometric properties measured in COSMIN. Regarding the quality of the instruments presented, all the studies were classified as \"inadequate\" in the general assessment. Advances are needed in the validation process.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36858032/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Review of 100% Fruit Juice and Chronic Health Conditions: Implications for Sugar-Sweetened Beverage Policy.",
+      "authors": [
+        "Auerbach Brandon J",
+        "Dibey Sepideh",
+        "Vallila-Buchman Petra",
+        "Kratz Mario",
+        "Krieger James"
+      ],
+      "year": 2018,
+      "journal": "Advances in nutrition (Bethesda, Md.)",
+      "doi": "10.1093/advances/nmx006",
+      "pmid": "29659683",
+      "abstract": "Whether or not drinking 100% fruit juice causes poor health is controversial. Although 100% fruit juice may contain as much sugar as regular soda, it provides needed nutrients to Americans' diets. We systematically reviewed the current evidence of the association of 100% fruit juice consumption and chronic health conditions in children and adults. We focused on data from systematic reviews and meta-analyses about cardiometabolic health outcomes, liver disease, and caries. Aside from increased risk of tooth decay in children and small amounts of weight gain in young children and adults, there is no conclusive evidence that consumption of 100% fruit juice has adverse health effects. Guidelines from groups like the American Academy of Pediatrics and Dietary Guidelines for Americans recommending that 100% fruit juice may be consumed in moderation are consistent with the available evidence and should be used to inform food policies.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29659683/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Effects of product reformulation on sugar intake and health-a systematic review and meta-analysis.",
+      "authors": [
+        "Hashem Kawther M",
+        "He Feng J",
+        "MacGregor Graham A"
+      ],
+      "year": 2019,
+      "journal": "Nutrition reviews",
+      "doi": "10.1093/nutrit/nuy015",
+      "pmid": "30624760",
+      "abstract": "CONTEXT: Obesity, type 2 diabetes, and dental caries are all major public health problems in the United Kingdom and contribute substantially to healthcare costs. OBJECTIVE: A systematic review and meta-analysis was conducted to determine the effect of product reformulation measures on sugar intake and health outcomes. DATA SOURCES: Using a combination of terms, the following databases were searched-The Cochrane Library, EMBASE, MEDLINE (Ovid), and Scopus. Additionally, multiple gray literature searches were undertaken. DATA EXTRACTION: A total of 16 studies met the inclusion criteria. There were 4 randomized controlled trials, 6 studies that modeled reformulation in a country, 5 studies that modeled a different approach of reformulation, and 1 study was both a modelling study of a different approach to reformulation and a retrospective observational study. The studies were assessed for risk of bias and overall quality of evidence was rated using the Grades of Recommendation, Assessment, Development and Evaluation Working Group (GRADE) framework. RESULTS: Results from randomized controlled trials suggest that consumption of reformulated products can reduce sugar intake and body weight. The pooled estimates were -11.18% (95% confidence interval [CI], -19.95 to -2.41; P < 0.00001) for changes in percentage of sugar intake, -91.00 g/day (95%CI, -148.72 to -33.28; P< 0.00001) for changes in sugar intake in grams per day, and -1.04 kg (95%CI, -2.16 to -0.08; P= 0.0002) for changes in body weight. However, the quality of the evidence was very low. Results from the other studies suggested that reformulation can reduce sugar intake and improve health. Much of the evidence draws on modeling studies. CONCLUSIONS: This systematic review and meta-analysis suggests that product reformulation to reduce sugar content could reduce sugar intake in individuals and thus improve population health. These findings provide an important starting point for ongoing work on sugar reformulation.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30624760/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Community interventions and strategies for caries control in Latin American and Caribbean countries.",
+      "authors": [
+        "Ricomini Filho Antônio Pedro",
+        "Chávez Bertha Angélica",
+        "Giacaman Rodrigo Andrés",
+        "Frazão Paulo",
+        "Cury Jaime Aparecido"
+      ],
+      "year": 2021,
+      "journal": "Brazilian oral research",
+      "doi": "10.1590/1807-3107bor-2021.vol35.0054",
+      "pmid": "34076078",
+      "abstract": "Dental caries remains highly prevalent in Latin American and Caribbean countries (LACC). However, this disease can be controlled through interventions that implement evidence-based strategies in an affordable manner and that target all population groups instead of the most affluent only. Therefore, the aim of this report was to summarize the main scientifically documented community interventions and strategies based on restriction of sugars consumption, use of fluoride, and the use of occlusal sealants for caries control in LACC. A critical literature review was carried out in a systematic manner that included defined search strategies, independent review of the identified publications, and compilation of results in this report. Three systematic searches were conducted using the PubMed, LILACS, and SciELO databases to identify studies related to community interventions and strategies for caries control in LACC. Of the 37 publications identified, twenty-six focused on fluoride use, eight on occlusal sealant use, and three on the restriction of sugar consumption. Documented community interventions for sugars restriction were scarce in the region and were based on food supplementation, sugar replacement, and education. Thus, local and/or national policies should prioritize investment in upstream, coherent, and integrated population-wide policies such as taxes on sugary drinks and stronger regulation of advertising and promotion of sugary foods and drinks mainly targeting children. The main fluoride-based strategies used drinking water, refined domestic salt, cow milk, toothpaste and, to a lesser extent, mouth-rinses, acidulated phosphate fluoride (APF) gels, and varnishes to deliver fluoride to the population. Evidence of fluoride use was seen in Argentina, Belize, Bolivia, Brazil, Chile, Colombia, Costa Rica, Cuba, Dominican Republic, Ecuador, El Salvador, Guatemala, Haiti, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Uruguay, and Venezuela. Studies reporting the use of occlusal sealants were mainly located in Brazil, Chile, Colombia, Costa Rica, Peru, Mexico, and Venezuela. Community interventions restricting sugar consumption should be implemented at the individual level and through public policies. The use of fluoride must be monitored at the local, regional, and national levels so as to achieve maximum anti-caries effect while also minimizing the risk of dental fluorosis. Moreover, fluoridated water and salt programs, used as a mutually exclusive community level strategy for caries control, should expand their benefits to reach non-covered areas of the LACC while also simultaneously providing adequate surveillance of the fluoride concentration delivered to the population. Regulating the concentration of soluble fluoride (for anti-caries effect) in dentifrice formulations is also necessary in order to provide the population with an effective strategy for disease control. Targeting culturally appropriate, economically sustainable caries control interventions to rural populations and native ethnic groups such as indigenous people, quilombolas (African-origin), and riverside Amazonian people remains a crucial challenge.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34076078/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Dietary Intake Trajectories from Early Life and Associated Health Outcomes: A Systematic Review.",
+      "authors": [
+        "Zheng Miaobing",
+        "Park Seon Y",
+        "Bolton Kristy A",
+        "Foong-Fong Chong Mary",
+        "Grafenauer Sara",
+        "Xi Bo"
+      ],
+      "year": 2025,
+      "journal": "Advances in nutrition (Bethesda, Md.)",
+      "doi": "10.1016/j.advnut.2025.100528",
+      "pmid": "41033557",
+      "abstract": "The vital role of early dietary intake in shaping later health has been widely acknowledged, but how changes in dietary intake from early life influence health outcomes remains unclear. This review systematically synthesized the literature that examined the longitudinal associations between changes in dietary intake (i.e., trajectories) from early life and health outcomes. Electronic searches were conducted in PubMed, Embase, and ScienceDirect to gather longitudinal cohort studies that investigated dietary intake trajectories from infancy, childhood, or adolescence (with first dietary assessment before age 18 y) and any health outcomes published from inception to September 2024 (CRD42024512716). Of 16 included studies, 14 reported significant associations between dietary intake trajectories (intakes of macronutrients, food groups, diet quality or dietary patterns) in childhood or from childhood to adolescence/early adulthood and dental, obesity, cardiometabolic, neurocognitive, liver or gut health outcomes from age 2 y up to age 41 y. Most studies were of high (n = 2) or acceptable (n = 12) quality. A high or increasing sugar intake trajectory during infancy was linked to an increased risk of dental caries in early childhood, whereas a healthy dietary pattern trajectory was associated with lower risk. Trajectories of poor diet quality, red meat dietary pattern, and high discretionary food intake from infancy/early childhood were associated with adiposity and adverse cardiometabolic outcomes at adolescence and adulthood. Significant associations were also found between trajectories of dietary patterns or macronutrient intakes (e.g., protein, carbohydrate, and dietary fiber) from infancy and neurocognitive outcomes in childhood. High energy intake trajectory from early childhood to adolescence and carbohydrate intake from infancy to early adulthood were associated with poor liver health outcomes and gut microbiota composition in adulthood, respectively. Dietary intake trajectories established from infancy or early childhood were associated with various health outcomes. Dietary interventions should be initiated from infancy or early childhood for early health promotion.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41033557/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Theory based interventions for caries related sugar intake in adults: systematic review.",
+      "authors": [
+        "Al Rawahi Said Hartih",
+        "Asimakopoulou Koula",
+        "Newton Jonathon Timothy"
+      ],
+      "year": 2017,
+      "journal": "BMC psychology",
+      "doi": "10.1186/s40359-017-0194-z",
+      "pmid": "28743291",
+      "abstract": "BACKGROUND: Theories of behavior change are essential in the design of effective behaviour change strategies. No studies have assessed the effectiveness of interventions based on psychological theories to reduce sugar intake related to dental caries. The study assessed the effect of interventions based on Social Congition Models (SCMs) on sugar intake in adults, when compared with educational interventions or no intervention. METHODS: A range of papers were considered: Systematic review Systematic Reviews with or without Meta Analyses; Randomised Controlled Trials; Controlled Clinical Trials and Before and after studies, of interventions based on Social Cognition Models aimed at dietary intake of sugar in adults. The Cochrane database including: Oral Health Group's Trials Register (2015), MEDLINE (from 1966 to September 2015), EMBASE (from 1980 to September 2015), PsycINFO (from 1966 to September 2015) were searched. RESULTS: No article met the full eligibility criteria for the current systematic review so no articles were included. CONCLUSION: There is a need for more clinical trials to assess the effectiveness of interventions based on psychological theory in reducing dietary sugar intake among adults. SYSTEMATIC REVIEW PROTOCOL REGISTRATION: PROSPERO: CRD42015026357 .",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28743291/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Cariogenic Diet Assessment and Analysis Tools in Children and Adolescents: A Systematic Review.",
+      "authors": [
+        "Angelopoulou Matina V",
+        "Seremidi Kyriaki",
+        "Benetou Vasiliki",
+        "Agouropoulos Andreas",
+        "Rahiotis Christos",
+        "Gizani Sotiria"
+      ],
+      "year": 2024,
+      "journal": "Oral health & preventive dentistry",
+      "doi": "10.3290/j.ohpd.b4997015",
+      "pmid": "38376433",
+      "abstract": "PURPOSE: To collect and evaluate the available evidence on existing tools used in research and clinical practice to assess and analyse the diet of children and adolescents for its cariogenicity. MATERIALS AND METHODS: Multiple databases were searched up to October 2022, with no date, publication, or language restrictions, followed by a manual search. Study screening, data extraction, and risk of bias assessment were performed in duplicate. Dietary assessment tools and dental clinical parameters tested were retrieved for qualitative assessment and synthesis. RESULTS: Of the 2896 papers identified, 9 cohort and 23 cross-sectional studies fulfilled the inclusion criteria. To assess dietary data, 13 studies used a 24-h recall, 11 used a food diary, and 7 used a food frequency questionnaire. For analysis, five studies reported using the Healthy Eating Index, ten used a score based on consumption of sugars, and the remaining analysed cariogenic diet based on the weight and frequency of sugars consumed, or the daily caloric intake from free sugars. Risk of bias assessment suggested that 65.7% of the studies were of moderate and 31.5% of high quality. CONCLUSION: Inconsistency exists regarding methods used for the assessment and analysis of dietary cariogenicity. Although every dietary assessment tool has different strengths and limitations, the 24-h recall was the most commonly used method for the assessment of dietary cariogenicity and the most consistent in detecting a positive relationship between sugary diet and carious lesions. A standardised method for cariogenic analysis of dietary data needs to be determined.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38376433/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Does breastfeeding increase the risk of early childhood caries (ECC)? A systematic review.",
+      "authors": [
+        "Alexaki F",
+        "Kostopoulou M",
+        "Koleventi K",
+        "Lygidakis N N"
+      ],
+      "year": 2025,
+      "journal": "European archives of paediatric dentistry : official journal of the European Academy of Paediatric Dentistry",
+      "doi": "10.1007/s40368-025-01051-4",
+      "pmid": "40445533",
+      "abstract": "PURPOSE: To review the current evidence on the association of breastfeeding during the first years of life with the development of Early Childhood Caries (ECC). MATERIALS AND METHODS: A systematic review of literature was conducted in June 2019 and again in March 2024 at the following Databases: Pub Med, Scopus, Cochrane Library, Science Direct, Google Scholar, for studies reporting on children aged up to 71 months investigating breastfeeding duration/cessation and presence of caries at the examination. Prospective Cohort studies were included in the review. The systematic review was conducted according to PRISMA statement guidelines. RESULTS: Of the 4894 papers identified, the data extraction protocol led to 8 studies for further review. Assessment of Risk of Bias was made using the ROBINS-E tool. Six studies were characterized as high risk of bias, one characterized with some concerns and one with low risk of bias. Breastfeeding for 6-12 months has a protective effect against ECC. There is no association between breastfeeding and ECC for the ages 12-24 months; however, depending on the frequency or when combined with increased sugar consumption, it can have an impact on dental caries prevalence. Beyond 24 months, breastfeeding was associated with increased ECC prevalence. CONCLUSIONS: Based on the studies included in this review and within their limitations, breastfeeding up to 2 years of age does not increase ECC risk, but after 2 years of age breastfeeding is associated with increased risk of ECC. TRIAL REGISTRATION NUMBER: The protocol for this systematic review was registered on PROSPERO (CRD42020179773).",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40445533/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "The consumption of processed sugar- and starch-containing foods, and dental caries: a systematic review.",
+      "authors": [
+        "Hancock Sarah",
+        "Zinn Caryn",
+        "Schofield Grant"
+      ],
+      "year": 2020,
+      "journal": "European journal of oral sciences",
+      "doi": "10.1111/eos.12743",
+      "pmid": "33156952",
+      "abstract": "The relationship between high dietary intakes of sugar (sucrose) and dental caries is well established. Processed sugars and starches have been associated with greater dental caries experience in retrospective studies. The aim of this systematic review was to determine the relationship between the consumption of processed sugar- and starch-containing foods, the frequency of consumption of these foods, and dental caries. Prospective studies were identified in databases searched from 1970 to July 2020, and relevant retrieved papers that examined associations between the consumption of sugar- and starch-containing foods by human participants and dental caries were eligible for inclusion. Five cohort studies were identified for inclusion, all of which evaluated caries risk in young children or pre-adolescents. The between-meal consumption of processed sugar- and starch-containing foods was consistently found to be associated with greater caries experience. There were mixed findings on total consumption of processed sugar- and starch-containing foods, owing to a range of confounding factors, including the simultaneous consumption of caries-protective foods at mealtimes. Although there is a paucity of research of the dietary effects of frequent consumption of processed sugar- and starch-containing foods on dental caries, there is some evidence of plausible associations between this dietary behaviour and dental caries. Future research should investigate the effectiveness of interventions to change the dietary behaviour of high-frequency consumption of processed sugar- and starch-containing foods to decrease the risk of dental caries.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33156952/",
+      "key_findings": "",
+      "summary_ja": ""
+    }
+  ]
+}

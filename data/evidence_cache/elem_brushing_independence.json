@@ -1,0 +1,162 @@
+{
+  "topic_id": "elem_brushing_independence",
+  "evidences": [
+    {
+      "title": "WHO guideline: use of fluorides for caries prevention",
+      "authors": [
+        "World Health Organization"
+      ],
+      "year": 2023,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "authority",
+      "source_type": "WHO",
+      "url": "https://www.who.int/publications/i/item/9789240096882",
+      "key_findings": "WHO recommends fluoride toothpaste (1000-1500 ppm) for all ages. For children under 6, use a small amount (pea-sized or rice-grain).",
+      "summary_ja": "WHOは全年齢でフッ素配合歯磨き粉（1000-1500ppm）を推奨。6歳未満は少量（豆粒大または米粒大）を使用。"
+    },
+    {
+      "title": "AAPD Guideline: Fluoride Therapy",
+      "authors": [
+        "American Academy of Pediatric Dentistry"
+      ],
+      "year": 2023,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "guideline",
+      "source_type": "AAPD",
+      "url": "https://www.aapd.org/research/oral-health-policies--recommendations/fluoride-therapy/",
+      "key_findings": "AAPD recommends fluoride varnish every 3-6 months starting at tooth eruption. Fluoride toothpaste (smear for <3y, pea-size for 3-6y).",
+      "summary_ja": "歯が生えたらフッ素バーニッシュを3〜6ヶ月ごとに塗布。歯磨き粉は3歳未満は米粒大、3〜6歳は豆粒大。"
+    },
+    {
+      "title": "Parental social-cognitive correlates of preschoolers' oral hygiene behavior: A systematic review and meta-analysis.",
+      "authors": [
+        "Smith Stephanie R",
+        "Kroon Jeroen",
+        "Schwarzer Ralf",
+        "Hamilton Kyra"
+      ],
+      "year": 2020,
+      "journal": "Social science & medicine (1982)",
+      "doi": "10.1016/j.socscimed.2020.113322",
+      "pmid": "32916333",
+      "abstract": "BACKGROUND: Regular and consistent parental involvement in children's oral hygiene practices is crucial to prevent oral diseases in young children. This emphasizes the need for interventions targeting parental-supervised oral hygiene behavior. To inform the design of future interventions, this meta-analysis aimed to identify the parental social-cognitive factors associated with oral hygiene behavior of preschoolers. METHOD: Five bibliographic databases were searched. A study was eligible for inclusion when it reported an association between a parental social-cognitive factor and an oral hygiene behavior in the targeted age cohort. Meta-analyses were performed when there were at least four independent effect sizes (k > 3). RESULTS: Of the 5945 records identified, 25 studies contained eligible data to be included in four meta-analyses: attitude (k = 12); self-efficacy (k = 12); intention (k = 6), and sense of coherence (k = 5). The results showed that greater frequency of preschoolers' oral hygiene behavior is significantly associated with parental attitudes (r CONCLUSION: Self-efficacy, attitudes, and intention were identified as significant correlates of parental-supervised oral hygiene behavior. However, this is a limited evidence base and many social-cognitive factors, such as self-regulatory processes including planning and action control, have yet to be explored in this context. The significant social-cognitive correlates identified in this study, as well as potential other self-regulatory factors, should be targeted in future intervention studies aimed at improving this important preventive behavior.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32916333/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "A systematic review to inform the development of a Canadian caries risk assessment tool for use by primary healthcare providers.",
+      "authors": [
+        "Schroth Robert J",
+        "Rothney Janet",
+        "Sturym Melina",
+        "Dabiri Darya",
+        "Dabiri Donya",
+        "Dong Cecilia C",
+        "Grant Cameron G",
+        "Kennedy Tara",
+        "Sihra Rena"
+      ],
+      "year": 2021,
+      "journal": "International journal of paediatric dentistry",
+      "doi": "10.1111/ipd.12776",
+      "pmid": "33497015",
+      "abstract": "BACKGROUND: Caries risk assessment (CRA) tools may assist in identifying children at risk of early childhood caries. AIM: To complete a systematic review of CRA and develop a Canadian CRA tool for preschool children for use in non-dental clinical settings. DESIGN: Systematic searches of relevant databases were conducted. Potential variables were based on strength of associations (odd ratios, relative risk, hazard ratios, etc), frequency of occurrence, and existing CRA tools. Quality of the evidence assessments were performed by at least two review teams through consensus following GRADE. RESULTS: Overall, 25 publications met the inclusion criteria, all prospective in design. Based on this review, variables to be considered when developing a new CRA tool for use with preschool children are as follows: age, socioeconomic status, family toothbrushing habits, fluoride exposure, infant feeding practices, dietary habits/behaviours, dental home, caries experience, visible plaque, and enamel defects. The environmental scan identified 22 CRA tools suggesting other additional variables to consider including in a CRA tool, including special healthcare needs, enamel defects, and dental attendance. CONCLUSIONS: This review informed the development of a Canadian CRA tool for use by primary healthcare professionals, which may improve access to oral health assessments and increase interprofessional collaboration.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33497015/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Home-based toothbrushing interventions for parents of young children to reduce dental caries: A systematic review.",
+      "authors": [
+        "Aliakbari Elnaz",
+        "Gray-Burrows Kara A",
+        "Vinall-Collier Karen A",
+        "Edwebi Sakina",
+        "Marshman Zoe",
+        "McEachan Rosemary R C",
+        "Day Peter F"
+      ],
+      "year": 2021,
+      "journal": "International journal of paediatric dentistry",
+      "doi": "10.1111/ipd.12658",
+      "pmid": "32333706",
+      "abstract": "BACKGROUND: Dental caries is the most prevalent preventable condition in children. A key preventive home-based oral health behaviour is the adoption and maintenance of parental supervised toothbrushing until 8 years of age. AIM: To examine interventions promoting parental supervised toothbrushing practices to reduce dental caries in young children (<8 years old). DESIGN: Interventions promoting parental involvement in home-based toothbrushing in children under 8 years old and their impact on caries were subjected to review. Electronic databases (MEDLINE, EMBASE, PubMed, Web of Science, PsycINFO, Scopus, and the Cochrane Library), references, and unpublished literature databases were searched for relevant literature. RESULTS: Of the 10 176 articles retrieved, forty-two articles were included. The Theoretical Domains Framework was used to code intervention content, with the main domains addressed being knowledge (41/42), skills (35/42), and environmental context and resources (22/42). Sufficient descriptions of the intervention development, delivery, and evaluation were lacking, with only 18 studies being underpinned by theory. Twenty-nine studies explored the impact on caries yielding mixed results. CONCLUSIONS: There are few interventions targeting home-based oral health behaviours underpinned by theory and methodological rigour in their development and evaluation. This demonstrates a clear need for future interventions to be guided by complex intervention methodology.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32333706/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Oral Health Education and Promotion Activities by Early Head Start Programs in the United States: A systematic review.",
+      "authors": [
+        "Joufi Ahlam I",
+        "Claiborne Denise M",
+        "Shuman Deanne"
+      ],
+      "year": 2021,
+      "journal": "Journal of dental hygiene : JDH",
+      "doi": "",
+      "pmid": "34654711",
+      "abstract": "",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34654711/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "WITHDRAWN: Community-based population-level interventions for promoting child oral health.",
+      "authors": [
+        "de Silva Andrea M",
+        "Hegde Shalika",
+        "Akudo Nwagbara Bridget",
+        "Calache Hanny",
+        "Gussy Mark G",
+        "Nasser Mona",
+        "Morrice Hannah R",
+        "Riggs Elisha",
+        "Leong Pamela M",
+        "Meyenn Lisa K",
+        "Yousefi-Nooraie Reza"
+      ],
+      "year": 2016,
+      "journal": "The Cochrane database of systematic reviews",
+      "doi": "10.1002/14651858.CD009837.pub3",
+      "pmid": "28004389",
+      "abstract": "BACKGROUND: Dental caries and gingival and periodontal disease are commonly occurring, preventable chronic conditions. Even though much is known about how to treat oral disease, currently we do not know which community-based population-level interventions are most effective and equitable in preventing poor oral health. OBJECTIVES: Primary • To determine the effectiveness of community-based population-level oral health promotion interventions in preventing dental caries and gingival and periodontal disease among children from birth to 18 years of age. Secondary • To determine the most effective types of interventions (environmental, social, community and multi-component) and guiding theoretical frameworks.• To identify interventions that reduce inequality in oral health outcomes.• To examine the influence of context in the design, delivery and outcomes of interventions. SEARCH METHODS: We searched the following databases from January 1996 to April 2014: MEDLINE, Embase, the Cochrane Central Register of Controlled Trials (CENTRAL), the Cumulative Index to Nursing and Allied Health Literature (CINAHL), the Education Resource Information Center (ERIC), BIOSIS Previews, Web of Science, the Database of Abstracts of Reviews of Effects (DARE), ScienceDirect, Sociological Abstracts, Social Science Citation Index, PsycINFO, SCOPUS, ProQuest Dissertations & Theses and Conference Proceedings Citation Index - Science. SELECTION CRITERIA: Included studies were individual- and cluster-randomised controlled trials (RCTs), controlled before-and-after studies and quasi-experimental and interrupted time series. To be included, interventions had to target the primary outcomes: dental caries (measured as decayed, missing and filled deciduous teeth/surfaces, dmft/s; Decayed, Missing and Filled permanent teeth/surfaces, DMFT/S) and gingival or periodontal disease among children from birth to 18 years of age. Studies had to report on one or more of the primary outcomes at baseline and post intervention, or had to provide change scores for both intervention and control groups. Interventions were excluded if they were solely of a chemical nature (e.g. chlorhexidine, fluoride varnish), were delivered primarily in a dental clinical setting or comprised solely fluoridation. DATA COLLECTION AND ANALYSIS: Two review authors independently performed screening, data extraction and assessment of risk of bias of included studies (a team of six review authors - four review authors and two research assistants - assessed all studies). We calculated mean differences with 95% confidence intervals for continuous data. When data permitted, we undertook meta-analysis of primary outcome measures using a fixed-effect model to summarise results across studies. We used the I MAIN RESULTS: This review includes findings from 38 studies (total n = 119,789 children, including one national study of 99,071 children, which contributed 80% of total participants) on community-based oral health promotion interventions delivered in a variety of settings and incorporating a range of health promotion strategies (e.g. policy, educational activities, professional oral health care, supervised toothbrushing programmes, motivational interviewing). We categorised interventions as dietary interventions (n = 3), oral health education (OHE) alone (n = 17), OHE in combination with supervised toothbrushing with fluoridated toothpaste (n = 8) and OHE in combination with a variety of other interventions (including professional preventive oral health care, n = 10). Interventions generally were implemented for less than one year (n = 26), and only 11 studies were RCTs. We graded the evidence as having moderate to very low quality.We conducted meta-analyses examining impact on dental caries of each intervention type, although not all studies provided sufficient data to allow pooling of effects across similar interventions. Meta-analyses of the effects of OHE alone on caries may show little or no effect on DMFT (two studies, mean difference (MD) 0.12, 95% confidence interval (CI) -0.11 to 0.36, low-quality evidence), dmft (three studies, MD -0.3, 95% CI -1.11 to 0.52, low-quality evidence) and DMFS (one study, MD -0.01, 95% CI -0.24 to 0.22, very low-quality evidence). Analysis of studies testing OHE in combination with supervised toothbrushing with fluoridated toothpaste may show a beneficial effect on dmfs (three studies, MD -1.59, 95% CI -2.67 to -0.52, low-quality evidence) and dmft (two studies, MD -0.97, 95% CI -1.06 to -0.89, low-quality evidence) but may show little effect on DMFS (two studies, MD -0.02, 95% CI -0.13 to 0.10, low-quality evidence) and DMFT (three studies, MD -0.02, 95% CI -0.11 to 0.07, moderate-quality evidence). Meta-analyses of two studies of OHE in an educational setting combined with professional preventive oral care in a dental clinic setting probably show a very small effect on DMFT (-0.09 weighted mean difference (WMD), 95% CI -0.1 to -0.08, moderate-quality evidence). Data were inadequate for meta-analyses on gingival health, although positive impact was reported. AUTHORS' CONCLUSIONS: This review provides evidence of low certainty suggesting that community-based oral health promotion interventions that combine oral health education with supervised toothbrushing or professional preventive oral care can reduce dental caries in children. Other interventions, such as those that aim to promote access to fluoride, improve children's diets or provide oral health education alone, show only limited impact. We found no clear indication of when is the most effective time to intervene during childhood. Cost-effectiveness, long-term sustainability and equity of impacts and adverse outcomes were not widely reported by study authors, limiting our ability to make inferences on these aspects. More rigorous measurement and reporting of study results would improve the quality of the evidence.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28004389/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "More than clean teeth! Identifying factors that contribute to the development of early childhood caries.",
+      "authors": [
+        "Carroll Amy"
+      ],
+      "year": 2024,
+      "journal": "Evidence-based dentistry",
+      "doi": "10.1038/s41432-024-01009-3",
+      "pmid": "38740974",
+      "abstract": "UNLABELLED: The updated systematic review by Khan et al. reviews the evidence surrounding the possible factors that could contribute to the development of early childhood caries (ECC) in children of a particular age group. This follows a previously published systematic review across 1997-2017. These factors can then be used for the development of a Caries Risk Assessment (CRA) tool. DATA SOURCES: This review aimed to identify established and updated evidence-based factors that could contribute to a child's development of Early Childhood Caries (ECC). Four online databases were used to source evidence including the Cochrane Library, EMBASE, MEDLINE, and Scopus. STUDY SELECTION: The data search selected studies published between 2017 and 2021. Three specific terms were used to search: Dental Caries, Children, and Risk Assessment. There were three teams involved in data collection, two teams then reviewed selected articles. Exclusion criteria included any duplicate studies, commentaries, and editorials. Inclusion criteria included only randomised control trials and cohort studies. Selected studies must include children younger than 72 months, define the demographics, their clinical characteristics, and have clear follow-up of the patients involved. Commonly identified factors that were mentioned in multiple studies were then collected and assigned strength depending on the evidence measured using ratios. These could then be utilised to form a draft Caries Risk Assessment tool. DATA EXTRACTION AND SYNTHESIS: 512 abstracts and 52 articles were screened, having matched the criteria set. Extraction of the data was completed under four headings: the child's age at the time of study (in years/months), risk predictors, the outcome, and the quality of the evidence presented. The GRADE system was then employed to separate the studies into high, moderate, low, and very low categorisation. Eventually, 22 new studies were included that would build on the original 25 articles that were identified in the previous systematic review. RESULTS: The most defining factors across the most recent systematic reviews in 2021 highlighted behavioural factors such as toothbrushing quality - parental supervision, frequency, and fluoride exposure. Specifically, the presence of plaque was used as a marker for oral hygiene evaluation. Dietary history included snacking frequency and, controversially, baby-toddler breastfeeding patterns. However, this does not take into consideration the dental impact - mainly the frequency or timing of breastfeeding (e.g. overnight). The review emphasises the importance of consideration of socio-economic factors though this may be a difficult topic of discussion if families are struggling i.e. household income and education level of parents or guardians. There is also mention of factors that do not have a significant evidence base such as the child's gender, ethnicity, and parental smoking status. CONCLUSION: In conclusion, the factors found to be relevant in the development of ECC were the child's age, toothbrushing quality/plaque control, parental involvement in toothbrushing, fluoride exposure, pattern of dental attendance, dietary sugar exposure, and habits, clinically carious active lesion presence, the oral bacterial composition (Streptococcus mutans presence) and the socio-economic status of the child and their family. Though the review encourages identification of the caries risk factors in the mentioned groups, separated by both dental and non-dental professionals, ideally the aim would be to create a holistic care approach for management and signposting.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38740974/",
+      "key_findings": "",
+      "summary_ja": ""
+    }
+  ]
+}
