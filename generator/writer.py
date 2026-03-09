@@ -1,24 +1,104 @@
-"""記事生成エンジン - Claude APIを使用"""
+"""記事生成エンジン - Claude Code CLIを使用"""
 
 import logging
+import os
+import subprocess
+import sys
 from pathlib import Path
 
-import anthropic
-
-from ..evidence.models import EvidenceCollection
-from .prompts.article_prompt import (
-    ARTICLE_PROMPT_TEMPLATE,
-    PUBLIC_VERSION_PROMPT_TEMPLATE,
-    PUBLIC_VERSION_SYSTEM_PROMPT,
-    SYSTEM_PROMPT,
-    format_evidence_for_prompt,
-)
+try:
+    from ..evidence.models import EvidenceCollection
+    from .prompts.article_prompt import (
+        ARTICLE_PROMPT_TEMPLATE,
+        PUBLIC_VERSION_PROMPT_TEMPLATE,
+        PUBLIC_VERSION_SYSTEM_PROMPT,
+        SYSTEM_PROMPT,
+        format_evidence_for_prompt,
+    )
+except ImportError:
+    from evidence.models import EvidenceCollection
+    from generator.prompts.article_prompt import (
+        ARTICLE_PROMPT_TEMPLATE,
+        PUBLIC_VERSION_PROMPT_TEMPLATE,
+        PUBLIC_VERSION_SYSTEM_PROMPT,
+        SYSTEM_PROMPT,
+        format_evidence_for_prompt,
+    )
 
 logger = logging.getLogger(__name__)
 
 
+def _find_claude_cmd() -> str:
+    """Claude Code CLI の実行パスを取得"""
+    import shutil
+
+    # Windows: claude.cmd を優先
+    if sys.platform == "win32":
+        # npm グローバルインストール先
+        npm_path = Path(os.environ.get("APPDATA", "")) / "npm" / "claude.cmd"
+        if npm_path.exists():
+            return str(npm_path)
+
+    # PATH上のclaude
+    found = shutil.which("claude")
+    if found:
+        return found
+
+    raise FileNotFoundError("Claude Code CLI (claude) が見つかりません。npm install -g @anthropic-ai/claude-code でインストールしてください。")
+
+
+def _call_claude(system_prompt: str, user_prompt: str, max_tokens: int = 4096) -> str:
+    """Claude Code CLIを呼び出してテキストを生成"""
+    full_prompt = f"""以下のシステム指示に従って、ユーザーの依頼に応えてください。
+
+## システム指示
+{system_prompt}
+
+## ユーザーの依頼
+{user_prompt}"""
+
+    claude_cmd = _find_claude_cmd()
+
+    env = os.environ.copy()
+    env.pop("CLAUDECODE", None)  # ネスト実行を許可
+    env["PYTHONIOENCODING"] = "utf-8"
+
+    # Windows: stdinのエンコーディング問題を回避するためファイル経由で渡す
+    import tempfile
+    with tempfile.NamedTemporaryFile(
+        mode='w', suffix='.txt', delete=False, encoding='utf-8'
+    ) as f:
+        f.write(full_prompt)
+        prompt_file = f.name
+
+    try:
+        # ファイルからstdinにパイプ
+        with open(prompt_file, 'r', encoding='utf-8') as pf:
+            result = subprocess.run(
+                [claude_cmd, "-p", "--output-format", "text"],
+                stdin=pf,
+                capture_output=True,
+                text=True,
+                timeout=300,  # 5分タイムアウト
+                env=env,
+                encoding='utf-8',
+            )
+    finally:
+        os.unlink(prompt_file)
+
+    if result.returncode != 0:
+        error_msg = result.stderr.strip() if result.stderr else "Unknown error"
+        raise RuntimeError(f"Claude CLI error (exit {result.returncode}): {error_msg}")
+
+    output = result.stdout.strip()
+    if not output:
+        raise RuntimeError("Claude CLI returned empty output")
+
+    return output
+
+
 class ArticleWriter:
-    """Claude APIを使用した記事生成"""
+    """Claude Code CLIを使用した記事生成"""
 
     def __init__(
         self,
@@ -27,7 +107,6 @@ class ArticleWriter:
         temperature: float = 0.7,
         clinic_info: dict | None = None,
     ):
-        self.client = anthropic.Anthropic()
         self.model = model
         self.max_tokens = max_tokens
         self.temperature = temperature
@@ -40,21 +119,8 @@ class ArticleWriter:
         category_name: str = "",
         age_range: str = "",
     ) -> str:
-        """トピックとエビデンスから記事を生成
-
-        Args:
-            topic: topics.yamlのトピック定義
-            evidence: 収集されたエビデンス
-            category_name: カテゴリ名
-            age_range: 対象年齢
-
-        Returns:
-            Markdown形式の記事テキスト
-        """
-        # エビデンスを優先度順にソート
+        """トピックとエビデンスから記事を生成"""
         sorted_evidence = evidence.sorted_by_priority()
-
-        # プロンプト構築
         evidence_text = format_evidence_for_prompt(sorted_evidence)
 
         pico = topic.get("pico", {})
@@ -75,18 +141,8 @@ class ArticleWriter:
 
         logger.info(f"Generating article for: {topic['title']}")
         logger.info(f"  Evidence count: {len(sorted_evidence)}")
-        logger.info(f"  Model: {self.model}")
 
-        # Claude API呼び出し
-        message = self.client.messages.create(
-            model=self.model,
-            max_tokens=self.max_tokens,
-            temperature=self.temperature,
-            system=SYSTEM_PROMPT,
-            messages=[{"role": "user", "content": prompt}],
-        )
-
-        article_text = message.content[0].text
+        article_text = _call_claude(SYSTEM_PROMPT, prompt, self.max_tokens)
         logger.info(f"  Article generated: {len(article_text)} chars")
 
         return article_text
@@ -111,15 +167,7 @@ class ArticleWriter:
         original_article: str,
         evidence: EvidenceCollection,
     ) -> str:
-        """専門版記事から一般公開版を生成
-
-        Args:
-            original_article: 生成済みの専門版記事（Markdown）
-            evidence: 収集されたエビデンス
-
-        Returns:
-            一般公開版のMarkdown記事
-        """
+        """専門版記事から一般公開版を生成"""
         sorted_evidence = evidence.sorted_by_priority()
         evidence_text = format_evidence_for_prompt(sorted_evidence)
         clinic_text = self._format_clinic_info()
@@ -132,15 +180,9 @@ class ArticleWriter:
 
         logger.info("Generating public version...")
 
-        message = self.client.messages.create(
-            model=self.model,
-            max_tokens=self.max_tokens * 2,  # 公開版はボリューム増のためトークン拡大
-            temperature=self.temperature,
-            system=PUBLIC_VERSION_SYSTEM_PROMPT,
-            messages=[{"role": "user", "content": prompt}],
+        public_text = _call_claude(
+            PUBLIC_VERSION_SYSTEM_PROMPT, prompt, self.max_tokens * 2
         )
-
-        public_text = message.content[0].text
         logger.info(f"  Public version generated: {len(public_text)} chars")
 
         return public_text

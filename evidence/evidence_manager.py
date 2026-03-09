@@ -2,6 +2,7 @@
 
 import json
 import logging
+import os
 from pathlib import Path
 
 from .models import Evidence, EvidenceCollection, EvidenceLevel
@@ -21,8 +22,10 @@ class EvidenceManager:
         date_range_years: int = 10,
         cache_dir: str = "data/evidence_cache",
     ):
+        # .env の NCBI_API_KEY を優先、なければ引数を使用
+        api_key = pubmed_api_key or os.environ.get("NCBI_API_KEY", "")
         self.pubmed = PubMedSearcher(
-            api_key=pubmed_api_key,
+            api_key=api_key,
             max_results=max_results,
             date_range_years=date_range_years,
         )

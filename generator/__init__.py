@@ -1,5 +1,8 @@
 """記事生成モジュール"""
 
-from .writer import ArticleWriter
+try:
+    from .writer import ArticleWriter
+except ImportError:
+    pass
 
 __all__ = ["ArticleWriter"]
