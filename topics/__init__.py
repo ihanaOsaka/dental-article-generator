@@ -1,5 +1,7 @@
 """トピック管理モジュール"""
 
-from .loader import TopicLoader
-
-__all__ = ["TopicLoader"]
+try:
+    from .loader import TopicLoader
+    __all__ = ["TopicLoader"]
+except ImportError:
+    __all__ = []
