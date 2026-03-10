@@ -9,7 +9,7 @@ if str(_project_root) not in sys.path:
     sys.path.insert(0, str(_project_root))
 
 from evidence.models import EvidenceCollection
-from generator.writer import ArticleWriter
+from generator.writer import ArticleWriter, _call_claude
 
 logger = logging.getLogger(__name__)
 
@@ -24,6 +24,7 @@ REVISION_SYSTEM_PROMPT = """\
 4. エビデンスの引用は変更・削除しないでください（追加は可）
 5. 全体の構成と参考文献セクションは維持してください
 6. です・ます調を維持してください
+7. 既存のMarkdownリンク [テキスト](URL) はすべて維持してください
 
 修正後の記事全文をMarkdown形式で出力してください。
 """
@@ -46,7 +47,6 @@ class RevisionService:
 
     def __init__(self, writer: ArticleWriter):
         self.writer = writer
-        self.client = writer.client
 
     def revise_professional(self, article: str, instructions: str) -> str:
         """専門版記事を修正指示に基づいて修正"""
@@ -55,15 +55,7 @@ class RevisionService:
             instructions=instructions,
         )
 
-        message = self.client.messages.create(
-            model=self.writer.model,
-            max_tokens=self.writer.max_tokens,
-            temperature=0.3,
-            system=REVISION_SYSTEM_PROMPT,
-            messages=[{"role": "user", "content": prompt}],
-        )
-
-        revised = message.content[0].text
+        revised = _call_claude(REVISION_SYSTEM_PROMPT, prompt)
         logger.info(f"Article revised: {len(revised)} chars")
         return revised
 

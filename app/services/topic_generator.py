@@ -3,14 +3,25 @@
 import json
 import logging
 import re
+import sys
 import time
+from pathlib import Path
 
-import anthropic
+_project_root = Path(__file__).parent.parent.parent
+if str(_project_root) not in sys.path:
+    sys.path.insert(0, str(_project_root))
+
+from generator.writer import _call_claude
 
 logger = logging.getLogger(__name__)
 
-TOPIC_GENERATION_PROMPT = """\
+TOPIC_GENERATION_SYSTEM_PROMPT = """\
 あなたは小児歯科・歯科全般の専門家です。
+ユーザーの自由入力トピックから、エビデンス検索と記事生成に必要な構造化メタデータをJSON形式で生成してください。
+JSON以外のテキストは出力しないでください。
+"""
+
+TOPIC_GENERATION_PROMPT = """\
 以下の自由入力トピックから、エビデンス検索と記事生成に必要な構造化メタデータをJSON形式で生成してください。
 
 ## 自由入力トピック
@@ -19,7 +30,7 @@ TOPIC_GENERATION_PROMPT = """\
 ## 出力形式（厳密にこのJSON構造を守ってください）
 ```json
 {{
-  "id": "custom_{slug}",
+  "id": "custom_{{slug}}",
   "title": "記事タイトル（日本語、40文字以内）",
   "keywords": ["キーワード1", "キーワード2", "キーワード3"],
   "search_terms": {{
@@ -38,7 +49,7 @@ TOPIC_GENERATION_PROMPT = """\
 ```
 
 ## 注意
-- idの{slug}部分は英語のスネークケースで、トピックの内容を端的に表す名前にしてください
+- idの{{slug}}部分は英語のスネークケースで、トピックの内容を端的に表す名前にしてください
 - search_termsのenは、PubMed検索に使える英語の医学用語にしてください
 - PICOの各フィールドは、トピックに応じて適切に設定してください
 - JSON以外のテキストは出力しないでください
@@ -47,10 +58,6 @@ TOPIC_GENERATION_PROMPT = """\
 
 class TopicGenerator:
     """自由入力テキストから構造化されたトピックメタデータを生成"""
-
-    def __init__(self, model: str = "claude-sonnet-4-20250514"):
-        self.client = anthropic.Anthropic()
-        self.model = model
 
     def generate(self, user_input: str) -> dict:
         """自由入力からトピックメタデータを生成
@@ -61,24 +68,14 @@ class TopicGenerator:
         Returns:
             topics.yamlと同じ構造のdict + category_name, age_range
         """
-        prompt = TOPIC_GENERATION_PROMPT.format(
-            user_input=user_input,
-            slug="xxx",
-        )
+        prompt = TOPIC_GENERATION_PROMPT.format(user_input=user_input)
 
-        message = self.client.messages.create(
-            model=self.model,
-            max_tokens=1024,
-            temperature=0.3,
-            messages=[{"role": "user", "content": prompt}],
-        )
-
-        response_text = message.content[0].text
+        response_text = _call_claude(TOPIC_GENERATION_SYSTEM_PROMPT, prompt)
 
         # JSONを抽出
         json_match = re.search(r'\{[\s\S]*\}', response_text)
         if not json_match:
-            raise ValueError("Claude APIからJSONを取得できませんでした")
+            raise ValueError("Claude CLIからJSONを取得できませんでした")
 
         topic_data = json.loads(json_match.group())
 
