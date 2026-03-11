@@ -24,7 +24,7 @@
 
 歯科で使用される**局所麻酔薬（リドカインなど）**については、通常の使用量であれば妊娠中の使用について各国の歯科学会でも認められており、胎児への悪影響を示す明確なエビデンスは報告されていません。ただし、使用にあたっては歯科医師が妊娠の経過を把握した上で判断することが大切です。
 
-**歯科用レントゲン撮影**についても、防護エプロンを着用し、照射部位が口腔に限定される場合、胎児への被ばく量は極めて微量とされています。とはいえ、緊急性がない場合は安定期以降に行うことが望ましいでしょう。
+**歯科用レントゲン撮影**についても、照射部位が口腔に限定されるため、胎児への被ばく量は極めて微量とされています。なお、従来使用されていた防護エプロンについては、[ADA（アメリカ歯科医師会）が2024年の新勧告](https://www.ada.org/about/press-releases/ada-releases-updated-recommendations-to-enhance-radiography-safety-in-dentistry)で患者への使用を推奨しない方針を示しています。デジタルX線機器の進歩により不要被曝はすでに最小限であり、エプロンが撮影画像に干渉して再撮影（＝追加被曝）の原因となるリスクの方が問題とされています。日本でも[日本歯科放射線学会防護委員会の指針（2015年）](https://jsomfr.sakura.ne.jp/wp-content/uploads/2019/09/apron_guideline.pdf)において、歯科X線撮影における防護エプロンの線量低減効果はほとんどないとされています。とはいえ、緊急性がない場合は安定期以降に撮影を行うことが望ましいでしょう。
 
 なお、提供されたエビデンスの中には、妊娠中の歯科治療（麻酔・レントゲン・処置）の安全性を直接検証したランダム化比較試験やメタアナリシスは含まれていませんでした。上記の内容は、各国の歯科学会や産科学会のガイドラインに基づく一般的な見解です。今後さらなる研究の蓄積が期待される分野でもあります。
 
@@ -69,3 +69,5 @@
 2. [Frey-Furtado L, Fonseca M, Melo P, et al. Oral healthcare access: self-perceived barriers faced during pregnancy - a systematic review. *BMC Public Health.* 2025.](https://pubmed.ncbi.nlm.nih.gov/40229781/)
 3. [Kamalabadi YM, Campbell MK, Zitoun NM, et al. Unfavourable beliefs about oral health and safety of dental care during pregnancy: a systematic review. *BMC Oral Health.* 2023.](https://pubmed.ncbi.nlm.nih.gov/37840149/)
 4. [Rocha JS, Arima L, Chibinski AC, et al. Barriers and facilitators to dental care during pregnancy: a systematic review and meta-synthesis of qualitative studies. *Cadernos de Saúde Pública.* 2018.](https://pubmed.ncbi.nlm.nih.gov/30208187/)
+5. [American Dental Association. ADA Releases Updated Recommendations to Enhance Radiography Safety in Dentistry. 2024.](https://www.ada.org/about/press-releases/ada-releases-updated-recommendations-to-enhance-radiography-safety-in-dentistry)
+6. [日本歯科放射線学会防護委員会. 歯科エックス線撮影における防護エプロン使用についての指針. 2015.](https://jsomfr.sakura.ne.jp/wp-content/uploads/2019/09/apron_guideline.pdf)

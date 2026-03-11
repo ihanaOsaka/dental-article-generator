@@ -79,9 +79,11 @@
 
 ### 歯科用レントゲンについて
 
-**歯科用レントゲン撮影**についても、防護エプロン——X線を遮断する鉛入りのエプロン——を着用し、照射部位がお口に限定される場合、胎児への被ばく量は**極めて微量**とされています。歯科用レントゲンの放射線量は、医科で撮影するCTスキャンなどと比べてはるかに少なく、胎児のいるお腹からも距離が離れています。
+**歯科用レントゲン撮影**についても、照射部位がお口に限定されるため、胎児への被ばく量は**極めて微量**とされています。歯科用レントゲンの放射線量は、医科で撮影するCTスキャンなどと比べてはるかに少なく、胎児のいるお腹からも距離が離れています。
 
-とはいえ、緊急性がない場合は安定期以降に撮影することが望ましいでしょう。歯科医師が「今すぐ撮影が必要」と判断した場合は、防護措置を取った上で安全に行うことができます。
+なお、以前は撮影時に鉛入りの防護エプロンを着用することが一般的でしたが、最新のガイドラインでは**防護エプロンの使用はもはや推奨されていません**。[ADA（アメリカ歯科医師会）の2024年の新勧告](https://www.ada.org/about/press-releases/ada-releases-updated-recommendations-to-enhance-radiography-safety-in-dentistry)では、デジタルX線機器の進歩により不要な被ばくはすでに最小限に抑えられているとされ、むしろエプロンが撮影画像に映り込んで**再撮影（＝追加の被ばく）の原因になりうる**ことが問題視されています。日本でも[日本歯科放射線学会防護委員会の指針（2015年）](https://jsomfr.sakura.ne.jp/wp-content/uploads/2019/09/apron_guideline.pdf)で、歯科X線撮影における防護エプロンの線量低減効果はほとんどないとされています。
+
+とはいえ、緊急性がない場合は安定期以降に撮影することが望ましいでしょう。歯科医師が「今すぐ撮影が必要」と判断した場合は、安全に行うことができます。
 
 ### 科学的な正直さとして——
 
@@ -191,3 +193,9 @@
 
 4. [Rocha JS, Arima L, Chibinski AC, et al. Barriers and facilitators to dental care during pregnancy: a systematic review and meta-synthesis of qualitative studies. *Cadernos de Saúde Pública.* 2018.](https://pubmed.ncbi.nlm.nih.gov/30208187/)
    *妊娠中の歯科受診を妨げる要因と促進する要因を、インタビューなどの質的研究から分析したシステマティックレビュー。医療者からの適切な情報提供が受診を促す重要な要因であることを報告しています。*
+
+5. [American Dental Association. ADA Releases Updated Recommendations to Enhance Radiography Safety in Dentistry. 2024.](https://www.ada.org/about/press-releases/ada-releases-updated-recommendations-to-enhance-radiography-safety-in-dentistry)
+   *ADAが2024年に発表した歯科放射線撮影の安全性に関する新勧告。デジタルX線機器の進歩により防護エプロンの患者使用は推奨しない方針を示しました。妊婦を含む全患者が対象です。*
+
+6. [日本歯科放射線学会防護委員会. 歯科エックス線撮影における防護エプロン使用についての指針. 2015.](https://jsomfr.sakura.ne.jp/wp-content/uploads/2019/09/apron_guideline.pdf)
+   *歯科X線撮影における防護エプロンの線量低減効果はほとんどないとする日本歯科放射線学会の指針。パノラマ撮影ではエプロンの影の映り込みによる再撮影リスクがあるため、使用しないほうがよいとしています。*

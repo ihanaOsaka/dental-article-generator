@@ -530,6 +530,38 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/27913060/",
       "key_findings": "",
       "summary_ja": ""
+    },
+    {
+      "title": "ADA Releases Updated Recommendations to Enhance Radiography Safety in Dentistry",
+      "authors": [
+        "American Dental Association"
+      ],
+      "year": 2024,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "guideline",
+      "source_type": "ADA",
+      "url": "https://www.ada.org/about/press-releases/ada-releases-updated-recommendations-to-enhance-radiography-safety-in-dentistry",
+      "key_findings": "ADAは2024年2月の新勧告で、歯科X線撮影時の鉛製防護エプロン・甲状腺カラーの患者装着をもはや推奨しないと明言。デジタルX線機器の進歩と矩形コリメーションにより不要被曝はすでに最小限であり、エプロンが撮影画像に干渉して再撮影（追加被曝）の原因となるリスクが問題。妊婦を含む全患者が対象。FDAの医学物理学者もこの勧告の策定を支援。",
+      "summary_ja": "ADA（2024年）は歯科X線撮影時の防護エプロン使用を推奨しない方針を発表。デジタル機器の進歩により不要被曝は最小限で、エプロンの干渉による再撮影リスクの方が問題。"
+    },
+    {
+      "title": "歯科エックス線撮影における防護エプロン使用についての指針",
+      "authors": [
+        "日本歯科放射線学会防護委員会"
+      ],
+      "year": 2015,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "guideline",
+      "source_type": "日本歯科放射線学会",
+      "url": "https://jsomfr.sakura.ne.jp/wp-content/uploads/2019/09/apron_guideline.pdf",
+      "key_findings": "歯科X線撮影における防護エプロンの線量低減効果はほとんどない。パノラマ撮影ではエプロンの影が映り込み再撮影リスクが上がるため使用しないほうがよい。口内法撮影でも防護エプロンの装着は患者の心理面への配慮のためと考えた方が適切。ECのガイドラインでも必須とはされていない。",
+      "summary_ja": "日本歯科放射線学会（2015年）は歯科X線撮影における防護エプロンの線量低減効果はほとんどないとし、パノラマ撮影では使用しないほうがよいとの指針を発表。"
     }
   ]
 }
