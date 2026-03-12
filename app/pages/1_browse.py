@@ -158,6 +158,21 @@ if instructions:
                 pub_path.parent.mkdir(parents=True, exist_ok=True)
                 pub_path.write_text(revised_pub, encoding="utf-8")
 
+            # 8. 自動 git commit & push
+            st.write("変更を git にコミット中...")
+            from app.services.git_service import auto_commit_and_push
+
+            commit_files = [str(pro_path)]
+            if pub_path:
+                commit_files.append(str(pub_path))
+
+            summary = instructions[:50].replace("\n", " ")
+            commit_msg = f"Update article: {selected_id}\n\n修正指示: {summary}"
+            if auto_commit_and_push(commit_files, commit_msg):
+                st.write("git commit & push 完了")
+            else:
+                st.write("git commit & push をスキップしました（手動で実行してください）")
+
             service.close()
             status.update(label="修正完了", state="complete")
 

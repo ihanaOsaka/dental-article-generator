@@ -139,6 +139,17 @@ if topic_data:
                 st.session_state.generation_result = result
                 st.session_state.verification_results[result.topic_id] = result.verification_results
 
+                # 自動 git commit & push
+                progress_cb("変更を git にコミット中...")
+                from app.services.git_service import auto_commit_and_push
+
+                commit_files = [
+                    f"output/articles/{result.topic_id}.md",
+                    f"output/articles_public/{result.topic_id}.md",
+                ]
+                commit_msg = f"Add article: {result.topic_id}"
+                auto_commit_and_push(commit_files, commit_msg)
+
                 service.close()
                 status.update(label="生成完了", state="complete")
 
