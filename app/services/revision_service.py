@@ -21,7 +21,6 @@ if str(_project_root) not in sys.path:
 from evidence.evidence_manager import EvidenceManager
 from evidence.models import EvidenceCollection
 from generator.writer import ArticleWriter, _call_claude
-from generator.prompts.article_prompt import format_evidence_for_prompt
 from app.services.link_validator import LinkValidator
 
 logger = logging.getLogger(__name__)
@@ -114,6 +113,41 @@ REVISION_PROMPT_TEMPLATE_NO_EVIDENCE = """\
 """
 
 
+def _format_evidence_compact(evidences: list) -> str:
+    """修正用の簡潔なエビデンスフォーマット
+
+    新規作成用の format_evidence_for_prompt は抄録（最大500文字×N件）を含み
+    プロンプトが巨大になる。修正時は抄録を省略し、引用に必要な情報に絞る。
+    """
+    if not evidences:
+        return "（エビデンスなし）"
+
+    sections: list[str] = []
+    for i, ev in enumerate(evidences, 1):
+        parts = [f"### エビデンス {i}"]
+        parts.append(f"- **タイトル**: {ev.title}")
+        if ev.authors:
+            parts.append(f"- **著者**: {', '.join(ev.authors[:3])}{'...' if len(ev.authors) > 3 else ''}")
+        if ev.year:
+            parts.append(f"- **年**: {ev.year}")
+        if ev.journal:
+            parts.append(f"- **ジャーナル**: {ev.journal}")
+        if ev.url:
+            parts.append(f"- **URL**: {ev.url}")
+        if ev.doi:
+            parts.append(f"- **DOI URL**: https://doi.org/{ev.doi}")
+        if ev.pmid and (not ev.url or "pubmed" not in ev.url):
+            parts.append(f"- **PubMed URL**: https://pubmed.ncbi.nlm.nih.gov/{ev.pmid}/")
+        if ev.key_findings:
+            parts.append(f"- **主な知見**: {ev.key_findings}")
+        if ev.summary_ja:
+            parts.append(f"- **日本語要約**: {ev.summary_ja}")
+        # 抄録は省略（プロンプトサイズ削減）
+        sections.append("\n".join(parts))
+
+    return "\n\n".join(sections)
+
+
 def _strip_preamble(text: str) -> str:
     """記事本文の前に付いた説明文を除去する
 
@@ -130,22 +164,24 @@ def _strip_preamble(text: str) -> str:
 
 def _validate_article_output(revised: str, original: str) -> None:
     """修正結果が記事の体裁であることを検証"""
+    preview = revised[:200].replace("\n", " ")
+
     if len(revised) < len(original) * 0.3:
         raise RuntimeError(
             f"修正結果が短すぎます（{len(revised)}文字 / 元記事{len(original)}文字）。"
-            "記事ではない出力が返された可能性があります。元の記事は変更されていません。"
+            f"元の記事は変更されていません。\n\nClaude の出力: {preview}"
         )
 
     if "#" not in revised:
         raise RuntimeError(
-            "修正結果にMarkdown見出しが含まれていません。"
-            "記事ではない出力が返された可能性があります。元の記事は変更されていません。"
+            f"修正結果にMarkdown見出しが含まれていません。"
+            f"元の記事は変更されていません。\n\nClaude の出力: {preview}"
         )
 
     permission_keywords = ["許可をお願い", "許可をいただ", "許可が必要", "not permitted"]
     if any(kw in revised for kw in permission_keywords) and len(revised) < len(original) * 0.5:
         raise RuntimeError(
-            "記事ではない出力が返されました。元の記事は変更されていません。"
+            f"記事ではない出力が返されました。元の記事は変更されていません。\n\nClaude の出力: {preview}"
         )
 
 
@@ -253,7 +289,7 @@ class RevisionService:
             evidence: マージ済みエビデンス（Noneの場合エビデンスなしで修正）
         """
         if evidence and evidence.evidences:
-            evidence_text = format_evidence_for_prompt(evidence.sorted_by_priority())
+            evidence_text = _format_evidence_compact(evidence.sorted_by_priority())
             prompt = REVISION_PROMPT_TEMPLATE.format(
                 current_article=article,
                 evidence_section=evidence_text,
