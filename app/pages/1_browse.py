@@ -90,26 +90,68 @@ instructions = render_revision_panel(key_prefix=f"browse_{selected_id}")
 
 if instructions:
     with st.status("記事を修正中...", expanded=True) as status:
+        # 修正前のバックアップ（エラー時に復元）
+        backup_pro = professional_md
+        backup_pub = public_md
+
         try:
             from app.services.article_service import ArticleService
             from app.services.revision_service import RevisionService
             from evidence.models import EvidenceCollection
 
             service = ArticleService()
+            revision_svc = RevisionService(
+                writer=service.writer,
+                evidence_manager=service.manager,
+                link_validator=service.link_validator,
+            )
 
+            # 1. 修正指示を分析（追加エビデンスが必要か判定）
+            st.write("修正指示を分析中...")
+            analysis = revision_svc.analyze_instructions(info["title"], instructions)
+
+            # 2. エビデンス準備
+            existing_evidence = service.load_evidence_cache(selected_id)
+            if existing_evidence is None:
+                existing_evidence = EvidenceCollection(topic_id=selected_id)
+
+            if analysis.get("needs_evidence"):
+                st.write(f"追加エビデンスを収集中...（理由: {analysis.get('reason', '')}）")
+                evidence = revision_svc.collect_additional_evidence(
+                    analysis, existing_evidence)
+                st.write(f"エビデンス {len(evidence.evidences)} 件準備完了")
+            else:
+                st.write(f"エビデンス検索不要（理由: {analysis.get('reason', '')}）")
+                evidence = existing_evidence
+
+            # 3. 専門版を修正
             st.write("専門版を修正中...")
-            revision_svc = RevisionService(service.writer)
-            revised_pro = revision_svc.revise_professional(professional_md, instructions)
+            revised_pro = revision_svc.revise_professional(
+                professional_md, instructions, evidence=evidence)
 
+            # 4. リンク検証・修復
+            st.write("参考文献リンクを検証中...")
+            revised_pro, link_report = revision_svc.validate_links(revised_pro)
+
+            valid = sum(1 for r in link_report.results if r.status == "valid")
+            fixed = link_report.fixed_count
+            invalid = link_report.invalid_count
+            total = len(link_report.results)
+            if total > 0:
+                st.write(
+                    f"リンク検証: {total}件中 "
+                    f"有効{valid} / 修復{fixed} / 問題{invalid}"
+                )
+
+            # 5. 一般公開版を再生成
             st.write("一般公開版を再生成中...")
-            # エビデンスキャッシュを読み込み（なければ空）
-            evidence = service.load_evidence_cache(selected_id)
-            if evidence is None:
-                evidence = EvidenceCollection(topic_id=selected_id)
-
             revised_pub = revision_svc.regenerate_public(revised_pro, evidence)
 
-            # 保存
+            # 6. 一般公開版のリンクも検証
+            st.write("一般公開版のリンクを検証中...")
+            revised_pub, _ = revision_svc.validate_links(revised_pub)
+
+            # 7. 保存
             st.write("保存中...")
             pro_path.write_text(revised_pro, encoding="utf-8")
             if pub_path:
@@ -123,5 +165,12 @@ if instructions:
             st.rerun()
 
         except Exception as e:
+            # エラー時は元の記事を復元
+            try:
+                pro_path.write_text(backup_pro, encoding="utf-8")
+                if pub_path and backup_pub:
+                    pub_path.write_text(backup_pub, encoding="utf-8")
+            except Exception:
+                pass
             status.update(label="エラー", state="error")
             st.error(f"修正中にエラーが発生しました: {e}")
