@@ -75,7 +75,7 @@ def _call_claude(system_prompt: str, user_prompt: str, max_tokens: int = 4096) -
         # ファイルからstdinにパイプ
         with open(prompt_file, 'r', encoding='utf-8') as pf:
             result = subprocess.run(
-                [claude_cmd, "-p", "--output-format", "text"],
+                [claude_cmd, "-p", "--output-format", "text", "--tools", ""],
                 stdin=pf,
                 capture_output=True,
                 text=True,
