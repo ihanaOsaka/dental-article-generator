@@ -339,6 +339,22 @@ categories:
           comparison: "2歳までにやめる"
           outcome: "不正咬合リスク"
 
+  - id: eruption_disorders
+    name: "萌出異常"
+    age_range: "全年齢"
+    topics:
+      - id: altered_passive_eruption
+        title: "受動的萌出不全の診断と治療法 — 歯が短く見える・ガミースマイルの原因かも？"
+        keywords: ["受動的萌出不全", "ガミースマイル", "歯冠長延長術", "歯肉切除", "短い歯"]
+        search_terms:
+          en: ["altered passive eruption diagnosis treatment", "gummy smile crown lengthening", "altered passive eruption classification systematic review"]
+          ja: ["受動的萌出不全 診断 治療", "ガミースマイル 歯冠長延長術"]
+        pico:
+          population: "受動的萌出不全を有する患者"
+          intervention: "歯冠長延長術（歯肉切除術・骨切除を含む）"
+          comparison: "無治療"
+          outcome: "審美性の改善・歯肉縁の安定性"
+
   - id: general_prevention
     name: "一般的な予防・ケア"
     age_range: "全年齢"
