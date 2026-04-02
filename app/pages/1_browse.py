@@ -17,6 +17,7 @@ from app.state import (
     is_approved,
     approve_article,
     load_article_status,
+    change_article_category,
 )
 from app.components.article_viewer import render_article_viewer
 from app.components.revision_panel import render_revision_panel
@@ -91,18 +92,43 @@ if not selected_id or selected_id not in article_index:
 
 info = article_index[selected_id]
 
-# 承認ステータス表示・操作
+# 承認ステータス・カテゴリ変更
 _approved = is_approved(selected_id)
-if _approved:
-    st.caption("✅ この記事はチェック済みです")
-else:
-    col_approve, col_spacer = st.columns([1, 4])
-    with col_approve:
+_current_cat = info["category"]
+
+col_status, col_cat_label, col_cat_select, col_cat_btn = st.columns([2, 1, 1, 1])
+
+with col_status:
+    if _approved:
+        st.caption("✅ この記事はチェック済みです")
+    else:
         if st.button("✅ OK（チェック完了）", key=f"approve_{selected_id}",
                      type="primary"):
             approve_article(selected_id)
             st.rerun()
-    st.caption("⏳ この記事は未チェックです")
+        st.caption("⏳ 未チェック")
+
+with col_cat_label:
+    st.caption("カテゴリ変更")
+
+with col_cat_select:
+    _cat_options = list(CATEGORY_LABELS.keys())
+    _cat_idx = _cat_options.index(_current_cat) if _current_cat in _cat_options else 0
+    new_cat = st.selectbox(
+        "カテゴリ変更",
+        _cat_options,
+        index=_cat_idx,
+        format_func=lambda x: CATEGORY_LABELS.get(x, x),
+        key=f"cat_change_{selected_id}",
+        label_visibility="collapsed",
+    )
+
+with col_cat_btn:
+    if new_cat != _current_cat:
+        if st.button("変更", key=f"cat_apply_{selected_id}"):
+            new_id = change_article_category(selected_id, new_cat)
+            st.session_state.selected_article_id = new_id
+            st.rerun()
 
 # 記事を読み込み
 pro_path = Path(info["professional_path"])

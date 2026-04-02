@@ -149,3 +149,45 @@ def is_approved(topic_id: str) -> bool:
     status = load_article_status()
     entry = status.get(topic_id, {})
     return entry.get("approved", False)
+
+
+# --- 記事カテゴリ変更 ---
+
+def change_article_category(old_topic_id: str, new_category: str) -> str:
+    """記事のカテゴリを変更する（ファイルをリネーム）。
+
+    topic_idの接頭辞を変更し、ファイルをリネームする。
+    Returns: 新しいtopic_id
+    """
+    import shutil
+
+    base = Path(__file__).parent.parent
+
+    # 古い接頭辞を除去して本体名を取得
+    old_category = _get_category(old_topic_id)
+    if old_topic_id.startswith(old_category + "_"):
+        body = old_topic_id[len(old_category) + 1:]
+    else:
+        body = old_topic_id
+
+    # 新しいtopic_id
+    new_topic_id = f"{new_category}_{body}"
+    if new_topic_id == old_topic_id:
+        return old_topic_id
+
+    # ファイルをリネーム
+    for subdir in ["output/articles", "output/articles_public", "data/evidence_cache"]:
+        d = base / subdir
+        for ext in [".md", ".json"]:
+            old_file = d / f"{old_topic_id}{ext}"
+            new_file = d / f"{new_topic_id}{ext}"
+            if old_file.exists():
+                shutil.move(str(old_file), str(new_file))
+
+    # 承認ステータスを移行
+    status = load_article_status()
+    if old_topic_id in status:
+        status[new_topic_id] = status.pop(old_topic_id)
+        save_article_status(status)
+
+    return new_topic_id
