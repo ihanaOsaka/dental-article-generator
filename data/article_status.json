@@ -1,0 +1,157 @@
+{
+  "custom_upper_lip_frenulum_observation_diastema": {
+    "approved": true,
+    "approved_at": "2026-04-03",
+    "notes": ""
+  },
+  "elem_brushing_independence": {
+    "approved": true,
+    "approved_at": "2026-04-03",
+    "notes": ""
+  },
+  "elem_first_molar": {
+    "approved": true,
+    "approved_at": "2026-04-03",
+    "notes": ""
+  },
+  "elem_sealant": {
+    "approved": true,
+    "approved_at": "2026-04-03",
+    "notes": ""
+  },
+  "elem_xylitol": {
+    "approved": true,
+    "approved_at": "2026-04-03",
+    "notes": ""
+  },
+  "gen_dental_trauma": {
+    "approved": true,
+    "approved_at": "2026-04-03",
+    "notes": ""
+  },
+  "gen_electric_toothbrush": {
+    "approved": true,
+    "approved_at": "2026-04-03",
+    "notes": ""
+  },
+  "gen_sugar_caries": {
+    "approved": true,
+    "approved_at": "2026-04-03",
+    "notes": ""
+  },
+  "infant_bottle_caries": {
+    "approved": true,
+    "approved_at": "2026-04-03",
+    "notes": ""
+  },
+  "infant_first_dental_visit": {
+    "approved": true,
+    "approved_at": "2026-04-03",
+    "notes": ""
+  },
+  "infant_fluoride_start": {
+    "approved": true,
+    "approved_at": "2026-04-03",
+    "notes": ""
+  },
+  "infant_geographic_tongue": {
+    "approved": true,
+    "approved_at": "2026-04-03",
+    "notes": ""
+  },
+  "infant_snack": {
+    "approved": true,
+    "approved_at": "2026-04-03",
+    "notes": ""
+  },
+  "infant_teething": {
+    "approved": true,
+    "approved_at": "2026-04-03",
+    "notes": ""
+  },
+  "infant_upper_lip_frenulum": {
+    "approved": true,
+    "approved_at": "2026-04-03",
+    "notes": ""
+  },
+  "ortho_mouth_breathing": {
+    "approved": true,
+    "approved_at": "2026-04-03",
+    "notes": ""
+  },
+  "ortho_pacifier": {
+    "approved": true,
+    "approved_at": "2026-04-03",
+    "notes": ""
+  },
+  "ortho_timing": {
+    "approved": true,
+    "approved_at": "2026-04-03",
+    "notes": ""
+  },
+  "pregnancy_calcium": {
+    "approved": true,
+    "approved_at": "2026-04-03",
+    "notes": ""
+  },
+  "pregnancy_dental_treatment": {
+    "approved": true,
+    "approved_at": "2026-04-03",
+    "notes": ""
+  },
+  "pregnancy_periodontal": {
+    "approved": true,
+    "approved_at": "2026-04-03",
+    "notes": ""
+  },
+  "pregnancy_xylitol": {
+    "approved": true,
+    "approved_at": "2026-04-03",
+    "notes": ""
+  },
+  "preschool_dental_fear": {
+    "approved": true,
+    "approved_at": "2026-04-03",
+    "notes": ""
+  },
+  "preschool_fluoride_application": {
+    "approved": true,
+    "approved_at": "2026-04-03",
+    "notes": ""
+  },
+  "preschool_silver_cap": {
+    "approved": true,
+    "approved_at": "2026-04-03",
+    "notes": ""
+  },
+  "preschool_thumb_sucking": {
+    "approved": true,
+    "approved_at": "2026-04-03",
+    "notes": ""
+  },
+  "preschool_toothpaste": {
+    "approved": true,
+    "approved_at": "2026-04-03",
+    "notes": ""
+  },
+  "teen_mouthguard": {
+    "approved": true,
+    "approved_at": "2026-04-03",
+    "notes": ""
+  },
+  "teen_second_molar": {
+    "approved": true,
+    "approved_at": "2026-04-03",
+    "notes": ""
+  },
+  "teen_sports_sugar": {
+    "approved": true,
+    "approved_at": "2026-04-03",
+    "notes": ""
+  },
+  "teen_wisdom_teeth": {
+    "approved": true,
+    "approved_at": "2026-04-03",
+    "notes": ""
+  }
+}

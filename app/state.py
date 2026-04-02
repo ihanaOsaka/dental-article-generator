@@ -1,9 +1,13 @@
 """Streamlit セッション状態管理"""
 
+import json
 from dataclasses import dataclass, field
+from datetime import date
 from pathlib import Path
 
 import streamlit as st
+
+_STATUS_FILE = Path(__file__).parent.parent / "data" / "article_status.json"
 
 
 @dataclass
@@ -100,3 +104,48 @@ def _get_category(topic_id: str) -> str:
         if topic_id.startswith(prefix):
             return prefix
     return "custom"
+
+
+# --- 記事承認ステータス管理 ---
+
+def load_article_status() -> dict:
+    """記事の承認ステータスを読み込む"""
+    if _STATUS_FILE.exists():
+        return json.loads(_STATUS_FILE.read_text(encoding="utf-8"))
+    return {}
+
+
+def save_article_status(status: dict):
+    """記事の承認ステータスを保存する"""
+    _STATUS_FILE.parent.mkdir(parents=True, exist_ok=True)
+    _STATUS_FILE.write_text(
+        json.dumps(status, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+
+
+def approve_article(topic_id: str):
+    """記事を承認済みにする"""
+    status = load_article_status()
+    status[topic_id] = {
+        "approved": True,
+        "approved_at": str(date.today()),
+        "notes": "",
+    }
+    save_article_status(status)
+
+
+def revoke_approval(topic_id: str):
+    """記事の承認を取り消す（修正後など）"""
+    status = load_article_status()
+    if topic_id in status:
+        status[topic_id]["approved"] = False
+        status[topic_id]["approved_at"] = ""
+    save_article_status(status)
+
+
+def is_approved(topic_id: str) -> bool:
+    """記事が承認済みかどうか"""
+    status = load_article_status()
+    entry = status.get(topic_id, {})
+    return entry.get("approved", False)

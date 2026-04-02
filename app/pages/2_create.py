@@ -139,6 +139,10 @@ if topic_data:
                 st.session_state.generation_result = result
                 st.session_state.verification_results[result.topic_id] = result.verification_results
 
+                # 新規記事は未承認で登録
+                from app.state import revoke_approval
+                revoke_approval(result.topic_id)
+
                 service.close()
                 status.update(label="生成完了", state="complete")
 

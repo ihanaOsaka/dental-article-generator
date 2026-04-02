@@ -14,6 +14,9 @@ from app.state import (
     CATEGORY_LABELS,
     get_article_index,
     init_state,
+    is_approved,
+    approve_article,
+    load_article_status,
 )
 from app.components.article_viewer import render_article_viewer
 from app.components.revision_panel import render_revision_panel
@@ -61,9 +64,13 @@ with st.sidebar:
         format_func=lambda x: CATEGORY_LABELS.get(x, x),
     )
 
-    # 記事リスト
+    # 記事リスト（承認ステータス付き）
     articles_in_cat = categories.get(selected_cat, [])
-    article_options = {tid: info["title"] for tid, info in articles_in_cat}
+    _status = load_article_status()
+    article_options = {}
+    for tid, inf in articles_in_cat:
+        icon = "✅" if _status.get(tid, {}).get("approved") else "⏳"
+        article_options[tid] = f"{icon} {inf['title']}"
 
     if article_options:
         selected_id = st.radio(
@@ -83,6 +90,19 @@ if not selected_id or selected_id not in article_index:
     st.stop()
 
 info = article_index[selected_id]
+
+# 承認ステータス表示・操作
+_approved = is_approved(selected_id)
+if _approved:
+    st.caption("✅ この記事はチェック済みです")
+else:
+    col_approve, col_spacer = st.columns([1, 4])
+    with col_approve:
+        if st.button("✅ OK（チェック完了）", key=f"approve_{selected_id}",
+                     type="primary"):
+            approve_article(selected_id)
+            st.rerun()
+    st.caption("⏳ この記事は未チェックです")
 
 # 記事を読み込み
 pro_path = Path(info["professional_path"])

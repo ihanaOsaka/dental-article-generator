@@ -81,6 +81,10 @@ def run_revision_in_background(
                 pub.parent.mkdir(parents=True, exist_ok=True)
                 pub.write_text(revised_pub, encoding="utf-8")
 
+            # 修正されたので承認を取消し（要再チェック）
+            from app.state import revoke_approval
+            revoke_approval(topic_id)
+
             task_result.status = TaskStatus.COMPLETED
             task_result.result = {
                 "topic_id": topic_id,
