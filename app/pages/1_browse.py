@@ -1,6 +1,7 @@
 """記事一覧・閲覧・修正ページ"""
 
 import sys
+import time
 from pathlib import Path
 
 import streamlit as st
@@ -17,10 +18,21 @@ from app.state import (
 from app.components.article_viewer import render_article_viewer
 from app.components.revision_panel import render_revision_panel
 from app.components.reference_badges import render_verification_results
+from app.services.background_task import TaskStatus, start_revision_task
 
 init_state()
 
 st.header("📚 記事一覧")
+
+# --- バックグラウンド修正タスクの管理 ---
+# revision_tasks: dict[topic_id, TaskResult]
+if "revision_tasks" not in st.session_state:
+    st.session_state.revision_tasks = {}
+# 旧形式からの移行
+if "revision_task" in st.session_state:
+    old = st.session_state.pop("revision_task")
+    if old is not None and hasattr(old, "topic_id") and old.topic_id:
+        st.session_state.revision_tasks[old.topic_id] = old
 
 # 記事インデックスを取得
 article_index = get_article_index()
@@ -71,7 +83,6 @@ if not selected_id or selected_id not in article_index:
     st.stop()
 
 info = article_index[selected_id]
-st.subheader(info["title"])
 
 # 記事を読み込み
 pro_path = Path(info["professional_path"])
@@ -83,43 +94,25 @@ public_md = pub_path.read_text(encoding="utf-8") if pub_path and pub_path.exists
 # 記事ビューア
 render_article_viewer(professional_md, public_md, key_prefix=selected_id)
 
-# 修正パネル（固定フッター）
-instructions = render_revision_panel(key_prefix=f"browse_{selected_id}")
+# 修正パネル（固定フッター）— この記事が修正中の場合のみ無効化
+_current_task = st.session_state.revision_tasks.get(selected_id)
+_is_this_article_revising = (
+    _current_task is not None and _current_task.status == TaskStatus.RUNNING
+)
+instructions = render_revision_panel(
+    key_prefix=f"browse_{selected_id}",
+    disabled=_is_this_article_revising,
+)
 
 if instructions:
-    with st.status("記事を修正中...", expanded=True) as status:
-        try:
-            from app.services.article_service import ArticleService
-            from app.services.revision_service import RevisionService
-            from evidence.models import EvidenceCollection
-
-            service = ArticleService()
-
-            st.write("専門版を修正中...")
-            revision_svc = RevisionService(service.writer)
-            revised_pro = revision_svc.revise_professional(professional_md, instructions)
-
-            st.write("一般公開版を再生成中...")
-            # エビデンスキャッシュを読み込み（なければ空）
-            evidence = service.load_evidence_cache(selected_id)
-            if evidence is None:
-                evidence = EvidenceCollection(topic_id=selected_id)
-
-            revised_pub = revision_svc.regenerate_public(revised_pro, evidence)
-
-            # 保存
-            st.write("保存中...")
-            pro_path.write_text(revised_pro, encoding="utf-8")
-            if pub_path:
-                pub_path.parent.mkdir(parents=True, exist_ok=True)
-                pub_path.write_text(revised_pub, encoding="utf-8")
-
-            service.close()
-            status.update(label="修正完了", state="complete")
-
-            st.success("記事を修正しました。ページを再読み込みすると反映されます。")
-            st.rerun()
-
-        except Exception as e:
-            status.update(label="エラー", state="error")
-            st.error(f"修正中にエラーが発生しました: {e}")
+    # バックグラウンドでタスクを開始
+    task_result = start_revision_task(
+        topic_id=selected_id,
+        article_title=info["title"],
+        professional_md=professional_md,
+        instructions=instructions,
+        pro_path=str(pro_path),
+        pub_path=str(pub_path) if pub_path else None,
+    )
+    st.session_state.revision_tasks[selected_id] = task_result
+    st.rerun()

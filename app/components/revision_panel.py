@@ -64,8 +64,13 @@ section.main > div.block-container {
 """
 
 
-def render_revision_panel(key_prefix: str = "revision"):
+def render_revision_panel(key_prefix: str = "revision",
+                          disabled: bool = False):
     """修正指示の固定フッターパネル
+
+    Args:
+        key_prefix: Streamlitウィジェットのキー接頭辞
+        disabled: Trueの場合、入力とボタンを無効化する
 
     Returns:
         str | None: 修正指示テキスト（ボタン押下時）、未押下時はNone
@@ -81,19 +86,22 @@ def render_revision_panel(key_prefix: str = "revision"):
     footer_cols = st.columns([3, 1])
 
     with footer_cols[0]:
+        placeholder = ("⏳ 修正を実行中…" if disabled
+                       else "記事を読みながらコメントを入力 → まとめて「修正を実行」")
         instructions = st.text_area(
             "修正指示",
-            placeholder="記事を読みながらコメントを入力 → まとめて「修正を実行」",
+            placeholder=placeholder,
             height=52,
             key=f"{key_prefix}_instructions",
             label_visibility="collapsed",
+            disabled=disabled,
         )
 
     with footer_cols[1]:
         submitted = st.button(
             "修正を実行",
             key=f"{key_prefix}_btn",
-            disabled=not instructions.strip(),
+            disabled=disabled or not instructions.strip(),
             type="primary",
             use_container_width=True,
         )

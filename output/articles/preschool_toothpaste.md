@@ -1,10 +1,14 @@
+情報が確認できました。では、日本の4学会合同ガイドライン（2023年）を組み込んで記事全文を修正します。
+
+---
+
 # 子どもの歯磨き粉、どれを選べばいい？フッ素濃度は？
 
 **「フッ素は体に悪いって聞いたけど、本当？」——ドラッグストアの歯磨き粉コーナーで、こんな不安を感じたことはありませんか？**
 
 お子さんの歯磨き粉を選ぶとき、たくさんの商品が並ぶ棚の前で悩んでしまう方は少なくありません。「子ども用」と書いてあっても、フッ素の濃度はさまざま。「フッ素入り」「フッ素なし」「1000ppm」「500ppm」……。いったい何を基準に選べばいいのでしょうか？
 
-3〜6歳は乳歯が揃い、永久歯への生え変わりが始まる大切な時期です。この時期のむし歯予防が、将来のお口の健康に大きく影響します。今回は、世界の最新エビデンスをもとに、歯磨き粉の選び方をわかりやすくお伝えします。
+3〜6歳は乳歯が揃い、永久歯への生え変わりが始まる大切な時期です。この時期のむし歯予防が、将来のお口の健康に大きく影響します。今回は、世界と日本の最新エビデンス・ガイドラインをもとに、歯磨き粉の選び方をわかりやすくお伝えします。
 
 ---
 
@@ -16,13 +20,29 @@
 
 また、[アメリカ小児歯科学会（AAPD）のガイドライン（2023年）](https://www.aapd.org/research/oral-health-policies--recommendations/fluoride-therapy/)でも、3〜6歳のお子さんには**豆粒大（グリーンピース1個分くらい）の量**でフッ素配合歯磨き粉を使うことが推奨されています。
 
+## 日本でも推奨が変わりました——4学会合同の新しい指針
+
+2023年1月、[日本口腔衛生学会・日本小児歯科学会・日本歯科保存学会・日本老年歯科医学会の4学会合同](https://www.jspd.or.jp/recommendation/article22/)で、**「フッ化物配合歯磨剤の推奨される利用方法」**が発表されました。これは日本におけるフッ素配合歯磨き粉の使い方に関する最新の指針であり、世界の推奨に合わせて大きく改定されたものです。
+
+従来、日本では小さなお子さんには500ppm程度の低濃度が推奨されていましたが、この新しい指針では**歯が生えたときから1000ppmのフッ素濃度**が推奨されるようになりました。年齢ごとの推奨は以下のとおりです。
+
+| 年齢 | フッ素濃度 | 使用量の目安 |
+|---|---|---|
+| 歯の萌出〜2歳 | 1000ppmF | 米粒程度（1〜2mm） |
+| 3〜5歳 | 1000ppmF | グリーンピース程度（5mm） |
+| 6歳〜成人・高齢者 | 1500ppmF | 歯ブラシ全体（1.5〜2cm） |
+
+この指針では、**就寝前を含めて1日2回の歯磨き**を行い、歯磨き後は歯磨き粉を軽く吐き出し、**うがいをする場合は少量の水で1回**とすることが推奨されています。
+
+世界と日本、両方のガイドラインが「1000ppm以上」で一致しているという点は、保護者の方にとって安心できる情報ではないでしょうか。
+
 ## フッ素濃度はどれくらいが適切？
 
 ここが最も大切なポイントです。
 
 [Walsh et al.（2019）のコクランレビュー](https://pubmed.ncbi.nlm.nih.gov/30829399/)は、フッ素配合歯磨き粉の濃度別の予防効果を分析した大規模な系統的レビューです。この研究によると、**1000ppm以上のフッ素配合歯磨き粉はむし歯予防に明確な効果がある**一方で、**500ppm以下の低濃度ではむし歯予防効果が十分に確認されていません**。
 
-つまり、「子ども用だから低濃度で安心」という考えは、むし歯予防の観点からは必ずしも正しくないのです。**3歳以上であれば、1000ppm（0.10%）のフッ素濃度の歯磨き粉を選ぶことが推奨されます**。
+つまり、「子ども用だから低濃度で安心」という考えは、むし歯予防の観点からは必ずしも正しくないのです。日本の4学会合同の指針やWHOの推奨と合わせて考えると、**3歳以上であれば1000ppm（0.10%）のフッ素濃度の歯磨き粉を選ぶことが推奨されます**。
 
 日本でも近年、子ども用歯磨き粉で1000ppm配合の製品が増えてきました。パッケージの成分表示で「フッ化ナトリウム」や「モノフルオロリン酸ナトリウム」の記載を確認し、フッ素濃度（ppm）をチェックしてみてください。
 
@@ -35,6 +55,8 @@
 また、[Wong et al.（2024）のコクランレビュー](https://pubmed.ncbi.nlm.nih.gov/38899538/)は、局所フッ素の使用と歯のフッ素症（永久歯に白い斑点ができること）の関係を調べたものです。フッ素歯磨き粉を使用した子どもではフッ素症のリスクがやや高まる可能性が示されていますが、**使用量を守ることでリスクを大幅に減らすことができます**。
 
 さらに、[Vieira et al.（2018）のシステマティックレビュー](https://pubmed.ncbi.nlm.nih.gov/29345027/)では、フレーバー付きの歯磨き粉は子どもが多く使いすぎたり飲み込みやすくなる可能性が指摘されています。甘い味の歯磨き粉は子どもに人気ですが、使用量の管理がより大切になります。
+
+日本の4学会合同の指針でも、**保護者が歯磨き粉の量を管理すること**が前提とされています。使用量さえ守れば、1000ppmの歯磨き粉を安心して使うことができます。
 
 ## 「フッ素なし」の歯磨き粉はどうなの？
 
@@ -50,11 +72,14 @@
 - 「子ども用」であっても、フッ素濃度が低すぎないかチェック
 - 研磨剤が少なめのものが、やさしく磨けておすすめ
 
-### 使い方のコツ
+### 使い方のコツ（4学会合同の指針に基づく）
 
-- **3〜6歳は「豆粒大」**（グリーンピース1個分）が適量
+- **3〜5歳は「グリーンピース程度（5mm）」**が適量
+- **歯の萌出〜2歳は「米粒程度（1〜2mm）」**
+- **6歳以上はフッ素濃度1500ppmに切り替え**、歯ブラシ全体（1.5〜2cm）が目安
 - **必ず保護者が歯磨き粉を出してあげる**——お子さんに任せると出しすぎてしまいがち
-- 歯磨き後の「うがい」は**少量の水で1回だけ**。何度もゆすぐとフッ素が流れてしまいます
+- **就寝前を含めて1日2回**の歯磨きを習慣にしましょう
+- 歯磨き後は歯磨き粉を軽く吐き出し、**うがいをする場合は少量の水で1回だけ**。何度もゆすぐとフッ素が流れてしまいます
 - 歯磨きは**保護者の仕上げ磨き**がまだまだ必要な年齢です
 
 ### 歯磨き以外のフッ素活用
@@ -65,10 +90,11 @@
 
 ## まとめ
 
-- **3〜6歳のお子さんには、フッ素濃度1000ppmの歯磨き粉を豆粒大の量で使用する**のが、現在の世界的な推奨です
-- 500ppm以下の低濃度歯磨き粉では、十分なむし歯予防効果が得られない可能性があります
+- **3〜5歳のお子さんには、フッ素濃度1000ppmの歯磨き粉をグリーンピース程度の量で使用する**のが、日本の4学会合同の指針および世界的なガイドラインの推奨です
+- 従来日本で推奨されていた500ppmの低濃度歯磨き粉では、十分なむし歯予防効果が得られない可能性があります
+- **6歳以上ではフッ素濃度1500ppmへの切り替え**が推奨されています
 - 飲み込みが心配な場合も、**使用量を守れば安全性は高い**とされています
-- 歯磨き後のうがいは少量の水で1回にとどめましょう
+- **就寝前を含め1日2回**の歯磨きを行い、歯磨き後のうがいは少量の水で1回にとどめましょう
 - 家庭での歯磨きに加えて、歯科医院でのフッ素塗布も有効です
 
 お子さまの歯について気になることがあれば、お気軽にご相談ください。お子さんの年齢やむし歯リスクに合わせた歯磨き粉の選び方を、一緒に考えていきましょう。
@@ -79,9 +105,28 @@
 
 1. [World Health Organization. WHO guideline: use of fluorides for caries prevention. 2023.](https://www.who.int/publications/i/item/9789240096882)
 2. [American Academy of Pediatric Dentistry. AAPD Guideline: Fluoride Therapy. 2023.](https://www.aapd.org/research/oral-health-policies--recommendations/fluoride-therapy/)
-3. [Walsh T, Worthington HV, Glenny AM, et al. Fluoride toothpastes of different concentrations for preventing dental caries. *Cochrane Database Syst Rev.* 2019.](https://pubmed.ncbi.nlm.nih.gov/30829399/)
-4. [Wong MCM, Zhang R, Luo BW, et al. Topical fluoride as a cause of dental fluorosis in children. *Cochrane Database Syst Rev.* 2024.](https://pubmed.ncbi.nlm.nih.gov/38899538/)
-5. [Petrović B, Kojić S, Milić L, et al. Toothpaste ingestion—evaluating the problem and ensuring safety: systematic review and meta-analysis. *Front Public Health.* 2023.](https://pubmed.ncbi.nlm.nih.gov/37927882/)
-6. [Chatzidimitriou K, Theodorou K, Seremidi K, et al. The role of hydroxyapatite-based, fluoride-free toothpastes on the prevention and the remineralization of initial caries lesions: A systematic review and meta-analysis. *J Dent.* 2025.](https://pubmed.ncbi.nlm.nih.gov/40107597/)
-7. [Vieira TI, Mangabeira A, Alexandria AK, et al. Does flavoured dentifrice increase fluoride intake compared with regular toothpaste in children? A systematic review and meta-analysis. *Int J Paediatr Dent.* 2018.](https://pubmed.ncbi.nlm.nih.gov/29345027/)
-8. [Yu L, Yu X, Li Y, et al. The additional benefit of professional fluoride application for children as an adjunct to regular fluoride toothpaste: a systematic review and meta-analysis. *Clin Oral Investig.* 2021.](https://pubmed.ncbi.nlm.nih.gov/33782769/)
+3. [日本口腔衛生学会・日本小児歯科学会・日本歯科保存学会・日本老年歯科医学会. フッ化物配合歯磨剤の推奨される利用方法. 2023.](https://www.jspd.or.jp/recommendation/article22/)
+4. [Walsh T, Worthington HV, Glenny AM, et al. Fluoride toothpastes of different concentrations for preventing dental caries. *Cochrane Database Syst Rev.* 2019.](https://pubmed.ncbi.nlm.nih.gov/30829399/)
+5. [Wong MCM, Zhang R, Luo BW, et al. Topical fluoride as a cause of dental fluorosis in children. *Cochrane Database Syst Rev.* 2024.](https://pubmed.ncbi.nlm.nih.gov/38899538/)
+6. [Petrović B, Kojić S, Milić L, et al. Toothpaste ingestion—evaluating the problem and ensuring safety: systematic review and meta-analysis. *Front Public Health.* 2023.](https://pubmed.ncbi.nlm.nih.gov/37927882/)
+7. [Chatzidimitriou K, Theodorou K, Seremidi K, et al. The role of hydroxyapatite-based, fluoride-free toothpastes on the prevention and the remineralization of initial caries lesions: A systematic review and meta-analysis. *J Dent.* 2025.](https://pubmed.ncbi.nlm.nih.gov/40107597/)
+8. [Vieira TI, Mangabeira A, Alexandria AK, et al. Does flavoured dentifrice increase fluoride intake compared with regular toothpaste in children? A systematic review and meta-analysis. *Int J Paediatr Dent.* 2018.](https://pubmed.ncbi.nlm.nih.gov/29345027/)
+9. [Yu L, Yu X, Li Y, et al. The additional benefit of professional fluoride application for children as an adjunct to regular fluoride toothpaste: a systematic review and meta-analysis. *Clin Oral Investig.* 2021.](https://pubmed.ncbi.nlm.nih.gov/33782769/)
+
+---
+
+**主な修正点のまとめ：**
+
+1. **新セクション「日本でも推奨が変わりました——4学会合同の新しい指針」を追加**：4学会合同の指針の内容（年齢別のフッ素濃度・使用量の表）を詳しく紹介し、従来の500ppmから1000ppmへの改定ポイントを解説しました。
+
+2. **「使い方のコツ」セクションを4学会合同の指針に準拠して改訂**：年齢別の使用量、1日2回（就寝前を含む）の推奨、6歳以上は1500ppmへの切り替えなどを反映しました。
+
+3. **「フッ素を飲み込んでしまうのが心配」セクションに補足**：日本の指針でも保護者による使用量管理が前提であることを追記しました。
+
+4. **まとめセクションを更新**：日本の指針と世界のガイドラインが一致している旨を明記し、6歳以上の1500ppm推奨も追加しました。
+
+5. **参考文献に4学会合同の指針を追加**（文献3番）。
+
+Sources:
+- [日本小児歯科学会「フッ化物配合歯磨剤の推奨される利用方法について」4学会合同の提言](https://www.jspd.or.jp/recommendation/article22/)
+- [日本口腔衛生学会 フッ化物配合歯磨剤の推奨される利用方法【普及版】](https://www.kokuhoken.or.jp/jsdh/news/2023/news_230303.pdf)

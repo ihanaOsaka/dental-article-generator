@@ -48,6 +48,7 @@ def init_state():
         "current_professional": "",
         "current_public": "",
         "revision_in_progress": False,
+        "revision_tasks": {},
         "generation_in_progress": False,
         "generation_result": None,
         "verification_results": {},

@@ -1,3 +1,7 @@
+エビデンスが確認できました。修正記事を出力します。主な変更点は「シーラントとフッ素塗布、どちらがいいの？」セクションに日本の保険適用情報とフッ素ゲルのエビデンスを追加し、参考文献も追加します。
+
+---
+
 # シーラントって何？6歳臼歯を守る最強の予防法
 
 「6歳臼歯はむし歯になりやすい」と聞いたことはありませんか？　実は、生えたばかりの奥歯のむし歯リスクを**最大80%も減らせる**予防法があるのです。それが「シーラント」です。
@@ -38,7 +42,14 @@
 
 ### シーラントとフッ素塗布、どちらがいいの？
 
-フッ素塗布（フッ化物バーニッシュ）もむし歯予防として広く行われています。[Kashbour et al.（2020）](https://doi.org/10.1002/14651858.CD003067.pub5)のコクランレビューでは、奥歯の溝のむし歯予防においてシーラントとフッ素塗布の効果を比較しており、シーラントの方がやや優れている可能性が示唆されました。一方、[Li et al.（2020）](https://doi.org/10.1038/s41598-020-59564-5)のメタアナリシスでは、両者の効果は同等という結果も報告されています。
+フッ素塗布もむし歯予防として広く行われています。歯科医院で行われる専門的なフッ素塗布には、大きく分けて**フッ化物バーニッシュ**と**高濃度フッ素ゲル（APFゲルなど）**の2種類があります。
+
+[Kashbour et al.（2020）](https://doi.org/10.1002/14651858.CD003067.pub5)のコクランレビューでは、奥歯の溝のむし歯予防においてシーラントとフッ素塗布の効果を比較しており、シーラントの方がやや優れている可能性が示唆されました。一方、[Li et al.（2020）](https://doi.org/10.1038/s41598-020-59564-5)のメタアナリシスでは、両者の効果は同等という結果も報告されています。
+
+フッ素塗布それぞれの予防効果については、コクランレビューにおいて、フッ化物バーニッシュはむし歯を約43%予防し（[Marinho et al., 2013](https://doi.org/10.1002/14651858.CD002279.pub2)）、フッ素ゲルは約28%予防する（[Marinho et al., 2015](https://doi.org/10.1002/14651858.CD002280.pub2)）と報告されています。
+
+> **日本の保険制度に関する補足（2026年4月現在）**
+> 日本では、歯科医院で行う**高濃度フッ素塗布（APFゲル等のフッ化物歯面塗布）は保険適用**で受けることができます。一方、**フッ化物バーニッシュは現在のところ保険適用外（自費診療）**となっています。保険適用の高濃度フッ素塗布でも上記のとおりコクランレビューで約28%のむし歯予防効果が確認されていますので、費用面も考慮しながら歯科医師に相談されるとよいでしょう。
 
 現時点では、**シーラントとフッ素塗布は「どちらか一方」ではなく、組み合わせて使うことでより高い予防効果が期待できる**と考えられています。お子さんの状況に応じて、歯科医師と相談して最適な組み合わせを選ぶのがおすすめです。
 
@@ -79,3 +90,14 @@
 8. [Li F, Jiang P, Yu F, et al. Comparison between Fissure Sealant and Fluoride Varnish on Caries Prevention for First Permanent Molars: a Systematic Review and Meta-analysis. *Sci Rep.* 2020.](https://doi.org/10.1038/s41598-020-59564-5)
 9. [Slayton RL, Urquhart O, Araujo MWB, et al. Evidence-based clinical practice guideline on nonrestorative treatments for carious lesions. *J Am Dent Assoc.* 2018.](https://doi.org/10.1016/j.adaj.2018.07.002)
 10. [Kapoor V, Kumar A, Manjunath BC, et al. Comparative evaluation of retention and cariostatic effect of glass ionomer, hydrophobic & hydrophilic resin-based sealants: a systematic review and meta-analysis. *Evid Based Dent.* 2023.](https://doi.org/10.1038/s41432-023-00850-2)
+11. [Marinho VCC, Worthington HV, Walsh T, et al. Fluoride varnishes for preventing dental caries in children and adolescents. *Cochrane Database Syst Rev.* 2013.](https://doi.org/10.1002/14651858.CD002279.pub2)
+12. [Marinho VCC, Worthington HV, Walsh T, et al. Fluoride gels for preventing dental caries in children and adolescents. *Cochrane Database Syst Rev.* 2015.](https://doi.org/10.1002/14651858.CD002280.pub2)
+
+---
+
+**主な変更点：**
+
+1. 「シーラントとフッ素塗布、どちらがいいの？」セクションで、フッ化物バーニッシュと高濃度フッ素ゲル（APFゲル）の2種類があることを明記
+2. それぞれの予防効果をコクランレビューのエビデンス付きで記載（バーニッシュ約43%、ゲル約28%）
+3. 日本の保険制度についての補足ブロックを追加（高濃度フッ素塗布＝保険適用、バーニッシュ＝自費）
+4. 参考文献に Marinho et al. (2013) のバーニッシュレビューと Marinho et al. (2015) のゲルレビューを追加（文献11, 12）

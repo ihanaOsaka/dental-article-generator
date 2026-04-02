@@ -32,6 +32,15 @@
 
 日本では、[厚生労働省の「フッ化物洗口ガイドライン」（2003年）](https://www.mhlw.go.jp/topics/2003/07/tp0711-1.html)において、フッ化物洗口の安全性と有効性が確認されています。ただし、フッ化物洗口（ブクブクうがい）は4歳以上が対象です。0〜2歳のお子さんには、歯磨き粉によるフッ素使用や歯科医院でのフッ素塗布が中心となります。
 
+さらに、2023年には[日本口腔衛生学会・日本小児歯科学会・日本歯科保存学会・日本老年歯科医学会の4学会合同](https://www.jspd.or.jp/recommendation/article01/)で、「フッ化物配合歯磨剤の推奨される利用方法」が公表されました。この推奨では、年齢ごとのフッ素濃度と使用量が以下のように具体的に示されています。
+
+- **歯が生えてから2歳まで**：フッ素濃度 **900〜1000ppm**、米粒大（1〜2mm程度）を1日2回
+- **3〜5歳**：フッ素濃度 **900〜1000ppm**、グリーンピース大（5mm程度）を1日2回
+- **6歳〜14歳**：フッ素濃度 **1400〜1500ppm**、1.5〜2cm程度を1日2回
+- **15歳以上**：フッ素濃度 **1400〜1500ppm**、1.5〜2cm程度を1日2回
+
+この4学会合同の推奨により、日本でも国際的な基準に近い形で、歯の萌出直後からのフッ素配合歯磨剤の使用が明確に推奨されるようになりました。
+
 ## エビデンスが示すフッ素の効果
 
 フッ素の有効性は、多くの研究で確認されています。
@@ -48,7 +57,7 @@
 
 ### 歯が生えたら（生後6ヶ月頃〜）
 
-1. **フッ素配合歯磨き粉を「米粒大」で使い始める**：1000ppm以上のフッ素濃度のものを選びましょう。日本で販売されている子ども用歯磨き粉の中には、フッ素濃度が低い（500ppm程度）ものもあります。パッケージのフッ素濃度を確認してみてください。
+1. **フッ素配合歯磨き粉を「米粒大」で使い始める**：日本の4学会合同推奨では、歯が生えてから2歳までは900〜1000ppmのフッ素濃度のものを米粒大（1〜2mm程度）で1日2回使用することが勧められています。日本で販売されている子ども用歯磨き粉の中にはフッ素濃度が低い（500ppm程度）ものもありますので、パッケージのフッ素濃度を確認してみてください。
 2. **量を守る**：「米粒大」とは、歯ブラシの毛先にうっすらと付く程度のごく少量です。この量であれば、万が一飲み込んでも健康上の問題はありません。
 3. **保護者が仕上げ磨きをする**：お子さん自身では十分に磨けません。膝の上に寝かせて、やさしく磨いてあげましょう。
 
@@ -60,13 +69,13 @@
 
 ### 「飲み込んでも大丈夫？」という不安に
 
-米粒大の歯磨き粉に含まれるフッ素量は非常に微量です。WHOやAAPDが「この量なら安全」と判断した上で、乳幼児への使用を推奨しています。ただし、大量に飲み込むことは避けるべきですので、歯磨き粉はお子さんの手の届かない場所に保管しましょう。
+米粒大の歯磨き粉に含まれるフッ素量は非常に微量です。WHOやAAPD、そして日本の4学会合同推奨でも「この量なら安全」と判断した上で、乳幼児への使用を推奨しています。ただし、大量に飲み込むことは避けるべきですので、歯磨き粉はお子さんの手の届かない場所に保管しましょう。
 
 ## まとめ
 
 - フッ素配合歯磨き粉は、**歯が生えたときから使用できます**
 - 0〜2歳では「**米粒大**」の量を目安にしましょう
-- フッ素濃度は**1000ppm以上**のものが国際的に推奨されています
+- フッ素濃度は**1000ppm以上**のものが国際的に推奨されています（日本の4学会合同推奨では0〜5歳は**900〜1000ppm**）
 - 歯科医院での**フッ素バーニッシュ塗布**（3〜6ヶ月ごと）も有効な予防手段です
 - フッ素だけでなく、**糖質の管理や仕上げ磨き**など総合的なケアが大切です
 
@@ -79,9 +88,10 @@
 1. [World Health Organization. WHO guideline: use of fluorides for caries prevention. 2023.](https://www.who.int/publications/i/item/9789240096882)
 2. [World Health Organization. Ending childhood dental caries: WHO implementation manual. 2019.](https://www.who.int/publications/i/item/ending-childhood-dental-caries-who-implementation-manual)
 3. [厚生労働省. フッ化物洗口ガイドライン. 2003.](https://www.mhlw.go.jp/topics/2003/07/tp0711-1.html)
-4. [American Dental Association. ADA Clinical Practice Guideline: Topical Fluoride for Caries Prevention. 2024.](https://www.ada.org/resources/research/science-and-research-institute/evidence-based-dental-research/fluoride-topical-and-systemic-supplements)
-5. [American Academy of Pediatric Dentistry. AAPD Guideline: Fluoride Therapy. 2023.](https://www.aapd.org/research/oral-health-policies--recommendations/fluoride-therapy/)
-6. [Manori D, Shamini K, et al. Professionally applied fluorides for preventing and arresting dental caries in low- and middle-income countries: Systematic review. *J Public Health Dent.* 2024.](https://doi.org/10.1111/jphd.12617)
-7. [Ly-Mapes O, Jang H, Al Jallad N, et al. Effectiveness of interventions on improving early-life dental care utilization: a systematic review and meta-analysis. *Quintessence Int.* 2024.](https://doi.org/10.3290/j.qi.b5640008)
-8. [Davidson KW, Barry MJ, Mangione CM, et al. Screening and Interventions to Prevent Dental Caries in Children Younger Than 5 Years: US Preventive Services Task Force Recommendation Statement. *JAMA.* 2021.](https://doi.org/10.1001/jama.2021.20007)
-9. [Moynihan P, Tanner LM, Holmes RD, et al. Systematic Review of Evidence Pertaining to Factors That Modify Risk of Early Childhood Caries. *JDR Clin Trans Res.* 2019.](https://doi.org/10.1177/2380084418824262)
+4. [日本口腔衛生学会・日本小児歯科学会・日本歯科保存学会・日本老年歯科医学会. フッ化物配合歯磨剤の推奨される利用方法. 2023.](https://www.jspd.or.jp/recommendation/article01/)
+5. [American Dental Association. ADA Clinical Practice Guideline: Topical Fluoride for Caries Prevention. 2024.](https://www.ada.org/resources/research/science-and-research-institute/evidence-based-dental-research/fluoride-topical-and-systemic-supplements)
+6. [American Academy of Pediatric Dentistry. AAPD Guideline: Fluoride Therapy. 2023.](https://www.aapd.org/research/oral-health-policies--recommendations/fluoride-therapy/)
+7. [Manori D, Shamini K, et al. Professionally applied fluorides for preventing and arresting dental caries in low- and middle-income countries: Systematic review. *J Public Health Dent.* 2024.](https://doi.org/10.1111/jphd.12617)
+8. [Ly-Mapes O, Jang H, Al Jallad N, et al. Effectiveness of interventions on improving early-life dental care utilization: a systematic review and meta-analysis. *Quintessence Int.* 2024.](https://doi.org/10.3290/j.qi.b5640008)
+9. [Davidson KW, Barry MJ, Mangione CM, et al. Screening and Interventions to Prevent Dental Caries in Children Younger Than 5 Years: US Preventive Services Task Force Recommendation Statement. *JAMA.* 2021.](https://doi.org/10.1001/jama.2021.20007)
+10. [Moynihan P, Tanner LM, Holmes RD, et al. Systematic Review of Evidence Pertaining to Factors That Modify Risk of Early Childhood Caries. *JDR Clin Trans Res.* 2019.](https://doi.org/10.1177/2380084418824262)

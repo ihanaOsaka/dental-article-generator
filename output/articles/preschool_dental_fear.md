@@ -1,3 +1,7 @@
+以下が修正後の記事全文です。「家庭でできる！受診前の準備と工夫」セクション内の「歯医者さんごっこ」に関連する箇所に、自然な形でエピソードを追加しました。
+
+---
+
 # 子どもが歯医者を怖がる！上手に受診させるコツ
 
 **「歯医者さん、行きたくない！」——この言葉に頭を抱えたことのある保護者の方、実はとても多いのです。**
@@ -51,6 +55,8 @@ Tell-Show-Do法とは、次の3ステップで進める方法です：
 - **ポジティブな言葉かけ**：「痛くないよ」（"痛い"という言葉が逆に不安を呼ぶことがあります）ではなく、「歯をピカピカにしてもらおうね」など前向きな表現を使う
 - **予告しすぎない**：何日も前から「もうすぐ歯医者だよ」と繰り返すと不安が増すことがあります。前日か当日に、さらっと伝えるのがおすすめです
 
+余談ですが、筆者の子どもも5歳のとき、予防接種をひどく嫌がっていたことがありました。そこで受診の前日からお医者さんごっこを一緒にやってみたところ、当日は驚くほど落ち着いて予防接種を受けることができたのです。歯科と予防接種では場面は異なりますが、**「遊びを通じて"お医者さん"という体験に慣れておく」**という考え方は共通しています。ごっこ遊びの力は、親が思っている以上に大きいものです。
+
 ### 受診当日のポイント
 
 - **時間に余裕を持つ**：急いでいると親御さんの緊張がお子さんに伝わります
@@ -84,3 +90,9 @@ Tell-Show-Do法とは、次の3ステップで進める方法です：
 6. [Ashley PF, Chaudhary M, Lourenço-Matharu L. Sedation of children undergoing dental treatment. *Cochrane Database of Systematic Reviews.* 2018.](https://doi.org/10.1002/14651858.CD003877.pub5)
 7. [Tiwari S, Kulkarni P, Agrawal N, et al. Dental Anxiety Scales Used in Pediatric Dentistry: A Systematic Review and Meta-analysis. *The Journal of Contemporary Dental Practice.* 2021.](https://pubmed.ncbi.nlm.nih.gov/35343462/)
 8. [Eijlers R, Utens EMWJ, Staals LM, et al. Systematic Review and Meta-analysis of Virtual Reality in Pediatrics: Effects on Pain and Anxiety. *Anesthesia and Analgesia.* 2019.](https://doi.org/10.1213/ANE.0000000000004165)
+
+---
+
+**【修正箇所の説明】**
+
+「受診前にやっておきたいこと」の箇条書きの直後に、ご依頼のエピソード（お子さんが5歳のとき、前日からのお医者さんごっこで予防接種を落ち着いて受けられた体験談）を追加しました。歯科受診の記事テーマとの整合性を保つため、「歯科と予防接種では場面は異なるが、ごっこ遊びで慣れるという考え方は共通している」という橋渡しの一文を入れ、記事全体の文脈に自然に馴染むよう構成しています。

@@ -75,7 +75,7 @@ def _call_claude(system_prompt: str, user_prompt: str, max_tokens: int = 4096) -
                 stdin=pf,
                 capture_output=True,
                 text=True,
-                timeout=300,  # 5分タイムアウト
+                timeout=900,  # 15分タイムアウト
                 env=env,
                 encoding='utf-8',
             )
