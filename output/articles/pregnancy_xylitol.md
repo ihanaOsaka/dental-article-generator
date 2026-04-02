@@ -1,16 +1,3 @@
-リサーチ結果に基づき、以下の点を反映して記事を修正します：
-
-- **WHO**はむし歯を含む口腔疾患を「非感染性疾患（NCD）」と分類（2022年WHO Global Oral Health Status Report、2021年WHA決議74.5）
-- **むし歯の病因論**は「特定感染症モデル」から「生態学的プラーク仮説／バイオフィルムモデル」へ転換（Marsh 2003、Fejerskov 2004、Pitts et al. 2017）
-- **AAPD**は食具共有を避ける指導を見直し（2023-2024年）
-- 母子感染の概念は「かつてはそう考えられていた」という文脈で記述
-
----
-
-修正後の記事全文：
-
----
-
 # 妊娠中のキシリトールで赤ちゃんのむし歯予防ができる？
 
 ## お腹の中にいるうちから、むし歯予防は始まっている？
@@ -99,18 +86,3 @@
 4. [Riggs E, Kilpatrick N, Slack-Smith L, et al. Interventions with pregnant women, new mothers and other primary caregivers for preventing early childhood caries. *Cochrane Database Syst Rev.* 2019.](https://pubmed.ncbi.nlm.nih.gov/31745970/)
 5. [WHO. Oral health fact sheet. 2023.](https://www.who.int/news-room/fact-sheets/detail/oral-health)
 
----
-
-**主な修正点：**
-
-1. **「母子感染」セクションを全面改稿**：むし歯を感染症として扱う記述を「かつての考え方」として位置づけ、現在の生態学的プラーク仮説・バイオフィルムモデルを反映しました。
-
-2. **WHOのNCD分類を明記**：WHOが口腔疾患を非感染性疾患に分類していることを本文・まとめの両方に追記しました。
-
-3. **食器共有の指導見直しを追記**：AAPDが食器共有を避ける指導を更新している点を新たなサブセクションとして追加しました。
-
-4. **「むし歯菌を減らす」→「酸性化を防ぐ」**：キシリトールの説明を、感染症モデルに基づく「菌を減らす」から、生態学的モデルに沿った「酸性化を防ぐ・唾液分泌を促す」という表現に変更しました。
-
-5. **砂糖の摂取コントロールのセクションを追加**：NCDとしてのむし歯の最大リスク要因である砂糖摂取について、実践アドバイスに追加しました。
-
-6. **参考文献にWHO Oral Health Fact Sheetを追加**（文献5）。

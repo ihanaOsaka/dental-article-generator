@@ -81,11 +81,9 @@ professional_md = pro_path.read_text(encoding="utf-8") if pro_path.exists() else
 public_md = pub_path.read_text(encoding="utf-8") if pub_path and pub_path.exists() else ""
 
 # 記事ビューア
-render_article_viewer(professional_md, public_md)
+render_article_viewer(professional_md, public_md, key_prefix=selected_id)
 
-st.divider()
-
-# 修正パネル
+# 修正パネル（固定フッター）
 instructions = render_revision_panel(key_prefix=f"browse_{selected_id}")
 
 if instructions:

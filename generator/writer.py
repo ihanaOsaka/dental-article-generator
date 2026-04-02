@@ -49,14 +49,6 @@ def _find_claude_cmd() -> str:
 
 def _call_claude(system_prompt: str, user_prompt: str, max_tokens: int = 4096) -> str:
     """Claude Code CLIを呼び出してテキストを生成"""
-    full_prompt = f"""以下のシステム指示に従って、ユーザーの依頼に応えてください。
-
-## システム指示
-{system_prompt}
-
-## ユーザーの依頼
-{user_prompt}"""
-
     claude_cmd = _find_claude_cmd()
 
     env = os.environ.copy()
@@ -68,14 +60,18 @@ def _call_claude(system_prompt: str, user_prompt: str, max_tokens: int = 4096) -
     with tempfile.NamedTemporaryFile(
         mode='w', suffix='.txt', delete=False, encoding='utf-8'
     ) as f:
-        f.write(full_prompt)
+        f.write(user_prompt)
         prompt_file = f.name
 
     try:
         # ファイルからstdinにパイプ
         with open(prompt_file, 'r', encoding='utf-8') as pf:
             result = subprocess.run(
-                [claude_cmd, "-p", "--output-format", "text"],
+                [
+                    claude_cmd, "-p",
+                    "--output-format", "text",
+                    "--system-prompt", system_prompt,
+                ],
                 stdin=pf,
                 capture_output=True,
                 text=True,
