@@ -98,4 +98,25 @@ with st.sidebar:
 
     st.divider()
 
+    # --- 未コミット記事の通知 & コミット・プッシュボタン ---
+    from app.services.git_utils import get_uncommitted_articles, commit_and_push
+
+    _uncommitted = get_uncommitted_articles()
+    if _uncommitted:
+        with st.expander(f"📦 未保存の変更（{len(_uncommitted)}件）", expanded=False):
+            for f in _uncommitted[:10]:
+                st.caption(f"• {f}")
+            if len(_uncommitted) > 10:
+                st.caption(f"  …他 {len(_uncommitted) - 10} 件")
+            if st.button("コミット＆プッシュ", key="sb_commit_push",
+                         type="primary"):
+                with st.spinner("保存中..."):
+                    ok, msg = commit_and_push()
+                if ok:
+                    st.success(msg)
+                else:
+                    st.error(msg)
+
+    st.divider()
+
 pg.run()
