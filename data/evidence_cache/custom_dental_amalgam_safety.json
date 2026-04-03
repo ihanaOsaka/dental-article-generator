@@ -1,0 +1,287 @@
+{
+  "topic_id": "custom_dental_amalgam_safety",
+  "evidences": [
+    {
+      "title": "ADA Clinical Practice Guideline: Topical Fluoride for Caries Prevention",
+      "authors": [
+        "American Dental Association"
+      ],
+      "year": 2024,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "guideline",
+      "source_type": "ADA",
+      "url": "https://www.ada.org/resources/research/science-and-research-institute/evidence-based-dental-research/fluoride-topical-and-systemic-supplements",
+      "key_findings": "Professional fluoride varnish application every 3-6 months is recommended for children at elevated caries risk.",
+      "summary_ja": "むし歯リスクの高い小児には3〜6ヶ月ごとのフッ素バーニッシュ塗布を推奨。"
+    },
+    {
+      "title": "ADA Policy: Use of Pit-and-Fissure Sealants",
+      "authors": [
+        "American Dental Association"
+      ],
+      "year": 2023,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "guideline",
+      "source_type": "ADA",
+      "url": "https://www.ada.org/resources/research/science-and-research-institute/evidence-based-dental-research/dental-sealants",
+      "key_findings": "Dental sealants reduce caries by up to 80% in the first 2 years and continue to be effective for up to 9 years.",
+      "summary_ja": "シーラントは最初の2年間でむし歯を最大80%減少させ、最大9年間効果が持続。"
+    },
+    {
+      "title": "ADA Guideline: First Dental Visit",
+      "authors": [
+        "American Dental Association"
+      ],
+      "year": 2022,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "guideline",
+      "source_type": "ADA",
+      "url": "https://www.ada.org/resources/research/science-and-research-institute/evidence-based-dental-research",
+      "key_findings": "ADA recommends a child's first dental visit by age 1 or within 6 months of the first tooth eruption.",
+      "summary_ja": "ADAは1歳まで、または最初の歯が生えてから6ヶ月以内の初回受診を推奨。"
+    },
+    {
+      "title": "Direct composite resin fillings versus amalgam fillings for permanent posterior teeth.",
+      "authors": [
+        "Worthington Helen V",
+        "Khangura Sara",
+        "Seal Kelsey",
+        "Mierzwinski-Urban Monika",
+        "Veitz-Keenan Analia",
+        "Sahrmann Philipp",
+        "Schmidlin Patrick Roger",
+        "Davis Dell",
+        "Iheozor-Ejiofor Zipporah",
+        "Rasines Alcaraz María Graciela"
+      ],
+      "year": 2021,
+      "journal": "The Cochrane database of systematic reviews",
+      "doi": "10.1002/14651858.CD005620.pub3",
+      "pmid": "34387873",
+      "abstract": "BACKGROUND: Traditionally, amalgam has been used for filling cavities in posterior teeth, and it continues to be the restorative material of choice in some low- and middle-income countries due to its effectiveness and relatively low cost. However, there are concerns over the use of amalgam restorations (fillings) with regard to mercury release in the body and the environmental impact of mercury disposal. Dental composite resin materials are an aesthetic alternative to amalgam, and their mechanical properties have developed sufficiently to make them suitable for restoring posterior teeth. Nevertheless, composite resin materials may have potential for toxicity to human health and the environment. The United Nations Environment Programme has established the Minamata Convention on Mercury, which is an international treaty that aims \"to protect the [sic] human health and the environment from anthropogenic emissions and releases of mercury and mercury compounds\". It entered into force in August 2017, and as of February 2021 had been ratified by 127 governments. Ratification involves committing to the adoption of at least two of nine proposed measures to phase down the use of mercury, including amalgam in dentistry. In light of this, we have updated a review originally published in 2014, expanding the scope of the review by undertaking an additional search for harms outcomes. Our review synthesises the results of studies that evaluate the long-term effectiveness and safety of amalgam versus composite resin restorations, and evaluates the level of certainty we can have in that evidence. OBJECTIVES: To examine the effects (i.e. efficacy and safety) of direct composite resin fillings versus amalgam fillings. SEARCH METHODS: An information specialist searched five bibliographic databases up to 16 February 2021 and used additional search methods to identify published, unpublished and ongoing studies SELECTION CRITERIA: To assess efficacy, we included randomised controlled trials (RCTs) comparing dental composite resin with amalgam restorations in permanent posterior teeth that assessed restoration failure or survival at follow-up of at least three years. To assess safety, we sought non-randomised studies in addition to RCTs that directly compared composite resin and amalgam restorative materials and measured toxicity, sensitivity, allergy, or injury. DATA COLLECTION AND ANALYSIS: We used standard methodological procedures expected by Cochrane. MAIN RESULTS: We included a total of eight studies in this updated review, all of which were RCTs. Two studies used a parallel-group design, and six used a split-mouth design. We judged all of the included studies to be at high risk of bias due to lack of blinding and issues related to unit of analysis. We identified one new trial since the previous version of this review (2014), as well as eight additional papers that assessed safety, all of which related to the two parallel-group studies that were already included in the review. For our primary meta-analyses, we combined data from the two parallel-group trials, which involved 1645 composite restorations and 1365 amalgam restorations in 921 children. We found low-certainty evidence that composite resin restorations had almost double the risk of failure compared to amalgam restorations (risk ratio (RR) 1.89, 95% confidence interval (CI) 1.52 to 2.35; P < 0.001), and were at much higher risk of secondary caries (RR 2.14, 95% CI 1.67 to 2.74; P < 0.001). We found low-certainty evidence that composite resin restorations were not more likely to result in restoration fracture (RR 0.87, 95% CI 0.46 to 1.64; P = 0.66). Six trials used a split-mouth design. We considered these studies separately, as their reliability was compromised due to poor reporting, unit of analysis errors, and variability in methods and findings. Subgroup analysis showed that the findings were consistent with the results of the parallel-group studies. Three trials investigated possible harms of dental restorations. Higher urinary mercury levels were reported amongst children with amalgam restorations in two trials, but the levels were lower than what is known to be toxic. Some differences between amalgam and composite resin groups were observed on certain measures of renal, neuropsychological, and psychosocial function, physical development, and postoperative sensitivity; however, no consistent or clinically important harms were found. We considered that the vast number of comparisons made false-positive results likely. There was no evidence of differences between the amalgam and composite resin groups in neurological symptoms, immune function, and urinary porphyrin excretion. The evidence is of very low certainty, with most harms outcomes reported in only one trial. AUTHORS' CONCLUSIONS: Low-certainty evidence suggests that composite resin restorations may have almost double the failure rate of amalgam restorations. The risk of restoration fracture does not seem to be higher with composite resin restorations, but there is a much higher risk of developing secondary caries. Very low-certainty evidence suggests that there may be no clinically important differences in the safety profile of amalgam compared with composite resin dental restorations. This review supports the utility of amalgam restorations, and the results may be particularly useful in parts of the world where amalgam is still the material of choice to restore posterior teeth with proximal caries. Of note, however, is that composite resin materials have undergone important improvements in the years since the trials informing the primary analyses for this review were conducted. The global phase-down of dental amalgam via the Minamata Convention on Mercury is an important consideration when deciding between amalgam and composite resin dental materials. The choice of which dental material to use will depend on shared decision-making between dental providers and patients in the clinic setting, and local directives and protocols.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34387873/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Endodontic procedures for retreatment of periapical lesions.",
+      "authors": [
+        "Del Fabbro Massimo",
+        "Corbella Stefano",
+        "Sequeira-Byron Patrick",
+        "Tsesis Igor",
+        "Rosen Eyal",
+        "Lolato Alessandra",
+        "Taschieri Silvio"
+      ],
+      "year": 2016,
+      "journal": "The Cochrane database of systematic reviews",
+      "doi": "10.1002/14651858.CD005511.pub3",
+      "pmid": "27759881",
+      "abstract": "BACKGROUND: When primary root canal therapy fails, periapical lesions can be retreated with or without surgery. Root canal retreatment is a non-surgical procedure that involves removal of root canal filling materials from the tooth, followed by cleaning, shaping and obturating of the canals. Root-end resection is a surgical procedure that involves exposure of the periapical lesion through an osteotomy, surgical removal of the lesion, removal of part of the root-end tip, disinfection and, commonly, retrograde sealing or filling of the apical portion of the remaining root canal. This review updates one published in 2008. OBJECTIVES: To assess effects of surgical and non-surgical therapy for retreatment of teeth with apical periodontitis.To assess effects of surgical root-end resection under various conditions, for example, when different materials, devices or techniques are used. SEARCH METHODS: We searched the following electronic databases: the Cochrane Oral Health Trials Register (to 10 February 2016), the Cochrane Central Register of Controlled Trials (CENTRAL; 2016, Issue 1), MEDLINE Ovid (1946 to 10 February 2016) and Embase Ovid (1980 to 10 February 2016). We searched the US National Registry of Clinical Trials (ClinicalTrials.gov) and the World Health Organization (WHO) International Clinical Trials Registry Platform for ongoing trials (to 10 February 2016). We placed no restrictions regarding language and publication date. We handsearched the reference lists of the studies retrieved and key journals in the field of endodontics. SELECTION CRITERIA: We included randomised controlled trials (RCTs) involving people with periapical pathosis. Studies could compare surgery versus non-surgical treatment or could compare different types of surgery. Outcome measures were healing of the periapical lesion assessed after one-year follow-up or longer; postoperative pain and discomfort; and adverse effects such as tooth loss, mobility, soft tissue recession, abscess, infection, neurological damage or loss of root sealing material evaluated through radiographs. DATA COLLECTION AND ANALYSIS: Two review authors independently extracted data from included studies and assessed their risk of bias. We contacted study authors to obtain missing information. We combined results of trials assessing comparable outcomes using the fixed-effect model, with risk ratios (RRs) for dichotomous outcomes and mean differences (MDs) for continuous outcomes, and 95% confidence intervals (CIs). We used generic inverse variance for split-mouth studies. MAIN RESULTS: We included 20 RCTs. Two trials at high risk of bias assessed surgery versus a non-surgical approach: root-end resection with root-end filling versus root canal retreatment. The other 18 trials evaluated different surgical protocols: cone beam computed tomography (CBCT) versus periapical radiography for preoperative assessment (one study at high risk of bias); antibiotic prophylaxis versus placebo (one study at unclear risk); different magnification devices (loupes, surgical microscope, endoscope) (two studies at high risk); types of incision (papilla base incision, sulcular incision) (one study at high risk and one at unclear risk); ultrasonic devices versus handpiece burs (one study at high risk); types of root-end filling material (glass ionomer cement, amalgam, intermediate restorative material (IRM), mineral trioxide aggregate (MTA), gutta-percha (GP), super-ethoxy benzoic acid (EBA)) (five studies at high risk of bias, one at unclear risk and one at low risk); grafting versus no grafting (three studies at high risk and one at unclear risk); and low energy level laser therapy versus placebo (irradiation without laser activation) versus control (no use of the laser device) (one study at high risk).There was no clear evidence of superiority of the surgical or non-surgical approach for healing at one-year follow-up (RR 1.15, 95% CI 0.97 to 1.35; two RCTs, 126 participants) or at four- or 10-year follow-up (one RCT, 82 to 95 participants), although the evidence is very low quality. More participants in the surgically treated group reported pain in the first week after treatment (RR 3.34, 95% CI 2.05 to 5.43; one RCT, 87 participants; low quality evidence).In terms of surgical protocols, there was some inconclusive evidence that ultrasonic devices for root-end preparation may improve healing one year after retreatment, when compared with the traditional bur (RR 1.14, 95% CI 1.00 to 1.30; one RCT, 290 participants; low quality evidence).There was evidence of better healing when root-ends were filled with MTA than when they were treated by smoothing of orthograde GP root filling, after one-year follow-up (RR 1.60, 95% CI 1.14 to 2.24; one RCT, 46 participants; low quality evidence).There was no evidence that using CBCT rather than radiography for preoperative evaluation was advantageous for healing (RR 1.02, 95% CI 0.70 to 1.47; one RCT, 39 participants; very low quality evidence), nor that any magnification device affected healing more than any other (loupes versus endoscope at one year: RR 1.05, 95% CI 0.92 to 1.20; microscope versus endoscope at two years: RR 1.01, 95% CI 0.89 to 1.15; one RCT, 70 participants, low quality evidence).There was no evidence that antibiotic prophylaxis reduced incidence of postoperative infection (RR 0.49, 95% CI 0.09 to 2.64; one RCT, 250 participants; low quality evidence).There was some evidence that using a papilla base incision (PBI) may be beneficial for preservation of the interdental papilla compared with complete papilla mobilisation (one RCT (split-mouth), 12 participants/24 sites; very low quality evidence). There was no evidence of less pain in the PBI group at day 1 post surgery (one RCT, 38 participants; very low quality evidence).There was evidence that adjunctive use of a gel of plasma rich in growth factors reduced postoperative pain compared with no grafting (measured on visual analogue scale: one day postoperative MD -51.60 mm, 95% CI -63.43 to -39.77; one RCT, 36 participants; low quality evidence).There was no evidence that use of low energy level laser therapy (LLLT) prevented postoperative pain (very low quality evidence). AUTHORS' CONCLUSIONS: Available evidence does not provide clinicians with reliable guidelines for treating periapical lesions. Further research is necessary to understand the effects of surgical versus non-surgical approaches, and to determine which surgical procedures provide the best results for periapical lesion healing and postoperative quality of life. Future studies should use standardised techniques and success criteria, precisely defined outcomes and the participant as the unit of analysis.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27759881/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Repair versus replacement of defective direct dental restorations: A multinational cross-sectional study with meta-analysis.",
+      "authors": [
+        "Hatipoğlu Ömer",
+        "Martins João Filipe Brochado",
+        "Karobari Mohmed Isaqali",
+        "Taha Nessrin",
+        "Aldhelai Thiyezen Abdullah",
+        "Ayyad Daoud M",
+        "Madfa Ahmed A",
+        "Martin-Biedma Benjamin",
+        "Fernandez Rafael",
+        "Omarova Bakhyt A",
+        "Yi Lim Wen",
+        "Alfirjani Suha",
+        "Lehmann Anna",
+        "Sugumaran Surendar",
+        "Petridis Xenos",
+        "Krmek Silvana Jukić",
+        "Wahjuningrum Dian Agustin",
+        "Iqbal Azhar",
+        "Abidin Imran Zainal",
+        "Intriago Martha Gallegos",
+        "Elhamouly Yasmine",
+        "Palma Paulo Jorge",
+        "Hatipoğlu Fatma Pertek"
+      ],
+      "year": 2024,
+      "journal": "Journal of dentistry",
+      "doi": "10.1016/j.jdent.2024.105096",
+      "pmid": "38796090",
+      "abstract": "OBJECTIVES: When dental practitioners encounter a defective restoration, they are faced with a crucial decision whether to repair or replace it. This study aims to explore international preferences for repair procedures and the clinical steps taken during the repair process. METHOD: An 11-question survey was distributed to dentists across 21 countries via different platforms. The survey comprised two sections: the first included five questions aimed at gathering demographic information, while the second consisted of six questions focusing on participants' practices related to the repair of composite or amalgam restorations A meta-analysis was employed to ascertain the pooled odds ratio of repairing versus replacement. The statistical analysis was carried out using the RevMan 5.3 program and forest plots were generated using the same program to visualize the results. RESULTS: The survey was completed by 3680 dental practitioners. The results indicated a strong tendency to repair defective composite restorations (OR: 14.23; 95 % CI: 7.40, 27.35, p < 0.001). In terms of amalgam, there was a significant tendency to replace the restorations (OR: 0.19; 95 % CI: 0.12, 0.30, p < 0.001). When repairing restorations, the most common protocols were etching with orthophosphoric acid and creating an enamel bevel, regardless of the restorative material used. CONCLUSION: The findings of this study indicate that there exists a knowledge gap among dental practitioners regarding restoration repair. It is imperative that dental practitioners receive proper education and training on restoration repair, to ensure the usage of adequate protocols and restoration survival. CLINICAL SIGNIFICANCE: A significant portion of dental practitioners lack the necessary knowledge and education required for the repair of restorations. Therefore, it is imperative to establish guidelines aimed at enhancing the management of defective restorations, along with protocols for clinical interventions. This includes the incorporation of proper courses in undergraduate, graduate, and continuing education programs.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38796090/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Failure rate of single-unit restorations on posterior vital teeth: A systematic review.",
+      "authors": [
+        "Afrashtehfar Kelvin I",
+        "Emami Elham",
+        "Ahmadi Motahareh",
+        "Eilayyan Owis",
+        "Abi-Nader Samer",
+        "Tamimi Faleh"
+      ],
+      "year": 2017,
+      "journal": "The Journal of prosthetic dentistry",
+      "doi": "10.1016/j.prosdent.2016.08.003",
+      "pmid": "27765400",
+      "abstract": "STATEMENT OF PROBLEM: No knowledge synthesis exists concerning when to use a direct restoration versus a complete-coverage indirect restoration in posterior vital teeth. PURPOSE: The purpose of this systematic review was to identify the failure rate of conventional single-unit tooth-supported restorations in posterior permanent vital teeth as a function of remaining tooth structure. MATERIAL AND METHODS: Four databases were searched electronically, and 8 selected journals were searched manually up to February 2015. Clinical studies of tooth-supported single-unit restorative treatments with a mean follow-up period of at least 3 years were selected. The outcome measured was the restorations' clinical or radiological failure. Following the Preferred Reporting Items for Systematic reviews and Meta-Analyses guidelines, the Cochrane Collaboration procedures for randomized control trials, the Strengthening the Reporting of Observational Studies in Epidemiology criteria for observational studies, 2 reviewers independently applied eligibility criteria, extracted data, and assessed the quality of the evidence of the included studies using the American Association of Critical Care Nurses' system. The weighted-mean group 5-year failure rates of the restorations were reported according to the type of treatment and remaining tooth structure. A metaregression model was used to assess the correlation between the number of remaining tooth walls and the weighted-mean 5-year failure rates. RESULTS: Five randomized controlled trials and 9 observational studies were included and their quality ranged from low to moderate. These studies included a total of 358 crowns, 4804 composite resins, and 303582 amalgams. Data obtained from the randomized controlled trials showed that, regardless of the amount of remaining tooth structure, amalgams presented better outcomes than composite resins. Furthermore, in teeth with fewer than 2 remaining walls, high-quality observational studies demonstrated that crowns were better than amalgams. A clear inverse correlation was found between the amount of remaining tooth structure and restoration failure. CONCLUSIONS: Insufficient high-quality data are available to support one restorative treatment or material over another for the restoration of vital posterior teeth. However, the current evidence suggests that the failure rates of treatments may depend on the amount of remaining tooth structure and types of treatment.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27765400/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Risk of failure of repaired versus replaced defective direct restorations in permanent teeth: a systematic review and meta-analysis.",
+      "authors": [
+        "Mendes Laura Teixeira",
+        "Pedrotti Djessica",
+        "Casagrande Luciano",
+        "Lenzi Tathiane Larissa"
+      ],
+      "year": 2022,
+      "journal": "Clinical oral investigations",
+      "doi": "10.1007/s00784-022-04459-0",
+      "pmid": "35362754",
+      "abstract": "OBJECTIVE: This study aimed to systematically review the literature to compare the risk of failure of repaired and replaced defective direct resin composite and amalgam restorations performed in permanent teeth. MATERIALS AND METHODS: The PubMed/MEDLINE, Scopus, Lilacs, BBO, Web of Science, SciELO, Cochrane Central Register of Controlled Trials (CENTRAL) databases, and gray literature were searched to identify longitudinal clinical studies related to the research question. No publication year or language restriction was considered. Two authors independently selected the studies, extracted the data, and assessed the risk of bias and certainty of evidence. A meta-analysis was performed using a fixed effects model at a 5% significance level. RESULTS: From 1224 potentially eligible studies, thirteen were selected for full-text analysis, and three were included in the systematic review and meta-analysis. There was no difference in the risk of failure of repaired and replaced defective direct restorations (RR: 1.21, 95% CI: 0.51-2.83), either for resin composite (p = 0.97) or amalgam (p = 0.51) restorations. The risk of bias was high and the certainty of evidence was very low. CONCLUSION: Based on the very low certainty of evidence, the repair of direct restorations does not present a significant difference in the risk of failure when compared to replacements in permanent teeth. CLINICAL RELEVANCE: Restoration repair is a procedure that is included in the minimal intervention principle for improvement of tooth longevity in that the risk of failure of repaired partially defective restorations in permanent teeth seems similar to that of replacement. Further studies are required before definitive conclusions can be drawn.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35362754/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Contamination of breast milk with lead, mercury, arsenic, and cadmium in Iran: a systematic review and meta-analysis.",
+      "authors": [
+        "Mohammadi Salman",
+        "Shafiee Maryam",
+        "Faraji Seyed Nooreddin",
+        "Rezaeian Mohsen",
+        "Ghaffarian-Bahraman Ali"
+      ],
+      "year": 2022,
+      "journal": "Biometals : an international journal on the role of metal ions in biology, biochemistry, and medicine",
+      "doi": "10.1007/s10534-022-00395-4",
+      "pmid": "35575819",
+      "abstract": "Breast milk is a complete food for the development of the newborn, but it can also be an important route for environmental pollutants transmission to the infants. This study was aimed to evaluate the status of heavy metals including lead (Pb), mercury (Hg), cadmium (Cd) and arsenic (As) in the breast milk of Iranian mothers. The international databases including Scopus, PubMed, Web of Science and the Persian electronic databases including Scientific Information Database, IranMedex and Magiran were examined to find relevant articles published until July 2021. A total of 23 studies examined the levels of toxic metals in Iranian breast milk samples. According to the findings, the pooled average concentrations (µg/L) of Pb, Cd, Hg and As were 25.61, 2.40, 1.29 and 1.16, respectively. The concentration of Hg and Pb in colostrum milk was more than twice of mature milk. The Hg mean concentration in the breast milk of mothers with at least one amalgam-filled tooth was approximately three times that of mothers without amalgam-filled teeth. Risk assessment analysis indicated that the intake of Pb and Hg by infants through breastfeeding can be considered a health concern in Iran. It seems necessary to reduce the Pb exposure of pregnant and lactating women in Iran. However, more extensive studies are needed to clarify the toxic metals' exposure status of infants through breast milk in other parts of the country.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35575819/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Materials for retrograde filling in root canal therapy.",
+      "authors": [
+        "Ma Xiangyu",
+        "Li Chunjie",
+        "Jia Liuhe",
+        "Wang Yan",
+        "Liu Wenwen",
+        "Zhou Xuedong",
+        "Johnson Trevor M",
+        "Huang Dingming"
+      ],
+      "year": 2016,
+      "journal": "The Cochrane database of systematic reviews",
+      "doi": "10.1002/14651858.CD005517.pub2",
+      "pmid": "27991646",
+      "abstract": "BACKGROUND: Root canal therapy is a sequence of treatments involving root canal cleaning, shaping, decontamination and obturation. It is conventionally performed through a hole drilled into the crown of the affected tooth, namely orthograde root canal therapy. For teeth that cannot be treated with orthograde root canal therapy, or for which it has failed, retrograde root filling, which seals the root canal from the root apex, is a good alternative. Many materials, such as amalgam, zinc oxide eugenol and mineral trioxide aggregate (MTA), are generally used. Since none meets all the criteria an ideal material should possess, selecting the most efficacious material is of utmost importance. OBJECTIVES: To determine the effects of different materials used for retrograde filling in children and adults for whom retrograde filling is necessary in order to save the tooth. SEARCH METHODS: Cochrane Oral Health's Information Specialist searched the following databases: Cochrane Oral Health's Trials Register (to 13 September 2016); the Cochrane Central Register of Controlled Trials (CENTRAL; 2016, Issue 8) in the Cochrane Library (searched 13 September 2016); MEDLINE Ovid (1946 to 13 September 2016); Embase Ovid (1980 to 13 September 2016); LILACS BIREME Virtual Health Library (1982 to 13 September 2016); and OpenSIGLE (1980 to 2005). ClinicalTrials.gov and the World Health Organization International Clinical Trials Registry Platform were searched for ongoing trials. We also searched Chinese BioMedical Literature Database (in Chinese, 1978 to 20 September 2016); VIP (in Chinese, 1989 to 20 September 2016); China National Knowledge Infrastructure (in Chinese, 1994 to 20 September 2016); and Sciencepaper Online (in Chinese, to 20 September 2016). No restrictions were placed on the language or date of publication when searching the electronic databases. SELECTION CRITERIA: We selected randomised controlled trials (RCTs) only that compared different retrograde filling materials, with reported success rate that was assessed by clinical or radiological methods for which the follow-up period was at least 12 months. DATA COLLECTION AND ANALYSIS: Two review authors extracted data independently and in duplicate. Original trial authors were contacted for any missing information. Two review authors independently carried out risk of bias assessments for each eligible study following Cochrane methodological guidelines. MAIN RESULTS: We included six studies (916 participants with 988 teeth) reported in English. All the studies had high risk of bias. The six studies examined five different comparisons, including MTA versus intermediate restorative material (IRM), MTA versus super ethoxybenzoic acid cement (Super-EBA), Super-EBA versus IRM, dentine-bonded resin composite versus glass ionomer cement and glass ionomer cement versus amalgam. There was therefore little pooling of data and very little evidence for each comparison.There is weak evidence of little or no difference between MTA and IRM at the first year of follow-up (risk ratio (RR) 1.09; 95% confidence interval (CI): 0.97 to 1.22; 222 teeth; quality of evidence: low). Insufficient evidence of a difference between MTA and IRM on success rate at the second year of follow-up (RR 1.06; 95% CI: 0.89 to 1.25; 86 teeth, 86 participants; quality of evidence: very low). All the other outcomes were based on a single study. There is insufficient evidence of any difference between MTA and Super-EBA at the one-year follow-up (RR 1.03; 95% CI: 0.96 to 1.10; 192 teeth, 192 participants; quality of evidence: very low), and only weak evidence indicating there might be a small increase in success rate at the one-year follow-up in favour of IRM compared to Super-EBA (RR 0.90; 95% CI: 0.80 to 1.01; 194 teeth; quality of evidence: very low). There was also insufficient and weak evidence to show that dentine-bonded resin composite might be a better choice for increasing retrograde filling success rate compared to glass ionomer cement at the one-year follow-up (RR 2.39; 95% CI: 1.60 to 3.59; 122 teeth, 122 participants; quality of evidence: very low). And there was insufficient evidence of a difference between glass ionomer cement and amalgam at both the one-year (RR 0.98; 95% CI: 0.86 to 1.12; 105 teeth; quality of evidence: very low) and five-year follow-ups (RR 1.00; 95% CI: 0.84 to 1.20; 82 teeth; quality of evidence: very low).None of these studies reported an adverse event. AUTHORS' CONCLUSIONS: Based on the present limited evidence, there is insufficient evidence to draw any conclusion as to the benefits of any one material over another. We conclude that more high-quality RCTs are required.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27991646/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "The health impacts of dental amalgam and alternative restorative materials: a systematic review.",
+      "authors": [
+        "Shaw Liz",
+        "Lawal Hassanat Mojirola",
+        "Briscoe Simon",
+        "Pintado Clara Martin",
+        "Orr Noreen",
+        "Asare Lauren",
+        "Melendez-Torres G J",
+        "Garside Ruth",
+        "Coon Jo Thompson"
+      ],
+      "year": 2026,
+      "journal": "Journal of dentistry",
+      "doi": "10.1016/j.jdent.2026.106530",
+      "pmid": "41643924",
+      "abstract": "OBJECTIVE: Conduct a systematic review of quantitative evidence comparing the adverse health impacts of dental amalgam versus other dental restorative materials. DATA SOURCES: Bibliographic database searches, limited by a date of 2007 and English language, were supplemented by citation chasing, searches of Google Search and checking topically similar systematic reviews. STUDY SELECTION: We sought empirical studies evaluating the health impacts of materials used for direct dental restorations. Two reviewers independently conducted title and abstract and full-text screening. Data extraction and quality appraisal using the Effective Public Health Practice Project Tool were carried out by one reviewer and checked by a second. We used narrative synthesis to group studies by restorative material and health impact evaluated. CONCLUSIONS: 195 studies (245 articles) were included, with 61 studies (87 articles) prioritised for narrative synthesis. Studies evaluated a variety of health impacts for the following restorative materials: amalgam versus resin-based composite (RBC): (n = 6), amalgam only (n = 52), RBC only (n = 16), glass ionomer versus RBC (n = 3). Both amalgam and non-amalgam materials may be associated with various health impacts. However, confidence in these findings is limited due to the small quantity of direct comparative evidence and heterogeneity of outcome measures and findings within health impact categories. Findings of this review may support policy makers and researchers to identify and address future research needs. CLINICAL SIGNIFICANCE: Findings highlight what is known regarding the comparative health impacts of different restorative materials, which may inform clinical decision-making alongside consideration of international guidelines, cost, material longevity, potential environmental impacts and patient-preference.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41643924/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Materials for retrograde filling in root canal therapy.",
+      "authors": [
+        "Li Honglin",
+        "Guo Zhiyong",
+        "Li Chunjie",
+        "Ma Xiangyu",
+        "Wang Yan",
+        "Zhou Xuedong",
+        "Johnson Trevor M",
+        "Huang Dingming"
+      ],
+      "year": 2021,
+      "journal": "The Cochrane database of systematic reviews",
+      "doi": "10.1002/14651858.CD005517.pub3",
+      "pmid": "34647617",
+      "abstract": "BACKGROUND: Root canal therapy is a sequence of treatments involving root canal cleaning, shaping, decontamination, and obturation. It is conventionally performed through a hole drilled into the crown of the affected tooth, namely orthograde root canal therapy. When it fails, retrograde filling, which seals the root canal from the root apex, is a good alternative. Many materials are used for retrograde filling. Since none meets all the criteria an ideal material should possess, selecting the most efficacious material is of utmost importance. This is an update of a Cochrane Review first published in 2016. OBJECTIVES: To determine the effects of different materials used for retrograde filling in children and adults for whom retrograde filling is necessary in order to save the tooth. SEARCH METHODS: An Information Specialist searched five bibliographic databases up to 21 April 2021 and used additional search methods to identify published, unpublished, and ongoing studies. We also searched four databases in the Chinese language. SELECTION CRITERIA: We selected randomised controlled trials (RCTs) that compared different retrograde filling materials, with the reported success rate that was assessed by clinical or radiological methods for which the follow-up period was at least 12 months. DATA COLLECTION AND ANALYSIS: Records were screened in duplicate by independent screeners. Two review authors extracted data independently and in duplicate. Original trial authors were contacted for any missing information. Two review authors independently assessed the risk of bias of the included studies. We followed Cochrane's statistical guidelines and assessed the certainty of the evidence using GRADE. MAIN RESULTS: We included eight studies, all at high risk of bias, involving 1399 participants with 1471 teeth, published between 1995 and 2019, and six comparisons of retrograde filling materials. - Mineral trioxide aggregate (MTA) versus intermediate restorative material (IRM): there may be little to no effect of MTA compared to IRM on success rate at one year, but the evidence is very uncertain (risk ratio (RR) 1.09, 95% confidence interval (CI) 0.97 to 1.22; I AUTHORS' CONCLUSIONS: Based on the present limited evidence, there is insufficient evidence to draw any conclusion as to the benefits of any one material over another for retrograde filling in root canal therapy. We conclude that more high-quality RCTs are required.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34647617/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "WITHDRAWN: Dental fillings for the treatment of caries in the primary dentition.",
+      "authors": [
+        "Yengopal Veerasamy",
+        "Harnekar Soraya Yasin",
+        "Patel Naren",
+        "Siegfried Nandi"
+      ],
+      "year": 2016,
+      "journal": "The Cochrane database of systematic reviews",
+      "doi": "10.1002/14651858.CD004483.pub3",
+      "pmid": "27748505",
+      "abstract": "BACKGROUND: Childhood caries (tooth decay) consists of a form of tooth decay that affects the milk teeth (also known as baby or primary teeth) of children. This may range from tooth decay in a single tooth to rampant caries affecting all the teeth in the mouth. Primary teeth in young children are vital to their development and every effort should be made to retain these teeth for as long as is possible. Dental fillings or restorations have been used as an intervention to repair these damaged teeth. Oral health professionals need to make astute decisions about the type of restorative (filling) material they choose to best manage their patients with childhood caries. This decision is by no means an easy one as remarkable advances in dental restorative materials over the last 10 years has seen the introduction of a multitude of different filling materials claiming to provide the best performance in terms of durability, aesthetics, symptom relief, etc when placed in the mouth. This review sought to compare the different types of dental materials against each other for the same outcomes. OBJECTIVES: The objective of this review was to compare the outcomes (including pain relief, survival and aesthetics) for restorative materials used to treat caries in the primary dentition in children.  Additionally, the restoration of teeth was compared with extraction and no treatment. SEARCH METHODS: Electronic searches of the following databases were undertaken: the Cochrane Oral Health Group's Trials Register (up to January 2009); CENTRAL (The Cochrane Library 2009, Issue1); MEDLINE (1966 to January 2009); EMBASE (1996 to January 2009); SIGLE (1976 to 2004); and conference proceedings on early childhood caries, restorative materials for paediatric dentistry, and material sciences conferences for dental materials used for children's dentistry (1990 to 2008). The searches attempted to identify all relevant studies irrespective of language.Additionally, the reference lists from articles of eligible papers were searched, handsearching of key journals was undertaken, and personal communication with authors and manufacturers of dental materials was initiated to increase the pool of suitable trials (both published and unpublished) for inclusion into this review. SELECTION CRITERIA: Randomised controlled trials (RCTs) or quasi-randomised controlled trials with a minimum period of 6 months follow up were included. Both parallel group and split-mouth study designs were considered. The unit of randomisation could be the individual, group (school, school class, etc), tooth or tooth pair. Included studies had a drop-out rate of less than 30%. The eligible trials consisted of young children (children less than 12 years) with tooth decay involving at least one tooth in the primary dentition which was symptomatic or symptom free at the start of the study. DATA COLLECTION AND ANALYSIS: Data were independently extracted, in duplicate, by two review authors. Disagreements were resolved by consultation with a third review author. Authors were contacted for missing or unclear information regarding randomisation, allocation sequence, presentation of data, etc. A quality assessment of included trials was undertaken. The Cochrane Collaboration statistical guidelines were followed for data analysis. MAIN RESULTS: Only three studies were included in this review. The Fuks 1999 study assessed the clinical performance of aesthetic crowns versus conventional stainless steel crowns in 11 children who had at least two mandibular primary molars that required a crown restoration. The outcomes assessed at 6 months included gingival health (odds ratio (OR) 0.3; 95% confidence interval (CI) 0.01 to 8.32), restoration failure (OR 3.29; 95% CI 0.12 to 89.81), occlusion, proximal contact and marginal integrity. The odds ratios for occlusion, proximal contact and marginal integrity could not be estimated as no events were recorded at the 6-month evaluation. The Donly 1999 split-mouth study compared a resin-modified glass ionomer (Vitremer) with amalgam over a 36-month period. Forty pairs of Class II restorations were placed in 40 patients (21 males; 19 females; mean age 8 years +/- 1.17; age range 6 to 9 years). Although the study period was 3 years (36 months), only the 6- and 12-month results are reported due to the loss to follow up of patients being greater than 30% for the 24- and 36-month data. Marks 1999a recruited 30 patients (age range 4 to 9 years; mean age 6.7 years, standard deviation 2.3) with one pair of primary molars that required a Class II restoration. The materials tested were Dyract (compomer) and Tytin (amalgam). Loss to follow up at 24 and 36 months was 20% and 43% respectively. This meant that only the 24-month data were useable. For all of the outcomes compared in all three studies, there were no significant differences in clinical performance between the materials tested.No studies were found that compared restorations versus extractions or no treatment as an intervention in children with childhood caries. AUTHORS' CONCLUSIONS: It was disappointing that only three trials that compared three different types of materials were suitable for inclusion into this review. There were no significant differences found in all three trials for all of the outcomes assessed. Well designed, randomised controlled trials comparing the different types of filling materials for similar outcomes are urgently needed in dentistry. There was insufficient evidence from the three included trials to make any recommendations about which filling material to use.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27748505/",
+      "key_findings": "",
+      "summary_ja": ""
+    }
+  ]
+}

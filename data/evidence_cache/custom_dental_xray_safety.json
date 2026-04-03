@@ -1,0 +1,252 @@
+{
+  "topic_id": "custom_dental_xray_safety",
+  "evidences": [
+    {
+      "title": "Diagnostic X-Ray Exposure and Thyroid Cancer Risk: Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Han Mi Ah",
+        "Kim Jin Hwa"
+      ],
+      "year": 2018,
+      "journal": "Thyroid : official journal of the American Thyroid Association",
+      "doi": "10.1089/thy.2017.0159",
+      "pmid": "29160170",
+      "abstract": "BACKGROUND: Radiation exposure is a well-known risk factor for thyroid cancer. However, the specific effects of diagnostic radiation exposure on thyroid cancer risk are controversial. The purpose of this study was to perform a systematic review and meta-analysis to assess the effects of diagnostic radiation exposure on thyroid cancer risk. METHODS: The PubMed and EMBASE databases were searched to identify eligible studies. Summary odds ratio (OR) estimates and confidence intervals (CIs) were used to compute the risk of thyroid cancer using fixed- and random-effects models. Subgroup and sensitivity analyses were performed to evaluate the potential heterogeneity. RESULTS: Nine studies from 12 publications were included in the meta-analysis. Overall exposure to diagnostic radiation exposure was associated with a significantly increased thyroid cancer risk (OR = 1.52 [CI 1.13-2.04]). The subgroup and sensitivity analyses revealed similar results. By type of exposure, exposure to computed tomography scans (OR = 1.46 [CI 1.27-1.68]) or dental x-rays (OR = 1.69 [CI 1.17-2.44]) were associated with an increased thyroid cancer risk. Head and neck (OR = 1.31 [CI 1.02-1.69]) and chest (OR = 1.71 [CI 1.09-2.69]) exposure to diagnostic radiation was associated with an increased thyroid cancer risk. CONCLUSIONS: The results of this meta-analysis indicate that diagnostic radiation exposure is associated with an increased thyroid cancer risk. Therefore, to the extent that it will not compromise the information being sought, radiation exposure to the thyroid should be minimized during diagnostic examinations.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29160170/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Evidence on radiation dose reduction using rectangular collimation: a systematic review.",
+      "authors": [
+        "Shetty Avdeesh",
+        "Almeida Fabiana T",
+        "Ganatra Seema",
+        "Senior Anthea",
+        "Pacheco-Pereira Camila"
+      ],
+      "year": 2019,
+      "journal": "International dental journal",
+      "doi": "10.1111/idj.12411",
+      "pmid": "29959778",
+      "abstract": "BACKGROUND: The goal of an intraoral radiograph is to be a valuable diagnostic tool while keeping the radiation exposure dose as low as reasonably achievable. The International Commission on Radiological Protection (ICRP) has strong recommendations for patient dose-reduction strategies. OBJECTIVE: To answer the following research question: 'In either patient or in phantoms, does rectangular collimation compared with other forms of collimation reduce the radiation absorbed dose during intraoral imaging?' METHODS: The search strategy was developed specifically for each electronic database. Information was collected from MEDLINE, all EBM Reviews including the Cochrane Library, EMBASE, LILACS, PubMed and Web of Science, and from a search of the grey literature via Google Scholar. Studies were included if they reported the radiation dose in intraoral imaging using rectangular collimation compared with any other type of collimation or the absence of it. Studies that did not involve comparison/control groups were excluded. A qualitative appraisal of the included studies was performed. The Methodological Index for NOn-Randomised Studies (MINORS) tool assessed the potential risk of bias among the studies, while the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) approach determined the level of available evidence. RESULTS: Thirteen studies using different types of receptors, including D-speed film, E-speed film, phosphor storage plates (PSP) and direct digital sensors, were included. Different methods to access absorbed and effective dose by exploring distinct technical parameters, such as distance object-receptor, long- and short-cone, kVp and mA, exposure time and beam filtering, were used. High heterogeneity between the studies was found. The level of evidence was classified as moderate. The radiation dose reduction ranged from 40% to 92% compared with circular collimation. The limitations of the cross-sectional design and in vivo studies were discussed. As this systematic review applied validated tools and guidelines designed for population-based studies, the application for studies based on computer simulations and dosimetry measurements was challenging. CONCLUSION: There is moderate evidence suggesting that rectangular collimation significantly reduces radiation dose when compared with round collimation, justifying its implementation in clinical settings/private practices while taking intraoral radiographs.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29959778/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Dental x-ray exposure is not associated with risk of meningioma: a 2019 meta-analysis.",
+      "authors": [
+        "Mupparapu Mel",
+        "Baddam Venkat Ramana Reddy",
+        "Lingamaneni Krishna Prasad",
+        "Singer Steven R"
+      ],
+      "year": 2019,
+      "journal": "Quintessence international (Berlin, Germany : 1985)",
+      "doi": "10.3290/j.qi.a42575",
+      "pmid": "31134228",
+      "abstract": "OBJECTIVE: To determine the risk of developing meningiomas after exposure to various types of dental ionizing radiation at diagnostic levels. METHOD AND MATERIALS: A literature review was conducted using databases such as PubMed, Scopus, Google Scholar, CINAHL, Clinical Key, and Web of Science. Data extracted from the studies were tabulated and a meta-analysis was performed using all relevant data. RESULTS: Twelve articles related to the topic that met the selection criteria were initially included in the systematic review. After evaluating the methodology and statistical analysis of each study, six were ultimately included in the meta-analysis. A forest plot created using RevMan v5.3 software (Cochrane Collaboration) produced a weighted odds ratio of 1.13 (95% confidence interval, 1.06 to 1.19) for meningioma risk. CONCLUSIONS: Studies in the recent past have found a positive association between exposure to ionizing radiation and risk of developing meningiomas. In this study, no association was found between dental x-ray exposure and the development of meningioma. The data were weighted heavily for one of the subgroups due to a larger patient pool as noted via the forest plot. Regardless of the weighting, the majority of the subgroups showed no significant association, further strengthening this conclusion.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31134228/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Negative health effects of dental X-rays: A systematic review.",
+      "authors": [
+        "Wiklander Laila",
+        "Cederlund Andreas",
+        "Kadesjö Nils",
+        "Näsman Peggy",
+        "Tranaeus Sofia",
+        "Naimi-Akbar Aron"
+      ],
+      "year": 2025,
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0323808",
+      "pmid": "40440627",
+      "abstract": "BACKGROUND: This study evaluates whether exposure to dental X-ray examinations in childhood and adolescence results in negative health effects. MATERIAL AND METHODS: This systematic review includes both primary studies and systematic reviews available in Medline, Embase, and Web of Science databases. Six reviewers read the full text of the selected studies. RESULTS: The literature search resulted in 10,949 publications. After title and abstract screening, 55 publications were selected for full text reading, resulting in a total of 18 reports, 7 systematic reviews, and 11 primary studies for quality assessment. CONCLUSION: None of the selected studies passed the quality assessment due to high or very high risk of bias. There is a gap of knowledge regarding negative effects of dental X-rays and a need for more accurate and updated studies.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40440627/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Outcomes of different radioprotective precautions in children undergoing dental radiography: a systematic review.",
+      "authors": [
+        "Van Acker J W G",
+        "Pauwels N S",
+        "Cauwels R G E C",
+        "Rajasekharan S"
+      ],
+      "year": 2020,
+      "journal": "European archives of paediatric dentistry : official journal of the European Academy of Paediatric Dentistry",
+      "doi": "10.1007/s40368-020-00544-8",
+      "pmid": "32557182",
+      "abstract": "PURPOSE: To evaluate the effectiveness of all radioprotective measures in underage patients who undergo a dental radiodiagnostic examination. METHODS: A systematic review was performed including randomised controlled trials (RCTs), or cluster trials, cohort studies, cross-sectional studies, case-control studies and comparative in vitro research. These studies examined the healthy underage human population (below 18 years) undergoing a dental radiodiagnostic examination. All radioprotective measures were included except for justification as an intervention. The primary outcomes were in vivo mortality and morbidity. Some surrogate or indirect outcomes such as in vitro effective dose and organ absorbed doses were also accepted. Secondary outcomes with regards to image quality and therapeutic value were also analysed. RESULTS: Eighteen papers were eligible for implementation. Fifteen studies underwent narrative synthesis. Regression analysis was performed on three studies. CONCLUSION: The following radioprotective measures can reduce the exposure dose. For lateral cephalometry: collimation, filtration, the fastest receptor type and circumstantial thyroid shielding. For oblique lateral radiographs: the shortest exposure time, a smaller horizontal angulation, a longer focus to skin distance. For intraoral radiography: rectangular collimation, the fastest image receptor speed and thyroid shielding when the thyroid gland is in line of or very close to the primary beam. For panoramic radiographs: collimation, the fastest receptor type and the use of automatic exposure control (AEC) or manual adjustment of intensity. For cone-beam computed tomography: collimation, the largest voxels size in relation to the treatment need, change in image settings such as ultra-low dose settings, shorter exposure time, a lower amount of projections, lower beam intensity, reduction of the potential, use of a thyroid shield except in two situations and the use of AEC. All of the changes in exposure parameters should be performed while maintaining a sufficient therapeutic value on an individual and indication-based level.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32557182/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Is there a correlation between dental and cervical vertebrae maturation stages in growing subjects? A systematic review with meta-analysis.",
+      "authors": [
+        "Barreto Bruna Caroline Tomé",
+        "Marañón-Vásquez Guido Artemio",
+        "da Costa Barreto Luísa Schubach",
+        "Masterson Danielle",
+        "de Souza Margareth Maria Gomes",
+        "Maia Lucianne Cople"
+      ],
+      "year": 2022,
+      "journal": "Clinical oral investigations",
+      "doi": "10.1007/s00784-022-04456-3",
+      "pmid": "35338422",
+      "abstract": "OBJECTIVE: To assess the evidence on the relationship between dental and cervical vertebrae maturation. MATERIALS AND METHODS: Searches were performed (up to December 2021) in seven databases, as well as in gray literature. Studies that included growing subjects, which evaluated the correlation between the stages of tooth formation and the maturation of cervical vertebrae, were eligible. The methodological quality of the selected reports was assessed using the JBI checklist for cross-sectional studies. Random-effects meta-analyses were implemented to calculate the pooled correlation coefficients between the maturation stages of cervical vertebrae and each tooth type. The GRADE approach was followed to assess the certainty of evidence. RESULTS: Seventy-seven studies were selected. Most of them had limitations related to sampling and reliability of the methods to evaluate maturation. The syntheses evidenced positive correlations between the maturation of cervical vertebrae and the formation/calcification stages of the following lower teeth: canine (n = 7318; r = 0.692; 95% CI: 0.656-0.724), first premolar (n = 6194; r = 0.689; 95% CI: 0.649-0.725), second premolar (n = 6194; r = 0.695; 95% CI: 0.659-0.729), and second molar (n = 7905; r = 0.698; 95% CI: 0.652-0.739). All estimates were affected by the risk of bias and the presence of unexplained statistical heterogeneity. CONCLUSIONS: The evidence points to an apparent positive correlation between dental and cervical vertebrae maturation. These results need to be carefully evaluated as the body of evidence is of very low quality. CLINICAL RELEVANCE: Dental maturation might be a potential indicator of skeletal craniofacial growth status. A routine dental x-ray could be sufficient, reducing radiation exposure by requesting additional radiographs.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35338422/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Dental X-Rays and the Risk of Thyroid Cancer and Meningioma: A Systematic Review and Meta-Analysis of Current Epidemiological Evidence.",
+      "authors": [
+        "Memon Anjum",
+        "Rogers Imogen",
+        "Paudyal Priyamvada",
+        "Sundin Josefin"
+      ],
+      "year": 2019,
+      "journal": "Thyroid : official journal of the American Thyroid Association",
+      "doi": "10.1089/thy.2019.0105",
+      "pmid": "31502516",
+      "abstract": "",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31502516/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Indications for 3-D diagnostics and navigation in dental implantology with the focus on radiation exposure: a systematic review.",
+      "authors": [
+        "Kunzendorf Burkhard",
+        "Naujokat Hendrik",
+        "Wiltfang Jörg"
+      ],
+      "year": 2021,
+      "journal": "International journal of implant dentistry",
+      "doi": "10.1186/s40729-021-00328-9",
+      "pmid": "34041613",
+      "abstract": "BACKGROUND: Dental implants are a common restorative method used to replace missing teeth. Implant placement techniques guided by three-dimensional imaging and navigation are becoming more widely available. OBJECTIVE: The present review focused on the following questions: 1. What are the advantages and disadvantages of 2-D versus 3-D imaging in dental implantology? 2. What are the advantages and disadvantages of freehand implant placement in comparison with navigation-guided implant placement? METHODS: A systematic review was performed, based on the Preferred Reporting Items for Systematic Reviews and Meta-analysis (PRISMA) statement. The following libraries were searched for relevant literature: PubMed, Embase, Arbeitsgemeinschaft der Wissenschaftlichen Medizinischen Fachgesellschaften (AWMF) Online, and the Cochrane Library. The risk of bias was assessed using the Scottish Intercollegiate Guidelines Network (SiGN) checklist. A total of 70 studies were included after screening, and the evidence from these was gathered for review. RESULTS: Three-dimensional imaging is advantageous in terms of image quality, and it provides a distortion-free evaluation of the implant site. However, it is also associated with higher costs and increased radiation exposure. Dynamic and static navigation are equal in accuracy and are both more accurate compared with the freehand method. No benefit in terms of implant survival could be demonstrated within the first 5 years for any specific method. DISCUSSION: A panoramic X-ray with a reference body often provides sufficient imaging and is the primary method for two-dimensional imaging. Cone beam computed tomography with low-dose protocol settings should be used if three-dimensional imaging is needed. Navigational support should be considered in the event of especially complex cases. CONCLUSION: The guidance technique used for implant placement should be decided on an individual basis. With the increasing availability of three-dimensional imaging, there should also be an increase in awareness of radiation exposure.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34041613/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Imaging-based maxillomandibular changes after head and neck radiotherapy: A systematic review and meta-analysis.",
+      "authors": [
+        "Castro Vitoria Tavares",
+        "Di Carvalho Melo Larissa",
+        "Silvestre-Barbosa Yuri",
+        "Ferreira Elaine Barros",
+        "Reis Paula Elaine Diniz",
+        "Almeida Fabiana T",
+        "Leite Andre Ferreira",
+        "Guerra Eliete Neves Silva"
+      ],
+      "year": 2025,
+      "journal": "Journal of stomatology, oral and maxillofacial surgery",
+      "doi": "10.1016/j.jormas.2025.102432",
+      "pmid": "40523613",
+      "abstract": "This systematic review aims to evaluate the maxillomandibular bone changes post-radiotherapy in head and neck cancer (HNC) patients using qualitative and quantitative imaging analyses. The review was conducted following PRISMA guidelines, using the PEOS framework: patients with HNC (population), radiotherapy in the head and neck region (exposure), bone changes in the jaws detectable by radiographs (outcomes), including observational studies and experimental clinical trials (study design). A comprehensive search was performed in PubMed, Embase, Cochrane, and Web of Science, along with gray literature. Demographic data, tumor characteristics, radiotherapy modalities, and imaging findings from computed tomography scans or panoramic radiographs were extracted, with the risk of bias assessed using JBI's critical appraisal tools, and studies at high risk of bias were excluded from the meta-analysis. A total of 30 studies involving 2441 patients met the inclusion criteria. Bone integrity alterations were the most frequently reported outcomes, including osteoradionecrosis (ORN), bone sclerosis, cortical thinning, trabecular density reduction, and osteolytic and osteosclerotic lesions. ORN was observed in 7 % of cases (95 % CI: 4-10 %). Periodontal alterations, such as periodontal ligament widening, were reported in five studies. Impaired bone healing included delayed socket ossification and nonunion after surgery. Panoramic radiography was the most used imaging modality, while quantitative analyses, such as fractal dimension reductions and radiomics, revealed subtle changes indicative of bone deterioration. Radiotherapy significantly impacts bone integrity and healing in HNC patients. These findings highlight the importance of advanced imaging techniques for early detection and personalized intervention strategies to mitigate radiation-induced bone complications.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40523613/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Best clinical practice guidance for prescribing dental radiographs in children and adolescents: an EAPD policy document.",
+      "authors": [
+        "Kühnisch J",
+        "Anttonen V",
+        "Duggal M S",
+        "Spyridonos M Loizides",
+        "Rajasekharan S",
+        "Sobczak M",
+        "Stratigaki E",
+        "Van Acker J W G",
+        "Aps J K M",
+        "Horner K",
+        "Tsiklakis K"
+      ],
+      "year": 2020,
+      "journal": "European archives of paediatric dentistry : official journal of the European Academy of Paediatric Dentistry",
+      "doi": "10.1007/s40368-019-00493-x",
+      "pmid": "31768893",
+      "abstract": "BACKGROUND: The European Academy of Paediatric Dentistry (EAPD) proposes this best clinical practice guidance to help practitioners decide when and how to prescribe dental radiographs in children and adolescents. METHODS: Four expert working groups conducted each a systematic review of the literature. The main subjects were radiation protection, intraoral dental radiography (bitewing and periapical radiographs), panoramic radiography (PR) and cone-beam computed tomography (CBCT). In addition, three workshops were held during the corresponding EAPD Interim Seminar in Chania (Crete, Greece) in 2019. On the basis of the identified evidence, all invited experts presented their findings and during the workshops aspects of clinical relevance were discussed. RESULTS: Several clinical-based recommendations and statements were agreed upon. CONCLUSION: There is no or low-grade evidence about the efficacy of dental radiographic examinations in young populations. The given recommendations and rationales should be understood as best clinical practice guidance. It is essential to respect the radiological principles of an individualized and patient-specific justification. When a dental radiograph is required, its application needs to be optimized, aiming at limiting the patient's exposure to ionising radiation according to the ALADAIP principle (As Low As Diagnostically Achievable being Indication-oriented and Patient-specific).",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31768893/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "CBCT in orthodontics: a systematic review on justification of CBCT in a paediatric population prior to orthodontic treatment.",
+      "authors": [
+        "De Grauwe Annelore",
+        "Ayaz Irem",
+        "Shujaat Sohaib",
+        "Dimitrov Simon",
+        "Gbadegbegnon Logan",
+        "Vande Vannet Bart",
+        "Jacobs Reinhilde"
+      ],
+      "year": 2019,
+      "journal": "European journal of orthodontics",
+      "doi": "10.1093/ejo/cjy066",
+      "pmid": "30351398",
+      "abstract": "BACKGROUND: Taking into account radiation doses, safety, and protection, we highlighted the features in which cone-beam computed tomography (CBCT) can offer an advantage compared to the conventional two-dimensional imaging in paediatric dentistry before orthodontic treatment. OBJECTIVE: The aim of this article was to conduct a systematic review to assess the diagnostic efficacy of CBCT in the paediatric population at a pre-orthodontic phase. SEARCH METHODS: MEDLINE via PubMed was searched to identify all peer-reviewed articles potentially relevant to the review until 1 July 2018. Relevant publications were selected by two reviewers independently. SELECTION CRITERIA: The literature selection for this systematic review was carried out according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement and was based on predetermined inclusion criteria. DATA COLLECTION AND ANALYSIS: Data were collected on overall study characteristics and examination characteristics of the selected studies. Methodological quality of the selected studies was evaluated. Original studies were assessed using the Quality Assessment of Diagnostic Accuracy Studies (QUADAS) tool. Thereafter, levels of evidence were obtained according to Grading of Recommendations Assessment, Development and Evaluation criteria. RESULTS: As a result of the QUADAS assessment, a total of 37 articles were included in the protocol. Following a proper protocol, CBCT was regarded as a reliable tool for assessment and management of impacted canine and root fracture. It provided a better evaluation of normal and pathological condylar shape and volume. CBCT was a superior choice for pre-surgical diagnostic applications in cleft lip and/or palate over a medical computed tomography based on its lower radiation exposure, shorter investigation time, and low purchase costs. CONCLUSIONS: CBCT is justified only in those cases where conventional radiography fails to provide a correct diagnosis of pathology. Therefore, it cannot be regarded as a standard method of diagnosis. CBCT imaging may also be justified when it positively affects treatment options or provides treatment optimization. REGISTRATION: None. CONFLICT OF INTEREST: None to declare.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30351398/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Micronucleus formation in oral mucosal cells following dental X-ray exposure: a systematic review and meta-analysis.",
+      "authors": [
+        "Wang Yaxin",
+        "Hassan Rozita",
+        "Cai Shanshan",
+        "Ghazali Liyana",
+        "Zin Anani Aila Bt Mat",
+        "Yang Sanhui",
+        "Zeng Linxian"
+      ],
+      "year": 2026,
+      "journal": "Dento maxillo facial radiology",
+      "doi": "10.1093/dmfr/twaf075",
+      "pmid": "41065463",
+      "abstract": "BACKGROUND: Radiographic imaging is essential in dental diagnostics, yet concerns persist regarding its genotoxic impact. While digital advancements have reduced radiation doses, the effects of X-ray exposure on oral mucosal cells remain debated. This study systematically reviews and quantitatively analyses the effects of X-ray exposure on micronucleus (MN) formation in oral epithelial cells, examining potential age-related variations. METHODS: A thorough literature review was performed across PubMed, Web of Science, EBSCO, and Scopus (updated to November 2024), adhering to PRISMA criteria. Eligible studies examined cytogenetic changes in oral epithelial cells after X-ray exposure in healthy individuals. Data extraction covered study design, imaging modality, radiation dose, MN frequency, and statistical methods. Risk of bias was assessed using a modified Effective Public Health Practice Project tool. A random-effects model synthesized MN frequency changes, and Fisher's Z-transformation analysed age correlations. RESULTS: Eighteen studies met the inclusion criteria, with 16 centred on panoramic imaging and 2 examining a combination of cone-beam computed tomography and lateral cephalometric X-rays. Meta-analysis confirmed a significant increase in MN frequency post-exposure (standardized mean difference = 0.30, 95% CI: 0.07-0.52, P = .01), indicating genotoxic effects. However, age showed a weak correlation with MN formation (r = 0.149, 95% CI: -0.009 to 0.3, P = .065). CONCLUSIONS: X-ray exposure induces measurable genotoxic damage in oral epithelial cells, though age-related effects remain inconclusive. Adhering to the ALARA principle is crucial to minimizing unnecessary radiation. Future studies should employ larger cohorts and refined biomarkers to enhance risk assessment.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41065463/",
+      "key_findings": "",
+      "summary_ja": ""
+    }
+  ]
+}

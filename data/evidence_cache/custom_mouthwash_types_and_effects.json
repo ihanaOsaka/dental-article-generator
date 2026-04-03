@@ -1,0 +1,479 @@
+{
+  "topic_id": "custom_mouthwash_types_and_effects",
+  "evidences": [
+    {
+      "title": "ADA Clinical Practice Guideline: Topical Fluoride for Caries Prevention",
+      "authors": [
+        "American Dental Association"
+      ],
+      "year": 2024,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "guideline",
+      "source_type": "ADA",
+      "url": "https://www.ada.org/resources/research/science-and-research-institute/evidence-based-dental-research/fluoride-topical-and-systemic-supplements",
+      "key_findings": "Professional fluoride varnish application every 3-6 months is recommended for children at elevated caries risk.",
+      "summary_ja": "むし歯リスクの高い小児には3〜6ヶ月ごとのフッ素バーニッシュ塗布を推奨。"
+    },
+    {
+      "title": "ADA Policy: Use of Pit-and-Fissure Sealants",
+      "authors": [
+        "American Dental Association"
+      ],
+      "year": 2023,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "guideline",
+      "source_type": "ADA",
+      "url": "https://www.ada.org/resources/research/science-and-research-institute/evidence-based-dental-research/dental-sealants",
+      "key_findings": "Dental sealants reduce caries by up to 80% in the first 2 years and continue to be effective for up to 9 years.",
+      "summary_ja": "シーラントは最初の2年間でむし歯を最大80%減少させ、最大9年間効果が持続。"
+    },
+    {
+      "title": "ADA Guideline: First Dental Visit",
+      "authors": [
+        "American Dental Association"
+      ],
+      "year": 2022,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "guideline",
+      "source_type": "ADA",
+      "url": "https://www.ada.org/resources/research/science-and-research-institute/evidence-based-dental-research",
+      "key_findings": "ADA recommends a child's first dental visit by age 1 or within 6 months of the first tooth eruption.",
+      "summary_ja": "ADAは1歳まで、または最初の歯が生えてから6ヶ月以内の初回受診を推奨。"
+    },
+    {
+      "title": "フッ化物洗口ガイドライン",
+      "authors": [
+        "厚生労働省"
+      ],
+      "year": 2003,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "authority",
+      "source_type": "厚生労働省",
+      "url": "https://www.mhlw.go.jp/topics/2003/07/tp0711-1.html",
+      "key_findings": "フッ化物洗口の安全性と有効性を示すガイドライン。4歳以上で推奨。",
+      "summary_ja": "フッ化物洗口は安全で有効。4歳以上で実施可能。"
+    },
+    {
+      "title": "Fluoride mouthrinses for preventing dental caries in children and adolescents.",
+      "authors": [
+        "Marinho Valeria C C",
+        "Chong Lee Yee",
+        "Worthington Helen V",
+        "Walsh Tanya"
+      ],
+      "year": 2016,
+      "journal": "The Cochrane database of systematic reviews",
+      "doi": "10.1002/14651858.CD002284.pub2",
+      "pmid": "27472005",
+      "abstract": "BACKGROUND: Fluoride mouthrinses have been used extensively as a caries-preventive intervention in school-based programmes and by individuals at home. This is an update of the Cochrane review of fluoride mouthrinses for preventing dental caries in children and adolescents that was first published in 2003. OBJECTIVES: The primary objective is to determine the effectiveness and safety of fluoride mouthrinses in preventing dental caries in the child and adolescent population.The secondary objective is to examine whether the effect of fluoride rinses is influenced by:• initial level of caries severity;• background exposure to fluoride in water (or salt), toothpastes or reported fluoride sources other than the study option(s); or• fluoride concentration (ppm F) or frequency of use (times per year). SEARCH METHODS: We searched the following electronic databases: Cochrane Oral Health's Trials Register (whole database, to 22 April 2016), the Cochrane Central Register of Controlled Trials (CENTRAL) (the Cochrane Library, 2016, Issue 3), MEDLINE Ovid (1946 to 22 April 2016), Embase Ovid (1980 to 22 April 2016), CINAHL EBSCO (the Cumulative Index to Nursing and Allied Health Literature, 1937 to 22 April 2016), LILACS BIREME (Latin American and Caribbean Health Science Information Database, 1982 to 22 April 2016), BBO BIREME (Bibliografia Brasileira de Odontologia; from 1986 to 22 April 2016), Proquest Dissertations and Theses (1861 to 22 April 2016) and Web of Science Conference Proceedings (1990 to 22 April 2016). We undertook a search for ongoing trials on the US National Institutes of Health Trials Register (http://clinicaltrials.gov) and the World Health Organization International Clinical Trials Registry Platform. We placed no restrictions on language or date of publication when searching electronic databases. We also searched reference lists of articles and contacted selected authors and manufacturers. SELECTION CRITERIA: Randomised or quasi-randomised controlled trials where blind outcome assessment was stated or indicated, comparing fluoride mouthrinse with placebo or no treatment in children up to 16 years of age. Study duration had to be at least one year. The main outcome was caries increment measured by the change in decayed, missing and filled tooth surfaces in permanent teeth (D(M)FS). DATA COLLECTION AND ANALYSIS: At least two review authors independently performed study selection, data extraction and risk of bias assessment. We contacted study authors for additional information when required. The primary measure of effect was the prevented fraction (PF), that is, the difference in mean caries increments between treatment and control groups expressed as a percentage of the mean increment in the control group. We conducted random-effects meta-analyses where data could be pooled. We examined potential sources of heterogeneity in random-effects metaregression analyses. We collected adverse effects information from the included trials. MAIN RESULTS: In this review, we included 37 trials involving 15,813 children and adolescents. All trials tested supervised use of fluoride mouthrinse in schools, with two studies also including home use. Almost all children received a fluoride rinse formulated with sodium fluoride (NaF), mostly on either a daily or weekly/fortnightly basis and at two main strengths, 230 or 900 ppm F, respectively. Most studies (28) were at high risk of bias, and nine were at unclear risk of bias.From the 35 trials (15,305 participants) that contributed data on permanent tooth surface for meta-analysis, the D(M)FS pooled PF was 27% (95% confidence interval (CI), 23% to 30%; I(2) = 42%) (moderate quality evidence). We found no significant association between estimates of D(M)FS prevented fractions and baseline caries severity, background exposure to fluorides, rinsing frequency or fluoride concentration in metaregression analyses. A funnel plot of the 35 studies in the D(M)FS PF meta-analysis indicated no relationship between prevented fraction and study precision (no evidence of reporting bias). The pooled estimate of D(M)FT PF was 23% (95% CI, 18% to 29%; I² = 54%), from the 13 trials that contributed data for the permanent teeth meta-analysis (moderate quality evidence).We found limited information concerning possible adverse effects or acceptability of the treatment regimen in the included trials. Three trials incompletely reported data on tooth staining, and one trial incompletely reported information on mucosal irritation/allergic reaction. None of the trials reported on acute adverse symptoms during treatment. AUTHORS' CONCLUSIONS: This review found that supervised regular use of fluoride mouthrinse by children and adolescents is associated with a large reduction in caries increment in permanent teeth. We are moderately certain of the size of the effect. Most of the evidence evaluated use of fluoride mouthrinse supervised in a school setting, but the findings may be applicable to children in other settings with supervised or unsupervised rinsing, although the size of the caries-preventive effect is less clear. Any future research on fluoride mouthrinses should focus on head-to-head comparisons between different fluoride rinse features or fluoride rinses against other preventive strategies, and should evaluate adverse effects and acceptability.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27472005/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "The Effect of Cetylpyridinium Chloride Compared to Chlorhexidine Mouthwash on Scores of Plaque and Gingivitis: A Systematic Review and Meta-Analyses.",
+      "authors": [
+        "Windhorst Emmy Rowan",
+        "Joosstens Maud",
+        "van der Sluijs Eveline",
+        "Slot Dagmar Else"
+      ],
+      "year": 2025,
+      "journal": "International journal of dental hygiene",
+      "doi": "10.1111/idh.12916",
+      "pmid": "40530503",
+      "abstract": "AIM: To evaluate the effectiveness of cetylpyridinium chloride (CPC) and chlorhexidine (CHX) mouthwashes (MW) on plaque and gingivitis scores for patients with gingivitis, in brushing as well as non-brushing situations. METHODS: A comprehensive search of MEDLINE-PubMed and Cochrane-CENTRAL was conducted to identify clinical and randomised controlled trials comparing CPC and CHX mouthwashes on plaque and gingivitis scores. The staining index was evaluated as a secondary outcome. In addition, the risk of bias was assessed. The data was summarised using a descriptive approach, and whenever possible, a meta-analysis was conducted. The results for brushing and non-brushing studies were presented separately. Grading was applied using the GRADE approach to rate the certainty of evidence. RESULTS: The search resulted in 424 unique papers, from which 14 full-text papers providing 18 comparisons were selected. Different concentrations of CPC-MW (0.1%, 0.075%, 0.05%) and CHX-MW (0.2%, 0.12%) were used. The risk of bias was estimated to be low, moderate or high for each study. A meta-analysis for non-brushing models showed a significant favour for CHX-MW in plaque index scores (0.55 [95% CI: 0.19; 0.91], p = 0.003). For brushing, no significant differences were found between CPC-MW and CHX-MW. The descriptive analysis supports these findings. CHX-MW tends to stain more than CPC-MW. CONCLUSION: There is moderate certainty for a small statistically significant favourable effect of CHX-MW over CPC-MW for plaque control in non-brushing situations, but no difference between them for plaque and gingivitis prevention in brushing situations.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40530503/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Efficacy of preprocedural mouthrinses in the reduction of microorganisms in aerosol: A systematic review.",
+      "authors": [
+        "Marui Vanessa Costa",
+        "Souto Maria Luisa Silveira",
+        "Rovai Emanuel Silva",
+        "Romito Giuseppe Alexandre",
+        "Chambrone Leandro",
+        "Pannuti Claudio Mendes"
+      ],
+      "year": 2019,
+      "journal": "Journal of the American Dental Association (1939)",
+      "doi": "10.1016/j.adaj.2019.06.024",
+      "pmid": "31761015",
+      "abstract": "BACKGROUND: The authors of this systematic review aimed to evaluate the efficacy of preprocedural mouthrinses in reducing the number of microorganisms disseminated by means of the aerosol generated via dental procedures when compared with a placebo, water, or no mouthrinse. TYPES OF STUDIES REVIEWED: The authors included only randomized clinical trials. They searched MEDLINE (PubMed), Embase, Google Scholar, and Latin American and Caribbean Health Sciences Literature databases through May 31, 2019. They performed random-effects meta-analysis for reduction of the number of colony-forming units (CFU) in the dental aerosol. RESULTS: Of 770 potentially relevant articles, the authors included 13 randomized clinical trials in which researchers studied the efficacy of chlorhexidine, essential oils, cetylpyridinium chloride, and herbal products. Meta-analysis of 12 studies showed that mouthrinses with chlorhexidine, essential oils, and cetylpyridinium chloride significantly reduced the number of CFU. Overall, the use of a preprocedural mouthrinse resulted in a mean reduction in the number of CFUs of 64.8% (95% confidence interval, 50.4% to 79.3%; I PRACTICAL IMPLICATIONS: Some dental procedures result in dissemination of microorganisms in the aerosol in the dental office. There is moderate evidence that preprocedural mouthrinses significantly reduce the number of microorganisms in the dental aerosol.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31761015/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Economic evaluation of school-based caries preventive programs: A systematic review.",
+      "authors": [
+        "Murthy A K",
+        "Fareed N"
+      ],
+      "year": 2020,
+      "journal": "Community dental health",
+      "doi": "10.1922/CDH_00010Murthy11",
+      "pmid": "32227705",
+      "abstract": "OBJECTIVE: Assess interventions and health outcomes in studies giving data on economic evaluation (EE) of school-based caries prevention. BASIC RESEARCH DESIGN: Systematic review. Both partial EE that included cost description, cost-outcome description, cost analysis and full EE that included both cost and outcome of at least 2 interventions were included. Quality assessment used the Consolidated Health Economic Evaluation Reporting Standards (CHEERS) guidelines. RESULTS: An electronic search of 6 databases identified 558 titles and abstracts. Paper eligibility screening identified 32 full papers which met the inclusion criteria. Most were conducted in the United States and cost effectiveness analysis was the most common type of EE. Nine were model-based studies and 17 derived their data from single studies. Sealants were most frequently evaluated followed by fluoride mouthrinse. Many CHEERS criteria were not met in the included studies. The following were found to be cost-effective: school-based, under general supervision, longer duration of program and targeting high caries risk groups. CONCLUSIONS: The deficiencies in the existing studies warrant more investigations of the economic aspects of school-based activities interventions to prevent caries.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32227705/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Alternative therapies in controlling oral malodour: a systematic review.",
+      "authors": [
+        "Wylleman A",
+        "Vuylsteke F",
+        "Dekeyser C",
+        "Teughels W",
+        "Quirynen M",
+        "Laleman I"
+      ],
+      "year": 2021,
+      "journal": "Journal of breath research",
+      "doi": "10.1088/1752-7163/abcd2b",
+      "pmid": "33227726",
+      "abstract": "Is there a role for alternative therapies in controlling intra-oral halitosis? Treatments other than tongue cleaning and anti-halitosis products containing zinc, chlorhexidine and cetylpyridinium chloride were considered as alternative therapies. Four databases were searched (PubMed, EMBASE, Web of Science and The Cochrane Library). Inclusion criteria were: examination of alternative halitosis therapies, study population with oral malodour, a (negative or positive) control group and evaluation of breath odour via organoleptic and/or instrumental assessment. Data were extracted for descriptive analysis. The screening of 7656 titles led to the inclusion of 26 articles. Analysis showed heterogeneity concerning the population of interest (from cysteine-induced to genuine halitosis), the examined treatment and the reported outcomes. This made a meta-analysis impossible. Essential oils, fluoride-containing products and herbal substances were the most studied. Results varied enormously and none of the active ingredients had an unambiguously positive effect on the malodour. The risk of bias was assessed as high in all articles. Given the fact that little evidence was found for each of the investigated treatments, it could be concluded that there is currently insufficient evidence that alternative therapies are of added value in the treatment of halitosis.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33227726/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Effect of mouthwashes on gingival healing after surgical procedures: A systematic review.",
+      "authors": [
+        "Casarin Maísa",
+        "de Matos Raquele Soares",
+        "da Silva Nolasco Wagner",
+        "Pirih Flavia Q",
+        "Muniz Francisco Wilker Mustafa Gomes"
+      ],
+      "year": 2023,
+      "journal": "European journal of oral sciences",
+      "doi": "10.1111/eos.12931",
+      "pmid": "37069833",
+      "abstract": "The aim of the present study was to perform a systematic review of the literature regarding the effect of different mouthwashes on gingival healing after oral surgery in adults. Searches were conducted in seven databases (PubMed/MEDLINE, Cochrane Library, Clinical Trials Registry, Embase, LILACS, Web of Science, and Google Scholar) for relevant randomized controlled trials (RCTs) published up to April 2022. The selection of studies, data extraction, and risk of bias appraisal were performed independently by two reviewers, and a third researcher was consulted to resolve disagreements. Data syntheses were presented narratively for the different criteria of gingival wound healing. Among 4502 articles retrieved from the databases, 13 studies met the eligibility criteria and were included in the present review. Chlorhexidine was the most frequent mouthwash studied (eight studies) and was used in different concentrations and combinations. Cetylpyridinium chloride, H",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37069833/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Effectiveness of mouth rinses on caries prevention and arrest: an umbrella review.",
+      "authors": [
+        "Seremidi Kyriaki",
+        "Davidopoulou Sotiria",
+        "Kaklamanos Eleftherios",
+        "Rahiotis Christos",
+        "Gizani Sotiria",
+        "Koromantzos Panagiotis",
+        "Bobetsis Yiorgos",
+        "Karakostas Panagiotis",
+        "Giota Chrysoula",
+        "Papadimitriou Konstantinos",
+        "Apatzidou Danae Anastasia",
+        "Papaioannou William",
+        "Kalfas Sotiris"
+      ],
+      "year": 2025,
+      "journal": "Evidence-based dentistry",
+      "doi": "10.1038/s41432-025-01188-7",
+      "pmid": "41272312",
+      "abstract": "OBJECTIVES: Among various fluoride delivery methods, such as toothpaste, varnishes, and water fluoridation, mouthrinses have gained attention for their versatility, ease of use, and potential to complement other preventive strategies. The aim was to evaluate the effectiveness of mouthrinses in preventing and arresting caries by synthesizing data from existing systematic reviews. METHODS: Five electronic databases, named PubMed, Cochrane Central Register of Controlled Trials, Cochrane Database of Systematic Reviews, Web of Science and Scopus, were searched to identify systematic reviews that assessed the effect of mouthrinses containing chemical, herbal, or natural agents in comparison to standard oral care, placebo, water, or saline in the development or arrest of crown or root caries. Eligible reviews were selected, and data were extracted and assessed for bias. RESULTS: Three systematic reviews with meta-analysis and four without were included, with a total of eighty-three initial studies (moderate overlap). Supervised regular use of fluoride mouthrinse can reduce coronal and root caries initiation and progression in permanent teeth for an observational period of 6 months to 4 years. The only significant effect was in favor of the fluoride mouthrinse for crown caries at 36 months and root caries at 48 months follow-up time. CONCLUSIONS: Mouthrinses effectively reduce the occurrence of crown caries in moderate- and high-risk patients, as well as root caries in older adults. However, their anticaries benefit in populations with additional fluoride exposure remains uncertain. CLINICAL SIGNIFICANCE: Given the great variability in the design, inclusion criteria set and conduct of the eligible systematic reviews, it is impossible to reach specific conclusions concerning the efficacy of any single product. However, it seems that fluoride mouthrinses are effective in preventing and/or arresting dental caries in moderate and high caries risk patients and may reduce initiation of root caries in older individuals.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41272312/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Essential oils-containing mouthwashes for gingivitis and plaque: Meta-analyses and meta-regression.",
+      "authors": [
+        "Haas Alex Nogueira",
+        "Wagner Tassiane Panta",
+        "Muniz Francisco Wilker Mustafa Gomes",
+        "Fiorini Tiago",
+        "Cavagni Juliano",
+        "Celeste Roger Keller"
+      ],
+      "year": 2016,
+      "journal": "Journal of dentistry",
+      "doi": "10.1016/j.jdent.2016.09.001",
+      "pmid": "27628316",
+      "abstract": "OBJECTIVES: To evaluate the efficacy of EO as adjuncts to mechanical plaque control (MPC) on the reduction of plaque and gingivitis when compared to placebo or cetylpyridium chloride (CPC). DATA: Randomized controlled trials of at least 6 months of follow-up including systemically healthy individuals with gingivitis were included. SOURCES: MEDLINE, EMBASE, Lilacs and SCOPUS were searched up to April 2016. From 3045 citations, 16 studies were included. 14 studies assessed the Quigley-Hein Plaque Index (QHI) and 11 studies assessed the Modified Gingival Index (MGI) and were included in meta-analyses and meta-regression. STUDY SELECTION: The analysis of risk of bias suggested that the quality of the studies ranged from moderate to low. Mean QHI (WMD=-0.86, 95%CI -1.05 to -0.66) and MGI (WMD=-0.52, 95%CI -0.67 to -0.37) were lower for EO+MPC than placebo+MPC. Reductions in plaque and gingivitis were, respectively, 32% and 24% larger for EO+MPC than placebo+MPC. The decreases in QHI (WMD=-0.95, 95%CI -1.26 to -0.63) and in MGI (WMD=-0.34, 95%CI -0.53 to -0.15) observed in the EO+MPC group, compared to placebo+MPC in interproximal areas, were significantly different and in favor to EO+MPC. EO+MPC compared to CPC+MPC resulted in clinically lower levels of plaque and gingivitis. High heterogeneity (I CONCLUSIONS: EO seems to be superior to placebo+MPC and CPC+MPC for reduction of plaque and gingival inflammation in patients with gingivitis. Expected benefits may be clinically relevant and may also reach the interproximal area. CLINICAL SIGNIFICANCE: Mouthwashes containing essential oils should be considered the first choice for daily use as adjuvants to self-performed mechanical plaque control.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27628316/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Use and efficacy of mouthwashes in elderly patients: A systematic review of randomized clinical trials.",
+      "authors": [
+        "Pérez-Nicolás Claudia",
+        "Pecci-Lloret María Pilar",
+        "Guerrero-Gironés Julia"
+      ],
+      "year": 2023,
+      "journal": "Annals of anatomy = Anatomischer Anzeiger : official organ of the Anatomische Gesellschaft",
+      "doi": "10.1016/j.aanat.2022.152026",
+      "pmid": "36402239",
+      "abstract": "INTRODUCTION: A higher prevalence of oral problems has been observed in the elderly population. One of the treatment options for some of these pathologies is the administration of mouthwashes combined with mechanical removal techniques. Besides, each type of oral rinse treats certain oral diseases, and it should be selected for each specific situation. OBJECTIVE: To determine the use and efficacy of mouthwashes in the elderly as a treatment for various pathologies, to indicate the most common kinds of mouth-rinses used, the diseases treated with them, their efficacy in each treatment, and their effectiveness when they are combined with other treatments. MATERIAL AND METHODS: The review has been carried out following the PRISMA 2020 Statement. Individualized bibliographic searches were performed in five databases. Randomized clinical trials are included in patients over 60 years old where mouthwashes were administered to treat or prevent specific diseases. The PICO question aimed to assess what type of mouthwashes elderly patients use, what they use them for, and their efficacy. Study selection, data extraction, and quality analysis were achieved using the RoB-2 guide. RESULTS: Thirteen articles were chosen to perform the qualitative analysis. The bibliometric analysis was carried out. We have eleven randomized controlled clinical trials and two uncontrolled. The mouthwash more used was chlorhexidine, followed by essential oils and fluorides. The most studied pathologies were a periodontal disease, caries, candidiasis, denture stomatitis, and xerostomia. Chlorhexidine used weekly is effective as antiplaque and antigingivitis. Fluorides effectively prevent and reverse caries; nystatin and essential oils to treat candidiasis; and pilocarpine rinse to manage xerostomia. CONCLUSIONS: The included studies show that mouthwashes are widely extended in the elderly population, and each sort is specifically designed for treating a particular condition.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36402239/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Effects of antimicrobial mouthwashes on the human oral microbiome: Systematic review of controlled clinical trials.",
+      "authors": [
+        "do Amaral Guilherme Castro Lima Silva",
+        "Hassan Mohamed Ahmed",
+        "Sloniak Mariane Cristina",
+        "Pannuti Cláudio Mendes",
+        "Romito Giuseppe A",
+        "Villar Cristina Cunha"
+      ],
+      "year": 2023,
+      "journal": "International journal of dental hygiene",
+      "doi": "10.1111/idh.12617",
+      "pmid": "35946140",
+      "abstract": "OBJECTIVES: This review aimed to assess the impact of mouthwashes on the composition of the human oral microbiome. METHOD: An electronic search algorithm was adapted to MEDLINE-PubMed, Scopus, Embase and ISI Web of Science, and reference lists of relevant sources were manually searched. Inclusion criteria were controlled clinical trials published in English whose population were adult individuals who rinse with antimicrobial mouthwashes and that analysed changes in the oral microbiome by metataxonomy, metagenomics or phylogenetic microarray. Identified studies were screened and assessed following the PRISMA guidelines, and results were compiled into qualitative synthesis of the evidence. RESULTS: Five controlled clinical studies were included. These studies found associations between the daily use of mouthwashes and changes in the oral microbiome, but the nature of the effect varied according to the mouthwash. Chlorhexidine (CHX) rinses lowered microbial diversity. While 7-day use of CHX led to increases in the abundance of Neisseria, Streptococcus and Granulicatella and a decrease in the abundance of Actinomyces, its prolonged use led to widespread reductions in several genera and species. Cetylpyridinium chloride-containing mouthwashes specifically lowered the abundance of gingivitis-associated genera. In contrast, N-acetyl cysteine-based mouthwashes did not promote changes in the oral microbiome. CONCLUSIONS: Despite substantial heterogeneity, we found evidence to support the hypothesis that CHX and CPC mouthwashes promote changes in oral microbial structure and/or reductions in community diversity that favour the resolution of dysbiosis. However, future large population-based studies of adequate duration are needed to fully understand the extent to which antimicrobial mouthwashes modulate the microbiome.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35946140/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Effectiveness of mouth rinses against COVID-19: a systematic review and network meta-analysis.",
+      "authors": [
+        "Lin S-Y",
+        "Sun J-S",
+        "Hung M-C",
+        "Chang J Z-C"
+      ],
+      "year": 2023,
+      "journal": "The Journal of hospital infection",
+      "doi": "10.1016/j.jhin.2023.06.022",
+      "pmid": "37419189",
+      "abstract": "OBJECTIVE: This systematic review and network meta-analysis (NMA) comprehensively compared the effectiveness of different mouth rinses in reducing the viral load/infectivity of severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) (Part I), alleviating clinical symptoms or severity of disease (Part II), and decreasing the incidence of SARS-CoV-2 infection (Part III). METHODS: Randomized controlled trials (RCTs) and non-randomized controlled trials (NRCTs) with restrictions were searched up to 3 RESULTS: Five RCTs (454 patients and nine interventions) in Part I were eligible for NMA. The NMA results showed that, in comparison with no rinse, sodium chloride (NaCl) was the most effective mouth rinse for reducing the viral load, followed by povidone-iodine (PVP-I), ß-cyclodextrin + citrox (CDCM), hydrogen peroxide (HP), chlorhexidine gluconate (CHX), cetylpyridinium chloride (CPC), placebo and hypochlorous acid (HClO). However, these results were not significant. Based on surface under the cumulative ranking curve scores, PVP-I was likely to be the most efficacious mouth rinse for reducing SARS-CoV-2 viral load, followed by CDCM, HP, NaCl, CHX, CPC, placebo, no rinse and HClO. CONCLUSION: Due to heterogeneity of the primary studies, the effectiveness of different mouth rinses to reduce viral infectivity, improve clinical symptoms or prevent SARS-CoV-2 infection remains inconclusive.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37419189/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Community interventions and strategies for caries control in Latin American and Caribbean countries.",
+      "authors": [
+        "Ricomini Filho Antônio Pedro",
+        "Chávez Bertha Angélica",
+        "Giacaman Rodrigo Andrés",
+        "Frazão Paulo",
+        "Cury Jaime Aparecido"
+      ],
+      "year": 2021,
+      "journal": "Brazilian oral research",
+      "doi": "10.1590/1807-3107bor-2021.vol35.0054",
+      "pmid": "34076078",
+      "abstract": "Dental caries remains highly prevalent in Latin American and Caribbean countries (LACC). However, this disease can be controlled through interventions that implement evidence-based strategies in an affordable manner and that target all population groups instead of the most affluent only. Therefore, the aim of this report was to summarize the main scientifically documented community interventions and strategies based on restriction of sugars consumption, use of fluoride, and the use of occlusal sealants for caries control in LACC. A critical literature review was carried out in a systematic manner that included defined search strategies, independent review of the identified publications, and compilation of results in this report. Three systematic searches were conducted using the PubMed, LILACS, and SciELO databases to identify studies related to community interventions and strategies for caries control in LACC. Of the 37 publications identified, twenty-six focused on fluoride use, eight on occlusal sealant use, and three on the restriction of sugar consumption. Documented community interventions for sugars restriction were scarce in the region and were based on food supplementation, sugar replacement, and education. Thus, local and/or national policies should prioritize investment in upstream, coherent, and integrated population-wide policies such as taxes on sugary drinks and stronger regulation of advertising and promotion of sugary foods and drinks mainly targeting children. The main fluoride-based strategies used drinking water, refined domestic salt, cow milk, toothpaste and, to a lesser extent, mouth-rinses, acidulated phosphate fluoride (APF) gels, and varnishes to deliver fluoride to the population. Evidence of fluoride use was seen in Argentina, Belize, Bolivia, Brazil, Chile, Colombia, Costa Rica, Cuba, Dominican Republic, Ecuador, El Salvador, Guatemala, Haiti, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Uruguay, and Venezuela. Studies reporting the use of occlusal sealants were mainly located in Brazil, Chile, Colombia, Costa Rica, Peru, Mexico, and Venezuela. Community interventions restricting sugar consumption should be implemented at the individual level and through public policies. The use of fluoride must be monitored at the local, regional, and national levels so as to achieve maximum anti-caries effect while also minimizing the risk of dental fluorosis. Moreover, fluoridated water and salt programs, used as a mutually exclusive community level strategy for caries control, should expand their benefits to reach non-covered areas of the LACC while also simultaneously providing adequate surveillance of the fluoride concentration delivered to the population. Regulating the concentration of soluble fluoride (for anti-caries effect) in dentifrice formulations is also necessary in order to provide the population with an effective strategy for disease control. Targeting culturally appropriate, economically sustainable caries control interventions to rural populations and native ethnic groups such as indigenous people, quilombolas (African-origin), and riverside Amazonian people remains a crucial challenge.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34076078/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "A Systematic Review of the Potential Effects of Lippia sidoides on Dental Plaque and Periodontal Diseases.",
+      "authors": [
+        "de Assis Ellen Lima",
+        "Silveira Felipe Dantas",
+        "da Ponte Alan Victor Araújo",
+        "Regis Rômulo Rocha"
+      ],
+      "year": 2022,
+      "journal": "Planta medica",
+      "doi": "10.1055/a-1554-6947",
+      "pmid": "34598290",
+      "abstract": "",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34598290/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "[Effects of mouthwash with essential oils on dental plaque and gingivitis].",
+      "authors": [
+        "Hollaar V R Y",
+        "van Swaaij B W M"
+      ],
+      "year": 2022,
+      "journal": "Nederlands tijdschrift voor tandheelkunde",
+      "doi": "10.5177/ntvt.2022.09.22055",
+      "pmid": "36074643",
+      "abstract": "The advice for daily oral care is to brush teeth twice a day with toothpaste containing fluoride and to practice interdental cleaning. The use of mouthwash with essential oils is not part of this advice, but is sometimes recommended when daily oral care is insufficient, or if mechanical cleaning is temporarily difficult or impossible. The results of a systematic literature review show that there is sufficient evidence, of moderate methodological quality, mouthwash with essential oils can reduce dental plaque and gingivitis. Oral care professionals can recommend mouthwash with essential oils as an adjunct to daily oral care.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36074643/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Effect of Adjunctive Use of Commercial Daily Mouthwashes on Periodontal Health: An Umbrella Review.",
+      "authors": [
+        "Koromantzos Panagiotis A",
+        "Bobetsis Yiorgos A",
+        "Giota Chrysoula",
+        "Gizani Sotiria",
+        "Apatzidou Danae Anastasia",
+        "Rahiotis Christos",
+        "Kalfas Sotirios",
+        "Seremidi Kyriaki",
+        "Papadimitriou Konstantinos",
+        "Karakostas Panagiotis",
+        "Davidopoulou Sotiria",
+        "Kaklamanos Eleftherios",
+        "Papaioannou William"
+      ],
+      "year": 2026,
+      "journal": "Journal of clinical periodontology",
+      "doi": "10.1111/jcpe.70061",
+      "pmid": "41265469",
+      "abstract": "BACKGROUND AND AIM: Effective oral hygiene using different mechanical means is mainly dependent on the patient. Mouthwashes containing antimicrobial agents have been developed to be used as an adjunct to mechanical supragingival plaque control. The aim of this umbrella review is to evaluate and compare the long-term efficacy of commonly used, commercially available daily mouthwashes in plaque control and gingival inflammation. METHODS: The current umbrella review was conducted in accordance with the Cochrane Handbook for Systematic Reviews of Interventions using the PICOS format. The search was conducted in four databases: PubMed, Scopus, Cochrane and Web of Science. Nine systematic reviews/meta-analyses (SRs/MAs) on the long-term efficacy of commercially available mouthwashes (low-concentration chlorhexidine [CHX], cetylpyridinium chloride [CPC], mouthwashes with essential oils [EOs], fluoride and oxygen-releasing mouthwashes) were included. RESULTS: The results revealed that in all SRs/MAs, the prolonged daily use of mouthwashes helped in reducing plaque and gingival inflammation indices but not always with statistical significance. CONCLUSIONS: Results of the present study indicate that the long-term use of mouthwashes containing EOs seems to give the best results in both reducing plaque levels and improving gingivitis indices among all tested formulations. TRIAL REGISTRATION: PROSPERO Registration Number CRD 42024618552.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41265469/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Efficacy of adjunctive anti-plaque chemical agents in managing gingivitis: A systematic review and network meta-analyses.",
+      "authors": [
+        "Figuero Elena",
+        "Herrera David",
+        "Tobías Aurelio",
+        "Serrano Jorge",
+        "Roldán Silvia",
+        "Escribano Marta",
+        "Martín Conchita"
+      ],
+      "year": 2019,
+      "journal": "Journal of clinical periodontology",
+      "doi": "10.1111/jcpe.13127",
+      "pmid": "31058336",
+      "abstract": "AIM: The aim of this network meta-analysis (NMA) was to compare the efficacy of different oral hygiene products for chemical biofilm control, in 6-month home-use, randomized clinical trials (RCTs), in terms of changes in gingival index (GI). MATERIAL AND METHODS: Six-month RCTs assessing GI were identified and screened for inclusion. Relevant information was extracted, and quality and potential risk of bias were estimated. Mean differences between baseline and end were calculated to obtain standardized mean differences (SMDs). NMA protocols were applied to assess direct and indirect comparisons among products using Löe & Silness GI, modified GI and gingival severity index. RESULTS: Fifty-three papers were included, 19 studies for mouth rinses, 32 for dentifrices, comprising data from 5,775 and 2,682 subjects, respectively. When ranking treatments, similar results were observed for all tested dentifrices, with the lowest effect observed for sanguinarine and baking soda. For mouth rinses, essential oils, triclosan-copolymer, chlorhexidine (at concentrations ≥ 0.10%) and cetylpyridinium chloride (>0.05%) demonstrated the greatest effect. CONCLUSION: Although NMA revealed significant differences when comparing placebo versus some active agents, when comparing among active agents, no differences were found for dentifrices, while mouth rinses containing essential oils showed the greatest effect on GI scores.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31058336/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Systemic benefits of periodontal therapy in patients with obesity and periodontitis: a systematic review.",
+      "authors": [
+        "Menezes Cláudia Callegaro de",
+        "Barbirato Davi da Silva",
+        "Fogacci Mariana Fampa",
+        "Marañón-Vásquez Guido Artemio",
+        "Carneiro João Régis Ivar",
+        "Maia Lucianne Copple",
+        "Barros Maria Cynésia Medeiros de"
+      ],
+      "year": 2024,
+      "journal": "Brazilian oral research",
+      "doi": "10.1590/1807-3107bor-2024.vol38.0031",
+      "pmid": "38597549",
+      "abstract": "This systematic review aimed to answer the focused question: \"What are the benefits of subgingival periodontal therapy on blood hematological and biochemical index, biomarkers of inflammation and oxidative stress, quality of life, and periodontal pathogen counts in patients with obesity and periodontitis?\". A systematic literature search was performed in six databases: PubMed, Embase, LILACS, Web of Science, Cochrane and SCOPUS and other sources, and a manual search was conducted as well. Inclusion criteria were randomized and non-randomized clinical trials, and before-and-after studies on patients with obesity subjected to periodontal therapy. The results were synthesized qualitatively. Risk of bias within studies was assessed using RoB 2 and ROBINS-I tools. The certainty of evidence was evaluated following the GRADE approach. Three randomized controlled trials and 15 before-and-after studies were included. Randomized controlled trials were considered to have a low risk of bias, as compared to before-and-after studies assessed as having low, serious, and critical risks of bias. Non-surgical periodontal therapy plus azithromycin, chlorhexidine, and cetylpyridinium chloride reduced blood pressure and decreased serum levels of HbA1c, hsCRP, IL-1β, and TNF-α. Salivary resistin level also decreased in patients with obesity and periodontitis after therapy and chlorhexidine mouth rinse. Before-and-after data suggest an improvement in total cholesterol, LDL, triglycerides, insulin resistance, C3, GCF levels of TNF-α, chemerin, vaspin, omentin-1, visfatin, 8-OHdG, and periodontal pathogen counts after therapy.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38597549/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Essential oils mouthwash with or without alcohol in relation to effect on parameters of plaque and gingivitis: A systematic review and meta-analysis.",
+      "authors": [
+        "van Swaaij B W M",
+        "Van der Weijden G A",
+        "Smith R J",
+        "Timmerman M F",
+        "Slot D E"
+      ],
+      "year": 2025,
+      "journal": "International journal of dental hygiene",
+      "doi": "10.1111/idh.12843",
+      "pmid": "39133629",
+      "abstract": "AIM: The primary aim was to systematically assess the available literature on the effect of an essential oils mouthwash without alcohol (EOalc-) compared to an essential oils mouthwash with alcohol (EOalc+) on plaque scores and parameters of gingival health. The secondary aim was to evaluate user appreciation. MATERIALS AND METHODS: The MEDLINE-PubMed and Cochrane-CENTRAL databases were searched to identify eligible studies published up to and including March 2024. Papers comparing the effectiveness of EOalc- and EOalc+ were included. The quality was assessed. A descriptive analysis and a meta-analysis were performed. RESULTS: After screening, seven papers were found to be eligible. The descriptive analysis demonstrates a significant difference in plaque scores in favour of EOalc+. This is confirmed by the meta-analyses of plaque scores in non-brushing and brushing studies (DiffM = 0.40; 95% CI [0.27; 0.53], p < 0.00001 and DiffM = 0.05; 95% CI [0.01; 0.10], p = 0.01, respectively). This finding is also supported by the sub-analysis of brands. The meta-analyses of bleeding and gingival scores in brushing studies did not show significant differences between products. For user appreciation, the difference found was for taste perception in favour of EOalc- (DiffM = 1.63; 95% CI [0.72; 2.55], p = 0.0004). CONCLUSION: When an EO-mouthwash is used in non-brushing or brushing situations, with small to moderate certainty, EOalc- provided less effect regarding plaque control than EOalc+. For bleeding and gingival index there is weak certainty for no difference. In terms of the taste perception EOalc- seems more appreciated.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39133629/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Fluoride mouthrinses for prevention of initial caries in orthodontic patients - a systematic review and meta-analysis.",
+      "authors": [
+        "Sonesson Mikael",
+        "Twetman Svante"
+      ],
+      "year": 2025,
+      "journal": "BMC oral health",
+      "doi": "10.1186/s12903-025-06374-8",
+      "pmid": "40604756",
+      "abstract": "BACKGROUND: Orthodontic patients are often instructed to use fluoride mouthrinses (FMR) to prevent caries during treatment with fixed orthodontic appliances (FOA). The aim of this study was to examine the caries preventive effect of FMR during FOA treatment based on randomized controlled trials. METHODS: An information specialist searched five databases up to September 30, 2024. We included trials with parallel groups (intervention vs. control) and a minimum duration of six months. Based on the abstracts, the authors independently selected and reviewed full text papers, extracted key outcome data, and assessed the risk of bias. The primary outcome was incidence of enamel caries on subject level. We conducted a narrative synthesis and pooled comparable data in a random effects model. RESULTS: We identified 22 studies of which seven, involving 704 patients, met the inclusion criteria. Five and two studies had moderate and high risk of bias, respectively. In all studies, FMR was additive to daily use of fluoride toothpaste. The intervention varied from twice daily to twice weekly and the duration ranged from six to 26 months. Five studies were included in a meta-analysis. The aggregated data showed a small risk difference of - 0.07 (95% CI -0.14; -0.01) in initial caries development adjacent to bracket base between the experimental and the control groups. CONCLUSION: This review found insufficient support for a general recommendation to use FMR during treatment with fixed orthodontic appliances in populations with regular use of fluoride toothpaste. This does not rule out the possibility that individual orthodontic patients may benefit from FMR after comprehensive risk assessment. Further investigations with standardized interventions and duration, reporting a core outcome set are required to clarify the effectiveness of fluoride mouthrinses in orthodontic patients.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40604756/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Efficacy of Mouth Rinses and Nasal Spray in the Inactivation of SARS-CoV-2: A Systematic Review and Meta-Analysis of ",
+      "authors": [
+        "Idrees Majdy",
+        "McGowan Bridget",
+        "Fawzy Amr",
+        "Abuderman Abdulwahab Ali",
+        "Balasubramaniam Ramesh",
+        "Kujan Omar"
+      ],
+      "year": 2022,
+      "journal": "International journal of environmental research and public health",
+      "doi": "10.3390/ijerph191912148",
+      "pmid": "36231450",
+      "abstract": "Severe acute respiratory syndrome-coronavirus-2 (SARS-CoV-2) is a global and evolving pandemic associated with heavy health and financial burdens. Considering the oral cavity as the major reservoir for SARS-CoV-2, a systematic review and meta-analysis were conducted to assess the efficacy of mouth rinses and nasal sprays in reducing the salivary viral load of SARS-CoV-2. All ",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36231450/",
+      "key_findings": "",
+      "summary_ja": ""
+    }
+  ]
+}

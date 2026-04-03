@@ -1,0 +1,433 @@
+{
+  "topic_id": "custom_antibiotic_prophylaxis_dental",
+  "evidences": [
+    {
+      "title": "Antibiotic Prophylaxis and Infective Endocarditis Incidence Following Invasive Dental Procedures: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Sperotto Francesca",
+        "France Katherine",
+        "Gobbo Margherita",
+        "Bindakhil Mohammed",
+        "Pimolbutr Kununya",
+        "Holmes Haly",
+        "Monteiro Luis",
+        "Graham Laurel",
+        "Hong Catherine H L",
+        "Sollecito Thomas P",
+        "Lodi Giovanni",
+        "Lockhart Peter B",
+        "Thornhill Martin",
+        "Diz Dios Pedro",
+        "Turati Federica",
+        "Edefonti Valeria"
+      ],
+      "year": 2024,
+      "journal": "JAMA cardiology",
+      "doi": "10.1001/jamacardio.2024.0873",
+      "pmid": "38581643",
+      "abstract": "IMPORTANCE: The association between antibiotic prophylaxis and infective endocarditis after invasive dental procedures is still unclear. Indications for antibiotic prophylaxis were restricted by guidelines beginning in 2007. OBJECTIVE: To systematically review and analyze existing evidence on the association between antibiotic prophylaxis and infective endocarditis following invasive dental procedures. DATA SOURCES: PubMed, Cochrane-CENTRAL, Scopus, Web of Science, Proquest, Embase, Dentistry and Oral Sciences Source, and ClinicalTrials.gov were systematically searched from inception to May 2023. STUDY SELECTION: Studies on the association between antibiotic prophylaxis and infective endocarditis following invasive dental procedures or time-trend analyses of infective endocarditis incidence before and after current antibiotic prophylaxis guidelines were included. DATA EXTRACTION AND SYNTHESIS: Study quality was evaluated using structured tools. Data were extracted by independent observers. A pooled relative risk (RR) of developing infective endocarditis following invasive dental procedures in individuals who were receiving antibiotic prophylaxis vs those who were not was computed by random-effects meta-analysis. MAIN OUTCOMES AND MEASURES: The outcome of interest was the incidence of infective endocarditis following invasive dental procedures in relation to antibiotic prophylaxis. RESULTS: Of 11 217 records identified, 30 were included (1 152 345 infective endocarditis cases). Of them, 8 (including 12 substudies) were either case-control/crossover or cohort studies or self-controlled case series, while 22 were time-trend studies; all were of good quality. Eight of the 12 substudies with case-control/crossover, cohort, or self-controlled case series designs performed a formal statistical analysis; 5 supported a protective role of antibiotic prophylaxis, especially among individuals at high risk, while 3 did not. By meta-analysis, antibiotic prophylaxis was associated with a significantly lower risk of infective endocarditis after invasive dental procedures in individuals at high risk (pooled RR, 0.41; 95% CI, 0.29-0.57; P for heterogeneity = .51; I2, 0%). Nineteen of the 22 time-trend studies performed a formal pre-post statistical analysis; 9 found no significant changes in infective endocarditis incidence, 7 demonstrated a significant increase for the overall population or subpopulations (individuals at high and moderate risk, streptococcus-infective endocarditis, and viridans group streptococci-infective endocarditis), whereas 3 found a significant decrease for the overall population and among oral streptococcus-infective endocarditis. CONCLUSIONS AND RELEVANCE: While results from time-trend studies were inconsistent, data from case-control/crossover, cohort, and self-controlled case series studies showed that use of antibiotic prophylaxis is associated with reduced risk of infective endocarditis following invasive dental procedures in individuals at high risk, while no association was proven for those at low/unknown risk, thereby supporting current American Heart Association and European Society of Cardiology recommendations. Currently, there is insufficient data to support any benefit of antibiotic prophylaxis in individuals at moderate risk.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38581643/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Antibiotic prophylaxis in oral and maxillofacial surgery: a systematic review.",
+      "authors": [
+        "Milic T",
+        "Raidoo P",
+        "Gebauer D"
+      ],
+      "year": 2021,
+      "journal": "The British journal of oral & maxillofacial surgery",
+      "doi": "10.1016/j.bjoms.2020.09.020",
+      "pmid": "34016464",
+      "abstract": "Surgical site infections are a complication of oral and maxillofacial procedures, with the potential for significant morbidity and mortality. Use of preoperative, perioperative, and postoperative antibiotic prophylaxis to reduce the incidence of surgical site infections must be balanced with considerations of a patients' risk of antibiotic-related adverse events. This review aimed to provide evidence-based recommendations for antibiotic prophylaxis. Searches were conducted using MEDLINE, the Cochrane Library, EMBASE, and PUBMED for maxillofacial procedures including: treatment of dental abscesses, extractions, implants, trauma, temporomandibular joints, orthognathics, malignant and benign tumour removal, and bone grafting, limited to articles published since 2000. A total of 98 out of 280 retrieved papers were included in the final analysis. Systematic reviews were assessed using AMSTAR criteria. Randomised controlled trials were assessed for bias using Cochrane Collaborative tools. The overall quality of evidence was assessed using GRADE. Prophylactic antibiotic use is recommended in surgical extractions of third molars, comminuted mandibular fractures, temporomandibular joint replacements, clean-contaminated tumour removal, and complex implants. Prophylactic antibiotic use is not routinely recommended in fractures of the upper or midface facial thirds. Further research is required to provide recommendations in orthognathic, cleft lip, palate, temporomandibular joint surgery, and maxillofacial surgical procedures in medically-compromised patients.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34016464/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Endodontic procedures for retreatment of periapical lesions.",
+      "authors": [
+        "Del Fabbro Massimo",
+        "Corbella Stefano",
+        "Sequeira-Byron Patrick",
+        "Tsesis Igor",
+        "Rosen Eyal",
+        "Lolato Alessandra",
+        "Taschieri Silvio"
+      ],
+      "year": 2016,
+      "journal": "The Cochrane database of systematic reviews",
+      "doi": "10.1002/14651858.CD005511.pub3",
+      "pmid": "27759881",
+      "abstract": "BACKGROUND: When primary root canal therapy fails, periapical lesions can be retreated with or without surgery. Root canal retreatment is a non-surgical procedure that involves removal of root canal filling materials from the tooth, followed by cleaning, shaping and obturating of the canals. Root-end resection is a surgical procedure that involves exposure of the periapical lesion through an osteotomy, surgical removal of the lesion, removal of part of the root-end tip, disinfection and, commonly, retrograde sealing or filling of the apical portion of the remaining root canal. This review updates one published in 2008. OBJECTIVES: To assess effects of surgical and non-surgical therapy for retreatment of teeth with apical periodontitis.To assess effects of surgical root-end resection under various conditions, for example, when different materials, devices or techniques are used. SEARCH METHODS: We searched the following electronic databases: the Cochrane Oral Health Trials Register (to 10 February 2016), the Cochrane Central Register of Controlled Trials (CENTRAL; 2016, Issue 1), MEDLINE Ovid (1946 to 10 February 2016) and Embase Ovid (1980 to 10 February 2016). We searched the US National Registry of Clinical Trials (ClinicalTrials.gov) and the World Health Organization (WHO) International Clinical Trials Registry Platform for ongoing trials (to 10 February 2016). We placed no restrictions regarding language and publication date. We handsearched the reference lists of the studies retrieved and key journals in the field of endodontics. SELECTION CRITERIA: We included randomised controlled trials (RCTs) involving people with periapical pathosis. Studies could compare surgery versus non-surgical treatment or could compare different types of surgery. Outcome measures were healing of the periapical lesion assessed after one-year follow-up or longer; postoperative pain and discomfort; and adverse effects such as tooth loss, mobility, soft tissue recession, abscess, infection, neurological damage or loss of root sealing material evaluated through radiographs. DATA COLLECTION AND ANALYSIS: Two review authors independently extracted data from included studies and assessed their risk of bias. We contacted study authors to obtain missing information. We combined results of trials assessing comparable outcomes using the fixed-effect model, with risk ratios (RRs) for dichotomous outcomes and mean differences (MDs) for continuous outcomes, and 95% confidence intervals (CIs). We used generic inverse variance for split-mouth studies. MAIN RESULTS: We included 20 RCTs. Two trials at high risk of bias assessed surgery versus a non-surgical approach: root-end resection with root-end filling versus root canal retreatment. The other 18 trials evaluated different surgical protocols: cone beam computed tomography (CBCT) versus periapical radiography for preoperative assessment (one study at high risk of bias); antibiotic prophylaxis versus placebo (one study at unclear risk); different magnification devices (loupes, surgical microscope, endoscope) (two studies at high risk); types of incision (papilla base incision, sulcular incision) (one study at high risk and one at unclear risk); ultrasonic devices versus handpiece burs (one study at high risk); types of root-end filling material (glass ionomer cement, amalgam, intermediate restorative material (IRM), mineral trioxide aggregate (MTA), gutta-percha (GP), super-ethoxy benzoic acid (EBA)) (five studies at high risk of bias, one at unclear risk and one at low risk); grafting versus no grafting (three studies at high risk and one at unclear risk); and low energy level laser therapy versus placebo (irradiation without laser activation) versus control (no use of the laser device) (one study at high risk).There was no clear evidence of superiority of the surgical or non-surgical approach for healing at one-year follow-up (RR 1.15, 95% CI 0.97 to 1.35; two RCTs, 126 participants) or at four- or 10-year follow-up (one RCT, 82 to 95 participants), although the evidence is very low quality. More participants in the surgically treated group reported pain in the first week after treatment (RR 3.34, 95% CI 2.05 to 5.43; one RCT, 87 participants; low quality evidence).In terms of surgical protocols, there was some inconclusive evidence that ultrasonic devices for root-end preparation may improve healing one year after retreatment, when compared with the traditional bur (RR 1.14, 95% CI 1.00 to 1.30; one RCT, 290 participants; low quality evidence).There was evidence of better healing when root-ends were filled with MTA than when they were treated by smoothing of orthograde GP root filling, after one-year follow-up (RR 1.60, 95% CI 1.14 to 2.24; one RCT, 46 participants; low quality evidence).There was no evidence that using CBCT rather than radiography for preoperative evaluation was advantageous for healing (RR 1.02, 95% CI 0.70 to 1.47; one RCT, 39 participants; very low quality evidence), nor that any magnification device affected healing more than any other (loupes versus endoscope at one year: RR 1.05, 95% CI 0.92 to 1.20; microscope versus endoscope at two years: RR 1.01, 95% CI 0.89 to 1.15; one RCT, 70 participants, low quality evidence).There was no evidence that antibiotic prophylaxis reduced incidence of postoperative infection (RR 0.49, 95% CI 0.09 to 2.64; one RCT, 250 participants; low quality evidence).There was some evidence that using a papilla base incision (PBI) may be beneficial for preservation of the interdental papilla compared with complete papilla mobilisation (one RCT (split-mouth), 12 participants/24 sites; very low quality evidence). There was no evidence of less pain in the PBI group at day 1 post surgery (one RCT, 38 participants; very low quality evidence).There was evidence that adjunctive use of a gel of plasma rich in growth factors reduced postoperative pain compared with no grafting (measured on visual analogue scale: one day postoperative MD -51.60 mm, 95% CI -63.43 to -39.77; one RCT, 36 participants; low quality evidence).There was no evidence that use of low energy level laser therapy (LLLT) prevented postoperative pain (very low quality evidence). AUTHORS' CONCLUSIONS: Available evidence does not provide clinicians with reliable guidelines for treating periapical lesions. Further research is necessary to understand the effects of surgical versus non-surgical approaches, and to determine which surgical procedures provide the best results for periapical lesion healing and postoperative quality of life. Future studies should use standardised techniques and success criteria, precisely defined outcomes and the participant as the unit of analysis.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27759881/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Bacteremia following different oral procedures: Systematic review and meta-analysis.",
+      "authors": [
+        "Martins Carolina C",
+        "Lockhart Peter B",
+        "Firmino Ramon T",
+        "Kilmartin Catherine",
+        "Cahill Thomas J",
+        "Dayer Mark",
+        "Occhi-Alexandre Ingrid G P",
+        "Lai Honghao",
+        "Ge Long",
+        "Thornhill Martin H"
+      ],
+      "year": 2024,
+      "journal": "Oral diseases",
+      "doi": "10.1111/odi.14531",
+      "pmid": "36750413",
+      "abstract": "To evaluate the timing, duration and incidence of bacteremia following invasive dental procedures (IDPs) or activities of daily living (ADL). Eight databases were searched for randomized (RCTs) and nonrandomized controlled trials (nRCTs) evaluating bacteremia before and after IDPs or ADL in healthy individuals. The risk of bias was assessed by RoB 2.0 and ROBINS-I. For the meta-analysis, the primary outcomes were the timing and duration of bacteremia. The secondary outcome was the incidence of bacteremia, measuring the proportion of patients with bacteremia within 5 min after the end of the procedure compared with baseline. We included 64 nRCTs and 25 RCTs. Peak bacteremia occurred within 5 min after the procedure and then decreased over time. Dental extractions showed the highest incidence of bacteremia (62%-66%), followed by scaling and root planing (SRP) (44%-36%) and oral health procedures (OHP) (e.g., dental prophylaxis and dental probing without SRP) (27%-28%). Other ADL (flossing and chewing) (16%) and toothbrushing (8%-26%) resulted in bacteremia as well. The majority of studies had some concerns RCTs or moderate risk of bias nRCTs. Dental extractions, SRP and OHP, are associated with the highest frequency of bacteremia. Toothbrushing, flossing, and chewing also caused bacteremia in lower frequency.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36750413/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Antibiotic prophylaxis for preventing bacterial endocarditis following dental procedures.",
+      "authors": [
+        "Rutherford Samantha J",
+        "Glenny Anne-Marie",
+        "Roberts Graham",
+        "Hooper Lee",
+        "Worthington Helen V"
+      ],
+      "year": 2022,
+      "journal": "The Cochrane database of systematic reviews",
+      "doi": "10.1002/14651858.CD003813.pub5",
+      "pmid": "35536541",
+      "abstract": "BACKGROUND: Infective endocarditis is a severe infection arising in the lining of the chambers of the heart. It can be caused by fungi, but most often is caused by bacteria. Many dental procedures cause bacteraemia, which could lead to bacterial endocarditis in a small proportion of people. The incidence of bacterial endocarditis is low, but it has a high mortality rate.  Guidelines in many countries have recommended that antibiotics be administered to people at high risk of endocarditis prior to invasive dental procedures. However, guidance by the National Institute for Health and Care Excellence (NICE) in England and Wales states that antibiotic prophylaxis against infective endocarditis is not recommended routinely for people undergoing dental procedures. This is an update of a review that we first conducted in 2004 and last updated in 2013. OBJECTIVES: Primary objective To determine whether prophylactic antibiotic administration, compared to no antibiotic administration or placebo, before invasive dental procedures in people at risk or at high risk of bacterial endocarditis, influences mortality, serious illness or the incidence of endocarditis. Secondary objectives To determine whether the effect of dental antibiotic prophylaxis differs in people with different cardiac conditions predisposing them to increased risk of endocarditis, and in people undergoing different high risk dental procedures. Harms Had we foundno evidence from randomised controlled trials or cohort studies on whether prophylactic antibiotics affected mortality or serious illness, and we had found evidence from these or case-control studies suggesting that prophylaxis with antibiotics reduced the incidence of endocarditis, then we would also have assessed whether the harms of prophylaxis with single antibiotic doses, such as with penicillin (amoxicillin 2 g or 3 g) before invasive dental procedures, compared with no antibiotic or placebo, equalled the benefits in prevention of endocarditis in people at high risk of this disease. SEARCH METHODS: An information specialist searched four bibliographic databases up to 10 May 2021 and used additional search methods to identify published, unpublished and ongoing studies SELECTION CRITERIA: Due to the low incidence of bacterial endocarditis, we anticipated that few if any trials would be located. For this reason, we included cohort and case-control studies with suitably matched control or comparison groups. The intervention was antibiotic prophylaxis, compared to no antibiotic prophylaxis or placebo, before a dental procedure in people with an increased risk of bacterial endocarditis. Cohort studies would need to follow at-risk individuals and assess outcomes following any invasive dental procedures, grouping participants according to whether or not they had received prophylaxis. Case-control studies would need to match people who had developed endocarditis after undergoing an invasive dental procedure (and who were known to be at increased risk before undergoing the procedure) with those at similar risk who had not developed endocarditis.  Our outcomes of interest were mortality or serious adverse events requiring hospital admission; development of endocarditis following any dental procedure in a defined time period; development of endocarditis due to other non-dental causes; any recorded adverse effects of the antibiotics; and the cost of antibiotic provision compared to that of caring for patients who developed endocarditis. DATA COLLECTION AND ANALYSIS: Two review authors independently screened search records, selected studies for inclusion, assessed the risk of bias in the included study and extracted data from the included study. As an author team, we judged the certainty of the evidence identified for the main comparison and key outcomes using GRADE criteria. We presented the main results in a summary of findings table. MAIN RESULTS: Our new search did not find any new studies for inclusion since the last version of the review in 2013. No randomised controlled trials (RCTs), controlled clinical trials (CCTs) or cohort studies were included in the previous versions of the review, but one case-control study met the inclusion criteria. The trial authors collected information on 48 people who had contracted bacterial endocarditis over a specific two-year period and had undergone a medical or dental procedure with an indication for prophylaxis within the past 180 days. These people were matched to a similar group of people who had not contracted bacterial endocarditis. All study participants had undergone an invasive medical or dental procedure. The two groups were compared to establish whether those who had received preventive antibiotics (penicillin) were less likely to have developed endocarditis. The authors found no significant effect of penicillin prophylaxis on the incidence of endocarditis. No data on other outcomes were reported. The level of certainty we have about the evidence is very low. AUTHORS' CONCLUSIONS: There remains no clear evidence about whether antibiotic prophylaxis is effective or ineffective against bacterial endocarditis in at-risk people who are about to undergo an invasive dental procedure. We cannot determine whether the potential harms and costs of antibiotic administration outweigh any beneficial effect. Ethically, practitioners should discuss the potential benefits and harms of antibiotic prophylaxis with their patients before a decision is made about administration.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35536541/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Antibiotics: their use and misuse in paediatric dentistry. A systematic review.",
+      "authors": [
+        "Aidasani B",
+        "Solanki M",
+        "Khetarpal S",
+        "Ravi Pratap S"
+      ],
+      "year": 2019,
+      "journal": "European journal of paediatric dentistry",
+      "doi": "10.23804/ejpd.2019.20.02.10",
+      "pmid": "31246090",
+      "abstract": "AIM: The use of antibiotics by health care professionals has benefitted humankind to a great extent. Recent reports show an increasing trend of antibiotic prescription by paediatric dentists. This systematic review aims to address the current pattern of antibiotics prescription among the paediatric dental population according to the evidence-based literature. The question of research addressed here deals with the assessment of the correlation of the injudicious prescription of antibacterial agents and antibiotic resistance among the population of interest. METHODS: Electronic search databases: PubMed, Ovid and Cochrane Library, were used to review studies as per their relevance and findings. Keywords for search were associated with population: 'paediatric patients', intervention: 'antibiotics treatment', 'prescribing behaviour', and outcomes: 'antibiotic resistance' RESULTS: A total of 542 abstracts were identified, 45 of which met the inclusion criteria and were reviewed. A multifactorial relationship leading to increased prescription of antibiotics in paediatric dentistry was observed. Very few studies actually correlated this prescribing behaviour with resistance to these drugs. No consensus regarding the duration of antibiotic therapy or prophylaxis was found. CONCLUSION: Insufficient literature support necessitates the requirement of increased evidence to draw a definitive association between the prescribing trends of antibiotics in paediatric dentistry and drug resistance. The development of intervention programmes like antibiotic stewardship ensuring collaboration between patients and paediatric dentists can ensure effective antibiotic prescription.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31246090/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Antibiotic Use in Dental Implant Procedures: A Systematic Review and Meta-Analysis.",
+      "authors": [
+        "Torof Elham",
+        "Morrissey Hana",
+        "Ball Patrick A"
+      ],
+      "year": 2023,
+      "journal": "Medicina (Kaunas, Lithuania)",
+      "doi": "10.3390/medicina59040713",
+      "pmid": "37109671",
+      "abstract": "",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37109671/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "A Systematic Review and Meta-Analysis Evaluating Antibiotic Prophylaxis in Dental Implants and Extraction Procedures.",
+      "authors": [
+        "Singh Gill Amrik",
+        "Morrissey Hana",
+        "Rahman Ayesha"
+      ],
+      "year": 2018,
+      "journal": "Medicina (Kaunas, Lithuania)",
+      "doi": "10.3390/medicina54060095",
+      "pmid": "30513764",
+      "abstract": "",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30513764/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "The necessity of administrating antibiotic prophylaxis to patients with diabetes mellitus prior to oral surgical procedures-a systematic review.",
+      "authors": [
+        "Sykara Maria",
+        "Maniatakos Panagiotis",
+        "Tentolouris Anastasios",
+        "Karoussis Ioannis K",
+        "Tentolouris Nikolaos"
+      ],
+      "year": 2022,
+      "journal": "Diabetes & metabolic syndrome",
+      "doi": "10.1016/j.dsx.2022.102621",
+      "pmid": "36183455",
+      "abstract": "BACKGROUND AND AIMS: Μany studies suggest the use of antibiotic prophylaxis (AP) as an appropriate preventive measure for patients with diabetes mellitus (DM) due to the increased possibility of an impaired wound healing and infections after surgical procedures in the oral cavity. Existing recommendations regarding antibiotic prophylaxis before surgical procedures are not definitive and are based on expert opinions. The purpose of this study was to review the available scientific data about the necessity of administrating AP as a preventive measure prior to oral surgical procedures. METHOD: PubMed®, Scopus® και Cochrane Central Register of Controlled Trials (CENTRAL) were used as databases to search for published research. All articles were initially identified and classified based on the title and subsequently on their abstract. For the next level the full scientific paper was read and evaluated. RESULTS: Overall, 22 articles were included in the study, of which 2 were systematic reviews, 2 cohort studies, 2 case-control studies, 1 case series, 8 case reports and 7 professional association publications. CONCLUSIONS: In the scientific literature, there is a wide range of recommendations and inconsistency regarding the need to administer AP prior to surgical dental operations in patients with DM, while there is no scientific evidence demonstrating its' effectiveness as a precautionary measure. Both blood glucose level measurements and recent HbA1c measurement should be evaluated before any dental procedure. Poor regulation may result to life-threatening infections after tooth extraction. AP is recommended prior to the placement of dental implant. Randomized, controlled, clinical trials with large number of participants and greater variety of surgical dental procedures are needed.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36183455/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Prevention of Postdental Procedure Bacteremia: A Network Meta-analysis.",
+      "authors": [
+        "Zeng B S",
+        "Lin S Y",
+        "Tu Y K",
+        "Wu Y C",
+        "Stubbs B",
+        "Liang C S",
+        "Yeh T C",
+        "Chen T Y",
+        "Carvalho A F",
+        "Lin P Y",
+        "Lei W T",
+        "Hsu C W",
+        "Chen Y W",
+        "Tseng P T",
+        "Chen C H"
+      ],
+      "year": 2019,
+      "journal": "Journal of dental research",
+      "doi": "10.1177/0022034519870466",
+      "pmid": "31469596",
+      "abstract": "Postdental procedure bacteremia is common and troublesome. The comparative efficacy of multiple prophylactic interventions is unclear. We compared the efficacy of interventions for the prevention of postdental procedure bacteremia. We conducted a review of ClinicalKey, Cochrane CENTRAL, Embase, ProQuest, PubMed, ScienceDirect, Web of Science, and ClinicalTrials.gov from inception to December 4, 2018. Randomized controlled trials that evaluated prophylactic interventions for the prevention of postdental procedure bacteremia were eligible. The primary outcome was the incidence of postdental procedure bacteremia. A total of 24 trials were included with 2,147 participants. Our network meta-analysis demonstrated that intravenous administration of 1,000/200 mg of amoxicillin/clavulanate provided the least incidence of postdental procedure bacteremia among all the prophylactic interventions (odds ratio = 0.03, 95% CI = 0.00 to 0.63) as compared with the placebo/controls. Oral 3 g of amoxicillin had the least incidence of postdental procedure bacteremia among all oral or topical forms of prophylactic interventions (odds ratio = 0.10, 95% CI = 0.02 to 0.44) as compared with the placebo/controls. No serious adverse events, such as anaphylactic shock, mortality, and the development of antibiotic-resistant bacteria, were reported. None of the included subjects were of high risk of infectious endocarditis. Our network meta-analysis demonstrates that intravenous amoxicillin/clavulanate and oral amoxicillin might be the best prophylactic interventions in preventing postdental procedure bacteremia among all the oral/topical forms of interventions for the overall populations.",
+      "evidence_level": "5",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31469596/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Preventive Antibiotic Therapy in Sinus Elevation Procedures: A Systematic Review.",
+      "authors": [
+        "Salgado-Peralvo Ángel-Orión",
+        "Garcia-Sanchez Alvaro",
+        "Kewalramani Naresh",
+        "Romandini Mario",
+        "Velasco-Ortega Eugenio"
+      ],
+      "year": 2023,
+      "journal": "The International journal of oral & maxillofacial implants",
+      "doi": "10.11607/jomi.9930",
+      "pmid": "37099582",
+      "abstract": "",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37099582/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Antibiotic prophylaxis for infective endocarditis: a systematic review and meta-analysis.",
+      "authors": [
+        "Cahill Thomas J",
+        "Harrison James L",
+        "Jewell Paul",
+        "Onakpoya Igho",
+        "Chambers John B",
+        "Dayer Mark",
+        "Lockhart Peter",
+        "Roberts Nia",
+        "Shanson David",
+        "Thornhill Martin",
+        "Heneghan Carl J",
+        "Prendergast Bernard D"
+      ],
+      "year": 2017,
+      "journal": "Heart (British Cardiac Society)",
+      "doi": "10.1136/heartjnl-2015-309102",
+      "pmid": "28213367",
+      "abstract": "OBJECTIVE: The use of antibiotic prophylaxis (AP) for prevention of infective endocarditis (IE) is controversial. In recent years, guidelines to cardiologists and dentists have advised restriction of AP to high-risk groups (in Europe and the USA) or against its use at all (in the UK). The objective of this systematic review was to appraise the evidence for use of AP for prevention of bacteraemia or IE in patients undergoing dental procedures. METHODS: We conducted electronic searches in Medline, Embase, Cochrane Library and ISI Web of Science. We assessed the methodological characteristics of included studies using the Strengthening the Reporting of Observational Studies in Epidemiology criteria for observational studies and the Cochrane Risk of Bias Tool for trials. Two reviewers independently determined the eligibility of studies, assessed the methodology of included studies and extracted the data. RESULTS: We identified 178 eligible studies, of which 36 were included in the review. This included 10 time-trend studies, 5 observational studies and 21 trials. All trials identified used bacteraemia as an endpoint rather than IE. One time-trend study suggests that total AP restriction may be associated with a rising incidence of IE, while data on the consequences of relative AP restriction are conflicting. Meta-analysis of trials indicates that AP is effective in reducing the incidence of bacteraemia (risk ratio 0.53, 95% CI 0.49 to 0.57, p<0.01), but case-control studies suggest this may not translate to a statistically significant protective effect against IE in patients at low risk of disease. CONCLUSIONS: The evidence base for the use of AP is limited, heterogeneous and the methodological quality of many studies is poor. Postprocedural bacteraemia is not a good surrogate endpoint for IE. Given the logistical challenges of a randomised trial, high-quality case-control studies would help to evaluate the role of dental procedures in causing IE and the efficacy of AP in its prevention.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28213367/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Antibiotic prophylaxis in orthognathic surgery: A complex systematic review.",
+      "authors": [
+        "Naimi-Akbar Aron",
+        "Hultin Margareta",
+        "Klinge Anna",
+        "Klinge Björn",
+        "Tranæus Sofia",
+        "Lund Bodil"
+      ],
+      "year": 2018,
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0191161",
+      "pmid": "29385159",
+      "abstract": "OBJECTIVE: In orthognathic surgery, antibiotics are prescribed to reduce the risk of postoperative infection. However, there is lack of consensus over the appropriate drug, the dose and duration of administration. The aim of this complex systematic review was to assess the effect of antibiotics on postoperative infections in orthognathic surgery. METHODS: Both systematic reviews and primary studies were assessed. Medline (OVID), The Cochrane Library (Wiley) and EMBASE (embase.com), PubMed (non-indexed articles) and Health Technology Assessment (HTA) publications were searched. The primary studies were assessed using GRADE and the systematic reviews by AMSTAR. RESULTS: Screening of abstracts yielded 6 systematic reviews and 36 primary studies warranting full text scrutiny. In total,14 primary studies were assessed for risk of bias. Assessment of the included systematic reviews identified two studies with a moderate risk of bias, due to inclusion in the meta-analyses of primary studies with a high risk of bias. Quality assessment of the primary studies disclosed one with a moderate risk of bias and one with a low risk. The former compared a single dose of antibiotic with 24 hour prophylaxis using the same antibiotic; the latter compared oral and intravenous administration of antibiotics. Given the limited number of acceptable studies, no statistical analysis was undertaken, as it was unlikely to contribute any relevant information. CONCLUSION: With respect to antibiotic prophylaxis in orthognathic surgery, most of the studies to date have been poorly conducted and reported. Thus scientific uncertainty remains as to the preferred antibiotic and the optimal duration of administration.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29385159/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "[Antibiotic prophylaxis in patients with joint prostheses].",
+      "authors": [
+        "Rozema F R",
+        "Rademacher W M H"
+      ],
+      "year": 2019,
+      "journal": "Nederlands tijdschrift voor tandheelkunde",
+      "doi": "10.5177/ntvt.2019.10.19061",
+      "pmid": "31613280",
+      "abstract": "A systematic literature review was carried out in order to formulate a new Dutch guideline regarding policies for patients with a joint prosthesis who are to undergo a dental procedure. The research question was: Is antibiotic prophylaxis indicated in patients with a joint prosthesis who undergo dental procedures? The literature comprised studies in which patients with joint prostheses underwent a dental procedure resulting in hematogenous periprosthetic joint infection or in which a correlation between prophylactic antibiotics and hematogenous periprosthetic joint infection were described. The GRADE/AGREE II method was used to determine the strength of the evidence. A supplementary review of literature to gain further insight into pathophysiology, risk factors and risk intervention was carried out. The included studies did not provide any conclusive evidence that the use of antibiotic prophylaxis reduces the incidence of dental hematogenous periprosthetic joint infection. The results of the supplementary review of literature also supported the conclusion that antibiotic prophylaxis should be discouraged in dental procedures.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31613280/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Antibiotic prophylaxis before dental procedures to prevent infective endocarditis: a systematic review.",
+      "authors": [
+        "Bergadà-Pijuan Judith",
+        "Frank Michelle",
+        "Boroumand Sara",
+        "Hovaguimian Frédérique",
+        "Mestres Carlos A",
+        "Bauernschmitt Robert",
+        "Carrel Thierry",
+        "Stadlinger Bernd",
+        "Ruschitzka Frank",
+        "Zinkernagel Annelies S",
+        "Kouyos Roger D",
+        "Hasse Barbara"
+      ],
+      "year": 2023,
+      "journal": "Infection",
+      "doi": "10.1007/s15010-022-01900-0",
+      "pmid": "35972680",
+      "abstract": "PURPOSE: Infective endocarditis (IE) is a severe bacterial infection. As a measure of prevention, the administration of antibiotic prophylaxis (AP) prior to dental procedures was recommended in the past. However, between 2007 and 2009, guidelines for IE prophylaxis changed all around the word, limiting or supporting the complete cessation of AP. It remains unclear whether AP is effective or not against IE. METHODS: We conducted a systematic review whether the administration of AP in adults before any dental procedure, compared to the non-administration of such drugs, has an effect on the risk of developing IE. We searched for studies in the Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE via OVID, and EMBASE. Two different authors filtered articles independently and data extraction was performed based on a pre-defined protocol. RESULTS: The only cohort study meeting our criteria included patients at high-risk of IE. Analysis of the extracted data showed a non-significant decrease in the risk of IE when high-risk patients take AP prior to invasive dental procedures (RR 0.39, p-value 0.11). We did not find other studies including patients at low or moderate risk of IE. Qualitative evaluation of the excluded articles reveals diversity of results and suggests that most of the state-of-the-art articles are underpowered. CONCLUSIONS: Evidence to support or discourage the use of AP prior to dental procedures as a prevention for IE is very low. New high-quality studies are needed, even though such studies would require big settings and might not be immediately feasible.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35972680/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Prophylactic antibiotic use for infective endocarditis: a systematic review and meta-analysis.",
+      "authors": [
+        "Lean Sue S H",
+        "Jou Eric",
+        "Ho Jamie Sin Ying",
+        "Jou Ernest G L"
+      ],
+      "year": 2023,
+      "journal": "BMJ open",
+      "doi": "10.1136/bmjopen-2023-077026",
+      "pmid": "37607797",
+      "abstract": "OBJECTIVES: Infective endocarditis (IE) is a devastating disease with a 50% 1-year mortality rate. In recent years, medical authorities across the globe advised stricter criteria for antibiotic prophylaxis in patients with high risk of IE undergoing dental procedures. Whether such recommendations may increase the risk of IE in at-risk patients must be investigated. DESIGN: Prospectively registered systematic review and meta-analysis. DATA SOURCES: Medline, Embase, Scopus and ClinicalTrials.gov were searched through 23 May 2022, together with an updated search on 5 August 2023. ELIGIBILITY CRITERIA: All primary studies reporting IE within 3 months of dental procedures in adults >18 years of age were included, while conference abstracts, reviews, case reports and case series involving fewer than 10 cases were excluded. DATA EXTRACTION AND SYNTHESIS: All studies were assessed by two reviewers independently, and any discrepancies were further resolved through a third researcher. RESULTS: Of the 3771 articles screened, 38 observational studies fit the inclusion criteria and were included in the study for subsequent analysis. Overall, 11% (95% CI 0.08 to 0.16, I CONCLUSIONS: Although there is a lack of randomised control trials due to logistic difficulties in the literature on this topic, antibiotic prophylaxis are likely of benefit in reducing the incidence of IE in high-risk patients after dental procedures. Further well-designed high-quality case-control studies are required. TRIAL REGISTRATION NUMBER: CRD42022326664.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37607797/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Antibiotic dosage prescribed in oral implant surgery: A meta-analysis of cross-sectional surveys.",
+      "authors": [
+        "Rodríguez Sánchez Fabio",
+        "Arteagoitia Iciar",
+        "Teughels Wim",
+        "Rodríguez Andrés Carlos",
+        "Quirynen Marc"
+      ],
+      "year": 2020,
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0236981",
+      "pmid": "32810135",
+      "abstract": "This study aimed to assess the dosage and types of antibiotics prescribed in oral implant surgery, compare them among the different subpopulations (country and prescription regimens) and against the evidence-based recommended dosage: a 2-gram single preoperative dose of amoxicillin. A meta-analysis of cross-sectional surveys was conducted, which reports the overall dosage (and type) of antibiotics prescribed in combination with implant placement. PubMed, Cochrane, Science, Direct, and EMBASE via OVID were searched until April 2019. Three reviewers independently undertook data extraction and risk of bias assessment. The outcome variable was set on the average of prophylactic antibiotics prescribed per oral implant surgery. Overall, 726 participants from five cross-sectional surveys, representing five different countries were finally included. Amoxicillin was the most prescribed antibiotic. On average, 10,724 mg of antibiotics were prescribed per implant surgery. This average was significantly (p<0.001) higher than 2,000 mg. Overall, amoxicillin doses were significantly higher than 2,000 mg (9,700 mg, p<0.001). All prescribed amoxicillin regimens independently contained more than 2,000 mg, including those comprising only preoperative amoxicillin (2,175 mg, p = 0.006). Exclusive preoperative antibiotic regimens were the only subgroup with prescription dosages below this threshold (p = 0.091). Significant variations in antibiotic prescriptions were found among different countries and antibiotic regimens (p<0.001). In conclusion, the average dose of antibiotics prescribed per oral implant surgery was larger than the evidence-based recommended dose in healthy patients and straightforward conditions. In addition, variations in the average antibiotic dosages were found among different countries and prescription regimens.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32810135/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Is Antibiotic Prophylaxis Necessary Before Dental Procedures in Patients Post Total Ankle Arthroplasty?",
+      "authors": [
+        "Noori Naudereh",
+        "Myerson Charles",
+        "Charlton Timothy",
+        "Thordarson David"
+      ],
+      "year": 2019,
+      "journal": "Foot & ankle international",
+      "doi": "10.1177/1071100718809454",
+      "pmid": "30406674",
+      "abstract": "BACKGROUND:: The need for dental antibiotic prophylaxis after orthopedic surgery remains unclear. Current recommendations are based on patients with total hip and total knee arthroplasties. We investigated available evidence regarding the need for dental antibiotic prophylaxis in patients post foot and ankle surgery, specifically total ankle arthroplasty. Additionally, we examined the microbiology behind the risk of transient bacteremia from dental procedures and whether this leads to an increased risk for postoperative infection in foot and ankle surgery. METHODS:: We performed a MEDLINE literature review of English articles between 1980 and 2018 on patients with prosthetic joints undergoing dental work, and studies evaluating hematogenous prosthetic joint infection (PJI) and dental antibiotic prophylaxis. We additionally included articles on PJI post total ankle arthroplasty, as well as committee guidelines. RESULTS:: There is no literature at present that evaluates transient bacteremia with dental procedures in patients following foot and ankle surgery. The data on this topic are isolated to PJI rates in the context of hip and total knee arthroplasty. This is of particular interest as rates of total ankle arthroplasty PJI have been reported to be 2- to 4-fold higher than in hip and total knee arthroplasty. CONCLUSION:: The concern for postoperative infection due to transient bacteremia without dental antibiotic prophylaxis can be extrapolated to patients undergoing foot and ankle surgeries. Some data suggest that oral cavity bacteria can seed a prosthetic joint, though no clear relationship has been demonstrated. Similar risk factors have been identified between hip and knee PJI and total ankle arthroplasty. In light of the absence of scrutiny of and guidelines on this topic in foot and ankle surgery, it may be advisable to apply similar principles to decision-making in patients after foot and ankle surgery. LEVEL OF EVIDENCE:: Level III, systematic review.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30406674/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Preventive antibiotic therapy in bone augmentation procedures in oral implantology: A systematic review.",
+      "authors": [
+        "Salgado-Peralvo Angel-Orión",
+        "Mateos-Moreno María-Victoria",
+        "Velasco-Ortega Eugenio",
+        "Peña-Cardelles Juan-Francisco",
+        "Kewalramani Naresh"
+      ],
+      "year": 2022,
+      "journal": "Journal of stomatology, oral and maxillofacial surgery",
+      "doi": "10.1016/j.jormas.2021.01.011",
+      "pmid": "33493687",
+      "abstract": "INTRODUCTION: Since the beginning of Oral Implantology, preventive antibiotic therapy has been routinely prescribed. However, at present, due to the growing appearance of antimicrobial resistance, its use has been questioned, generating a great debate and an emerging controversy. The present systematic review aims to analyze the scientific literature to determine whether the preventive prescription of antibiotics in augmentation procedures with the insertion of implants in one or two phases decreases the incidence of postoperative infections and/or the survival rate of the implants. MATERIAL AND METHODS: The MEDLINE database was searched (via PubMed) with the following keywords: (bone grafting OR alveolar ridge augmentation OR bone graft augmentation OR guided bone regeneration OR bone block) AND (dental implants OR dental implant OR oral implantology) AND (antibiotic prophylaxis OR antibiotics). The criteria used were those described by the PRISMA® Statement. The search was limited to randomised clinical trials, systematic reviews and meta-analyses published in the last 15 years (2005-2020). RESULTS: After reading the titles and abstracts of the resulting articles, only one systematic review meeting the described criteria and 4 randomised clinical trials were included. CONCLUSIONS: Prescription of 2 or 3 g of amoxicillin one hour before surgery is recommended to reduce the early failure rate of one-stage implants and to decrease the bacterial load of grafted bone particles in bone augmentation procedures with one or two-stage implants.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33493687/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Recent infective endocarditis research findings suggest dentists prescribe prophylactic antibiotics for patients having a bicuspid aortic valve or mitral valve prolapse.",
+      "authors": [
+        "Friedlander A-H",
+        "Couto-Souza P-H"
+      ],
+      "year": 2023,
+      "journal": "Medicina oral, patologia oral y cirugia bucal",
+      "doi": "10.4317/medoral.25984",
+      "pmid": "37330961",
+      "abstract": "BACKGROUND: The scientific validity of the European Society of Cardiology's (ESC) infective endocarditis (IE) guidelines limiting provision of prophylactic antibiotics (AP) only to patients having cardiac anomalies (e.g., prosthetic valves) believed to place them at \"high risk\" of adverse events when undergoing high risk dental procedures (HRDP) is unclear. MATERIAL AND METHODS: A systematic review of studies conducted between 2017 and 2022 and catalogued in the PubMed database was undertaken to ascertain if this edict was associated with changes in IE incidence, development of infection in unprotected cardiac anomalies, developing infection and resultant adverse clinical outcomes. RESULTS: Retrieved were 19 published manuscripts, however of these, 16 were excluded because they did not bare upon the issues of concern. Among the three studies eligible for review were those in the Netherlands, Spain, and England. The results of the Dutch study denoted a significant increase in the incidence of IE cases over the projected historical trend (rate ratio: 1327, 95% CI 1.205-1.462; p<0.001) after the introduction of the ESC guidelines. The findings from the Spanish study evidenced the uniquely high in-hospital IE associated fatality rates suffered by patients having bicuspid aortic valves (BAV); 5.6% or mitral valve prolapse (MVP); 10%. The British study provided evidence that the incidence of fatal IE infection was significantly greater among an \"intermediate risk\" cohort of patients, (a group likely including those with BAC and MVP for which the ESC guidelines don't recommend AP), than among \"high risk\" patients (P = 0.002). CONCLUSIONS: Patients having either a BAV or MVP are at significant risk of developing IE and suffering serious sequelae including death. The ESC guidelines must reclassify these specific cardiac anomalies into the \"high risk\" category so that AP are recognized as being needed prior to provision of HRDP.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37330961/",
+      "key_findings": "",
+      "summary_ja": ""
+    }
+  ]
+}

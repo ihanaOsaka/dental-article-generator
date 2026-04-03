@@ -1,0 +1,140 @@
+{
+  "topic_id": "custom_bpa_dental_materials_safety",
+  "evidences": [
+    {
+      "title": "ADA Policy: Use of Pit-and-Fissure Sealants",
+      "authors": [
+        "American Dental Association"
+      ],
+      "year": 2023,
+      "journal": "",
+      "doi": "",
+      "pmid": "",
+      "abstract": "",
+      "evidence_level": "guideline",
+      "source_type": "ADA",
+      "url": "https://www.ada.org/resources/research/science-and-research-institute/evidence-based-dental-research/dental-sealants",
+      "key_findings": "Dental sealants reduce caries by up to 80% in the first 2 years and continue to be effective for up to 9 years.",
+      "summary_ja": "シーラントは最初の2年間でむし歯を最大80%減少させ、最大9年間効果が持続。"
+    },
+    {
+      "title": "Bisphenol-A release from thermoplastic clear aligner materials: A systematic review.",
+      "authors": [
+        "Peter Elbe",
+        "J Monisha",
+        "George Suja Ani"
+      ],
+      "year": 2023,
+      "journal": "Journal of orthodontics",
+      "doi": "10.1177/14653125231160570",
+      "pmid": "36922722",
+      "abstract": "AIM: The aim of the present study was to undertake a systematic review of the available evidence on the release of bisphenol-A (BPA) from thermoplastic materials used in the fabrication of clear aligners (CA). METHODS: Electronic databases, such as MEDLINE (via PubMed), Google Scholar, Scopus, Cochrane Library, Web of Science, OpenGrey, and the U.S. National Institute of Heath-Clinical Trials, were searched up to 27 October 2022. In vivo/in vitro studies that assessed the release of BPA from different thermoplastic CA materials, with or without a control group, were selected. The risk of bias (RoB) in the randomised controlled trials (RCT) and in vitro studies was assessed using the Cochrane RoB tool and the guidelines for the reporting of pre-clinical studies, respectively. The quality of evidence was determined using the Grading of Recommendations, Assessment, Development and Evaluations (GRADE) Pro tool. RESULTS: Six studies were considered for review from a total of 1926 records. This included one RCT and five in vitro studies. Only two studies found leaching of BPA, while four did not report any traces. The RoB was found to be moderate to high. The GRADE evidence level ranged from low to very low. Five of the included studies were conducted in vitro. Significant heterogeneity among the included studies prevented a quantitative synthesis. CONCLUSION: In light of the available conflicting evidence, BPA release from CAs can neither be confirmed nor denied. Safety remains questionable until high-quality in vivo trials prove otherwise. REGISTRATION: PROSPERO CRD42022310434.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36922722/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "A Systematic Review of Exposure to Bisphenol A from Dental Treatment.",
+      "authors": [
+        "Marzouk T",
+        "Sathyanarayana S",
+        "Kim A S",
+        "Seminario A L",
+        "McKinney C M"
+      ],
+      "year": 2019,
+      "journal": "JDR clinical and translational research",
+      "doi": "10.1177/2380084418816079",
+      "pmid": "30931707",
+      "abstract": "INTRODUCTION: Dental composite restorations and dental sealants containing bisphenol A glycidyl methacrylate (BisGMA) are commonly used materials in dentistry. Bisphenol A (BPA) is used to manufacture BisGMA and can be a by-product in BisGMA-based dental materials. BPA is an endocrine-disrupting chemical that may affect reproductive, psychological, cognitive, and endocrine-related health. We conducted a systematic review of clinical studies that measured urinary BPA (uBPA) concentrations before and after dental treatment to evaluate the extent to which individuals are exposed to BPA from dental treatment. METHODS: Eligibility included studies that measured uBPA concentrations before and after dental treatment with any type of resin-based dental material. We searched PubMed, Cochrane, Web of Science, Virtual Health Library, Science Direct, ProQuest, and Clinical Trials with no date or language restrictions to identify published studies. We summarized eligible studies across participant characteristics, amount of treatment, and time of follow-up measures. Because methods of measuring uBPA varied, our primary outcome was the direction and percentage change between baseline and 24 h posttreatment and at later time points as available. RESULTS: We identified 1,190 abstracts and 7 eligible studies: 4 in children and 3 in adults. In all studies, BPA concentrations increased 24 h after treatment. The 2 studies with the largest sample sizes found statistically significant increases >40% in uBPA concentrations at 24 h posttreatment (both P values <0.01). The 1 study to examine uBPA concentrations beyond 1 mo posttreatment found that concentrations returned to baseline by 14 d after treatment and remained at baseline 6 mo after treatment. CONCLUSIONS: Our findings suggest that uBPA concentrations increase 24 h after dental treatment. One study showed that uBPA concentrations return to baseline by 14 d. Additional research is needed to determine the magnitude of change from pre- to post-dental treatment and the trajectory of uBPA concentrations posttreatment. KNOWLEDGE TRANSFER STATEMENT: BPA is an endocrine-disrupting chemical that may have negative human health effects. Our findings suggest that urinary BPA concentrations increase in the short term after dental treatment. The extent to which such an increase may affect the health of patients remains an open question, particularly since there are no established thresholds for safety or harm related to BPA exposure.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30931707/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "A systematic review on the effects of acrylamide and bisphenol A on the development of Drosophila melanogaster.",
+      "authors": [
+        "Senthil Kumar Swetha",
+        "Swaminathan Abhinaya",
+        "Abdel-Daim Mohamed M",
+        "Sheik Mohideen Sahabudeen"
+      ],
+      "year": 2022,
+      "journal": "Molecular biology reports",
+      "doi": "10.1007/s11033-022-07642-4",
+      "pmid": "35753027",
+      "abstract": "The current global scenario has instigated a steady upsurge of synthetic chemicals usage thereby creating a toxic environment unsuitable for animals and humans. Acrylamide and bisphenol A are some of the most common toxins found in the atmosphere due to their extensive involvement in numerous industrial processes. Acrylamide, an occupational hazard toxin has been known to cause severe nerve damage and peripheral neuronal damage in both animals and humans. General sources of acrylamide exposure are effluents from textile and paper industries, cosmetics, and thermally processed foods rich in starch. Bisphenol A (BPA) is generally found in food packaging materials, dental sealants, and plastic bottles. It is highly temperature-sensitive that can easily leach into the food products or humans on contact. The genotoxic and neurotoxic effects of acrylamide and bisphenol A have been widely researched; however, more attention should be dedicated to understanding the developmental toxicity of these chemicals. The developmental impacts of toxin exposure can be easily understood using Drosophila melanogaster as a model given considering its short life span and genetic homology to humans. In this review, we have discussed the toxic effects of acrylamide and BPA on the developmental process of Drosophila melanogaster.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35753027/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Release and toxicity of bisphenol-A (BPA) contained in orthodontic adhesives: A systematic review.",
+      "authors": [
+        "Sabour Anas",
+        "El Helou Marwan",
+        "Roger-Leroi Valérie",
+        "Bauer Cynthia"
+      ],
+      "year": 2021,
+      "journal": "International orthodontics",
+      "doi": "10.1016/j.ortho.2020.11.002",
+      "pmid": "33308954",
+      "abstract": "OBJECTIVE: The objectives of this systematic review of the literature are to search for BPA release from biomaterials used in orthodontics and to highlight their possible impact on human health. MATERIALS AND METHODS: Using the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) model, digital and manual searches were conducted in February 2020 in the database of CENTRAL, MEDLINE and EMBASE. Thirteen parameters relating to the release and biological effects of BPA were identified and analysed. RESULTS: Thirty-one non-randomized clinical trials were included. In general, the level of evidence was low, and the risk of bias ranged from moderate to high. Furthermore, although at different concentrations, most of in vitro and in vivo studies found BPA release from orthodontic adhesives. The lack of standardized protocols and the clinical and methodological heterogeneity of the studies prevented a valid interpretation of the actual results. Concerning the possible toxicity of BPA, no conclusive scientific evidence could be drawn, but it seems that orthodontic biomaterials containing BPA have potential adverse biological effects in humans. DISCUSSION AND CONCLUSION: Until we have solid evidence from clinical trials, clinicians should consider that orthodontic adhesives containing BPA have potential short- and long-term adverse biological effects in humans. Careful consideration should therefore be given to bonding, polymerization and debonding protocols in orthodontics.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33308954/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Once Resin Composites and Dental Sealants Release Bisphenol-A, How Might This Affect Our Clinical Management?-A Systematic Review.",
+      "authors": [
+        "Paula Anabela Baptista",
+        "Toste Debbie",
+        "Marinho Alfredo",
+        "Amaro Inês",
+        "Marto Carlos-Miguel",
+        "Coelho Ana",
+        "Marques-Ferreira Manuel",
+        "Carrilho Eunice"
+      ],
+      "year": 2019,
+      "journal": "International journal of environmental research and public health",
+      "doi": "10.3390/ijerph16091627",
+      "pmid": "31075949",
+      "abstract": "(1) Background: Bisphenol A (BPA) based dental resins are commonly used in preventive and reparative dentistry. Since some monomers may remain unpolymerized in the application of dental resin, they dissolve in the saliva. (2) Methods: The literature search was carried out in Pubmed, Cochrane and Embase databases. Randomized controlled trials, cohort studies and case-control studies that evaluated BPA levels in human urine, saliva and/or blood were included. (3) Results: The initial search had 5111 results. A total of 20 studies were included in the systematic review. Most studies showed an increase of the levels of bisphenol A 1 h after treatments with composite resins and dental sealants. One week after treatments the levels were decreased. (4) Conclusions: Some clinical precautions should be taken to decrease the release of BPA, namely the use of rubber dam, the immediate polishing of all resins used, or the use of glycerin gel to avoid non-polymerization of the last resin layer, and mouthwash after treatment. Another preventive measure in addition to the above-mentioned is the use of the smallest possible number of restorations or sealants, a maximum of four per appointment. These measures are even more important in children, adolescents and pregnant women.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31075949/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Analytical Methods for Determination of BPA Released from Dental Resin Composites and Related Materials: A Systematic Review.",
+      "authors": [
+        "Lopes-Rocha Lígia",
+        "Hernandez Clara",
+        "Gonçalves Virgínia",
+        "Pinho Teresa",
+        "Tiritan Maria Elizabeth"
+      ],
+      "year": 2024,
+      "journal": "Critical reviews in analytical chemistry",
+      "doi": "10.1080/10408347.2022.2093097",
+      "pmid": "35776702",
+      "abstract": "Knowing the impacts of bisphenol A (BPA) on human health, this systematic review aimed to gather the analytical methods for the quantification of BPA release of BPA in dental materials in ",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35776702/",
+      "key_findings": "",
+      "summary_ja": ""
+    }
+  ]
+}

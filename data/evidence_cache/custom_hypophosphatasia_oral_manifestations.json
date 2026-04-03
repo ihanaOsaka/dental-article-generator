@@ -1,0 +1,100 @@
+{
+  "topic_id": "custom_hypophosphatasia_oral_manifestations",
+  "evidences": [
+    {
+      "title": "Dental Management of Genetic Dental Disorders: A Critical Review.",
+      "authors": [
+        "Dujic H",
+        "Bücher K",
+        "Schüler I M",
+        "Schmidt P",
+        "Hertel S",
+        "Timpel J",
+        "Jablonski-Momeni A",
+        "Schilke R",
+        "Kapferer-Seebacher I",
+        "Zschocke J",
+        "Liebermann A",
+        "Güth J F",
+        "Edelhoff D",
+        "Heinrich-Weltzien R",
+        "Kühnisch J"
+      ],
+      "year": 2025,
+      "journal": "Journal of dental research",
+      "doi": "10.1177/00220345241305330",
+      "pmid": "39905279",
+      "abstract": "Genetic dental disorders (GDDs) can occur either isolated or as part of syndromes. Clinically, deviations in tooth shape, size, or structure, as well as the absence of multiple teeth, lead to severe dysfunction and a reduced quality of life, requiring lifelong preventive, conservative, and prosthodontic dental care. The dental management of prevalent dental diseases, such as caries or periodontitis, has been based on decades of research, whereas scientific data on the dental management of GDDs are scarce. This lack of data is challenging for dental practitioners, who must primarily rely on empirical knowledge only. Therefore, a systematic literature search and review were conducted on the dental management of common GDDs, such as ectodermal dysplasia, amelogenesis imperfecta, dentinogenesis imperfecta, periodontitis as a manifestation of rare systemic diseases, and X-linked hypophosphatemia and hypophosphatasia. The review revealed that 468 of the 9,115 retrieved publications met the inclusion criteria, with most being case reports or case series, highlighting a lack of robust clinical trials. This critical review provides a brief summary of the genetic background, key clinical signs, and treatment options for these conditions. The dominance of case reports emphasizes the need for improved reporting standards and long-term follow-up to support comprehensive data synthesis and meta-analyses. In addition, the uneven global distribution of publications suggests disparities in access to advanced dental care for GDDs. Efforts to standardize reporting and improve treatment documentation globally are crucial to addressing these challenges. In this way, information on GDD management can be improved, and statistical analyses of the data can be performed.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39905279/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Efficacy and safety of asfotase alfa in patients with hypophosphatasia: A systematic review.",
+      "authors": [
+        "Shirinezhad Amirhossein",
+        "Esmaeili Sina",
+        "Azarboo Alireza",
+        "Tavakoli Yasaman",
+        "Hoveidaei Amir Human",
+        "Zareshahi Negar",
+        "Ghaseminejad-Raeini Amirhossein"
+      ],
+      "year": 2024,
+      "journal": "Bone",
+      "doi": "10.1016/j.bone.2024.117219",
+      "pmid": "39089608",
+      "abstract": "BACKGROUND: Hypophosphatasia (HPP) is a rare genetic disorder characterized by defective bone mineralization, leading to skeletal abnormalities and systemic complications. Asfotase alfa, a recombinant human tissue-nonspecific alkaline phosphatase (TNSALP) enzyme replacement therapy, has emerged as a promising treatment for HPP. However, a comprehensive evaluation of its efficacy and safety is warranted to guide clinical practice effectively. METHODS: The study followed Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines and was registered in Prospective Register of Systematic Reviews (PROSPERO). A search strategy across databases found studies on asfotase alfa for HPP. Two researchers independently extracted and assessed data. This systematic review examined how the drug impacted clinical outcomes such as survival rates, musculoskeletal symptoms, respiratory function, growth measurements, dental health, quality of life, and laboratory results. RESULTS: This systematic review included 15 articles with a total of 455 HPP patients. Asfotase alfa was predominantly administered at a dose of 6 mg per kg per week among the reviewed studies. Notable findings included enhanced survival rates, relief from musculoskeletal pain, improvements in respiratory outcomes, growth parameters, dental health, and quality of life. Changes in laboratory variables indicated positive responses to treatment, including changes such as increase in alkaline phosphatase (ALP), decline in pyridoxal 5'-phosphate (PLP) and inorganic pyrophosphate (PPi) levels. CONCLUSION: Asfotase alfa demonstrates efficacy in improving clinical outcomes and safety in patients with HPP. Its therapeutic benefits extend across various domains. However, Larger, age-stratified comparative studies are needed to further investigate the drug's effects in HPP patients.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39089608/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Skeletal indicators of pathology in the context of early tooth loss in children: A systematic literature review.",
+      "authors": [
+        "Ribeiro Ana",
+        "Decaup Pierre-Hadrien",
+        "Andriantavy Marion",
+        "Couture Christine",
+        "Garot Elsa"
+      ],
+      "year": 2024,
+      "journal": "International journal of paleopathology",
+      "doi": "10.1016/j.ijpp.2024.07.001",
+      "pmid": "39029336",
+      "abstract": "OBJECTIVE: To provide an evidence-based resource for paleopathologists to consider multiple skeletal indicators of pathology associated with early tooth loss in children to aid in diagnosis. MATERIALS: Three databases (Cochrane Library, MedLine, and Scopus) were used for a review. METHODS: According to the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) criteria, a systematic review guideline, 85 articles were selected. RESULTS: A total of 189 children had a syndrome or disease associated with early tooth loss. Our review, based on 25 diseases, lists the bone and dental lesions observable in archeological remains. CONCLUSIONS: Based on a review of the literature, a synthesis of 25 diseases and syndromes that may be associated with premature loss of permanent or deciduous teeth in children was developed for paleopathologists. It highlights the importance of a thorough dental examination by paleopathologists to further assess past health conditions. SIGNIFICANCE: This paper provides an extensive resource addressing early tooth loss in childhood to assist researchers with differential diagnosis. LIMITATIONS: The articles included in this review are case reports based on living populations. SUGGESTIONS FOR FURTHER RESEARCH: Further studies into diseases and their association with early tooth loss would complement this work, as would utilizing the differential diagnoses on archeological individuals to clarify its value and limitations.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39029336/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Frequency and age at occurrence of clinical manifestations of disease in patients with hypophosphatasia: a systematic literature review.",
+      "authors": [
+        "Szabo Shelagh M",
+        "Tomazos Ioannis C",
+        "Petryk Anna",
+        "Powell Lauren C",
+        "Donato Bonnie M K",
+        "Zarate Yuri A",
+        "Tiulpakov Anatoly",
+        "Martos-Moreno Gabriel Ángel"
+      ],
+      "year": 2019,
+      "journal": "Orphanet journal of rare diseases",
+      "doi": "10.1186/s13023-019-1062-0",
+      "pmid": "31023354",
+      "abstract": "BACKGROUND: Hypophosphatasia (HPP) is a rare, inherited, metabolic disease caused by tissue-nonspecific alkaline phosphatase deficiency, characterized by bone mineralization defects and systemic complications. Understanding of the clinical course and burden of HPP is limited by its rarity. This systematic literature review and synthesis of case report data aimed to determine the frequency and timing of clinical HPP manifestations and events. METHODS: Case reports and series of patients with HPP who had been followed longitudinally for ≥1 year were identified. Demographics and clinical data of interest, identified through consultation with clinical experts in HPP, were extracted. Occurrences of clinical manifestations/events of interest were categorized, classified by age at first reported occurrence of HPP manifestations and visualized over time. Clinical manifestations/events considered to contribute to the clinical burden of HPP were identified. Kaplan-Meier curves were used to estimate the median (range) age at first occurrence of the most frequently reported manifestations/events. RESULTS: From the 283 studies that met the inclusion criteria, 265 patients with HPP with ≥1 year of longitudinal follow-up were identified (median [interquartile range] age 4 [0-34] years; 45% male). The types of clinical manifestations/events of interest experienced by individuals with ≥1 such manifestation/event (n = 261) often differed between older and younger patients. Most (94%) of the 265 patients experienced ≥1 manifestation/event deemed to contribute to the clinical burden of HPP; premature tooth loss (53.5%), fractures (35.8%), pain (33.6%), and gross motor/ambulation difficulties (30.9%) were most frequently reported. The median (range) age at first reported occurrence of respiratory symptoms, cranial abnormalities, and premature tooth loss ranged from 0.3 to 10 years, whereas the median age at first reported occurrence of fractures, pain, gross motor/ambulation difficulties, and surgery ranged from 33 to 70 years. CONCLUSIONS: HPP is associated with a high clinical burden of disease, regardless of age at first reported occurrence of HPP manifestations. Over an individual's lifetime, the types of manifestations/events experienced can change and multiple HPP-related clinical manifestations/events can accumulate. These observations may reflect evolution and progression of the disease.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31023354/",
+      "key_findings": "",
+      "summary_ja": ""
+    }
+  ]
+}

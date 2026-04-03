@@ -1,0 +1,50 @@
+{
+  "topic_id": "custom_meth_mouth_oral_effects",
+  "evidences": [
+    {
+      "title": "Dental caries and periodontal disease among people who use drugs: a systematic review and meta-analysis.",
+      "authors": [
+        "Yazdanian Mohsen",
+        "Armoon Bahram",
+        "Noroozi Alireza",
+        "Mohammadi Rasool",
+        "Bayat Amir-Hosein",
+        "Ahounbar Elahe",
+        "Higgs Peter",
+        "Nasab Hormoz Sanaei",
+        "Bayani Azadeh",
+        "Hemmat Morteza"
+      ],
+      "year": 2020,
+      "journal": "BMC oral health",
+      "doi": "10.1186/s12903-020-1010-3",
+      "pmid": "32041585",
+      "abstract": "BACKGROUND: The aim of our study was to perform a systematic review of the literature and meta-analysis in order to investigate relationship between drug use and oral health. METHODS: We searched for studies in English published before July 1, 2019 on PsycINFO, PubMed, SciELO, Scopus, and Web of Science. We assessed the relationship between drug use (methamphetamines, heroin; opiates; crack, cocaine and cannabis as dependent variables) and reported tooth loss, periodontal disease, or decayed, missing, and filled teeth index as an independent variable. The data were analyzed using Stata 12.0 software. RESULTS: We initially identified 1836 potential articles (with 1100 duplicates) and screened the remaining 736 titles and abstracts, comprising 54 studies. In the next step, we evaluated the full-texts; 44 studies were excluded, accordingly. In total, we included 10 publications in the meta-analysis. Drug type was associated with periodontal disease (OR 1.44; 95% CI 0.8-2.6) and pooled estimates showed that type of drug used increased the odds of the number of decayed, missed and filled teeth (DMFT) (OR 4.11; 95% CI 2.07-8.15) respectively. CONCLUSIONS: The analytical challenges of segregating the impact of individual drug types on oral health diseases mean that investigations on the direct relationship between oral health status and drug use are limited. Developing programs to improve potential confounding with various substances and addressing the dental health needs of people who use drugs is vital if we are to improve their overall quality of life.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32041585/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Oral health effects of ecstasy (MDMA) and methamphetamine: a narrative review.",
+      "authors": [
+        "Newell Lily-Rose",
+        "Fouillen Kevin-John",
+        "Orliaguet Marie",
+        "Kichenin Johanna",
+        "Boisramé Sylvie"
+      ],
+      "year": 2025,
+      "journal": "Frontiers in oral health",
+      "doi": "10.3389/froh.2025.1645445",
+      "pmid": "41019449",
+      "abstract": "This review aims to explore the impact of 3,4 methylenedioxymethamphetamine (MDMA), commonly known as ecstasy, on oral health, while also drawing comparisons with methamphetamine (MA) due to their pharmacological similarities and overlapping oral manifestations. MDMA is a psychostimulant derivative of amphetamine (AM) with empathogenic and hallucinogenic properties, widely consumed, especially among young adults. Its pharmacological effects lead to both acute and long-term systemic consequences. Among its oral manifestations, xerostomia is notably prevalent and strongly associated with increased intake of sugary beverages, contributing to heightened risks of carious lesions, tooth wear and periodontal disease. Bruxism and jaw clenching, frequent during MDMA use, are implicated in temporomandibular joint dysfunction and can lead to significant tooth wear lesions. This review also discusses periodontitis prevalence, often linked to poor oral hygiene, poly-drug use, and behavioral changes. Additionally, cases of soft tissue damage and unique patterns of decay have been documented. These findings highlight the need for dental professionals to recognize oral health issues associated with MDMA, MA and polydrug use.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41019449/",
+      "key_findings": "",
+      "summary_ja": ""
+    }
+  ]
+}

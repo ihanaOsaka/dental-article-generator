@@ -1,0 +1,86 @@
+{
+  "topic_id": "custom_celiac_disease_oral_manifestations",
+  "evidences": [
+    {
+      "title": "Coeliac disease and its implications on the oral health of children: A systematic review.",
+      "authors": [
+        "Turska-Szybka Anna",
+        "Dąbrowska Ewelina",
+        "Głogowska Karen",
+        "Janczewska Anna",
+        "Olczak-Kowalczyk Dorota",
+        "Piekoszewska-Ziętek Paula"
+      ],
+      "year": 2023,
+      "journal": "Journal of paediatrics and child health",
+      "doi": "10.1111/jpc.16494",
+      "pmid": "37712495",
+      "abstract": "AIM: Apart from various typical gastrointestinal symptoms, coeliac disease may have its clinical manifestations in the oral cavity which is the entrance of the gastrointestinal tract. METHODS: A systematic review of literature was performed using the following databases: Medline, Scopus, EBSCOhost and Cochrane Library for Systematic Review. INCLUSION CRITERIA: observational or experimental original studies published in English with full text available between January 2000 and December 2022, regarding children and adolescents under the age of 20. Risk of bias was determined with the use of Risk Of Bias In Non-randomised Studies of Exposure. RESULTS: Thirty-four studies were included in the review. The analysis confirmed a higher prevalence of numerous oral manifestations in coeliac disease concerning both hard and soft tissues. Our study found the prevalence of dental enamel defects to be at the level of 17.9%-83.5% (P value <0.047) and recurrent aphthous stomatitis of 8.3%-69% (P value <0.039). CONCLUSION: Oral manifestations may precede gastrointestinal symptoms. Patients presenting such manifestations should be screened for coeliac disease. The cooperation of gastroenterologists and dentists could lead to an increased detectability of coeliac disease.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37712495/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Association between developmental defects of enamel and celiac disease: A meta-analysis.",
+      "authors": [
+        "Souto-Souza Débora",
+        "da Consolação Soares Maria Eliza",
+        "Rezende Vanessa Silva",
+        "de Lacerda Dantas Paulo César",
+        "Galvão Endi Lanza",
+        "Falci Saulo Gabriel Moreira"
+      ],
+      "year": 2018,
+      "journal": "Archives of oral biology",
+      "doi": "10.1016/j.archoralbio.2017.12.025",
+      "pmid": "29306074",
+      "abstract": "OBJECTIVES: Studies have observed the presence of extra-intestinal manifestations of celiac disease (CD), including involvement of the oral cavity, such that developmental defects of enamel (DDE) occur. Thus, the aim of this review was to access the polled prevalence of DDE in individuals with CD, and to establish the strength of the association between these two variables. METHODS: To carry out the systematic review, four electronic databases and the Grey Literature were searched, complemented by a manual search of reference lists within the selected articles. Two pairs of independent reviewers selected the articles, and perform the data extractions and bias risk assessment Studies evaluating the presence of DDE in individuals with CD as well as in healthy individuals and which performed the DDE diagnosis by direct visualization of tooth enamel changes and the CD diagnosis were included. Meta-analyses were performed using the software R. RESULTS: Of 557 studies, 45 were selected for review, encompassing 2840 patients. The prevalence of DDE in people with CD was 50% (95% CI 0.44-0.57, I CONCLUSIONS: Patients with enamel developmental defects should be screened for the possibility of their having celiac disease.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29306074/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Enamel defects and aphthous stomatitis in celiac and healthy subjects: Systematic review and meta-analysis of controlled studies.",
+      "authors": [
+        "Nieri Michele",
+        "Tofani Elena",
+        "Defraia Efisio",
+        "Giuntini Veronica",
+        "Franchi Lorenzo"
+      ],
+      "year": 2017,
+      "journal": "Journal of dentistry",
+      "doi": "10.1016/j.jdent.2017.07.001",
+      "pmid": "28688949",
+      "abstract": "OBJECTIVES: The aim of this systematic review was to compare the presence of enamel defects and aphthous stomatitis between celiac patients and healthy controls. DATA SOURCES: A systematic review of articles selected from MEDLINE, EMBASE and Google Scholar was performed by two independent operators. Additional studies hand-searched and found in the principal dental and gastroenterology journals were included. STUDY SELECTION: Only controlled studies on celiac patients compared to healthy subjects were included. DATA EXTRACTION: Independent extraction of articles by 2 authors using predefined data fields, including study quality indicators. DATA SYNTHESIS: In total, the celiac patients had greater frequency of enamel defects (odds ratio=5.69, 95%CI from 3.47 to 9.33, P<0.00001, I CONCLUSIONS: In children, celiac disease was associated with both enamel defects and aphthous stomatitis. The odds ratio estimates, however, should be interpreted with caution due to the high risk of bias showed by all the studies. In adults, the association between celiac disease and enamel defects or aphthous stomatitis was unclear because very few studies were performed on this population. CLINICAL SIGNIFICANCE: The presence of enamel defects and/or aphthous stomatitis in a child affected by other typical or atypical symptoms of celiac disease represents an indication for further diagnostic exams for celiac disease.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28688949/",
+      "key_findings": "",
+      "summary_ja": ""
+    },
+    {
+      "title": "Manifestations of the oral mucosa and salivary glands in irritable bowel syndrome and microscopic colitis - A systematic review.",
+      "authors": [
+        "Göthlin Hanna",
+        "Hasséus Bengt",
+        "Sjöberg Klas",
+        "Bankvall Maria"
+      ],
+      "year": 2025,
+      "journal": "Acta odontologica Scandinavica",
+      "doi": "10.2340/aos.v84.43870",
+      "pmid": "40497389",
+      "abstract": "OBJECTIVE: There is a well-established association of oral manifestations in the non-infectious chronic diarrhoeal conditions namely, Morbus Crohn, ulcerative colitis, and coeliac disease. Such a connection may exist also for the remaining non-infectious chronic diarrhoeal conditions, that is irritable bowel syndrome (IBS) and microscopic colitis (MC). MATERIALS AND METHODS: A systematic search was performed in Scopus and PubMed, rendering a total of 710 articles to be screened. All articles were screened independently and assessed for eligibility reporting comorbidity between either IBS or MC, and oral symptoms/disease. Quality assessment and data extraction were performed. RESULTS: In all, 17 articles were included. Sjögren's syndrome (SS) in patients with IBS ranged from 3% to 33% and for IBS in SS between 29% to 62%. Dry mouth, bad breath, and foul taste were overrepresented in these patients. The occurrence of SS in patients with MC ranged from 2% to 9%, and for MC in SS from 1% to 2%. CONCLUSIONS: An association between SS and IBS and MC, respectively, is plausible. Few articles have explored other oral manifestations. Therefore, no specific conclusions can be drawn. It is pivotal to further explore oral manifestations of these conditions bridging the gap between dental care and general medicine to optimise diagnostics, treatment strategies, and ultimately patient care.",
+      "evidence_level": "1a",
+      "source_type": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40497389/",
+      "key_findings": "",
+      "summary_ja": ""
+    }
+  ]
+}

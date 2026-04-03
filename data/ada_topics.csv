@@ -1,58 +1,58 @@
 ﻿ada_topic,ada_url,category,article_id,status
-Aging and Dental Health,https://www.ada.org/resources/ada-library/oral-health-topics/aging-and-dental-health,adult,,未作成
-Amalgam,https://www.ada.org/resources/ada-library/oral-health-topics/amalgam,gen,,未作成
-Anesthesia and Sedation,https://www.ada.org/resources/ada-library/oral-health-topics/anesthesia-and-sedation,gen,,未作成
-Antibiotic Prophylaxis Prior to Dental Procedures,https://www.ada.org/resources/ada-library/oral-health-topics/antibiotic-prophylaxis,gen,,未作成
+Aging and Dental Health,https://www.ada.org/resources/ada-library/oral-health-topics/aging-and-dental-health,adult,custom_elderly_oral_health,作成済み
+Amalgam,https://www.ada.org/resources/ada-library/oral-health-topics/amalgam,gen,custom_dental_amalgam_safety,作成済み
+Anesthesia and Sedation,https://www.ada.org/resources/ada-library/oral-health-topics/anesthesia-and-sedation,gen,custom_dental_anesthesia_sedation,作成済み
+Antibiotic Prophylaxis Prior to Dental Procedures,https://www.ada.org/resources/ada-library/oral-health-topics/antibiotic-prophylaxis,gen,custom_antibiotic_prophylaxis_dental,作成済み
 Antibiotic Stewardship,https://www.ada.org/resources/ada-library/oral-health-topics/antibiotic-stewardship,professional,,対象外
 Athletic Mouth Protectors (Mouthguards),https://www.ada.org/resources/ada-library/oral-health-topics/athletic-mouth-protectors-mouthguards,teen,teen_mouthguard,作成済み
-Bisphenol A,https://www.ada.org/resources/ada-library/oral-health-topics/bisphenol-a,gen,,未作成
-Cancer (Head and Neck),https://www.ada.org/resources/ada-library/oral-health-topics/cancer-head-and-neck,adult,,未作成
-Cancer Therapies and Dental Considerations,https://www.ada.org/resources/ada-library/oral-health-topics/cancer-therapies-and-dental-considerations,adult,,未作成
-Cannabis: Oral Health Effects,https://www.ada.org/resources/ada-library/oral-health-topics/cannabis-oral-health-effects,adult,,未作成
+Bisphenol A,https://www.ada.org/resources/ada-library/oral-health-topics/bisphenol-a,gen,custom_bpa_dental_materials_safety,作成済み
+Cancer (Head and Neck),https://www.ada.org/resources/ada-library/oral-health-topics/cancer-head-and-neck,adult,custom_head_neck_cancer_oral_health,作成済み
+Cancer Therapies and Dental Considerations,https://www.ada.org/resources/ada-library/oral-health-topics/cancer-therapies-and-dental-considerations,adult,custom_oral_care_during_cancer_treatment,作成済み
+Cannabis: Oral Health Effects,https://www.ada.org/resources/ada-library/oral-health-topics/cannabis-oral-health-effects,adult,custom_cannabis_oral_health,作成済み
 Caries Risk Assessment and Management,https://www.ada.org/resources/ada-library/oral-health-topics/caries-risk-assessment-and-management,gen,gen_sugar_caries,関連あり
-Celiac Disease,https://www.ada.org/resources/ada-library/oral-health-topics/celiac-disease,gen,,未作成
+Celiac Disease,https://www.ada.org/resources/ada-library/oral-health-topics/celiac-disease,gen,custom_celiac_disease_oral_manifestations,作成済み
 Chewing Gum,https://www.ada.org/resources/ada-library/oral-health-topics/chewing-gum,gen,elem_xylitol,関連あり
 Dental Curing Lights,https://www.ada.org/resources/ada-library/oral-health-topics/dental-curing-lights,professional,,対象外
 Dental Erosion,https://www.ada.org/resources/ada-library/oral-health-topics/dental-erosion,gen,teen_sports_sugar,関連あり
-Dental Floss/Interdental Cleaners,https://www.ada.org/resources/ada-library/oral-health-topics/floss,gen,,未作成
+Dental Floss/Interdental Cleaners,https://www.ada.org/resources/ada-library/oral-health-topics/floss,gen,custom_interdental_cleaning,作成済み
 Dental Sealants,https://www.ada.org/resources/ada-library/oral-health-topics/dental-sealants,elem,elem_sealant,作成済み
 Dental Unit Waterlines,https://www.ada.org/resources/ada-library/oral-health-topics/dental-unit-waterlines,professional,,対象外
-Denture Care and Maintenance,https://www.ada.org/resources/ada-library/oral-health-topics/dentures,adult,,未作成
-Diabetes,https://www.ada.org/resources/ada-library/oral-health-topics/diabetes,adult,,未作成
+Denture Care and Maintenance,https://www.ada.org/resources/ada-library/oral-health-topics/dentures,adult,custom_denture_care_management,作成済み
+Diabetes,https://www.ada.org/resources/ada-library/oral-health-topics/diabetes,adult,custom_diabetes_periodontal_disease,作成済み
 Fluoride: Topical and Systemic Supplements,https://www.ada.org/resources/ada-library/oral-health-topics/fluoride-topical-and-systemic-supplements,gen,infant_fluoride_start,関連あり
 Forensic Dentistry and Anthropology,https://www.ada.org/resources/ada-library/oral-health-topics/forensic-dentistry-and-anthropology,professional,,対象外
-Genetics and Oral Health,https://www.ada.org/resources/ada-library/oral-health-topics/genetics-and-oral-health,gen,,未作成
+Genetics and Oral Health,https://www.ada.org/resources/ada-library/oral-health-topics/genetics-and-oral-health,gen,custom_genetics_oral_health,作成済み
 Hepatitis Viruses,https://www.ada.org/resources/ada-library/oral-health-topics/hepatitis-viruses,professional,,対象外
 Home Oral Care,https://www.ada.org/resources/ada-library/oral-health-topics/home-care,gen,elem_brushing_independence,関連あり
 Human Immunodeficiency Virus (HIV),https://www.ada.org/resources/ada-library/oral-health-topics/hiv,professional,,対象外
-Hypertension,https://www.ada.org/resources/ada-library/oral-health-topics/hypertension,adult,,未作成
-Hypophosphatasia and X-Linked Hypophosphatemia,https://www.ada.org/resources/ada-library/oral-health-topics/hypophosphatasia,gen,,未作成
+Hypertension,https://www.ada.org/resources/ada-library/oral-health-topics/hypertension,adult,custom_hypertension_dental_management,作成済み
+Hypophosphatasia and X-Linked Hypophosphatemia,https://www.ada.org/resources/ada-library/oral-health-topics/hypophosphatasia,gen,custom_hypophosphatasia_oral_manifestations,作成済み
 Infection Control and Sterilization,https://www.ada.org/resources/ada-library/oral-health-topics/infection-control-and-sterilization,professional,,対象外
 Latex Allergy,https://www.ada.org/resources/ada-library/oral-health-topics/latex-allergy,professional,,対象外
 Materials for Direct Restorations,https://www.ada.org/resources/ada-library/oral-health-topics/materials-for-direct-restorations,professional,,対象外
 Materials for Indirect Restorations,https://www.ada.org/resources/ada-library/oral-health-topics/materials-for-indirect-restorations,professional,,対象外
 Medical Emergencies in the Dental Office,https://www.ada.org/resources/ada-library/oral-health-topics/medical-emergencies-in-the-dental-office,professional,,対象外
-Methamphetamine,https://www.ada.org/resources/ada-library/oral-health-topics/methamphetamine,adult,,未作成
-Mouthrinse (Mouthwash),https://www.ada.org/resources/ada-library/oral-health-topics/mouthrinse-mouthwash,gen,,未作成
-Nitrous Oxide,https://www.ada.org/resources/ada-library/oral-health-topics/nitrous-oxide,gen,,未作成
+Methamphetamine,https://www.ada.org/resources/ada-library/oral-health-topics/methamphetamine,adult,custom_meth_mouth_oral_effects,作成済み
+Mouthrinse (Mouthwash),https://www.ada.org/resources/ada-library/oral-health-topics/mouthrinse-mouthwash,gen,custom_mouthwash_types_and_effects,作成済み
+Nitrous Oxide,https://www.ada.org/resources/ada-library/oral-health-topics/nitrous-oxide,gen,custom_nitrous_oxide_sedation_dentistry,作成済み
 Nutrition and Oral Health,https://www.ada.org/resources/ada-library/oral-health-topics/nutrition-and-oral-health,gen,infant_snack,関連あり
 Occupational Safety and Health Administration (OSHA),https://www.ada.org/resources/ada-library/oral-health-topics/occupational-safety-and-health-administration,professional,,対象外
 Oncology Agents and Medication-Related Osteonecrosis of the Jaw,https://www.ada.org/resources/ada-library/oral-health-topics/oncology-agents-and-medication-related-osteonecrosis-of-the-jaw,professional,,対象外
-Oral Analgesics for Acute Dental Pain,https://www.ada.org/resources/ada-library/oral-health-topics/oral-analgesics-for-acute-dental-pain,gen,,未作成
+Oral Analgesics for Acute Dental Pain,https://www.ada.org/resources/ada-library/oral-health-topics/oral-analgesics-for-acute-dental-pain,gen,custom_dental_pain_analgesics,作成済み
 Oral Anticoagulant and Antiplatelet Medications and Dental Procedures,https://www.ada.org/resources/ada-library/oral-health-topics/oral-anticoagulant-and-antiplatelet-medications-and-dental-procedures,professional,,対象外
-Oral Piercing/Jewelry,https://www.ada.org/resources/ada-library/oral-health-topics/oral-piercing-jewelry,teen,,未作成
-Oral-Systemic Health,https://www.ada.org/resources/ada-library/oral-health-topics/oral-systemic-health,adult,,未作成
-Osteoporosis Medications and Medication-Related Osteonecrosis of the Jaw,https://www.ada.org/resources/ada-library/oral-health-topics/osteoporosis-medications,adult,,未作成
+Oral Piercing/Jewelry,https://www.ada.org/resources/ada-library/oral-health-topics/oral-piercing-jewelry,teen,custom_oral_piercing_complications,作成済み
+Oral-Systemic Health,https://www.ada.org/resources/ada-library/oral-health-topics/oral-systemic-health,adult,custom_oral_systemic_health,作成済み
+Osteoporosis Medications and Medication-Related Osteonecrosis of the Jaw,https://www.ada.org/resources/ada-library/oral-health-topics/osteoporosis-medications,adult,custom_mronj_bisphosphonate_dental,作成済み
 Periodontitis,https://www.ada.org/resources/ada-library/oral-health-topics/periodontitis,adult,pregnancy_periodontal,関連あり
 Pregnancy,https://www.ada.org/resources/ada-library/oral-health-topics/pregnancy,pregnancy,pregnancy_dental_treatment,関連あり
 Salivary Diagnostics,https://www.ada.org/resources/ada-library/oral-health-topics/salivary-diagnostics,professional,,対象外
 Silver Diamine Fluoride,https://www.ada.org/resources/ada-library/oral-health-topics/silver-diamine-fluoride,gen,preschool_silver_cap,関連あり
-Sjögren Disease,https://www.ada.org/resources/ada-library/oral-health-topics/sjogren-disease,adult,,未作成
-Sleep Apnea (Obstructive),https://www.ada.org/resources/ada-library/oral-health-topics/sleep-apnea-obstructive,adult,,未作成
-Tobacco Use and Cessation,https://www.ada.org/resources/ada-library/oral-health-topics/tobacco-use-and-cessation,adult,,未作成
+Sjögren Disease,https://www.ada.org/resources/ada-library/oral-health-topics/sjogren-disease,adult,custom_sjogrens_oral_health,作成済み
+Sleep Apnea (Obstructive),https://www.ada.org/resources/ada-library/oral-health-topics/sleep-apnea-obstructive,adult,custom_osa_dental_oral_appliance,作成済み
+Tobacco Use and Cessation,https://www.ada.org/resources/ada-library/oral-health-topics/tobacco-use-and-cessation,adult,custom_smoking_oral_health,作成済み
 Toothbrushes,https://www.ada.org/resources/ada-library/oral-health-topics/toothbrushes,gen,gen_electric_toothbrush,関連あり
 Toothpastes,https://www.ada.org/resources/ada-library/oral-health-topics/toothpastes,gen,preschool_toothpaste,関連あり
 Tuberculosis,https://www.ada.org/resources/ada-library/oral-health-topics/tuberculosis-overview-and-dental-treatment-conside,professional,,対象外
 Whitening,https://www.ada.org/resources/ada-library/oral-health-topics/whitening,gen,custom_tooth_whitening_safety_efficacy,作成済み
-Xerostomia (Dry Mouth),https://www.ada.org/resources/ada-library/oral-health-topics/xerostomia,adult,,未作成
-X-Rays/Radiographs,https://www.ada.org/resources/ada-library/oral-health-topics/x-rays-radiographs,gen,,未作成
+Xerostomia (Dry Mouth),https://www.ada.org/resources/ada-library/oral-health-topics/xerostomia,adult,custom_dry_mouth_causes_and_management,作成済み
+X-Rays/Radiographs,https://www.ada.org/resources/ada-library/oral-health-topics/x-rays-radiographs,gen,custom_dental_xray_safety,作成済み
